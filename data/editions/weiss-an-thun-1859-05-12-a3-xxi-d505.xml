@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="weiss-an-thun-1859-05-12-a3-xxi-d505.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/weiss-an-thun-1855-08-09-a3-xxi-d347d.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/wenzig-an-thun-1857-07-05-a3-xxi-d426.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#weiss-johann-baptist" role="sender:gelehrter">Johann Baptist
+                        Weiß</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_6e00929feb7fb02acaa548f47f67c61c">Graz</rs>, <date when-iso="1859-05-12">12.
+                        Mai 1859</date>
+                </title>
+            <title type="label">Johann Baptist Weiß an Leo Thun, Graz, 12. Mai 1859</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-D9A6-5</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D505</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Historiker Johann Baptist Weiß übermittelt Leo Thun sein jüngstes
+                            Buch. Weiß kündigt außerdem an, das Manuskript für ein weiteres Buch
+                            demnächst abschließen zu wollen und hofft, es Thun in naher Zukunft
+                            ebenfalls überreichen zu können.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#weiss-johann-baptist">Johann Baptist Weiß</rs>
+                    <settlement ref="#place_6e00929feb7fb02acaa548f47f67c61c">Graz</settlement>
+                    <date when-iso="1859-05-12">12.
+                        Mai 1859</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Geschichtswissenschaften</term>
+                </index>
+                <p>Excellenz Herr Minister!<lb/>Hochgebietender gnädiger Herr Graf! </p>
+                <p>In der Beilage erlaube ich mir Ihro Excellenz ein neues Buch von mir
+                    ehrerbietigst vorzulegen.<lb/>Möge diese Arbeit einer guten Aufnahme nicht ganz
+                    unwürdig befunden werden!<lb/>Wenn der Krieg dem Verleger nicht den Muth nimmt,
+                    so hoffe ich, in nicht gar langer Zeit Ihro Excellenz eine Monographie aus der
+                    Geschichte des Mittelalters („Die Angelsachsen, ein Beitrag zur Geschichte
+                    deutscher Stämme und Staaten im Mittelalter“) überreichen zu können. Ich arbeite
+                    seit Jahren daran.<lb/>Ich zeichne in Verehrung</p>
+                <p>Euer Excellenz</p>
+                <p>ergebenster<lb/>Dr. Weiß<lb/>k.k. Prof.</p>
+                <p>Graz, 12. Mai 1859</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="ficker-an-thun-1855-03-25-ca1153.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/ficker-an-thun-1855-03-08-a3-xxi-d332.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/ficker-an-thun-1856-09-19-a3-xxi-d387.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#ficker-julius" role="sender">Julius Ficker</rs> an
+                        <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</rs>, <date when-iso="1855-03-25">25. März 1855</date>
+                </title>
+            <title type="label">Julius Ficker an Leo Thun, Innsbruck, 25. März 1855</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DC4C-9</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Österreichisches Staatsarchiv</institution>
+                        <repository>Allgemeines Verwaltungsarchiv</repository>
+                        <idno>MCU, Präs. ad 418/1855</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Historiker Julius Ficker kommt einer Bitte Leo Thuns nach, ihm einige
+                            tüchtige, katholische Lehrer zu nennen, die bereit wären, eine Stelle an
+                            einem österreichischen Gymnasium anzunehmen. Ficker hat sich bei seinem
+                            Freund Christoph Bernhard Schlüter in Münster informiert. Dieser hat ihm
+                            insgesamt fünf mögliche Kandidaten genannt, die Ficker dem Minister nun
+                            weiterempfiehlt, indem er jeweils einige Angaben zu den einzelnen
+                            Lehrern macht. Ficker bietet sich auch an, weitere Erkundigungen über
+                            einzelne Kandidaten einzuholen oder weiterhin zu vermitteln. Er erwartet
+                            außerdem noch Nachrichten aus Bonn.<lb/>Im zweiten Teil des Briefes
+                            teilt Ficker dem Minister mit, dass er die Besprechung des zweiten
+                            Bandes des Geschichtsbuches von Bumüller gerne übernimmt. Wenn es
+                            gewünscht wird, will er auch den ersten Band rezensieren. Ficker gibt
+                            aber zu Bedenken, dass er für Besprechung des ersten Bandes zur Alten
+                            Geschichte weniger geeignet sei. Ficker schreibt außerdem, dass er beide
+                            bisher nur oberflächlich durchgesehen habe und einstweilen nur bemerken
+                            könne, dass im Allgemeinen die Anordnung des Stoffes gelungen erscheint.
+                            Er bemängelt jedoch, dass Bumüller die Heilige Schrift allzu sehr als
+                            geschichtliche Quelle darstelle.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Verweis auf A3 XXI D332.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#ficker-julius">Julius Ficker</rs>
+                    <settlement ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</settlement>
+                    <date when-iso="1855-03-25">25. März 1855</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Universität</term>
+                    <term>Gymnasien</term>
+                    <term>Philologie</term>
+                    <term>Schulbücher</term>
+                </index>
+                <p>Innsbruck 1855 März 25</p>
+                <p>Euer Exzellenz!</p>
+                <p>Wie ich Euer Exzellenz bereits in meinem Schreiben vom 8. des Monats<note xml:id="note_1">Vgl. <ref target="thun/thun-korrespondenz/tetschen/ficker-an-thun-1855-03-08-a3-xxi-d332.xml">Julius Ficker an Leo Thun, 8. März 1855.</ref>
+                    </note> mitzutheilen die
+                    Ehre hatte, erlaube ich mir in Folge der gnädigen Anfrage vom 4. des Monats<note xml:id="note_2">Wahrscheinlich handelt es sich dabei um dem Brief <ref target="thun/thun-korrespondenz/ifoeg/thun-an-ficker-1855-02-02-ca180.xml">Leo Thun an Julius Ficker. Wien, 4. Februar 1855</ref>. Ficker hat sich
+                        wohl im Monat geirrt.</note> katholische Kandidaten der Philologie aus
+                        <rs type="place" subtype="region" ref="#place_0e0c04ad68e11b3fe684cd74597a50cc">Rheinland</rs> und <rs type="place" subtype="region" ref="#place_2652fd27a2fa326711df5192229fd847">Westfalen</rs> betreffend, deshalb an bewährte Freunde zu <rs type="place" subtype="place" ref="#place_6c1def5820cdde63de0c38dd673de4d6">Bonn</rs> und <rs type="place" subtype="place" ref="#place_610dc3a15bda751de4d4c52373b2620f">Münster</rs> zu schreiben, um so nähere Auskunft geben zu können.
+                    Ich glaubte zugleich gegen die Absichten Euer Exzellenz nicht zu verstoßen, wenn
+                    ich sie um Zeitverlust zu vermeiden, bat, für den Fall, daß ihnen geeignete
+                    Kandidaten bekannt seien, sich unter der Hand bei diesen zu erkundigen, ob sie
+                    eintretenden Falles geneigt seien, unter den von Euer Exzellenz näher
+                    bezeichneten Bedingungen eine Lehrstelle in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> zu übernehmen.<lb/>Von <rs type="place" subtype="place" ref="#place_610dc3a15bda751de4d4c52373b2620f">Münster</rs>
+                    kommt mir so eben Antwort zu und ich beeile mich, Euer Exzellenz darüber
+                    Mittheilung zu machen.<lb/>Mein Gewährsmann ist der <rs type="person" ref="#schlueter-christoph-bernhard">Dr. Schlüter</rs>, Professor der
+                    Philosophie an der <rs type="org" ref="#org_0066">Academie zu
+                        Münster</rs>, von dessen Zuverlässlichkeit ich vollkommen überzeugt bin
+                    und von dem ich insbesondere weiß, das er die Neugestaltung des österreichischen
+                    Unterrichtswesens mit dem lebhaftesten Interesse verfolgt. Ich glaubte, mich in
+                    dieser Angelegenheit auch deshalb vorzugsweise an ihn wenden zu dürfen, da er
+                    einerseits selbst als tüchtiger Philologe bekannt ist, wenn ihn gleich seine
+                    gänzliche Erblindung hinderte, sich der Philologie als Lehrfach zu widmen, und
+                    da er andererseits mit einer größeren Anzahl von Studierenden persönlich bekannt
+                    zu sein pflegt, als ein anderer der dortigen Professoren.<lb/>Er hat mir nun
+                    mehrere katholische Kandidaten oder Studierende der Philologie genannt, die ihm
+                    persönlich bekannt sind, die er, was wissenschaftliche Befähigung wie
+                    Tüchtigkeit des Charakters betrifft, empfehlen kann, und die nicht abgeneigt
+                    sein würden, sich um eine Lehrstelle in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> unter den angegebenen Bedingungen zu bewerben. Ich
+                    erlaube mir, sie nebst einigen Notizen, die er mir über dieselben mittheilt,
+                    hier namhaft zu machen:<lb/>1. <rs type="person" ref="#tuecking-karl">Dr.
+                        Tücking</rs>, Münsterländer, hat bereits sein Oberlehrerexamen zu
+                        <rs type="place" subtype="place" ref="#place_610dc3a15bda751de4d4c52373b2620f">Münster</rs> abgelegt und an dem dortigen Gymnasium sein
+                    Probejahr abgehalten.<lb/>2. <rs type="person" ref="#borowsky-">Dr. Borowsky</rs>,
+                    aus der Nähe von <rs type="place" subtype="place" ref="#place_e71ad5efc58927b546fbdb1260deba3f">Braunsberg</rs> in
+                    <rs type="place" subtype="country" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs>, hat drei Jahre in <rs type="org" ref="#org_0038">Königsberg</rs> und ein Jahr in <rs type="org" ref="#org_0040">Bonn</rs> studiert, fleißig Lateinisch und
+                    Griechisch, dann aber auch mit Vorliebe altdeutsche Studien getrieben. Er denkt
+                    sein Oberlehrerexamen im kommenden Mai in <rs type="place" subtype="place" ref="#place_610dc3a15bda751de4d4c52373b2620f">Münster</rs> zu
+                    machen, wäre aber auch bereit, sich demselben vor einer österreichischen
+                    Kommission zu unterziehen.<lb/>3. Stud. <rs type="person" ref="#frenk-heinrich">Heinrich
+                        Frenk</rs> aus <rs type="place" subtype="place" ref="#place_5c09890c423f554e9455b10c3b7e48f2">Coesfeld</rs> im Münsterlande, war
+                    drei Jahre überhaupt Mitglied und zwei Jahre ordentliches Mitglied des
+                    philologischen Seminars zu <rs type="org" ref="#org_0066">Münster</rs>, sehr tüchtig im Lateinischen und Griechischen, gewandt
+                    im Lateinsprechen; er versteht außerdem sehr gut Französisch, Englisch und
+                    Italienisch und war dem erblindeten Prof. <rs type="person" ref="#schlueter-christoph-bernhard">Schlüter</rs> der ihn
+                    sehr empfiehlt, seit drei Jahren bei dessen Studien behülflich. Er denkt im
+                    kommenden Sommer das Oberlehrerexamen in <rs type="place" subtype="place" ref="#place_610dc3a15bda751de4d4c52373b2620f">Münster</rs> zu
+                    machen, wäre eventuell auch bereit, es in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> zu machen.<lb/>4. Stud. <rs type="person" ref="#schlueter-josef">Jos. Schlüter</rs>. Sohn des Gymnasialdirektor
+                    zu Coesfeld, war seit 1 1/2 Jahren Mitglied des philologischen Seminars und zwar
+                    ein Jahr ordentliches Mitglied, tüchtig in der Philologie, spricht fertig
+                    Latein, ist auch in neueren Sprachen wohlbewandert. Er wäre eventuell bereit,
+                    sich dem Examen in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> zu
+                    unterziehen, würde es aber vorziehen, sein Triennium zu vollenden und zu
+                        <rs type="place" subtype="place" ref="#place_610dc3a15bda751de4d4c52373b2620f">Münster</rs> das Oberlehrerexamen zu machen, womit er bis
+                    zum Herbste fertig sein würde.<lb/>5. Stud. <rs type="person" ref="#niehus-bernhard">Niehus</rs> zu <rs type="place" subtype="place" ref="#place_2876006cc237e612470e4d4c428f98d7">Greven</rs> im Münsterlande, seit
+                    einem Jahre im philologischen Seminar zu <rs type="org" ref="#org_0066">Münster</rs>, seit einem halben Jahre ordentliches Mitglied desselben,
+                    ein tüchtiger Philologe, der sich immer in seinen Studien ausgezeichnet hat. Er
+                    wäre bereit, sich einer Prüfung in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> zu unterziehen.<lb/>Sollten nun Euer Exzellenz auf
+                    diese Mittheilung und Empfehlung hin geneigt sein, auf einen oder anderen der
+                    Genannten bei der Verleihung von Lehrerstellen Rücksicht zu nehmen, so würde
+                    ich, falls Euer Exzellenz nicht bessere Wege zu Gebote stehen, mit Freuden
+                    bereit sein, in dieser Angelegenheit Euer Exzellenz weiter dienen zu können.
+                    Sollten Euer Exzellenz es wünschen, so könnte ich noch weitere Erkundigungen
+                    einziehen, obwohl ich in <rs type="place" subtype="place" ref="#place_610dc3a15bda751de4d4c52373b2620f">meiner Vaterstadt</rs>
+                    kaum eine zuverlässige Empfehlung wüßte, als die des genannten <rs type="person" ref="#schlueter-christoph-bernhard">Prof. Schlüter</rs>, ich könnte
+                    auch einen oder alle Genannten veranlassen, ihre Zeugnisse und etwaigen weiteren
+                    Empfehlungen nach <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> einzusenden, wozu ich mich
+                    natürlich ohne den Befehl Euer Exzellenz nicht bevollmächtigt halten
+                    dürfte.<lb/>Von <rs type="place" subtype="place" ref="#place_6c1def5820cdde63de0c38dd673de4d6">Bonn</rs> ist mir noch keine Antwort
+                    zugekommen. Im ganzen glaube ich kaum, daß die im Seminar zu Münster gebildeten
+                    Philologen den Bonnern nachstehen dürften.<lb/>Der hohe Auftrag einer
+                    Begutachtung des zweiten Theiles von Bumüllers Lesebuch, den Euer Exzellenz in
+                    deren gnädigen Schreiben vom 19. des Monats<note xml:id="note_3">Vgl. <ref target="thun/thun-korrespondenz/ifoeg/thun-an-ficker-1855-03-19-ca182.xml">Leo Thun an Julius Ficker. Wien, 19. März 1855.</ref>
+                    </note> mir in
+                    Aussicht stellten, ist mir heute zugekommen und denke ich demselben so
+                    gewissenhaft und schnell als möglich zu entsprechen.<lb/>Von der <rs type="org" ref="#org_0057">Redaction der Gymnasialzeitschrift</rs> ist mir bis jetzt noch keine
+                    Aufforderung zur Besprechung des ersten Theiles desselben Werkes zugekommen.
+                    Sollte eine solche noch erfolgen, so würde ich es versuchen, dem gnädigen
+                    Wunsche Euer Exzellenz und dem in mich gesetzten Vertrauen nach Kräften zu
+                    entsprechen, wenngleich ich es ohne diese besondere Veranlassung wohl schwerlich
+                    wagen dürfte, öffentlich über ein Werk zu urtheilen, für das ich mich, abgesehen
+                    von allen anderweitigen Bedenken, kaum als kompetenter Richter ansehen kann, da
+                    mir zur Beurtheilung des Zweckmäßigkeit der Auswahl und Anordnung des Stoffes
+                    der richtige Maßstab fehlt, den wohl nur derjenige anzulegen vollkommen befugt
+                    wäre, der durch eigenen Unterricht im Untergymnasium Gelegenheit hatte, über die
+                    der Fassungskraft der jüngeren Schüler entsprechende Methode umfassendere
+                    Erfahrung zu sammeln.<lb/>Bei dem Interesse, das Euer Exzellenz diesem Werke
+                    zuwenden, darf ich mir wohl erlauben, einige vorläufige Bemerkungen über
+                    dasselbe hinzuzufügen, die sich aber, da ich noch durch das gnädige Schreiben
+                    Euer Exzellenz auf diese Arbeit des <rs type="person" ref="#bumueller-johannes">Verfassers</rs> aufmerksam wurde, lediglich auf eine flüchtige
+                    Durchsicht desselben, eine oberflächliche Vergleichung mit den entsprechenden
+                    Werke von <rs type="person" ref="#puetz-wilhelm">Pütz</rs>
+                    <note xml:id="note_4">Vgl. Wilhelm Pütz, Grundriß der Geographie und Geschichte
+                        der alten, mittlern und neuern Zeit für die mittleren Klassen der Gymnasien
+                        und für höhere Bürgerschulen, 7. Auflage, Koblenz 1851.</note> und die
+                    genauere Einsicht einiger weniger Partien stützen, so daß ich nicht verbürgen
+                    kann, ob nicht eine genauere Prüfung des Ganzen sie vielleicht modifizieren
+                    dürfte. Es lassen sich, was den wissenschaftlichen Inhalt betrifft, einzelne
+                    Einwände erheben, aber doch wohl so weit ich bis jetzt gesehen, keine von
+                    solchem Gewichte, daß sie dem Werthe des ganzen bedeutenden Eintrag thuen
+                    könnten. Daß viele Partien der alten Geschichte nicht nach den, oft nach
+                    schwankenden Resultaten der neueren Forschung, sondern nach der Auffassung der
+                    alten selbst dargestellt werden, ist ohne Zweifel dem Standpunkte des
+                    Untergymnasiums durchaus angemessen. Ein Vorwiegen der religiösen Auffassung ist
+                    mir im größten Theile des Buches nicht aufgefallen, die geringe Berücksichtigung
+                    der Anfänge des Christenthums würde sogar als Mangel erscheinen dürfen, wenn
+                    dabei nicht von der Voraussetzung ausgegangen wäre, daß bei dem
+                    Religionsunterrichte darauf Rücksicht genommen würde. Dagegen scheint es mir
+                    allerdings, daß in der ältesten Geschichte einzelne feststehende Resultate der
+                    neueren Forschung, z.B das hohe Alterthum der egyptischen Monumente, absichtlich
+                    umgangen sind, weil sie der Heiligen Schrift widersprechen oder zu widersprechen
+                    scheinen, so sehr sich durch alle neuesten Forschungen die Heilige Schrift als
+                    glaubhafteste Geschichtsquelle erweist, so scheint es mir doch gefährlich für
+                    das Ansehen der in ihre enthaltenen göttlichen Offenbarung von vornherein für
+                    ihren rein historischen Theil gleiches Ansehen in Anspruch zu nehmen, daß es
+                    nicht zu vermeiden ist, daß der Schüler zuweilen auf Widersprüche mit anderen
+                    Geschichtsquellen stoßen wird, die der Lehrer vielleicht nicht immer sogleich
+                    genügend wird lösen können. Doch scheint auch der <rs type="person" ref="#bumueller-johannes">Verfasser</rs> dieses nicht ganz
+                    unberücksichtigt gelassen zu haben. Die Art der Vorstellung des geografischen
+                    Theils in beiden Werken hätte ich allerdings einige erhebliche Einwände. Im
+                    ganzen würde mein Urtheil über das Werk doch kaum ein sehr ungünstiges sein
+                    können, so wenig ich mir übrigens darüber ein maßgebendes Urtheil zutrauen
+                    möchte.<lb/>Mit größter Hochachtung und Ergebenheit</p>
+                <p>Euer Exzellenz<lb/>ganz gehorsamster Dr. Ficker.</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

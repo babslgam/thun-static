@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="szoegyeny-an-thun-1860-04-26-a3-xxi-d578.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/szlachtowski-an-thun-1849-11-01-a3-xxi-d13.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/szoeyeny-an-thun-1860-04-21-a3-xxi-d577.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#szoegyeny-marich-ladislaus" role="sender:beamter">Ladislaus
+                        Szögyény</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>o. O., <date when-iso="1860-04-26">26. April
+                        1860</date>
+                </title>
+            <title type="label">Ladislaus Szögyény an Leo Thun o. O., 26. April 1860</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA5B-A</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D578</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Ladislaus Szögyény, Beamter der ungarischen Hofkanzlei, übersendet Leo
+                            Thun einen Brief von Nikolaus Vay. Dieser aus dem Ungarischen übersetzte
+                            Brief soll Thun über die Stimmungslage der Protestanten in Ungarn
+                            aufklären. Er entschuldigt sich für die ungefragte Einmischung, hofft
+                            dadurch aber zur Lösung des Konflikts beizutragen.<lb/>Beilage: Nikolaus
+                            Vay berichtet in seinem Brief an Ladislaus Szögyény, dass die
+                            ungarischen Protestanten ein Ende des Konflikts wünschen. Er betont
+                            auch, dass sie die Hoffnung, ein solches zu erreichen nicht aufgegeben
+                            hätten und von den guten Absichten des Kaisers überzeugt seien. Vay
+                            erklärt allerdings auch, dass die Vertreter der protestantischen Kirchen
+                            nichts unversucht lassen werden, um der Anspruch ihrer Kirchen auf
+                            Selbstverwaltungsfreiheit zu erreichen. Vay schreibt außerdem, dass die
+                            Maßnahmen des Kultusministeriums in Ungarn auf Unverständnis träfen. Auch
+                            die Verhaftung von Eduard Zsedényi werde negativ aufgenommen.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Beilage: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d578_1">ein aus dem Ungarischen übersetzter Brief
+                                von Nikolaus Vay an Ladislaus Szögyény vom 14. [24.?] April
+                                1860.</tei:ref>
+                        </p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#szoegyeny-marich-ladislaus">Ladislaus Szögyény</rs>
+                    <date when-iso="1860-04-26">26. April
+                        1860</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                    <term>Ungarn</term>
+                    <term>Protestanten</term>
+                </index>
+                <p>Hochgeborner Graf!</p>
+                <p>In der Anlage habe ich die Ehre Ihnen die Übersetzung eines ungarischen
+                    Schreibens, das ich soeben von <rs type="person" ref="#vay-nikolaus">Baron Vay</rs>
+                    erhielt, zu übersenden. <note xml:id="note_1">Vgl. die Beilage <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d578_1&gt;">Nikolaus Vay an Ladislaus Szögyény, 14. [24.?] April
+                            1860.</tei:ref>
+                    </note> Da es wichtige Umstände enthält, erachtete ich es zu
+                    Ihrer Kenntnis bringen zu sollen. Die guten Leute überschätzen den Einfluß, den
+                    ich auf die Sache in den vergangenen Tagen mit Ihrer Zustimmung genommen. Ich
+                    mußte jedoch der wiederholten Unterredung erwähnen, welche ich mit Euer
+                    Exzellenz zu pflegen die Ehre hatte, um sie von Ihren wohlwollenden Absichten zu
+                    überzeugen zu trachten; und daher mag dieses Mißverständnis kommen. Jedenfalls
+                    dürfte der Brief <rs type="person" ref="#vay-nikolaus">Vays</rs> Euerer Exzellenz
+                    über die wahre Sachlage mehr Aufschluß geben als mancher behördliche Bericht.
+                    Hiezu beizutragen hielt ich für meine Pflicht, und dies möge meine anscheinende
+                    Zudringlichkeit und unberufene Einmengung entschuldigen. Den Originalbrief <rs type="person" ref="#vay-nikolaus">Vays</rs>, der nicht mehr und nicht weniger enthält
+                    als die Übersetzung, bitte ich mir gütigst zurückzustellen.<lb/>Empfangen Euer
+                    Exzellenz die Versicherung meiner aufrichtigsten Verehrung, mit der ich
+                    verharre</p>
+                <p>Der</p>
+                <p>ergebenste Diener<lb/>Szögýeny</p>
+                <div type="enclosure" xml:id="D578_1">
+                    <p>Golop 14. [24. ?] 4. [1860]</p>
+                    <p>Es ist ein Glück lieber Freund, daß du in den letzten Tagen auf unsere
+                        Angelegenheiten Einfluß genommen hast. Wenn unsere Leute das in <rs type="place" subtype="place" ref="#place_ae8effcf53078ebe204e349a55546ca8">Debreczin</rs> von <rs type="person" ref="#lonyay-meinhardt">Lonyay</rs> nicht gehört hätten, würde das
+                        Ganze eine andere, gefährlichere Wendung genommen haben. So besteht aber das
+                        Resultat der Versammlung darin (wohin ich seit meiner Rückkunft von
+                            <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> trachtete und was ich selbst in einem
+                        Seniorenconsilio zu Mischkolz[?] veranlaßt habe): "daß wir – nach den Worten des
+                        gefaßten Beschlußes – die Hoffnung nicht ganz aufgeben, die bedrängte und
+                        gefährdete Lage unserer Kirche werde in Folge unserer eifrigen Gebete und
+                        unserer energischen Bestrebungen bald aufhören. Wir setzen diesfalls unser
+                        Vertrauen nach Gott <hi rend="ul">vorzüglich</hi> in <rs type="person" ref="#franz-joseph">Seine Majestät</rs>, den Kaiser, den Beschützer
+                        und Überwacher unserer Kirche, indem wir von allerhöchsten dessen guten
+                        Absichten, die Er persönlich und als Herrscher hegt, überzeugt sind. Wir
+                        wollen nichts unterlassen, daß diese gute Absicht und mit ihr die
+                        gesetzlichen Ansprüche unserer Kirche je eher verwirklicht werden und
+                        dadurch unsere Selbstverwaltungsfreiheit und Ruhe uns rückgegeben werde. Es
+                        wird sonach eine Deputation erwählt, welche mit Deputationen der übrigen 9
+                        Superintendenzen eine Generalconferenz abhalten soll, die ermächtigt wird,
+                        den Verhältnissen gemäß Alles anzuwenden, damit die gesetzliche Freiheit
+                        unserer Kirche ihr je eher rückgegeben werde." Nun müssen wir denselben
+                        Beschluß auf den übrigen 3 Superindentialconventen durchführen, was, wie ich
+                        hoffe, auch geschehen wird; obschon die Opposition, welche sich dagegen in
+                            <rs type="place" subtype="place" ref="#place_ae8effcf53078ebe204e349a55546ca8">Debreczin</rs> zeigte, ihr Haupt
+                        wahrscheinlich auch in anderen Orten erheben wird. Diese wollte nämlich
+                        unserer Sache eine ganz andere Wendung geben, wovon ich Dich ein andermal
+                        benachrichtigen werde. Daß dies pro [?] vereitelt wurde, war Folge dessen,
+                        was durch Dich zu unserer Kenntnis kam. Stoße Dich nicht daran, daß man in
+                            <rs type="place" subtype="place" ref="#place_ae8effcf53078ebe204e349a55546ca8">Debreczin</rs> nicht um Erlaubnis, den
+                        Konvent abzuhalten, ansuchte; es ist schwer Solches, gegenüber so vieler
+                        Tausenden aufgeregten Volkes, auch mit bestem Willen durchzuführen. Daß der
+                        kaiserliche Kommissär der Berathung[?] bis zu Ende beiwohnte, deutet das
+                        Publikum dahin, daß die Regierung die Versammlung nicht ganz als null und
+                        nichtig betrachte; [?] Verfahren seine Früchte tragen kann. Ich rühre mich
+                        schon seit mehreren Wochen nicht aus dem Hause und so werde ich Dich erst von
+                        Mischkolz[?] über den Hauptinhalt Deines Schreibens benachrichtigen, nachdem ich auch
+                        mit Anton gesprochen haben werde. Um die Lutheraner[?] kümmern wir uns wenig;
+                        aber das verstehe ich nicht, warum das <rs type="org" ref="#org_0005">Cultusministerium</rs>, wenn es eine Verständigung wünscht, die
+                            <rs type="place" subtype="place" ref="#place_ae8effcf53078ebe204e349a55546ca8">Debrecziner</rs> Autoritäten – eben
+                        jene, ohne welche wir uns nicht rühren können – beiläufig 33, darunter den
+                        Superintendenten <rs type="person" ref="#tisza-kolomon">Tisza</rs>, <rs type="person" ref="#degenfeld-emmerich">Degenfeld</rs>, die beiden Révész<note xml:id="note_2">
+                            <rs type="person" ref="#revesz-emmerich">Révész
+                                Emmerich</rs> und <rs type="person" ref="#revesz-valentin">Révész
+                                Valentin</rs>.</note> – neuestens durch den Staatsanwalt (?)
+                        vernehmen ließ. <hi rend="ul">Auf einer Synode würde <rs type="person" ref="#zsedenyi-eduard">Zsedényi</rs> [?], ja am besten zu
+                            gebrauchen gewesen sein</hi>.<note xml:id="note_3">Anmerkung Szögyénys:
+                                <rs type="person" ref="#vay-nikolaus">V[ay]</rs> versteht darunter
+                            offenbar, daß <rs type="person" ref="#zsedenyi-eduard">Zs[edényi]</rs> auf
+                            der Synode im Interesse der Regierung als <hi rend="ul">mäßigendes</hi>
+                            Element gewirkt haben würde. Das ist die Meinung der Protestanten über
+                            den, jetzt die Strafe eines Verbrechers büßenden <rs type="person" ref="#zsedenyi-eduard">Zsedényi</rs>!!</note> In Kurzem ein
+                        Mehreres, bis dahin wird auch meine Gesundheit wiederkehren, die jetzt
+                        nichts taugt.</p>
+                </div>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

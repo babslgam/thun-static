@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="appony-an-thun-1860-09-30-a3-xxi-d616.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/ansuchen-serbisches-rumaenisches-episkopat-an-franz-joseph-1853-10-04-a3-xxi-d238.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/apponyi-an-thun-1854-10-04-a3-xxi-d289.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#apponyi-rudolf" role="sender:beamter">Rudolf
+                        Apponyi</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_db581cb4deeb7c58ee4cf529430ac839">Appony</rs>, <date when-iso="1860-09-30">30. September 1860</date>
+                </title>
+            <title type="label">Rudolf Apponyi an Leo Thun, Appony, 30. September 1860</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DC1A-1</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D616</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Diplomat Rudolf Apponyi bittet Leo Thun, die vakante Pfarrerstelle in
+                            Appony dem bischöflichen Zeremoniar in Neutra zu verleihen. Durch die
+                            Wahl dieses jungen, tüchtigen und gottesfürchtigen Priesters würde Thun
+                            sowohl Apponyis Mutter als auch seiner Schwägerin einen sehnlichen
+                            Wunsch erfüllen.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#apponyi-rudolf">Rudolf Apponyi</rs>
+                    <settlement ref="#place_db581cb4deeb7c58ee4cf529430ac839">Appony</settlement>
+                    <date when-iso="1860-09-30">30. September 1860</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                    <term>Personalvermittlung</term>
+                </index>
+                <p>Appony, den 30. September 1860</p>
+                <p>Verehrter Freund,</p>
+                <p>Im Vertrauen auf Deine erprobte Güte erlaube ich mir eine Bitte an Dich zu
+                    stellen, deren Erfüllung von Dir abhängt und meiner <rs type="person" ref="#apponyi-therese">Mutter</rs> sowie meiner Schwägerin <rs type="person" ref="#apponyi-sophie">Sophie</rs> eine große Freude machen
+                    würde.<lb/>Die Apponyer Pfarrkirche, deren Patronat der Religionsfond ausübt,
+                    hat durch lange Jahre einen sehr schlechten Pfarrer gehabt, der sich nun
+                    glücklicherweise ins Privatleben zurückgezogen hat. Es ist daher doppelt
+                    wünschenswerth, sowohl für die Gemeinde als auch für die Schloßbewohner, daß die
+                    vacante Stelle durch einen würdigen, frommen Seelsorger besetzt werde. Der
+                        <rs type="person" ref="#roskovanyi-augustin">Bischof von Neitra</rs> [Neutra]
+                    hat drei Personen candidirt, darunter primo loco seinen Ceremoniarius, Herrn
+                        <rs type="person" ref="#wagner-ceremon">Wagner</rs>, einen tüchtigen,
+                    gottesfürchtigen jungen Priester, von dem er sich nur ungern, und meinen Damen
+                    zu lieb trennt, und den er auf das Wärmste anempfiehlt. Die Sache liegt nun dem
+                        <rs type="org" ref="#org_0005">Cultusministerium</rs> zur Entscheidung vor. Der einzige Anstand
+                    scheint der, daß <rs type="person" ref="#wagner-ceremon">Wagner</rs> unter den Candidaten der jüngste
+                    ist. Unsere aller Bitte geht nun dahin, daß Du die Gewogenheit haben mögest, den
+                    sehnlichen Wunsch des <rs type="person" ref="#roskovanyi-augustin">Bischofs</rs>,
+                        <rs type="person" ref="#apponyi-therese">meiner Mutter</rs> und <rs type="person" ref="#apponyi-sophie">meiner Schwägerin</rs> zu erfüllen und die Wahl
+                    auf <rs type="person" ref="#wagner-ceremon">Herrn Wagner</rs> fallen zu lassen. Du
+                    kannst Dir wohl denken, daß alle diese frommen Seelen bei der Wahl eines
+                    Pfarrers nur das Wohl der Religion im Auge haben und nur deswegen <rs type="person" ref="#wagner-ceremon">Herrn Wagner</rs> wünschen, weil sie ihn
+                    persönlich kennen und wissen, daß er mehr als jeder andere im Stande ist, die
+                    Wunde zu heilen und den schlechten Einfluß wieder gut zu machen, den der
+                    langjährige Aufenthalt eines nichts weniger als respectabeln Seelsorgers auf die
+                    Gemeinde ausgeübt hat. Sei uns zur Erreichung dieses frommen Zweckes behülflich
+                    und Du wirst ein christliches Werk thun und zugleich viele Glückliche
+                    machen.<lb/>Die Freundschaft, die Du meinem <rs type="person" ref="#apponyi-julius">seligem Bruder</rs> und mir stets bewiesen hast, läßt mich hoffen
+                    keine Fehlbitte zu thun und ich erlaube mir Dir unsere Bitte dringend ans Herz
+                    zu legen.</p>
+                <p>Mit aufrichtiger Verehrung und Anhänglichkeit<lb/>Dein treu ergebener
+                    Freund<lb/>Rudolf Apponyi</p>
+                <p>Solltest Du mich mit einer Antwort beglücken wollen, so adressire selbe:<lb/>
+                    „bei Herrn R. Dötz, Stadt Nr. 179 Wien“.</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

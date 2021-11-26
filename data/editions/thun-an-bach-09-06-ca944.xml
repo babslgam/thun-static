@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-bach-09-06-ca944.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-bach-07-11-ca945.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-bach-1850-07-ca932.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#bach-alexander" role="recipient">Alexander
+                        Bach</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</rs>, <date when="--09-06">6.
+                        September [1853]</date>
+                    <note xml:id="note_1">Das Jahr ist mit Bleistift auf
+                        dem Blatt vermerkt.</note>
+                </title>
+            <title type="label">Leo Thun an Alexander Bach, o. O., 6. September [1853]</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA52-3</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Österreichisches Staatsarchiv</institution>
+                        <repository>Allgemeines Verwaltungsarchiv</repository>
+                        <idno>Nachlass Bach, Karton 11</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun schickt Alexander Bach einen Akt zurück.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</settlement>
+                    <date>6.
+                        September [1853]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#bach-alexander">Alexander Bach</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Verwaltung</term>
+                </index>
+                <p>Lieber Freund!</p>
+                <p>Der Verabredung gemäß stelle ich Ihnen in der Beilage die Note in der
+                    Angelegenheit des Carrara<note xml:id="note_2">Hier konnte nicht eruiert werden, um wen es sich handelt.</note> zurück.</p>
+                <p>Aufrichtig der Ihrige</p>
+                <p>Thun</p>
+                <p>6/9</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="phillips-an-thun-1854-01-29-a3-xxi-d252.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/phillips-an-thun-1853-03-25-a3-xxi-d195.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/phillips-an-thun-1854-09-08-a3-xxi-d280.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#phillips-george" role="sender:gelehrter">George
+                        Phillips</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1854-01-29">29. Januar 1854</date>
+                </title>
+            <title type="label">George Phillips an Leo Thun, Wien, 29. Januar 1854</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DAE6-C</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <msDesc>
+                        <msIdentifier>
+                            <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                                Tetschen-Bodenbach</institution>
+                            <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                                Thun</repository>
+                            <idno>A3 XXI D252</idno>
+                        </msIdentifier>
+                        <msContents>
+                            <p>Der Jurist George Phillips teilt dem Minister die Titel einiger Werke
+                                mit, die sich mit Fragen des Kirchenrechts befassen. Phillips hatte
+                                mehrere dieser Werke in einem Gespräch mit dem Minister erwähnt.</p>
+                        </msContents>
+                    </msDesc>
+                </p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#phillips-george">George Phillips</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when-iso="1854-01-29">29. Januar 1854</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                    <term>Kirchenrecht</term>
+                </index>
+                <p>Hochgeborner Herr Graf,<lb/>Euer Excellenz!</p>
+                <p>Erlaube ich mir nachfolgend die Titel derjenigen Werke namhaft zu machen, welcher
+                    ich heute am Vormittage gegen Hochdieselben Erwähnung that:<lb/>Vuillefroy,
+                    Traité de l’administration du culte catholique. Paris 1826.<lb/>André, Droit
+                    ecclésiastique. Paris 1852.<lb/>Hermens, Handbuch der gesammten
+                    Staatsgesetzgebung über den christlichen Cultus in den königlich preußischen
+                    Provinzen am linken Rheinufer. 3 Bde.<lb/>Ich könnte noch
+                    hinzufügen:<lb/>G[uillaume] de Champeaux, Le droit civil ecclésiastique
+                    français. Paris 2 Vol. 1848.<lb/>Ich glaube jedoch nicht, daß in einer dieser
+                    Schriften irgend mehr zu finden sein dürfte als in<lb/>Klüber, Das öffentliche
+                    Recht des Teutschen Bundes. 4te Aufl. § 533. Note e., f. und g. (S. 804 u.f.)
+                    und der daselbst angeführten Literatur.<lb/>In tiefster Ehrfurcht verharre
+                    ich<lb/>als Euer Excellenz</p>
+                <p>unterthäniger Diener<lb/>G. Phillips</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

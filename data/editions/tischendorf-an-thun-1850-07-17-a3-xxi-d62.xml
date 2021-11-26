@@ -1,0 +1,120 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="tischendorf-an-thun-1850-07-17-a3-xxi-d62.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-ueber-universitaeten-1852-a3-xxi-d184.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d586.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#tischendorf-constantin" role="sender:gelehrter">Constantin
+                        Tischendorf</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_4a887b8a68acf9b04d9d027bddedb06b">Leipzig</rs>,
+                        <date when-iso="1850-07-17">17. Juli 1850</date>
+                </title>
+            <title type="label">Constantin Tischendorf an Leo Thun, Leipzig, 17. Juli 1850</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-D9D7-E</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D62</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Theologe Constantin Tischendorf bittet Leo Thun nachdrücklich seinen
+                            Antrag an die österreichische Regierung zur Förderung einer
+                            wissenschaftlichen Mission in den Orient zu unterstützen. Tischendorf
+                            hatte bereits vor Monaten einen solchen Antrag an Felix Schwarzenberg
+                            gerichtet, bisher aber noch keine Rückmeldung erhalten. Die Mission soll
+                            dem Zweck dienen, Bibliotheken zu besuchen und über die dort vorhandenen
+                            Manuskripte in einem Katalog zu erfassen. Zudem will er wertvolle
+                            Manuskripte, die für die Bibelforschung von großem Interesse sind
+                            erwerben. Gleichzeitig möchte Tischendorf auch die österreichischen
+                            Bibliotheken – vor allem jene in Venedig, Mailand, Verona und Böhmen –
+                            besuchen und dort Forschungen betreiben, die auch für die Wiener
+                            Akademie der Wissenschaften von Interesse sein werden.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#tischendorf-constantin">Constantin Tischendorf</rs>
+                    <settlement ref="#place_4a887b8a68acf9b04d9d027bddedb06b">Leipzig</settlement>
+                    <date when-iso="1850-07-17">17. Juli 1850</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Akademie der Wissenschaften</term>
+                    <term>Theologie</term>
+                </index>
+                <p>Eure Excellenz,</p>
+                <p>haben mir in <rs type="place" subtype="place" ref="#place_ccbee73cd81c7f42405e1920409247ec">Paris</rs> eine so wohlwollende Aufnahme und schon
+                    längst ein so huldvolles Interesse geschenkt, daß ich Ihre Anwesenheit in
+                        <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> für einen Zweck zu nützen wage, den ich der
+                    Protektion eines so erleuchteten Staatsmannes würdig glaube.<lb/>Ich habe unterm
+                    16. April Seiner Erlaucht dem <rs type="person" ref="#kuefstein-franz-seraph">Grafen
+                        Kuefstein</rs>, nicht ohne seiner eigenen Veranlassung, den Antrag
+                    einer wissenschaftlichen Mission übergeben, den derselbe sofort hochgeneigtest
+                    an den Herrn <rs type="person" ref="#schwarzenberg-felix">Fürsten
+                        Ministerpräsidenten</rs> selbst einsandte. Dieser Antrag bezweckt
+                    zunächst eine wissenschaftliche Mission nach dem Morgenlande, soweit ich
+                    dasselbe schon früher bereist habe, theils um einen großen einzigen Bibelschatz
+                    zu erwerben oder wenigstens an Ort und Stelle für die Wissenschaft und Kirche
+                    auszubeuten, theils um über sämmtliche dortige größtentheils erst durch mich in
+                        <rs type="place" subtype="country" ref="#place_55899fef2f0b2eba13eb1316b34b3694">Europa</rs> näher bekannt gewordenen Bibliotheken eine
+                    Catalogue raisonné zu fertigen, unter sofortiger Erwerbung aller wichtigen
+                    Handschriften, soweit dies möglich wäre. Zugleich hab‘ ich es aber
+                    ausgesprochen, daß mir diese Mission doppelt erwünscht sein würde, knüpfte sich
+                    daran eine förmliche Berufung nach <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>. Dabei hob ich
+                    den Wunsch hervor, vorzugsweise den Bibliotheken des Kaiserstaats, wie denen zu
+                        <rs type="place" subtype="place" ref="#place_80c239e539544aa459dc13996638cb2f">Venedig</rs>, zu <rs type="place" subtype="place" ref="#place_e30630933146ed8683482de23229fd6a">Mailand</rs>, zu
+                        <rs type="place" subtype="place" ref="#place_d32a635cff5dcc73a609d313801541d4">Verona</rs>, in <rs type="place" subtype="region" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs>
+                    meine Thätigkeit zu widmen, und deutete mehrere Gesichtspunkte an, unter denen
+                    meine Forschungen der <rs type="org" ref="#org_0015">Kaiserlichen
+                        Akademie der Wissenschaften</rs> nicht unwillkommen sein
+                    möchten.<lb/>Da ich nun, so gut wie <rs type="person" ref="#kuefstein-franz-seraph">Graf
+                        Kuefstein</rs>, bis jetzt noch ohne Bescheid geblieben, so wage ich
+                    Eurer Excellenz unterthänigst zu ersuchen Seiner Durchlaucht dem <rs type="person" ref="#schwarzenberg-felix">Fürsten Ministerpräsidenten</rs> mein
+                    Schreiben vom 16. April in Erinnerung zu bringen, und für dasselbe, wenn es
+                    anders mit dem gnädigen Urtheile Eurer Excellenz über mich vereinbar ist, der
+                    gewichtigste Fürsprecher werden zu wollen.<lb/>Wie sehr meine im letzten
+                    Jahrzehend der Öffentlichkeit übergebenen Arbeiten selbst von streng
+                    katholischer Seite anerkannt worden [sind], das sah ich neulich von Neuem an den
+                    mehrfachen Artikeln darüber in dem Thesaurus librorum rei catholicae, Würzburg
+                    1850, S. 136, 210 fg, 223, 552, 877.<note xml:id="note_1">Vgl. Thesaurus
+                        librorum rei catholicae. Handbuch der Bücherkunde der gesammten Literatur
+                        des Katholizismus und zunächst der katholischen Theologie, Bde. 1 und 2,
+                        Würzburg 1848 und 1850.</note>
+                    <lb/>So hoff’ ich gnädige Nachsicht und
+                    Entschuldigung für mein Schreiben und habe die Ehre, in dankbarer Verehrung zu
+                    verharren<lb/>
+                </p>
+                <p>Eurer Excellenz </p>
+                <p>unterthänigster Diener<lb/>Const. Tischendorf</p>
+                <p>Leipzig, den 17. Juli 1850</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

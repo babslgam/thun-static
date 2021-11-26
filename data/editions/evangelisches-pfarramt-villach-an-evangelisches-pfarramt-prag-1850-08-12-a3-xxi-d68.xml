@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="evangelisches-pfarramt-villach-an-evangelisches-pfarramt-prag-1850-08-12-a3-xxi-d68.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/erwiderung-auf-rezension-von-tomek-1859-02-a3-xxi-d496.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/faller-an-thun-1859-01-31-a3-xxi-d494.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Evangelisches Pfarramt A.B. Villach an das Evangelische Pfarramt A.B.
+                        Prag<lb/>
+                    <rs type="place" subtype="place" ref="#place_0d630f309cd8eaead4c6693378f162fb">Villach</rs>, <date when-iso="1850-08-12">12. August
+                        1850</date>
+                </title>
+            <title type="label">Evangelisches Pfarramt A.B. Villach an das Evangelische Pfarramt A.B. Prag, Villach, 12. August 1850</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DC57-C</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D68</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Die evangelischen Gemeinden des Augsburger Bekenntnisses in Kärnten
+                            informieren ihre Glaubensgenossen in Prag über ihre Beratungen in
+                            Villach, bei der sie insbesondere die Situation der evangelischen Kirche
+                            in Österreich diskutiert hatten. Bei der Konferenz kamen sie zur
+                            Überzeugung, dass für eine erfolgreiche Entwicklung der evangelischen
+                            Kirche in Österreich, ein gemeinsames Vorgehen aller evangelischer
+                            Gemeinden unumgänglich sei. Aus diesem Grund informieren die
+                            evangelischen Pfarrer der Kärntner Gemeinden ihre Glaubensgenossen in
+                            Prag über die Beschlüsse und bitten diese zu unterstützen: Sie stimmten
+                            erstens für die Annahme der vom Ministerium für Kultus und Unterricht
+                            für den Gesamtstaat erlassenen evangelischen Kirchenverfassung, auch
+                            wenn diese nicht in allen Punkten den Wünschen der evangelischen Kirchen
+                            entspreche. Sie plädieren daher dafür, dass auch die evangelischen
+                            Kirchen in Ungarn und Siebenbürgen diese annehmen sollten, denn nur
+                            durch die Vereinigung aller Kirchen sei eine dauerhafte Stärkung der
+                            evangelischen Kirche in Österreich möglich. Um die evangelischen Kirchen
+                            in Ungarn und Siebenbürgen für eine Vereinigung zu gewinnen, soll ein
+                            Bevollmächtiger für alle deutschsprachigen evangelischen Gemeinden mit
+                            den ungarischen Kirchenoberhäuptern verhandeln. Sie schlagen für diese
+                            Aufgabe den evangelische Pfarrer Gustav Steinacker aus Triest vor.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Abschrift.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                    <term>Evangelische Kirche</term>
+                    <term>Kirchenverfassung</term>
+                    <term>Österreich</term>
+                    <term>Ungarn</term>
+                </index>
+                <p>Abschrift</p>
+                <p>An das löbliche evangelische Pfarramt A. C. zu <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs>
+                </p>
+                <p>Wir unterzeichnete Pfarrer der evangelischen Gemeinden A. C. in <rs type="place" subtype="region" ref="#place_ef894a0a9ab2e171eb147ffd9e56cd4b">Kärnten</rs> haben es als Pflicht und Bedürfnis erkannt,
+                    bei Gelegenheit einer am 12. dieses Monats zu <rs type="place" subtype="place" ref="#place_0d630f309cd8eaead4c6693378f162fb">Villach</rs>
+                    abgehaltenen Conferenz neben den besondern Angelegenheiten unserer Gemeinden
+                    auch den gegenwärtigen Zuständen und Bedürfnissen der evangelischen Kirche
+                        <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</rs> im Allgemeinen unsere
+                    Aufmerksamkeit zuzuwenden und unsere Ansichten über die zweckmäßigsten Mittel
+                    auszutauschen, durch welche die Zukunft und eine gedeihliche Entwickelung der
+                    Kirche gesichert werden könne.<lb/>Nach allen Nachrichten, die uns theils durch
+                    öffentliche Blätter, theils durch mündliche und schriftliche Privatmittheilungen
+                    bekannt wurden, stehen besonders die evangelischen Consistorialgemeinden durch
+                    die vom <rs type="person" ref="#thun-hohenstein-leo">Herrn Cultusminister</rs>
+                    vorbereitete Octroyirung einer Synodalverfassung für die <hi rend="ul">gesammte</hi> evangelische Kirche <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</rs> am entscheidenden Wendepunkte ihrer Zukunft. Wir
+                    haben uns in dieser Beziehung nach rechtlicher Berathung über die folgenden
+                    Punkte geeinigt und erachten es bei der Wichtigkeit und Dringlichkeit des
+                    Gegenstandes für höchst nothwendig, unsere geliebten Amtsbrüder davon in
+                    Kenntnis zu setzen, um in Verbindung mit den Gemeinden so viel als möglich <hi rend="ul">gemeinsam</hi> und in <hi rend="ul">einer</hi> Richtung die
+                    gedeihliche Entwickelung dieser Angelegenheit mit fördern zu helfen.<lb/>1. Wir
+                    sind der Ansicht, daß die evangelischen Gemeinden <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</rs> (resp. <rs type="place" subtype="region" ref="#place_ef894a0a9ab2e171eb147ffd9e56cd4b">Kärntens</rs>)
+                    zwar an dem verfassungsmäßig zugesicherten Grundsatze der kirchlichen Autonomie
+                    und Gleichberechtigung festhalten und denselben, als Prinzip, in keiner Weise
+                    Preis geben, daß sie aber, in Berücksichtigung der jetzigen Zeitverhältnisse und
+                    der mannigfachen Schwierigkeiten, welche vielleicht noch lange der
+                    Zusammenberufung und gedeihlichen Wirksamkeit einer constituirenden Synode im
+                    Wege stehen, eine vom <rs type="org" ref="#org_0005">Ministerium</rs> zu oktroyirende Kirchenverfassung mit Dank annehmen
+                    und selbst manche, etwa minder wünschenswerthe Bestimmungen derselben sich
+                    gefallen lassen sollen, wofern diese Verfassung nur mit den unveräußerlichen
+                    Rechten und Grundsätzen der evangelischen Kirche, und zwar auf Grund des
+                    Presbyterial- und Synodalwesens, nicht im allzu schroffen Gegensatz tritt, dem
+                    nothwendigen und gerechten Anspruche der Kirche auf angemessene Unterstützung
+                    von Seite des Staates billige Berücksichtigung gewährt und einer künftigen
+                    Synode das Recht der Revision, d. h. der gänzlichen oder theilweisen
+                    Umgestaltung der Verfassung nach den Bedürfnissen der Kirche zugesteht.<lb/>2.
+                    Wir sind ferner der Ansicht, daß hiebei die organische Verbindung der bisherigen
+                    Consistorialgemeinden mit der evangelischen Kirche <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">
+                        <hi rend="ul">Ungarns</hi>
+                    </rs> und <rs type="place" subtype="region" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">
+                        <hi rend="ul">Siebenbürgens</hi>
+                    </rs> zu einem großen Ganzen, bei
+                    möglichst freier Entwickelung seiner einzelnen Theile, für Alle, besonders aber
+                    für unsere Gemeinden als <hi rend="ul">Lebensfrage</hi> zu betrachten und mit
+                    dem Aufgebote vereinter Kräfte auf geeignetem Wege anzustreben sei, weil nur
+                    durch diese Vereinigung die Kraft und das Ansehen der evangelischen Kirche
+                        <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</rs> dauernd befestigt werden
+                    kann. In Erwägung des zur Zeit herrschenden Mißtrauens und der mannigfachen, zum
+                    Theile ganz ungegründeten Besorgnisse, welche durch die Stimmführer der beiden
+                    evangelischen Confessionen in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> und <rs type="place" subtype="region" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> gegen eine derartige organische
+                    Verbindung laut geworden, bei der bedeutenden Schwierigkeit, auf schriftlichem
+                    Wege eine Verständigung hierüber herbeizuführen und in Erwägung des ungarischen
+                    Nationalcharakters, der durch ein vertrauensvolles, herzliches Entgegenkommen am
+                    leichtesten zu gewinnen ist, halten wir es<lb/>3. für höchst wünschenswerth, daß
+                    ein dazu befähigter und durch die Verhältnisse geeigneter Mann aus der Mitte der
+                    Konsistorialgemeinden mit Vollmachten, wo möglich von sämmtlichen oder doch der
+                    Mehrzahl der deutscherbländischen evangelischen Diözesen versehen und mit der
+                    Mission betraut werde, sich, so weit als möglich, <hi rend="ul">persönlich</hi>
+                    mit den Hauptstimmführern der evangelischen Kirche <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> und
+                        <rs type="place" subtype="region" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgens</rs> über diese hochwichtige
+                    Angelegenheit zu besprechen, um dieselben im beiderseitigen Interesse für die
+                    gewünschte Vereinigung zu gewinnen. Wir halten zu diesem Geschäfte niemanden für
+                    geeigneter als Herrn Pfarrer <rs type="person" ref="#steinacker-gustav">Steinacker</rs> zu <rs type="place" subtype="place" ref="#place_4fd4ef3f46418624bcfdb765d2881356">Triest</rs>, theils weil
+                    derselbe in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> aufgewachsen, mit den einflußreichsten
+                    Stimmführern beider Confessionen, den örtlichen Verhältnissen und der
+                    Landessprache vertraut ist, theils weil er sich bereits seit längerer Zeit
+                    vorzugsweise mit den kirchlichen Verfassungsfragen der Gegenwart beschäftigt und
+                    an den hierauf bezüglichen Versammlungen thätigen Antheil genommen hat. Demnach
+                    erscheint es uns<lb/>4. höchst wünschenswerth, daß unsere verehrten Amtsbrüder
+                    und deren resp. Gemeindevorstände sich <hi rend="ul">so bald als möglich,
+                        längstens</hi> bis 1. Oktober dieses Jahres, entweder direkt oder durch
+                    Vermittelung ihrer betreffenden Seniorate oder Superialtendenten mit uns
+                    vereinigen, um sowohl an den löblichen Vorstand der evangelischen Gemeinde A. C.
+                    zu <rs type="place" subtype="place" ref="#place_4fd4ef3f46418624bcfdb765d2881356">Triest</rs> als an Herrn Pfarrer <rs type="person" ref="#steinacker-gustav">Steinacker</rs> selbst ein derartiges Ansuchen
+                    zu stellen und im Interesse der gegenwärtig mehrfach bedrohten Gesammtkirche
+                        <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</rs> deren Mitwirkung zu diesem
+                    Vorhaben in Anspruch zu nehmen. Die bei der Wichtigkeit des Gegenstandes und der
+                    Vereinigung Aller oder Vieler verhältnismäßig jedenfalls nur geringen Kosten
+                    dieser Mission dürften gewiß durch gemeinsame Betheiligung daran leicht
+                    aufgebracht werden.<lb/>Wir erwarten daher bis zu dem bezeichneten Termine auf
+                    ämtlichem Wege eine geneigte Antwort unter der Adresse: „An das evangelische
+                    Pfarramt zu St. Ruprecht bei <rs type="place" subtype="place" ref="#place_0d630f309cd8eaead4c6693378f162fb">Villach</rs>“ und empfehlen
+                    unsere Vorschläge der ernstlichen Prüfung unserer für die Zukunft der
+                    evangelischen Kirche <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</rs> gewiß
+                    nicht minder besorgten Amtsbrüder.<lb/>Der Friede unseres Herrn und Heilandes
+                    Jesu Christi sei mit Euch und mit uns! Amen.</p>
+                <p>Villach, am 12. August 1850</p>
+                <p>Friedrich Bauer in Treßdorf<lb/>Joh. Ludw. Tschurl zu Feld<lb/>J. Schatzmayer in
+                    Zlan<lb/>G. W. Steinel in St. Ruprecht<lb/>Andreas Bathelt in
+                    Fresach<lb/>Heinrich Medicus in Arriach<lb/>Ch. Wieser zu
+                    Weißbriach<lb/>Christian Raschke zu Trebesing<lb/>A. Waßertheurer zu
+                    Feffarnitz<lb/>Ed. Ag. Schmidág in Bleiberg<lb/>Joh. Geyer in Watschig<lb/>C.
+                    Wack in Dornbach<lb/>Carl Babirath zu Gnesau<lb/>evangel. Pfarrer</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-ficker-1860-10-20-ca190.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-ficker-1860-08-31-ca188.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-ficker-1860-10-28-ca191.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#ficker-julius" role="recipient">Julius
+                        Ficker</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1860-10-20">20. Oktober 1860</date>
+                </title>
+            <title type="label">Leo Thun an Julius Ficker, Wien, 20. Oktober 1860</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA29-2</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Institut für Österreichische Geschichtsforschung</institution>
+                        <repository>Archiv</repository>
+                        <idno>Nachlass Ficker. Thun, 16</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun teilt Julius Ficker mit, dass er die Angelegenheit von Alphons
+                            Hubers Habilitation im Sinne von Julius Ficker entschieden habe. Thun
+                            bittet Ficker vor seinem Abgang aus dem Ministerium noch einmal
+                            eindringlich, Österreich treu zu bleiben. Thun hofft, dass damit der von
+                            ihm eingeschlagene Kurs fortgesetzt werden könne.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when-iso="1860-10-20">20. Oktober 1860</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#ficker-julius">Julius Ficker</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Geschichtswissenschaften</term>
+                    <term>Österreichische Geschichte</term>
+                    <term>Universität Innsbruck</term>
+                </index>
+                <p>Wien den 20. Oktober 1860</p>
+                <p>Werther Herr Professor!</p>
+                <p>Ich danke Ihnen für Ihr umständliches Schreiben. Die Angelegenheit des <rs type="person" ref="#huber-alphons">Dr. Huber</rs> habe ich, von Ihren Argumenten
+                    überzeugt, noch in einer Weise entschieden, welche hoffentlich Ihren Wünschen
+                    entsprechen wird. Mir erübrigt nur eine dringende Bitte: Bleiben Sie <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> treu, auch nachdem ich aufgehört
+                    habe, Minister zu sein. Selbst wenn – was hoffentlich nicht der Fall sein wird –
+                    zeitweilig Verhältnisse eintreten sollten, welche der Förderung der Studien
+                    minder günstig wären. Dann gälte es erst recht, daß diejenigen die mir
+                    freundlich gesinnt sind, aufrecht erhalten, woran ich zu bauen bemüht war.</p>
+                <p>Mit aufrichtiger Hochachtung</p>
+                <p>Ihr<lb/>ergebener<lb/>Thun</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-bach-od-ca933.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-bach-1859-07-08-ca941.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-bach-od-ca934.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#bach-alexander" role="recipient">Alexander
+                        Bach</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</rs>, o. D. <date when="1850">[1850/51]</date>
+                    <note xml:id="note_1">Die vorgeschlagene Datierung ergibt
+                        sich aus der Nennung von Anton Beck als Geschäftsführer des Vindesky
+                        dennik.</note>
+                </title>
+            <title type="label">Leo Thun an Alexander Bach, o. O., o. D. [1850/51]</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA4B-C</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Österreichisches Staatsarchiv</institution>
+                        <repository>Allgemeines Verwaltungsarchiv</repository>
+                        <idno>Nachlass Bach, Karton 11</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun bittet Alexander Bach dem Beamten Eduard Lackenbacher notwendige
+                            Informationen für ein Treffen desselben mit dem Geschäftsführer der
+                            Zeitung "Vidensky dennik" zu geben.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</settlement>
+                    <date>[1850/51]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#bach-alexander">Alexander Bach</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Vidensky dennik</term>
+                </index>
+                <p>In Folge unserer Besprechung über die Zukunft des Vidensky dennik habe ich den
+                        <rs type="person" ref="#beck-anton">Beck</rs> – als dessen Geschäftsführer –
+                    angewiesen, sich an <rs type="person" ref="#lackenbacher-eduard">Lackenbacher</rs>
+                    zu wenden.- Dieser erklärt eben noch keine Instruktionen zu haben. Ich erlaube
+                    mir deshalb dringend um gütige Abhilfe zu bitten.</p>
+                <p>Thun</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

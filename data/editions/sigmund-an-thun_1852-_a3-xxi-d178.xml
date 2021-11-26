@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="sigmund-an-thun_1852-_a3-xxi-d178.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#sigmund-wenzel" key="sigmund-wenzel" role="sender">Wenzel Sigmund</rs> an
+                        <rs type="person" ref="#thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                    Thun</rs>
+                    <lb/>o. O. [<rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs>], o. D. <date when="1852">[1852]</date>
+                </title>
+            <title type="label">Wenzel Sigmund an Leo Thun o. O. [, Prag], o. D. [1852]</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p/>
+            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000D-F7F8-5</tei:idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D178</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Wenzel Sigmund bittet Leo Thun um Hilfe für sich und seine blinde Mutter.
+                            Sigmund ist Bauzeichner in Prag, aber aufgrund geringer Bautätigkeit
+                            derzeit beschäftigungslos. Sigmund hatte sich schon im vorigen Jahr bei
+                            der Staatsbahn in Prag beworben und zunächst auch eine Zusage erhalten.
+                            Später wurde er allerdings doch nicht in den Dienst aufgenommen. Aus
+                            diesem Grund bittet er nun Thun, dass dieser ihn beim Handelsminister
+                            empfehle, damit er doch eine Stelle bei der Staatsbahn erhalte. Zuvor
+                            erinnert er Thun jedoch, woher er ihn kenne und es daher gewagt hatte,
+                            an Thun mit der Bitte heranzutreten: Sigmund war es nämlich, der Thun –
+                            gemeinsam mit anderen – während der tumultuarischen Juniereignissen 1848
+                            in Prag vor der herannahenden Meute gewarnt hatte.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#sigmund-wenzel">Wenzel Sigmund</persName>
+                    <date>[1852]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#thun-hohenstein-leo">Leo Thun</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Revolution</term>
+                    <term>Prag</term>
+                </index>
+                <p>&lt;1852&gt;<note>Hinzufügung von fremder Hand am rechten oberen
+                        Blattrand</note>
+                </p>
+                <p>Euer Excellenz,<lb/>Hochverehrter Herr Graf!</p>
+                <p>Im Vertrauen auf Ihre Milde und Großmuth wage ich es, gezwungen von einem harten
+                    verhängnisvollen Schicksale, dieses Schreiben mit dem Inhalt einer demüthigsten
+                    Bitte an Euere Excellenz zu richten. Und gewiß wird meine Hoffnung, gestärkt
+                    durch die unzähligen Beweise der Mildthätigkeit Ihrer hochherzigen wahrhaft
+                    edlen Familie, die viele Trähnen trocknete, viele Schmerzen linderte, nicht
+                    vereitelt.<lb/>Euere Excellenz werden gewiß sich noch des Jünglings zu erinnern
+                    wissen, der in den Juniereignissen <rs type="place" subtype="place" key="prag" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prags</rs>, als
+                    Sie vom Clementinum auf die Kleinseite von dem Swornoster (Bauerssohne,
+                    Fingerhut) und dem Fleischhauermeister Pangner begleitet gingen, Ihnen zum
+                    Altstädter Brückenthurm entgegenlief, um Euere Excellenz auf die Gefahr
+                    aufmerksam zu machen, die von dem Kleinseitner Proletariat für Ihr Leben zu
+                    befürchten war. Damals hob ich meine Hand und schwur Ihnen heilig und theuer,
+                    als Sie ängstlich zu mir und den beiden anderen die Worte sprachen: (Lidičky
+                    [?] mi, mei se zastat, bi se mi nic zlehonestalo) mein eignes Leben für
+                    Euer Excellenz bei der geringsten Ihnen drohenden Gefahr zu opfern. Ich wehrte
+                    Ihnen ab sich noch denselben Tag vom Presidium mit Herren Stadtverordneten
+                        <rs type="person" ref="#batka-johann" key="batka-johann">Batka</rs> auf die Altstadt zu begeben,
+                    weil sich viele der die Thore besetzthaltenden Proletarier hören ließen, Sie, im
+                    Falle Euere Excellenz ihnen entgehen wollten, nieder zu machen. Noch denselben
+                    Tag legte sich etwas die Aufregung der Proletarier und Euer Excellenz begaben
+                    sich künftigen Tags Vormittag auf den Augezd [Újezd] und die Altstadt unter das k.k.
+                    Militär, wo ich zuvor desselben Tages früh um 4 Uhr, hierauf eifrigst einwirkte,
+                    die Barikaden der Brücke und Brückengasse wegzuräumen (Was alle Bürger der
+                    Brückengasse bezeugen können). Warf mich denselben Tag noch mit blankem Säbel
+                    unter die Pöbelmasse, die abermals Barikaden aufschlichten wollten, wo selbst
+                    ich, mit Steinen beworfen villeicht mein Leben eingebüßt hätte, wären mir einige
+                    bewaffnete Bürger, die ich dadurch ereiferte, nicht zu Hilfe zu kommen. Seine
+                    Majestät der Kaiser haben mehrere Bürger <rs type="place" subtype="place" key="prag" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prags</rs>
+                    mit Ehrenzeichen für ihr eifriges Bestreben Ruhe zu stiften belohnt. Jedoch weit
+                    davon entfernt sind die Fantasien meines Geistes, denn mich hat Gott mit vielen
+                    Leiden heimgesucht, harte Noth drücket mich und noch dazu erblindete mir meine
+                    gute sorgsame Mutter auf beide Augen den 2. Februar 1851. Ich weiß mir keinen
+                    anderen Ausweg mir Hilfe zu schaffen, als mich zu Ihren Füßen, hochherziger
+                    Menschenfreund, zu werfen und um Ihre mächtige Fürsprache in tiefster Demuth zu
+                    bitten. Vorigen Jahres nahm ich eine Fußreise nach <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>
+                    vor, um durch die Fürsprache Euere Excellenz mich um eine Bedinstung [sic!] bei
+                    der Staatsbahn zu bewerben. Ich bekam erfreuliche Antwort von Seiner Excellenz
+                    dem Herren <rs type="person" ref="#baumgartner-andreas" key="baumgartner-andreas">Handelsminister</rs>; es
+                    wurde mir aber aus der Ursache, weil mich die unteren Herren, für die
+                    Bausektion, zu der ich zu kommen gebeten, ich weiß nicht warum befähiget fanden,
+                    später eine abweisliche Antwort schriftlich nach <rs type="place" subtype="place" key="prag" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs> geschickt, trotzdem, daß ich in meinem Gesuche mich für
+                    die Prüfung meiner Befähigung für dies Fach aussprach. Da in der jetzigen
+                    Zeitperiode in <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs> beinahe nichts gebaut wird, daher die
+                    Baumeister keine Zeichner brauchen, bin ich beschäftigungslos geworden und bloß
+                    darauf beschränkt mir mit 2 Konditionen durchzuhelfen, deren Ertrag kaum
+                    hinreicht sich an trockenen Erdäpfeln satt zu essen, so mit meiner theueren
+                    blinden Mutter dem schrecklisten Elende, beinahe halb erblößt und den Zins für ½
+                    Jahr schuldend, preisgegeben.<lb/>Gewiß werden Euer Excellenz mein Elend
+                    berücksichtigen, mich mit meiner flehentlichen Bitte nicht abweisen und mir
+                    gnädigst bei seiner Excellenz dem Herren <rs type="person" ref="#baumgartner-andreas" key="baumgartner-andreas">Handelsminister</rs> eine Anempfehlung an den <rs type="place" subtype="place" key="prag" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prager</rs> Herren Bahndirektor durch Eure Excellenz mächtiges Wort
+                    erwirken und mich sicherlich mit einer Bedinstung, sey es zu welchem Fache
+                    immer, beglücken wird, indem bei der Bahn besonders in
+                        <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs> Individuen ohne aller technischen, bloß mit
+                    einfachen Schrift- und Rechnungskenntnißen ihr Unterkommen gefunden
+                    haben.<lb/>Ich bitte Euer Excellenz nochmals unterthänigst sich meiner gnädigst
+                    anzunehmen sowie mir diese Erdreistung Sie zu belästigen in gewohnter Milde zu
+                    vergeben, wo ich mich sodann mit unermüdetem Fleiße, steten Fortschritten in den
+                    Wissenschaften und unbescholtener Treue dieser hohen Gnade würdig zu machen
+                    eifrigst bestreben werde.</p>
+                <p>In tiefster Demuth</p>
+                <p>unterthäniger</p>
+                <p>Wenzel Sigmund<lb/>Bauzeichner wohnhaft in Nr. 45/3 in Prag</p>
+            </div>
+        </body>
+    </text>
+</TEI>

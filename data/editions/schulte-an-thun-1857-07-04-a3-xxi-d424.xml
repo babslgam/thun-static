@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="schulte-an-thun-1857-07-04-a3-xxi-d424.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/schulte-an-thun-1856-07-19-a3-xxi-d384.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/schulte-an-thun-1857-12-09-a3-xxi-d436.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#schulte-friedrich" role="sender:gelehrter">Johann Friedrich
+                        Schulte</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs>, <date when-iso="1857-07-04">4. Juli 1857</date>
+                </title>
+            <title type="label">Johann Friedrich Schulte an Leo Thun, Prag, 4. Juli 1857</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA8E-0</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D424</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Jurist Johann Friedrich Schulte teilt Leo Thun mit, dass sowohl Georg
+                            Sandhaas den Lehrstuhl als auch Heinrich Siegel das Extraordinariat,
+                            welche Thun ihnen angeboten hatte, annehmen wollen. Georg Sandhaas soll
+                            den Lehrstuhl für deutsches Recht in Graz erhalten. Sandhaas bitte
+                            allerdings – ohne es zu einer Bedingung zu machen – um eine Erhöhung des
+                            Gehalts. Er sorge sich nämlich, dass er mit dem ihm angebotenen Lohn
+                            seinen Unterhalt nicht bestreiten könne. Außerdem habe er gehört, dass
+                            die Einnahmen durch die Kollegiengelder sehr gering seien. Heinrich
+                            Siegel nimmt die ihm angebotene außerordentliche Professur in Wien ohne
+                            weitere Bedingungen an. Schulte bedauert zwar, dass Siegel nicht sein
+                            Kollege in Prag werde, dennoch gratuliert er Thun, diesen talentierten
+                            Mann für den Dienst in Österreich gewonnen zu haben. Zuletzt versichert
+                            Schulte dem Minister, für weitere Vermittlungsdienste jederzeit zur
+                            Verfügung zu stehen.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#schulte-friedrich">Johann Friedrich Schulte</rs>
+                    <settlement ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</settlement>
+                    <date when-iso="1857-07-04">4. Juli 1857</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Universität Wien</term>
+                    <term>Universität Graz</term>
+                    <term>Rechtswissenschaften</term>
+                    <term>Rechtsgeschichte</term>
+                </index>
+                <p>Hochgeborner Herr Graf!<lb/>Hochzuverehrender Herr Minister!</p>
+                <p>Euerer Excellenz</p>
+                <p>gnädigen Auftrag vom 23. vorigen Monats habe ich sofort ausgeführt und teile
+                    nachstehend Hochdenselben die Erklärungen der beiden Dozenten mit.<lb/>1. Prof.
+                        <rs type="person" ref="#sandhaas-georg"> Dr. Sandhaas (Georg)</rs> hat erklärt:
+                    er acceptire eine ordentliche Professur des deutschen Rechts in <rs type="org" ref="#org_0026">Gratz</rs> mit definitiver Anstellung, Erlaß
+                    der Taxen, 300 fl. Übersiedlungsentschädigung. In Betreff des Gehaltes trägt
+                    derselbe Bedenken, ob dies hinreiche, um in einer so großen Stadt auszureichen,
+                    zumal da in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> die Collegiengelder
+                    nach ihm gemachten Mittheilungen unbeträchtlich, in <rs type="org" ref="#org_0034">Gießen</rs> trotz der kleinen Stadt die
+                    Gehälter der am niedrigsten gestellten juridischen Ordinarien höher seien. Ich
+                    habe über Collegiengelder nichts schreiben können, da ich weder die Anzahl der
+                    Zuhörer in <rs type="org" ref="#org_0026">Gratz</rs> kenne, noch bei der
+                    nach dem jetzigen Stande der Gesetzgebung vorhandenen leichten Möglichkeit, das
+                    Collegiengeld zu verlieren (z.B. wenn Jemand das Unglück hat, 2 Monate krank zu
+                    sein, obwohl er sich 4 Monate plagte; wenn sich alle oder die Meisten
+                    Pauperitätszeugnisse verschaffen, was auch einem Millionair nicht schwer fällt,
+                    in welchem Falle die Hälfte stets schwinden wird u.s.f.), auch nur annähernd
+                    hätte eine Summe als fest angeben können. Unter den Umständen bittet <rs type="person" ref="#sandhaas-georg">Sandhaas</rs>, Euer Excellenz möchten den Gehalt
+                    „schon jetzt um einige 100 fl. zu erhöhen geruhen“, macht jedoch hiervon seine
+                    Acceptation ausdrücklich nicht abhängig, sondern acceptirt, diese Sache dem
+                    hohen Ermessen Eurer Excellenz anheimstellend.<lb/>Seinem Eintritte im October
+                    dieses Jahres kann nicht leicht ein Hindernis in den Weg treten, da zwar die
+                    hessische Regierung erst nach 6 Monaten zu entlassen braucht, dies indeß stets
+                    sofort thut. Übrigens wäre ja auch eine Bitte im diplomatischen Wege ein
+                    sicheres, jedoch schwerlich nothwendiges Mittel.<lb/>2. <rs type="person" ref="#siegel-heinrich">Dr. Siegel</rs> (Heinrich) habe ich, wie Euer
+                    Excellenz befohlen, ein Extraordinariat mit 900 fl. Gehalt, sofortiger
+                    Definitive, Nachlaß der Taxen und Aussicht der Übersiedlungsentschädigung bis zu
+                    300 fl in <rs type="org" ref="#org_0018">Wien</rs> für die
+                    Rechtsgeschichte und das Privatrecht, da ich denselben für letzteres
+                    gleichergestalt befähigt halte, in Aussicht gestellt. Derselbe hat, wie Euer
+                    Excellenz aus der Anlage<note xml:id="note_1">Der erwähnte Brief wurde im
+                        Nachlass unter der <ref target="thun/thun-korrespondenz/tetschen/siegel-an-thun-1857-06-30-a3-xxi-d422.xml">Signatur A3 XXI D422</ref> abgelegt.</note> ersehen, diese Bedingungen
+                    einfach acceptirt. Indem ich nochmals bedauere, <rs type="person" ref="#siegel-heinrich">Dr. Siegel</rs> nicht, einen Eurer Excellenz bereits im verflossenen
+                    September geäußerten Wunsch aussprechend, als meinen Collegen begrüßen zu
+                    können, empfehle ich denselben dem hohen Wohlwollen Euer Excellenz um so mehr,
+                    als gerade <rs type="person" ref="#siegel-heinrich">Dr. Siegel</rs>, da er nicht
+                    unbemittelt ist, in der Lage wäre, andere Anforderungen zu stellen, somit seine
+                    Liebe zur Sache und <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> über das
+                    Geldinteresse – was bisher nur sehr Wenige thaten – siegen läßt.<lb/>Ferneren
+                    gnädigen Aufträgen gehorsam entgegensehend zeichnet in tiefster Hochachtung und
+                    Verehrung</p>
+                <p>Euerer Excellenz<lb/>gehorsamster Diener<lb/>J. Friedr. Schulte</p>
+                <p>Prag, den 4 Juli 1857</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

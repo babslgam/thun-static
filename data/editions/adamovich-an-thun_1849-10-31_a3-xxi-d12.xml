@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="adamovich-an-thun_1849-10-31_a3-xxi-d12.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#adamovich" key="adamovich" role="sender">Val. And. Adamovich<note>Der Schreiber konnte nicht eindeutig identifiziert
+                            werden. Im Hof- und Staatshandbuch der Monarchie wird er mehrfach als
+                            Ausschussmitglied und Aktionär der Österreichischen Nationalbank
+                        genannt.</note>
+                    </rs> an <rs type="person" ref="#thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1849-10-31">31. Oktober
+                        1849</date>
+                </title>
+            <title type="label">Val. And. Adamovich an Leo Thun, Wien, 31. Oktober 1849</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p/>
+            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000D-F7FD-0</tei:idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D12</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Val. And. Adamovich erläutert seine Ansichten über den Einfluss der
+                            bildenden Kunst auf die Erzeugnisse der Industrie. Er kommt auf der
+                            Grundlage zahlreicher Untersuchungen zu dem Schluss, dass die Akademie
+                            der bildenden Künste reformiert werden müsse, um der Industrie und damit
+                            letztlich dem Staat einen Nutzen zu bringen und auf den Wohlstand des
+                            Landes einwirken zu können.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#adamovich">Val. And. Adamovich</persName>
+                    <date when-iso="1849-10-31">31. Oktober
+                        1849</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#thun-hohenstein-leo">Leo Thun</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Akademie der bildenden Künste</term>
+                    <term>Reform</term>
+                </index>
+                <p>Euere Excellenz!</p>
+                <p>Ich muß um Verzeihung bitten, daß ich Hochdieselben mit meiner Abhandlung die
+                    Kunst und Industrie betreffend belästiget habe. Ich bin überzeugt, daß wenn die
+                        <rs type="org" ref="#org_0069" key="akademie-der-bildenden-kuenste">Akademie der bildenden
+                        Künste</rs> zweckmäßig reorganisirt, sie auf eine eminente Stufe der
+                    Ausbildung getragen würde. Die Kunst mit allen diesfälligen Sammlungen haben dem
+                    Staate Millionen gekostet, ohne einen werten Nutzen zu bringen. Wenn aber diese
+                    durch gehörige Einrichtung in der Art benutzet würde, daß sie nach ihrer
+                    Bestimmung auf die industriellen Erzeugnisse einwirke, würde sie den Wohlstand
+                    des Landes ungemein befördern. Um in dieser Hinsicht eine mathematische
+                    Gewißheit zu erlangen, untersuchte ich die berühmtesten Akademien der bildenden
+                    Künste, um allda alle Vor- und Nachtheile der Kunst zu erforschen, setzte mich
+                    in Verbindung mit ausgezeichneten Künstlern, um auch ihre Meinung wegen Reform
+                    der Akademie zu erforschen, besuchte die besten Fabriken und Gewerbsleute im
+                    Auslande, um zu sehen, welchen Einfluß die bildende Kunst auf die Erzeugnisse
+                    der Industrie ausübe, und habe dadurch die erwünschten Resultate erlangt.
+                        <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Östreich</rs> würde Euere Excellenz als
+                    Gründer einer verbesserten Anstalt segnen, und Hochdero Nahme in den Rollen der
+                    östreichischen Kunstgeschichte mit unvergänglichen Ruhme verzeichnet
+                    stehen.<lb/>Genehmigen Euere Hochgeboren meinen tiefesten Respect mit dem ich
+                    verbleibe</p>
+                <p>Euere Excellenz<lb/>ganz gehorsamster Diener<lb/>Val. And. von Adamovich</p>
+                <p>Wien, den 31. October 1849</p>
+            </div>
+        </body>
+    </text>
+</TEI>

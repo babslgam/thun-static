@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="taraba-an-kreisregierung-1852-06-a3-xxi-d168.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/taaffe-an-thun-1850-02-15-a3-xxi-d34.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/tarnoczy-an-thun-1860-07-17-a3-xxi-d597.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#taraba-josef" role="sender:gelehrter">Josef Taraba</rs>
+                    an die Kreisregierung in Jičín<lb/>
+                    <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs>, <date when="1852-06">Juni 1852</date>
+                </title>
+            <title type="label">Josef Taraba an die Kreisregierung in Jičín, Prag, Juni 1852</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA58-D</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D168</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Medizinstudent Josef Taraba bittet die Kreisregierung in Prag, sein
+                            Gesuch um Ausstellung eines Reisepasses für eine wissenschaftliche
+                            Ausbildungsreise ins Ausland zu unterstützen. Er hatte ein solches
+                            Gesuch an die Bezirkshauptmannschaft zu Nymburk gestellt, dieses wurde
+                            jedoch abgewiesen. Die Bezirkshauptmannschaft begründete die Ablehnung
+                            einerseits mit unzureichenden finanziellen Mitteln des Antragstellers
+                            für eine solche Reise, andererseits glaubte die Bezirkshauptmannschaft,
+                            er könne an der Universität Prag genug lernen und müsse daher nicht ins
+                            Ausland reisen. Beide Argumente will Taraba nicht gelten lassen.
+                            Insbesondere das zweite Argument sei falsch, wie die Berufung
+                            zahlreicher Professoren aus dem Ausland an österreichische Universitäten
+                            mehrfach bewiesen habe.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Beilagen:<lb/>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d168_1">Abschlägiger Bescheid der
+                                Bezirkshauptmannschaft von Nymburk, 25. Mai 1852</tei:ref>.<lb/>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d168_2">Gesuch Josef Tarabas an die Bezirkshauptmannschaft
+                                von Nymburk mit einem Empfehlungsschreiben des
+                                medizinisch-chirurgischen Studiendirektorates</tei:ref>.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#taraba-josef">Josef Taraba</rs>
+                    <settlement ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</settlement>
+                    <date>Juni 1852</date>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Universität Prag</term>
+                    <term>Medizin</term>
+                </index>
+                <p>Wohllöbliche k.k. Kreisregierung!</p>
+                <p>Mit meinem sub % anrufenden an die k.k. Bezirkshauptmannschaft zu Nimburg
+                        [<rs type="place" subtype="place" ref="#place_059cbe1849eb175fb5cf7b7bf78516f7">Nymburk</rs>] um Erwirkung eines k.k.
+                    Kreisregierungspasses, welchen ich zum Behufe einer Reise zur wissenschaftlichen
+                    Ausbildung angesucht habe, wurde ich laut Bescheides vom 25. Mai dieses Jahres
+                    Z. 6445<note xml:id="note_1">Vgl. <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d168_1">Abschlägiger Bescheid
+                            der Bezirkshauptmannschaft vom 25. Mai 1852</tei:ref>.</note> aus dem Grunde
+                    abgewiesen, weil ich angeblich an  <rs type="org" ref="#org_0017">unserer
+                        vaterländischen Hochschule</rs> genug Gelegenheit finde mein
+                    vorgesetztes Ziel zu erreichen und weil meine nach der Ansicht des <rs type="person" ref="#komers-karl">Herrn Bezirkshauptmanns</rs> materiellen
+                    Verhältnisse keine beruhigende (?) Aussicht darbiethen, die vorhabenden Reisen
+                    mit Erfolg benützen zu können.<lb/>Bei einer so grundlosen Abweisung bleibt mir
+                    nur der Weg der Berufung an die k.k. Kreisregierung übrig, welchen ich
+                    nachstehends notiere:<lb/>„Jedem österreichischen Staatsbürger steht und stand
+                    bisher das Recht zu, zur Aneignung und Erweiterung von Kenntnissen das Ausland
+                    zu besuchen.“<lb/>Wenn ich auch aus persönlicher Überzeugung alle Achtung für
+                    <rs type="org" ref="#org_0017">unsere vaterländische Hochschule</rs>
+                    fühle und sie auch überall ausspreche, so muß ich doch behaupten, andererseits,
+                    daß der <rs type="person" ref="#komers-karl">Nimburger Herr Bezirkshauptmann</rs>
+                    in der Beurtheilung der Naturwissenschaften ein Laie ist und seine Ansicht, als
+                    könnte eine andere Lehranstalt nichts Neues zur Erlernung biethen, blos auf
+                    seiner subjectiv falschen Überzeugung zu beruhen scheine.<lb/>So gut es an
+                    unseren Hochschulen ausgezeichnete Männer der Kunst und Wissenschaft gibt, so
+                    gibt es auch deren im Auslande, wofür deren nicht seltene Berufung an unsere
+                    Lehranstalten ein deutlicher und unwiderlegbarer Beweis ist.<lb/>Auch dürfte es
+                    der erste Fall sein, daß ein Candidat der Medizin und Chirurgie an den Ort, wo
+                    er seine öffentlichen Studien beendet, gebunden bleiben müßte, wie der <rs type="person" ref="#komers-karl">k.k. Herr Bezirkshauptmann</rs> in seiner Erledigung
+                    durch die Worte: „so dürfte Ihnen dermal in <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs> immerhin
+                    soviel Gelegenheit etc[?] zu wünschen und zu befehlen scheint.“<lb/>Denn bisher
+                    wurde einem jeden im ähnlichen Falle jeder mögliche Vorschub geleistet, damit er
+                    ja reisen, sich bilden und dann seinem Vaterlande nützen könne.<lb/>Was den
+                    zweiten meiner Abweisung zu Grunde liegenden Umstand anbelangt, daß meine
+                    materiellen Verhältnisse keine beruhigende Aussicht darbiethen, daß ich die
+                    vorhabende Reise mit Erfolg benützen könnte, so glaube ich, daß er nur in einer
+                    übertriebenen Besorgnis des <rs type="person" ref="#komers-karl">k.k. Herrn
+                        Bezirkshauptmannes</rs> beruht.<lb/>Ich bin 27 Jahre alt und muthe mir
+                    ohne Unbescheidenheit soviel Überlegung zu, daß ich eine wissenschaftliche Reise
+                    ohne zureichende Mittel nicht antreten könne und dürfe.<lb/>Der <rs type="person" ref="#komers-karl">k.k. Bezirkshauptmann von Nimb[urg]</rs> hat in
+                    meinem Falle nicht geschaut und ebensowenig mich gefragt, ob ich im Besitze der
+                    nöthigen Mittel bin oder ob nicht vielleicht ein Gönner mir dieselben
+                    vorschießen oder zu eben dem Zwecke gar schenken will.<lb/>Selbst unter den
+                    Koryphäen der Künstler- und Gelehrtenwelt gab und gibt es noch viele, die
+                    bezüglich ihrer materiellen Mittel vor der Zeit ihrer Selbstständigkeit manchen
+                    Wunsch noch übrig hatten; viele haben mit Noth und Entbehrungen gekämpft und
+                    dessen ungeachtet ihr unter sehr ungünstigen Auspicien begonnenes Lebensziel
+                    verfolgt und glücklich erreicht.<lb/>Ich will so wenig als möglich fremder
+                    Beihilfe mich bedienen und kann noch über soviel disponiren, daß ich die
+                    vorhabende Reise ohne jede Besorgnis antreten kann.<lb/>Wiewohl ich dem
+                        <rs type="person" ref="#komers-karl">k.k. Bezirkshauptmann von Nimburg</rs>
+                    keine Persönlichkeit imputiren will, so kann ich doch nichts weniger als einen
+                    Grund für die von ihm ausgesprochene Paßverweigerung finden, zumal ich weder
+                    politisch compromittirt, noch in einem solchen Rufe stehe, daß ich die
+                    Vertrauungswürdigkeit verloren haben könnte. Demzufolge bitte ich um geneigte
+                    Ertheilung des Reisepasses und lege nebst der Paßstemplgebühr pro 30 fr CM den
+                    Heimathsschein bei.</p>
+                <p>Prag, (ersten Tage des Monats) Juni 1852</p>
+                <p>Taraba Josef<lb/>Candidat der medico-chirurgischen Doctorswürde</p>
+                <div type="enclosure" xml:id="D168_1">
+                    <p>Nr. 6445</p>
+                    <p>An Herrn Josef Taraba!</p>
+                    <p>Da  <rs type="org" ref="#org_0017">unsere vaterländische
+                            Hochschule</rs> und Krankenanstalten sich eines so ausgezeichneten
+                        Rufes erfreuen, daß dieselben von auswärtigen Studierenden und Ärzten Behufs
+                        ihrer Ausbildung besucht werden, so dürfte Ihnen dermal in
+                            <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs> immerhin soviel Gelegenheit hierlandes
+                        geboten seyn, um Ihr vorgesetztes Ziel zu erreichen, und es geht mir bei dem
+                        Umstande, wo Ihre materiellen Verhältnisse keine beruhigende Aussicht
+                        darbiethen, daß Sie die vorhabenden Reisen mit Erfolg benützen könnten,
+                        jeder grundhältige Anhaltspunkt ab, Ihr rückfolgendes Gesuch<note xml:id="note_2">Vgl. <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d168_2">Gesuch von Josef Taraba an
+                                die Bezirkshauptmannschaft</tei:ref>
+                        </note> zu unterstützen.<lb/>Der
+                        Heimathschein und der Betrag von 30 fr CM liegt allerhöchst bei.</p>
+                    <p>k.k. Bezirkshauptmannschaft</p>
+                    <p>Nimburg, am 25. May 1852</p>
+                    <p>der k.k. Bezirkshauptmann<lb/>Komers</p>
+                </div>
+                <div type="enclosure" xml:id="D168_2">
+                    <p>Löbliche k.k. Bezirkshauptmannschaft!</p>
+                    <p>Behufs meiner Ausbildung in den medico-chirurgischen Wissenschaften durch den
+                        Besuch in- und ausländischer Spitäler und Universitäten benötige ich einen
+                        k.k. Kreisregierungspaß.<lb/>Ich stelle demnach unter Anschluß der
+                        Paßstempelgebühr pr 30 fr CM das ergebendste Ansuchen:<lb/>„Die löbliche
+                        k.k. Bezirkshauptmannschaft geruhe mir zu dem oben angeführten Zwecke den
+                        nöthigen Reisepaß zum Besuche der deutschen, englischen und französischen
+                        Universitäten auf die Dauer von zwey Jahren geneigtest zu erwirken.</p>
+                    <p>Prag, den 17. November 1851</p>
+                    <p>Taraba Josef<lb/>Candidat der Med. u. Chirurgie<lb/>Wohnhaft in Prag,
+                        Neustadt, Jerusalemsgasse Nr. 1321</p>
+                    <p/>
+                    <p>Nr. 209<lb/>
+                        <hi rend="ul">An den absolvierten Hörer der Medicin Herrn
+                                <rs type="person" ref="#taraba-josef">Taraba Jos[ef]</rs>
+                        </hi>
+                    </p>
+                    <p>Nach der vom Herrn <rs type="person" ref="#patruban-carl">Prof. von
+                            Patruban</rs> mit den Unterrichtszustandsberichte für das
+                        Studienjahr 1847/8 erstatteten Anzeige haben Sie bei der Anfertigung von
+                        Präparaten für die physiologische Lehranstalt mit seltner Ausdauer und sehr
+                        lobenswerther Fertigkeit sich betheiligt.<lb/>Für diese Ihre Leistungen wird
+                        Ihnen die verdiente Anerkennung von Seite des Lehrkörpers eröffnet.</p>
+                    <p>Vom k.k. medizinisch-chirurgischen Studiendirektorate<lb/>
+                        <rs type="person" ref="#nadherny-ignaz">Nadherny</rs>
+                    </p>
+                    <p>Prag, vom 7. Jänner 1849</p>
+                </div>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

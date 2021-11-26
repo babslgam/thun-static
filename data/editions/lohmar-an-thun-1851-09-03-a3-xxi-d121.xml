@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="lohmar-an-thun-1851-09-03-a3-xxi-d121.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/liste-evangelische-gymnasien-mit-oeffentlichkeitsrecht-ungarn-o-d-a3-xxi-d540.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/lonyay-an-szogyeny-1860-04-17-a3-xxi-d573.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#lohmar-wilhelm" role="sender:gelehrter">Wilhelm
+                        Lohmar</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_df9bd17ff7bdda0e80aa6e2f18bfeaf2">Trier</rs>, <date when-iso="1851-09-03">3. September 1851</date>
+                </title>
+            <title type="label">Wilhelm Lohmar an Leo Thun, Trier, 3. September 1851</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DB46-0</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D121</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Gymnasiallehrer Wilhelm Lohmar möchte eine Gedichtesammlung
+                            herausgeben, die Gedichte vereint, welche die Geschichte des Hauses
+                            Habsburg zum Inhalt haben. Die Sammlung soll auch Bildnisse bedeutender
+                            Habsburger, geeignete Geschichten über das Herrscherhaus in Prosa sowie
+                            Lieder enthalten. Deshalb bittet Lohmar Leo Thun um Unterstützung bei
+                            seinem Vorhaben, da ihm für die Forschungen zum Auffinden der
+                            Volkslieder, insbesondere außerhalb Österreichs, die nötigen Mittel
+                            fehlen.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#lohmar-wilhelm">Wilhelm Lohmar</rs>
+                    <settlement ref="#place_df9bd17ff7bdda0e80aa6e2f18bfeaf2">Trier</settlement>
+                    <date when-iso="1851-09-03">3. September 1851</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Haus Habsburg</term>
+                    <term>Geschichtswissenschaften</term>
+                    <term>Österreich</term>
+                </index>
+                <p>Euer Exzellenz</p>
+                <p>ist nicht unbekannt, daß vor einiger Zeit eine Sammlung unter dem Titel
+                    „Ehrenspiegel des Hauses Hohenzollern“ erschienen ist, worin alle Gedichte
+                    zusammengestellt sind, welche sich auf Thaten preußischer Fürsten beziehen. Auch
+                    das Haus Habsburg hat eine große Vergangenheit und eine glänzende Gegenwart. Der
+                    gehorsamst Unterzeichnete hat schon seit einiger Zeit den Entschluß gefaßt,
+                    unter dem Titel „Die Habsburger in Sang und Sage“ eine ähnliche Sammlung
+                    herauszugeben. Stahlstiche mit den Bildnissen der Fürsten sollen derselben
+                    beigegeben werden. Von Gedichten, die dahin einschlagen, sind aus alter und
+                    neuer Zeit schon viele von ihm gesammelt. Was sich sonst noch aus der Geschichte
+                    des kaiserlichen Hauses für poetische Behandlung eignet, wird von ihm und
+                    einigen Freunden das Gewand der Dichtkunst erhalten. Da das Andenken an das
+                    erlauchte Haus Habsburg auch außerhalb <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oestreich</rs> in vielen Herzen fortlebt, so wäre es von großem
+                    Interesse nachzuforschen, ob es nicht auch in Volkliedern noch gefeiert werde.
+                    Solche Lieder würden nach meiner Ansicht ein Schmuck der Sammlung sein. Aber zur
+                    Anstellung solcher Forschungen fehlen dem gehorsamst Unterzeichneten Muße und
+                    Mittel. Er erlaubt sich daher bei Eurer Exzellenz die ehrfurchtsvolle Bitte, daß
+                    Hochdieselbe sich darüber aussprechen möge, ob die kaiserliche Regierung
+                    vielleicht geneigt wäre, ihm bei seinem Unternehmen in irgend einer Weise zu
+                    unterstützen.<lb/>In tiefster Ehrfurcht verharrt derselbe als</p>
+                <p>Euer Exzellenz<lb/>gehorsamster<lb/>Lohmar<lb/>Gymnasiallehrer</p>
+                <p>Trier, den 3. September 1851</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

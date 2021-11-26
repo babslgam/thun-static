@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="tomek-an-thun-konzept-1858-05-15-ca1408.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/tomek-an-thun-konzept-1858-04-30-ca1406.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/tomek-an-thun-konzept-od-ca1407.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#tomek-vaclav-vladivoi" role="sender:gelehrter">Václav Vladivoj
+                        Tomek</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs>, <date when-iso="1858-05-15">15.
+                        Mai 1858</date>
+                </title>
+            <title type="label">Václav Vladivoj Tomek an Leo Thun, Prag, 15. Mai 1858</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-D9D1-4</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Tschechisches Nationalmuseum [Archiv Národního
+                            muzea]</institution>
+                        <repository>Archiv</repository>
+                        <idno>Nachlass Tomek</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Historiker Václav Tomek bedankt sich für den Brief von Thun und
+                            dessen freundliche Worte. Er betont, es freue ihn, dass Thun so
+                            verständnisvoll auf die Forderungen in seinem letzten Brief reagiert
+                            habe. Er ist froh zu hören, dass Thun mit seiner Arbeit zufrieden zu
+                            sein scheint. Tomek schreibt, dass ihm die Zusammenarbeit mit dem
+                            Minister große Freude bereite und entschuldigt sich, dass er in seinem
+                            früheren Schreiben an Unterstaatssekretär Helfert den einen oder anderen
+                            schärferen Ausdruck benutzt hatte.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Eh. Konzept von Václav Tomek.<lb/>Tschechisch.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#tomek-vaclav-vladivoi">Václav Vladivoj Tomek</rs>
+                    <settlement ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</settlement>
+                    <date when-iso="1858-05-15">15.
+                        Mai 1858</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Universität Prag</term>
+                    <term>Gehaltsfragen</term>
+                </index>
+                <p>V Praze dne 15. Května 1858.</p>
+                <p>Vaši Excellencí!</p>
+                <p>Cítím se zavázán k velikým díkům za tak upřímný a laskavý dopis, který jste mě v
+                    nynějších mých okolnostech poctiti ráčili.<lb/>Obával jsem se poněkud i sám, aby
+                    mi nebyly na cestě překážky, jakých se list u Vaší Excellencí, ne sice ony,
+                    ježto náleží v úředním běhu věcí, kterými ovšem nemohl býti znám, ale takové,
+                    které by pocházely ze samého způsobu a směru mé posavadní činnosti. Nabyv
+                    přesvědčení, že jsem se v domnění svém zcela nemýlil, nejsem nad tím zaražen.
+                    Kdybych ze své slabosti chtěl se proto oddati citům nepříjemným, byl by mi list
+                    Vaší Excellencí, kterého si v tomto ohledu co drahého pokladu vážím, dostatečnou
+                    mravní posilou.<lb/>Více než stvrzení v tomto domnění bylo by mě bdelo [sic!],
+                    kdybych se byl měl obávati, že se smýšlení Vaší Excellencí o mně změnilo. Majíť
+                    sice duchovní zájemnosti, kterým člověk život svůj věnuje cenu a půvab svůj
+                    předně samy o sobě; ale jest to velikou posilou, smíti se oddati vědomí, že cíl
+                    a směr, jejž jsme uznali za pravý, ne-li ve všech stránkách a měrách svých, však
+                    ve vlastní své podstatě uznáván a pěstován jest od muže jak duchem silnějšího i
+                    postavením svým povolaného k hlubšímu a všestrannějšímu pojímání věcí. Mně bylo
+                    šťastným řízením přáno, býti jaksi pojat v průvod na životní draze Vaší
+                    Excellencí; hvězda ta nesmí mně blednouti, aby se to nedotklo mého vnitřka,
+                    zájemností mně nejdražších na světě. Tím prosím abyste ráčili omluviti ten neb
+                    onen třeba ostřejší výraz v dopisu mém ku panu <rs type="person" ref="#helfert-joseph-alexander">státnímu sekretáři</rs>.<lb/>Věda nyní,
+                    že byli jsem čím Vaší Excellencí milý, že v tom žádné bolestné ztráty obávati se
+                    nemusím, jsem tím potěšen tak, jak byl úmysl Vaší Excellencí, mě listem svým
+                    potěšiti a posíliti, k odevzdání se přitom pokojně blahé naději, že i hmotným
+                    potřebám mým a ku potřebné cti před světem (jež příčin vlastních nezná) náleží,
+                    co moudrých a milostivých rukou se nachází.</p>
+                <p>Vaší Excellencí<lb/>s povinnou hlubokou úctou<lb/>oddaný<lb/>V. V. Tomek</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

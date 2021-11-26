@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="gruenne-an-thun-1853-09-11-a3-xxi-d231.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/gruener-an-schwarzenberg-1850-05-30-a3-xxi-d53.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/gruenwald-an-thun-1853-07-07-a3-xxi-d211.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#gruenne-karl-ludwig" role="sender:beamter">Karl
+                        Grünne</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_42ab28f20850d0a6784eb688c875d846">Schönbrunn</rs>, <date when-iso="1853-09-11">11. September
+                    1853</date>
+                </title>
+            <title type="label">Karl Grünne an Leo Thun, Schönbrunn, 11. September 1853</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DBF8-7</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D231</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Obersthofmeister Karl Grünne übermittelt Leo Thun den Dank Kaiser Franz
+                            Josephs für Thuns Glückwünsche zur bevorstehenden Vermählung des
+                            Kaisers.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Beilage: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d231_1">Kuvert mit handschriftlichem
+                                Vermerk.</tei:ref>
+                        </p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#gruenne-karl-ludwig">Karl Grünne</rs>
+                    <settlement ref="#place_42ab28f20850d0a6784eb688c875d846">Schönbrunn</settlement>
+                    <date when-iso="1853-09-11">11. September
+                    1853</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kaiser Franz Joseph</term>
+                </index>
+                <p>Schönbrunn, 11. September 1853</p>
+                <p>Hochgeborner Graf,</p>
+                <p>Auf das geehrte Schreiben vom 12. dieses habe ich das Vergnügen Euer Excellenz
+                    erwidern zu können, daß <rs type="person" ref="#franz-joseph">Seine Majestät der
+                        Kaiser</rs> die Äußerung Ihrer freudigen Theilnahme und Ihre
+                    Glückwünsche zu Allerhöchstdessen bevorstehender Vermählung mit huldreichem
+                    Wohlwollen entgegen zu nehmen geruhten.<lb/>Ich ergreife diese Gelegenheit, um
+                    Ihnen den Ausdruck der ausgezeichneten Hochachtung zu erneuern, mit welcher ich
+                    die Ehre habe zu sein</p>
+                <p>Euer Excellenz</p>
+                <p>ergebener Diener<lb/>Grünne</p>
+                <p/>
+                <div xml:id="D231_1" type="enclosure">
+                    <p/>
+                    <p>Kaiser und Erzherzog Albrecht</p>
+                    <p>Nebst dem Handbilletchen auch der Dank des <rs type="person" ref="#franz-joseph">Kaisers</rs> für Leos Glückwunsch zur Verlobung 1853. (durch
+                            <rs type="person" ref="#gruenne-karl-ludwig">Graf Grünne</rs> an Leo
+                            bestellt)<note xml:id="note_1">Notiz von unbekannter Hand [Thun?] auf
+                            dem Kuvert.</note>
+                    </p>
+                    <p>Tetschen</p>
+                </div>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

@@ -1,0 +1,22 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+              <title type="main">Über das Projekt</title>
+              <title type="sub">Die Korrespondenz von Leo von Thun-Hohenstein</title>
+           </titleStmt>
+           <publicationStmt>
+              <p>Publication Information</p>
+           </publicationStmt>
+           <sourceDesc>
+              <p>Information about the source</p>
+           </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+           <p>Demo einer statischen Seite. Für die richtige Thun-Edition siehe bitte https://thun-korrespondenz.acdh.oeaw.ac.at/</p>
+        </body>
+    </text>
+  </TEI>
+  

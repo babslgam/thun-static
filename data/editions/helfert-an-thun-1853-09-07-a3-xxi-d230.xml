@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="helfert-an-thun-1853-09-07-a3-xxi-d230.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/helfert-an-thun-1853-08-27-a3-xxi-d228.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/helfert-an-thun-1853-09-14-a3-xxi-d232.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#helfert-joseph-alexander" role="sender:beamter">Joseph
+                        Alexander Helfert</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1853-09-07">7. September 1853</date>
+                </title>
+            <title type="label">Joseph Alexander Helfert an Leo Thun, Wien, 7. September 1853</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DBC5-0</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D230</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Unterstaatssekretär Joseph Alexander Helfert informiert Leo Thun über den
+                            Stand anstehender Personalentscheidungen. Er sendet dem Minister
+                            außerdem einige Akten zur Kenntnisnahme und bittet um weitere
+                            Weisungen.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#helfert-joseph-alexander">Joseph Alexander Helfert</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when-iso="1853-09-07">7. September 1853</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Gymnasien</term>
+                    <term>Ministerium für Kultus und Unterricht</term>
+                    <term>Universität Innsbruck</term>
+                    <term>Lombardo-Venetien</term>
+                </index>
+                <p>Euer Exzellenz!</p>
+                <p>Die mir zugekommenen Aufträge in dem so eben empfangenen verehrten Schreiben
+                    setze ich sogleich in Vollzug oder treffe die Einleitungen dazu und bitte nur um
+                    geneigte Entschuldigung für die flüchtige Eile, in welcher ich folgendes
+                    beifüge:<lb/>Herabgelangt sind die allerhöchsten Entschließungen<lb/>wegen
+                    Stadtconvictes <hi rend="ul">günstig</hi>
+                    <lb/>
+                    <rs type="person" ref="#malecki-antoni">Malecki</rs> und <rs type="person" ref="#zielonacki-josephat">Zielonacki</rs>
+                    <hi rend="ul">günstig</hi>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prager</rs>
+                    Realschule bezüglich Pachta‘sche Haus <hi rend="ul">aufschiebend</hi>
+                    <lb/>
+                    <rs type="person" ref="#ambrosoli-franz">Ambrosoli</rs>
+                    <hi rend="ul">ungünstig</hi>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_6e00929feb7fb02acaa548f47f67c61c">Grätzer</rs>
+                    Gymnasium <hi rend="ul">aufschiebend</hi>
+                    <lb/>Ich nehme mir die Freiheit
+                    beizuschließen:<lb/>a) zwei Stücke, <rs type="person" ref="#carrara-franz">Carrara</rs> betreffend, aus zwei verschiedenen Departements nach
+                    verschiedener Richtung auseinandergehend; meine unvorgreifliche Meinung wäre für
+                    Niederschlagung der neuerdings aufgewärmten, gewiß zum größten Theile am
+                    Parteihaß angeregten oder vergrößerten Reminiscenzen.<lb/>b) Einen Erlaß des
+                    niederösterreichischen Statthalters, samt Anhang eines Conceptes von <rs type="person" ref="#becker-moritz">Becker</rs> darüber, welchen ich blos mit Hinsicht
+                    auf dasjenige, was Euer Exzellenz jüngst in <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> an
+                    Minister <rs type="person" ref="#bach-alexander">Bach</rs> und das Civil- und
+                    Militärgouvernement zu erlassen fanden, übersende; ich habe mir beides von
+                        <rs type="person" ref="#becker-moritz">Becker</rs>, mit dem ich zufällig darauf
+                    zu sprechen kam, auf einige Tage erbeten.<lb/>Mit der Bitte den Ausdruck meiner
+                    ergebensten Hochachtung und Verehrung geneigtest zu genehmigen, nehme ich mir
+                    die Freiheit mich zu zeichnen</p>
+                <p>Euer Exzellenz</p>
+                <p>gehorsamster<lb/>Helfert</p>
+                <p>Wien, 7. September 1853</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

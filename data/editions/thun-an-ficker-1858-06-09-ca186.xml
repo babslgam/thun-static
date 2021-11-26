@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-ficker-1858-06-09-ca186.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-ficker-1857-08-15-ca184.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-ficker-1858-06-19-ca178.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#ficker-julius" role="recipient">Julius
+                        Ficker</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1858-06-09">9. Juni 1858</date>
+                </title>
+            <title type="label">Leo Thun an Julius Ficker, Wien, 9. Juni 1858</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA2D-E</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Institut für Österreichische Geschichtsforschung</institution>
+                        <repository>Archiv</repository>
+                        <idno>Nachlass Ficker. Thun, 10</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun bittet Julius Ficker um Auskunft über den Historiker Gottfried
+                            Muys. Der Minister möchte diesen an die Universität Lemberg berufen.
+                            Professor Joseph Aschbach hat sich für Muys ausgesprochen und Thun
+                            glaubt sich zu erinnern, dass auch Ficker sich vor Jahren für Muys stark
+                            gemacht hatte. Thun hat allerdings eine anonyme Warnung aus Bonn
+                            erhalten und möchte nun Näheres über Muys' Lebenswandel und
+                            wissenschaftliches Werk in Erfahrung bringen.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Auf der Rückseite des Briefes eine Notiz von Julius Ficker.</p>
+                        <p>Verweis auf A3 XXI D453.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when-iso="1858-06-09">9. Juni 1858</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#ficker-julius">Julius Ficker</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Geschichtswissenschaften</term>
+                    <term>Universität Lemberg</term>
+                </index>
+                <p>Wien den 9. Juni 1858</p>
+                <p>Werther Herr Professor!</p>
+                <p>Unter den Männern die Sie mir bei früheren Gelegenheiten für eine Berufung nach
+                        <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> empfohlen haben, war auch <rs type="person" ref="#muys-gottfried">Dr. Muys</rs>. Ich habe nun die Absicht ihn als
+                    Professor der Geschichte – namentlich für alte Geschichte – nach <rs type="org" ref="#org_0021">Lemberg</rs> in Antrag zu bringen. Auch
+                        <rs type="person" ref="#aschbach-joseph">Prof. Aschbach</rs> empfiehlt ihn
+                    sehr, und hat deshalb mit ihm eine vorläufige Verhandlung gepflogen. Schon vor
+                    einiger Zeit erhielt ich aus <rs type="place" subtype="place" ref="#place_6c1def5820cdde63de0c38dd673de4d6">Bonn</rs> eine anonyme Warnung.
+                    Anonyme Schreiben pflege ich einfach in den Papierkorb zu werfen. Ich erhalte
+                    nun heute die anliegende dringende Wiederholung. Ich sehe mich dadurch doch
+                    veranlaßt Ihre erprobte Gefälligkeit noch einmal in Anspruch zu nehmen, und Sie
+                    zu bitten, mir zu schreiben, ob Sie noch der Überzeugung sind, daß <rs type="person" ref="#muys-gottfried">Dr. Muys</rs> volles Vertrauen verdient oder
+                    falls Sie ihn persönlich nicht hinreichend kennen sollten, wer etwa als ein ganz
+                    verlässlicher Gewährsmann anzusehen sein dürfte.</p>
+                <p>Mit aufrichtiger Hochachtung<lb/>Ihr ergebener<lb/>Thun</p>
+                <p/>
+                <p>&lt;Herr Minister<lb/>Erkundigen Sie sich nochmals&gt;</p>
+                <note xml:id="note_1">Bemerkung von Ficker auf der Rückseite des Briefes.</note>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

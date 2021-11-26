@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="colloredo-an-thun-1856-07-02-a3-xxi-d382.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/chlumecky-an-thun-1860-06-12-a3-xxi-d590.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/corberon-an-thun-1851-01-20-a3-xxi-d103.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#colloredo-waldsee-franz-de-paula" role="sender:beamter">Franz
+                        de Paula Colloredo-Waldsee</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs>, <date when-iso="1856-07-02">2. Juli 1856</date>
+                </title>
+            <title type="label">Franz de Paula Colloredo-Waldsee an Leo Thun, Rom, 2. Juli 1856</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DC91-9</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D382</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der österreichische Botschafter in Rom, Franz de Paula Colloredo-Waldsee,
+                            berichtet über den schlechten Zustand des Palazzo Venezia. Der Palazzo
+                            wird als Sitz der österreichischen Botschaft genützt. Er hat den Kaiser
+                            bereits auf die notwendige Renovierung aufmerksam gemacht und dieser hatte
+                            sie bewilligt. Da Colloredo aber glaubt, dass es sehr schwierig und
+                            zeitaufwendig werden wird, die Renovierung von Wien aus zu planen und zu
+                            koordinieren, er aber auf einen repräsentativen Amtssitz angewiesen ist,
+                            bittet er darum, dass ihm in der Zwischenzeit ermöglicht werde, einen
+                            Teil des Palastes ohne große Planungen zu renovieren. Dazu benötigt er
+                            die Zusicherung von finanziellen Mitteln. Er bittet Thun daher um
+                            Unterstützung.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#colloredo-waldsee-franz-de-paula">Franz de Paula Colloredo-Waldsee</rs>
+                    <settlement ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</settlement>
+                    <date when-iso="1856-07-02">2. Juli 1856</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Ministerium des Äußern</term>
+                </index>
+                <p>Rom, den 2. July 1856</p>
+                <p>Euer Hochgeboren</p>
+                <p>Schreiben vom 21. Juny habe ich den 30. früh zu erhalten die Ehre gehabt.
+                        <rs type="person" ref="#wurzinger-karl">Prof. Wurzinger</rs> ist Bewohner des
+                    Venet. Pallastes, er hat also alsogleich das für ihn mir übersendete Schreiben
+                    erhalten und ist überglücklich, wie er es selbst auszudrücken die Ehre haben
+                    wird. Ich freue mich sehr über die getroffene Wahl. <rs type="person" ref="#wurzinger-karl">Wurzinger</rs> scheint mir sehr begabt und, ohne
+                    mir ein Urtheil erlauben zu dürfen, glaube ich, daß er dem in ihn gesetzten
+                    Vertrauen entsprechen wird.<lb/>Ich habe eine Angelegenheit, für die ich um Ihre
+                    gütige Befürwortung bitte. Auf von mir erstatteten Bericht über den Zustand, in
+                    den man leider den V. Pallast hier hat verfallen lassen, und der jede
+                    Vorstellung übersteigt, ist dem <rs type="person" ref="#franz-joseph">Kaiser</rs>
+                    Vortrag gemacht und von Seiner Majestät resolvirt worden, daß für die
+                    Conservation des venet. Pallastes in <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs> Sorge
+                    getragen und dem Ministerium der auswärtigen Angelegenheiten, der Finanzen und
+                    des Kultus und öffentlichen Unterrichtes Auftrag gegeben, die nöthigen Maßregeln
+                    zu treffen. Die erste von mir vorgeschlagene ist die Hierhersendung eines
+                    Architekten, um über den Zustand zu relationiren und dann Pläne usw. zur
+                    Herstellung zu entwerfen. Es scheint, daß dieser Gedanke Eingang gefunden hat.
+                    Es ist aber unzweifelhaft, daß dessen Ausführung viel Zeit erfordern wird,
+                    wahrscheinlich Jahr und Tag, bis die Pläne gemacht und angenommen sind, und
+                    sicher Jahre für die Arbeit, die, da sie nach allerhöchstem Befehle mit
+                    möglichster Sparsamkeit gemacht werden soll, nicht wird beschleunigt werden
+                    können.<lb/>Während dieser Jahre aber zu bleiben, ohne ein passendes Locale zu
+                    haben für die Representation, die von der k. Botschaft hier gefordert wird und
+                    gefordert werden muß, beschränkt zu sein auf die kleine Wohnung, die <rs type="person" ref="#esterhazy-von-galantha-moritz">Esterhazy</rs> hat herstellen und
+                    deren Einrichtung ich von ihm übernommen und abgelöst habe, scheint mir höchst
+                    unpassend und der Stellung hier nicht entsprechend. Ich habe daher einen zweiten
+                    Vorschlag gemacht, nämlich, daß die Regierung eine Summe vorstrecke,
+                    zurückzuzahlen durch Abzüge von meinem Gehalte, und daß ich mich dagegen
+                    verpflichte das allernöthigste herzustellen, sowohl was Reparationen des Hauses
+                    und Baulichkeiten, als meine Einrichtung betrifft. Diesen zweiten Vorschlag nun
+                    erlaube ich mir Ihnen zu empfehlen. Er tritt den weiteren nach Erhebung durch
+                    einen Architekten gewiß nöthig erachteten Arbeiten nicht entgegen, er macht es
+                    mir möglich bis zu Anfang und während dieser Arbeiten hier eine schickliche
+                    Stellung einzunehmen, was ich machen zu lassen wünsche, würde sich nur auf einen
+                    verhältnismäßig kleinen Theil des Pallastes erstrecken und würde so hergestellt
+                    werden, daß es bei den umfassenden späteren Ausführungen nicht nur nicht
+                    verloren, sondern mit Vortheil benützt werden könnte.<lb/>Entschuldigen Sie, daß
+                    ich Sie mit dieser Angelegenheit, die für mich und meine Stellung hier sehr
+                    wichtig ist, behellige und empfangen Sie, ich bitte, den Ausdruck meiner alten
+                    Anhänglichkeit und Ergebenheit</p>
+                <p>Colloredo</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

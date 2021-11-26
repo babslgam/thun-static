@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="toqueville-an-thun-1856-03-13-a3-xxi-d371.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/tomek-an-thun-konzept-od-ca1407.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/treitler-an-thun-1855-03-16-a3-xxi-d334.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#toqueville-alexis" role="sender:gelehrter">Alexis de
+                        Tocqueville</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_ccbee73cd81c7f42405e1920409247ec">Paris</rs>, <date when-iso="1856-03-13">13. März 1856</date>
+                </title>
+            <title type="label">Alexis de Tocqueville an Leo Thun, Paris, 13. März 1856</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-D9CF-8</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D371</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Alexis de Tocqueville empfiehlt seinen Neffen Hubert de Tocqueville dem
+                            Wohlwollen Leo Thuns. Jener weilt derzeit in Wien, wo er als Attaché der
+                            französischen Botschaft tätig ist. Tocqueville schildert seinen Neffen
+                            als intelligenten jungen Mann, der zwar etwas schüchtern, aber sehr
+                            wissbegierig, religiös und fleißig sei. Tocqueville erinnert Thun an
+                            ihre bereits sieben Jahre andauernde Freundschaft und bittet ihn, sich
+                            seines Neffen anzunehmen.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Französisch.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#toqueville-alexis">Alexis de Tocqueville</rs>
+                    <settlement ref="#place_ccbee73cd81c7f42405e1920409247ec">Paris</settlement>
+                    <date when-iso="1856-03-13">13. März 1856</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                </index>
+                <p>J'espère, Monsieur, que vous n'avez pas entièrement oublié un homme qui conserve
+                    votre précieux souvenir du rapport prolongé qu'il a eu avec vous. C'est cet
+                    espoir qui me porte à recommander à votre bienveillant aïeul <rs type="person" ref="#toqueville-hubert">mon jeune neveu</rs> qui est en ce moment à
+                        <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Vienne</rs> où il remplit sa fonction d'attaché
+                    dans votre ambassade; il porte mon nom et se nomme Mr. Son Excellence <rs type="person" ref="#toqueville-hubert">Hubert de Toqueville</rs>; je lui suis très
+                    attaché et il mérite l'attention que je lui porte pour ces excellentes qualités.
+                    Il est un jeune homme un peu timide, mais intelligent, très dévoué aux savoirs,
+                    religieux et travailleur; il désirait vraiment faire votre connaissance et
+                    j'espère qu'en mémoire de son oncle vous voulez bien le revoir avec un peu
+                    d'amitié, ce jeune homme est, en vérité, très digne de toutes les bontés que
+                    vous voulez bien avoir pour lui. Je suis charmé d'avoir eu cette occasion de me
+                    rappeler à votre souvenir et de vous prier de nouveau de croire à tous les
+                    sentiments de haute considération et d'amitié que j'ai depuis bientôt sept ans
+                    pour Vous.</p>
+                <p>Tocqueville</p>
+                <p>Paris le 13 mars 1856<lb/>19 place de la Madeleine</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

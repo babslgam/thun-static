@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="linde-an-thun_1856-01-04_a3-xxi-d394.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#linde-justin" key="linde-justin" role="sender:beamter">Justin Linde</rs> an
+                        <rs type="person" ref="#thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_e9cd6cbbbc3248f7a69252439ba3d6e6">Frankfurt</rs>, <date when-iso="1856-01-04">4. Januar 1856</date>
+                    <note>Der Brief trägt
+                        das Datum 4. Dezember 1856, allerdings ist davon auszugehen, dass sich Linde
+                        beim Schreiben, kurz nach Monats-/Jahreswechsel, im Monat geirrt hat. Der
+                        Inhalt des Briefs sowie die zahlreichen Verweise auf vorangegangene Briefe
+                        bzw. Hinweise in nachfolgenden Briefen sprechen für eine Datierung auf den
+                        4. Januar 1856. Bei der Ordnung des Nachlasses wurde diese falsche Datierung
+                        nicht bemerkt.</note>
+                </title>
+            <title type="label">Justin Linde an Leo Thun, Frankfurt, 4. Januar 1856</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p/>
+            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000D-F7DE-3</tei:idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D394</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Jurist und Staatsrat Justin Linde berät Leo Thun in einigen
+                            Personalfragen. Zunächst bedankt sich Justin Linde für Thuns Brief und
+                            drückt sein Bedauern über den Unfall aus, der Thun zugestoßen ist.
+                            Anschließend teilt er dem Minister mit, dass er sich bei verschiedenen
+                            Personen über Emil Rössler und Georg Blackert informiert habe und die
+                            gewünschten Informationen über diese hoffentlich bald liefern könne. Zum
+                            jetzigen Zeitpunkt könne er über Rössler nur sagen, dass er in Göttingen
+                            weile und dort Umgang mit Heinrich Zachariae pflege. Dieser sei als
+                            Anhänger der Gothaer Partei bekannt und habe sich mehrfach für die
+                            Interessen dieser Partei publizistisch geäußert. Die Partei habe es auch
+                            darauf abgesehen, an den österreichischen Universitäten Fuß zu fassen.
+                            Aber Linde ist gewiss, dass Thun die Universitäten vor solchen Männern
+                            bewahren und die Lehrstühle mit zuverlässigen Männern besetzen werde.
+                            Einen Beweis seiner Kraft und seiner Haltung habe Thun, nach Ansicht von
+                            Linde, durch den Abschluss des Konkordats geliefert, das die Zukunft
+                            Österreichs auf ewig sichern werde. Abschließend empfiehlt er einen
+                            Kandidaten für einen Lehrstuhl der Deutschen Reichs- und
+                            Rechtsgeschichte, über den er in einer (nicht erhaltenen) Anlage näheres
+                            berichtet. Außerdem legt er ein (ebenfalls nicht erhaltenes) Gesuch
+                            eines jungen Philologen für eine Anstellung an einem österreichischen
+                            Gymnasium bei.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#linde-justin">Justin Linde</persName>
+                    <date when-iso="1856-01-04">4. Januar 1856</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#thun-hohenstein-leo">Leo Thun</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Gymnasien</term>
+                    <term>Universität</term>
+                    <term>Rechtswissenschaften</term>
+                </index>
+                <p>Frankfurt 4. Dezember [sic! richtig Januar] 1856</p>
+                <p>Hochgeborner Graf,<lb/>Gnädiger Herr!</p>
+                <p>Euer Excellenz geehrtes <ref target="thun/thun-korrespondenz/Bundesarchiv_Koblenz/thun-an-linde_1855-12-26_CA1130.xml">Schreiben vom 26. vorigen Monats [Dezember 1855]</ref>
+                    <note>Gemeint ist Leo Thun an Justin Linde, 26. Dezember 1855.
+                        Bundesarchiv Koblenz, N 1759, 51. Thun bittet darin Linde um Auskunft über
+                        Georg Blackert, der sich um eine Stelle an einer österreichischen
+                        Universität beworben habe. Der Brief Thuns an Linde war ursprünglich einem
+                        Schreiben Thuns an Bernhard Rechberg, dem Bundespräsidialgesandten in
+                        Frankfurt, beigelegt: Leo Thun an Bernhard Rechberg-Rothenlöwen, 26.
+                        Dezember 1855. ÖNB, Handschriftenabteilung, Autogr. 458/20-3.</note>hat mich
+                    schon darum schon außerordentlich freudig überrascht, weil es mir die Gewißheit
+                    brachte, daß Hochdieselben von den Folgen eines Unfalls glücklich befreit sind,
+                    der meine innigste Theilnahme und Besorgnis erregt hat. Mir blieb, wie allen
+                    Ihren entfernten Verehrern, nichts übrig, als dafür zu beten, daß Gott Sie dem
+                    Kaiser und dem Reiche noch lange erhalte, und nun bin ich im Herzen froh, für
+                    die Erfüllung dieser Bitte danken zu können.<lb/>Gleichzeitig mit dem geehrten
+                    Schreiben Eurer Excellenz an mich, theilte mir <rs type="person" ref="#rechberg-rothenloewen-bernhard" key="rechberg-rothenloewen-bernhard">Herr Graf Rechberg</rs> das <ref target="thun/thun-korrespondenz/Oesterreichische_Nationalbibliothek/thun-an-rechberg_1855-12-26_CA910.xml"> Schreiben</ref>
+                    <note>Vgl. Leo Thun an Bernhard
+                        Rechberg-Rothenlöwen, 26. Dezember 1855.</note>wegen des <rs type="person" ref="#roessler-emil" key="roessler-emil">Dr. Rößler</rs> mit und sprach den Wunsch aus,
+                    Hochdemselben deshalb direct und unmittelbar bald die gewünschte Aufklärung zu
+                    geben. Ich habe deshalb um einige nähere Notizen mich an eine zuverlässige
+                    Quelle gewendet, bin aber so frei, jetzt schon einige allgemeine Bemerkungen
+                    beizulegen. Daß der <rs type="person" ref="#roessler-emil" key="roessler-emil">Herr Dr. R[ößler]</rs>
+                    sich in <rs type="place" subtype="place" ref="#place_bb924613631a24955ccdde82d6af5cc2">Göttingen</rs> an die Seite des bekannten <rs type="person" ref="#zachariae-heinrich-albert" key="zachariae-heinrich-albert">Prof. Zachariä</rs> gesetzt, ist
+                    jedenfalls mehr als auffallend. Als im Jahre 1850 Ihr Herr <rs type="person" ref="#thun-hohenstein-friedrich" key="thun-hohenstein-friedrich">Bruder</rs> hier die schwierige
+                    Aufgabe zu lösen überkam, die Bundesversammlung zu reactiviren, und ich deshalb
+                    über die dabei entscheidenden Fragen das erste Heft meines Archivs für
+                    öffentliches Recht erscheinen ließ<note>Justin Balthasar Linde,
+                        Betrachtungen über die wichtigsten Fragen der Gegenwart auf dem Gebiet des
+                        öffentlichen deutschen Bundesrechts (Archiv für das öffentliche Recht des
+                        deutschen Bundes, Heft 1), Gießen 1850.</note>, trat jener <rs type="person" ref="#zachariae-heinrich-albert" key="zachariae-heinrich-albert">Zachariä</rs> als Vorkämpfer der
+                    Gothaer gegen dieses Beginnen in einer geharnischten Schrift: „die
+                    Rechtswidrigkeit der versuchten Reactivirung der im Jahre 1848 aufgehobenen
+                    Bundesversammlung, Götting 1850“ auf, wogegen ich dann weiter in einer anonymen
+                    Schrift: „Zachariäs und Pfeiffers Würdigung und Rechtswidrigkeit. Frankfurt
+                    1850“ erwiderte. Daß diese Partei nun noch immer durch Wort und Schrift im
+                    Gothaismus Geschäfte macht, ist thatsächlich; und es sind die Folgen nicht
+                    abzusehen, wenn diese Partei ihren Sauerteig immer neu einzumengen, Gelegenheit
+                    hat. Auf <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> aber und seine
+                    Bildungsanstalten ist es dabei hauptsächlich abgesehen. Und seit es Eurer
+                    Excellenz gelungen, Ihr Ministerium mit der weltgeschichtlichen Thatsache des
+                    Concordats auf ewige Zeiten auszuzeichnen – denn von dem Augenblicke <hi rend="ul">dieser</hi> großen Handlung an wird es eine Wahrheit bleiben
+                    Austria Erit In Orbe Ultima – fängt die Lüge und das Verderben an, mit der
+                    äußersten Kraftanstrengung die letzten Versuche zu machen, den Boden zu
+                    unterwühlen. Da haben Eure Excellenz allerdings noch eine große Aufgabe zu
+                    lösen; die aber in defensiver Stellung leicht lösbar ist; und ich werde mich
+                    glücklich schätzen, mit meinen geringen Kräften dabei Hochdenselben nützlich
+                    sein zu dürfen. Gelingt es Eurer Excellenz die Katheder mit zuverlässigen
+                    Männern zu besetzen, dann nur werden Sie Freude im Dienst und den beruhigendsten
+                    Trost am Abend des Lebens und den reichsten Segen noch im Grabe
+                    ärndten.<lb/>Über Herrn <rs type="person" ref="#blakert-georg" key="blakert-georg">Blakert</rs> hoffe
+                    ich, Hochdenselben in einigen Tagen ausführlich Mittheilung machen zu können und
+                    werde mir dann erlauben, auch das Gesuch eines andern braven jungen Philologen
+                    um Anstellung an einem Gymnasium in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs>
+                    beizuschließen.<lb/>In dem geehrtesten Schreiben vom September vorigen Jahres
+                        <note>Vgl. <ref target="thun/thun-korrespondenz/Bundesarchiv_Koblenz/thun-an-linde_1855-09-11_CA1128.xml">Leo Thun an Justin Linde, 11. September 1855</ref>.</note>bemerkten
+                    Hochdieselben, daß für Vertreter des deutschen Rechts und seiner Geschichte noch
+                    immer Gelegenheit da sei. Ich bringe in der Anlage<note>Dieser
+                        Brief ist nicht erhalten.</note> einen Gelehrten in Vorschlag, womit ich
+                    ganz besonders Ehre einzulegen gewiß bin, und wünsche nur, daß es möglich ist,
+                    mir darüber recht bald eine vorläufige Entschließung geben zu können, damit der
+                    Herr nicht etwa anderwärts fest acquirirt wird. Er wird eine Zierde jeder
+                    katholischen Universität werden. Schließlich erlaube ich mir meine innigsten
+                    Glückwünsche zum Jahreswechsel darzubringen, und um die Bewahrung des hohen
+                    Wohlwollens auch für die Zukunft zu bitten, und zeichne mit dem Ausdruck
+                    unbegrenzter Verehrung als</p>
+                <p>Eurer Excellenz ganz gehorsamster<lb/>Dr. Linde</p>
+
+            </div>
+
+        </body>
+    </text>
+
+</TEI>

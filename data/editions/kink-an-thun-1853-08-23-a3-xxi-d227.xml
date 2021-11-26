@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="kink-an-thun-1853-08-23-a3-xxi-d227.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/ketteler-an-thun-1860-01-17-a3-xxi-d550.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/kink-an-thun-1853-09-20-a3-xxi-d227a.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#kink-rudolph" role="sender:beamter">Rudolf Kink</rs> an
+                        <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1853-08-23">23.
+                        August 1853</date>
+                </title>
+            <title type="label">Rudolf Kink an Leo Thun, Wien, 23. August 1853</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DB7E-2</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D227</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Ministerialkonzipist Rudolf Kink berichtet Leo Thun über den Stand seiner
+                            Forschungen zur Geschichte der Wiener Universität. Kink hofft, die
+                            zweite Abteilung des vierten Bandes in zwei Wochen abgeschlossen zu
+                            haben. Darin wird er in gebotener Kürze die verschiedenen Reformversuche
+                            von der Josephinischen Ära bis zum Jahr 1848 darstellen. Er glaubt, dass
+                            er so Thuns Auftrag am besten gerecht werde. Außerdem berichtet Kink,
+                            dass der Druck der übrigen Bände inzwischen weit fortgeschritten
+                            sei.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Unter dieser Signatur befinden sich weitere vier Briefe Kinks, die
+                            dieselbe Angelegenheit betreffen:<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/kink-an-thun-1853-09-20-a3-xxi-d227a.xml">Rudolf Kink an Leo Thun. Wien, 20. September 1853.</ref>
+                            <lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/kink-an-thun-1853-09–26-a3-xxi-d227b.xml">Rudolf Kink an Leo Thun. Wien, 26. September 1853.</ref>
+                            <lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/kink-an-thun-1853-09-27-a3-xxi-d227c.xml">Rudolf Kink an Leo Thun. Wien, 27. September 1853.</ref>
+                            <lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/kink-an-thun-1853-10-06-a3-xxi-d227d.xml">Rudolf Kink an Leo Thun. Wien, 6. Oktober 1853.</ref>
+                        </p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#kink-rudolph">Rudolf Kink</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when-iso="1853-08-23">23.
+                        August 1853</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Universität Wien</term>
+                    <term>Geschichtswissenschaften</term>
+                </index>
+                <p>
+                    <hi rend="ul">Zur Geschichte der Wiener Universität</hi>
+                </p>
+                <p>Die beiliegenden zwei Hefte<note xml:id="note_1">Die erwähnten Hefte sind hier
+                        nicht vorhanden.</note> ergänzen die I. Abtheilung des IV. Buches. Die
+                    nächstfolgende II. (Schluß)Abtheilung hoffe ich in 14 Tagen beendiget zu haben,
+                    weil ich glaube, hierin sehr kurz sein zu können und zu müssen.<lb/>Denn
+                    einerseits sind die nachgefolgten Systeme bis 1848 nur Spielarten des
+                    Josefinischen Studiensystems, bemüht unter Festhaltung des obersten Principes
+                    den inhärirenden Mängeln desselben zu entkommen, aber doch ihnen immer wieder
+                    verfallend, weil die Entschlossenheit, den Grundfehler abzulegen,
+                    mangelte.<lb/>Andererseits ist das Wirken einer nächstvergangenen Generation
+                    immer ein mißlicher, in der Regel mit Recht zurückgewiesener Stoff für eine
+                    ernste Geschichtsschreibung. Ich werde daher nur die Hauptgrundzüge der
+                    verschiedenen Experimente im höhern Studienwesen berühren und daran eine kurze
+                    Übersicht der Reformversuche vor 1848 reihen, welche freilich an die Fabel vom
+                    Strauß erinnern, der so oft ankündete, daß er nun fliegen werde, dabei aber doch
+                    sachte auf dem Erdboden verblieben ist.<lb/>Ich glaube dadurch, der von Euer
+                    Excellenz mir gestellten Aufgabe am besten zu entsprechen.<lb/>Was den Fortgang
+                    der Drucklegung betrifft, so ist dieselbe so weit vorgeschritten, daß binnen
+                    drei Wochen das I., II. und III. Buch, das ist das gesammte Manuskript
+                    ausschließlich desjenigen, welches in Euer Excellenz Händen sich befindet,
+                    gedruckt sein wird; indem <rs type="org" ref="#org_0043">Gerold</rs> die
+                    Vertragsbedingungen überbietet und statt 3, 4-5 Bogen wöchentlich fertig bringt.
+                    Bis jetzt liegen 24 Druckbogen (14 Bogen Text und Anmerkungen, 10 Bogen
+                    Beilagen) bereit.</p>
+                <p>Kink</p>
+                <p>Am 23. August 1853</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

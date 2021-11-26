@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="stellungnahme-clam-handeslrecht-1854-07-07-a3-xxi-d265.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/steger-an-einen-professor-1860-07-25-a3-xxi-d599.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/stimmungsbericht-rom-1856-05-16-a3-xxi-d381.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stellungnahme von <rs type="person" ref="#clam-martinic-heinrich-jaroslav">Heinrich
+                        Clam-Martinitz</rs> zu einem Gesetzesentwurf für ein neues
+                        Handelsrecht<lb/>
+                    <date when-iso="1854-07-07">7. Juli 1854</date>
+                </title>
+            <title type="label">Stellungnahme von Heinrich Clam-Martinitz zu einem Gesetzesentwurf für ein neues Handelsrecht 7. Juli 1854</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA6B-8</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D265</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Heinrich Clam-Martinitz äußert sich zu einem Entwurf des
+                            Justizministeriums für ein Handels- und Gewerbegesetze für den
+                            österreichischen Kaiserstaat. Clam spricht sich entschieden gegen den
+                            Entwurf aus. Die angestrebten Maßnahmen werden aus seiner Sicht zu einem
+                            Nachlassen der Produktion von Gewerbeprodukten führen und auch die
+                            Gewerbetreibenden verarmen. Vor allem werde der Gewerbetreibende durch
+                            den Entwurf zum Fabrikanten, was auch zum Nachteil für die Arbeiter
+                            werde. Auch die Innungen und Genossenschaften würde dem nicht
+                            entgegenwirken können. Clam-Martinitz glaubt zwar, dass einzelne
+                            Veränderungen nichts an der Qualität des Gesetzesentwurfes ändern würden,
+                            dennoch nennt er einige Punkte, die für ein sinnvolles Handels- und
+                            Gewerbegesetz notwendig seien.</p>
+                    </msContents>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Neoabsolutismus</term>
+                </index>
+                <p>
+                    <hi rend="italic">Dieses Dokument wurde noch nicht transkribiert.</hi>
+                </p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

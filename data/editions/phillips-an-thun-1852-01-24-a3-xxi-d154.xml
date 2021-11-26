@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="phillips-an-thun-1852-01-24-a3-xxi-d154.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/phillips-an-ministerialrat-1852-01-10-a3-xxi-d152.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/phillips-an-thun-1852-02-24-a3-xxi-d156.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#phillips-george" role="sender:gelehrter">George
+                        Phillips</rs> an <rs type="person" ref="#thun-hohenstein-leo">Leo
+                        Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1852-01-24">24.
+                        Januar 1852</date>
+                </title>
+            <title type="label">George Phillips an Leo Thun, Wien, 24. Januar 1852</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DAEC-6</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D154</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Jurist George Phillips teilt Leo Thun die gewünschten Informationen
+                            über Michael Fertig mit, die er bei einem Bekannten in Erfahrung bringen
+                            konnte. Fertig ist ein möglicher Kandidat für eine Professur der
+                            Geschichte an einer österreichischen Universität. Phillips gibt in dem
+                            Brief mehrere Passagen aus dem Schreiben seines Vertrauensmanns wieder.
+                            Dieser betont zunächst, dass Fertig die Stelle wohl nicht annehmen
+                            werde, da er bereits im fortgeschritten Alter und durch Heirat
+                            finanziell unabhängig sei. Der Schreiber ist jedoch davon überzeugt,
+                            dass Fertig durch seine umfassenden Kenntnisse mehr als geeignet wäre,
+                            da er nicht nur in der alten Geschichte, sondern auch besonders in der
+                            klassischen Philologie äußerst bewandert sei. Was Fertigs kirchliche und
+                            katholische Haltung betrifft, so hält ihn der Vertrauensmann jedoch
+                            nicht für uneingeschränkt empfehlenswert. Der Vertrauensmann nützte
+                            außerdem die Gelegenheit, um den jungen Philologen Georg Bippart zu
+                            empfehlen. Phillips ist indes davon überzeugt, dass Bippart zwar ein
+                            guter Philologe sei, er glaubt jedoch, dass er für die betreffende
+                            Professur nicht geeignet sei, sondern lediglich für die Zukunft als
+                            Kandidat in Frage käme.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#phillips-george">George Phillips</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when-iso="1852-01-24">24.
+                        Januar 1852</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Personalvermittlung</term>
+                    <term>Geschichtswissenschaften</term>
+                </index>
+                <p>Hochgeborner Herr Graf!</p>
+                <p>Euer Excellenz beehre ich mich im Nachfolgenden in Betreff des <rs type="person" ref="#fertig-michael">Dr. Fertig</rs> Bericht zu erstatten. Meine
+                    Erkundigungen in Betreff desselben, die ich bei einem äußerst gewissenhaften
+                        Manne<note xml:id="note_1">Dabei handelt es sich wohl um <rs type="person" ref="#dirschedl-johann-baptist">Johann Baptist Dirschedl</rs>.
+                        Dieser war damals Direktor des Gymnasiums in Passau, an dem Fertig
+                        unterricht hat. Aus den von Phillips in der Folge mehrfach zitierten
+                        Passagen lässt sich erkennen, dass die Auskunftsperson Phillips' Direktor
+                        des Gymnasiums war. Denn er spricht etwa davon, dass er bei einem Abgang von
+                        Fertig die Stelle neu besetzen müsse. Außerdem war Dirschedl der einzige
+                        Vertreter aus Passau bei der von ihm erwähnten Versammlung deutscher
+                        Philologen und Schulmänner. Vgl. <ref target="https://books.google.at/books?id=PfVbAAAAcAAJ">Verhandlungen der zwölften Versammlung deutscher Philologen,
+                            Schulmänner und Orientalisten in Erlangen vom 30. September bis 3.
+                            October 1851, Erlangen 1852.</ref>
+                    </note> eingezogen habe, sind nicht
+                    ganz nach meinem Wunsche ausgefallen, indem die Bedingung, unter welcher allein
+                    ich ihn zu einer Professur der Geschichte empfehlen könnte, nicht vorhanden ist.
+                    Doch ich lasse meinen Berichterstatter selbst sprechen:<lb/>„Ihre wichtige
+                    Anfrage vom 18. dieses will ich Ihrem Vertrauen entsprechend mit möglichster
+                    Gründlichkeit, der Wichtigkeit der Sache selber jedoch mit aller Offenheit zu
+                    beantworten trachten. Die Beobachtungen und Anschauungen, die ich während des
+                    sechsjährigen Aufenthaltes <rs type="person" ref="#fertig-michael">Dr. Fertigs</rs>
+                    an unserer Anstalt zu machen Gelegenheit genug gehabt haben dürfte, sollen die
+                    Grundlagen meines Urtheils bilden.“<lb/>„1. Ich glaube nicht, daß <rs type="person" ref="#fertig-michael">Dr. Fertig</rs> die fragliche Stelle annehmen
+                    werde. Er steht bereits im 51. Lebensjahre und ist ein wohlhabender Mann. Zudem
+                    hat er vor 3 Jahren hier eine reiche Braut gefunden; nun lebt er mit seinem
+                    Schwiegervater dahier ein so glückliches und gemüthliches Familienleben, daß ich
+                    nicht glauben kann, er werde diese angenehmen Verhältnisse so leicht verlassen.
+                    Auch glaube ich nie eine besondere Sympathie für <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs>
+                    an ihm bemerkt zu haben, viel eher das Gegentheil.“<lb/>„2. Was die Kenntnisse
+                    anbelangt, so wäre <rs type="person" ref="#fertig-michael">Dr. Fertig</rs> ganz der
+                    Mann für diesen Posten. Er lehrt jetzt in seiner Klasse <hi rend="ul">alte</hi>
+                    Geschichte ausgezeichnet, und ich zweifle nicht, daß er auch die allgemeine
+                    ebenso gut vorzutragen im Stande ist, wenngleich sein fränkischer Dialekt ihn
+                    den hiesigen Schülern für den Anfang etwas unverständlich macht und sein
+                    mündlicher Vortrag etwas Eigenthümliches hat. Außerdem ist er in der classischen
+                    Philologie ausnehmend bewandert, an hiesiger Anstalt wohl der beste Philolog und
+                    selbst im Sanskrit gründlich gebildet, weswegen ihn auch die <rs type="org" ref="#org_0064">Würzburger Universität</rs> zur
+                    Anerkennung seiner trefflichen Übersetzung und gelehrten Erklärung einer Episode
+                    aus dem Mahabarata<note xml:id="note_2">Vgl. <ref target="http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11343104-9">Michael Fertig, Mahābhārata. Der Raub der Draupadî, der Gattin der fünf
+                            Pândawas aus dem Indischen in den Versmaßen der Urschrift übersetzt,
+                            Würzburg 1841</ref>.</note> 1841 honoris causa mit dem Doktordiplom
+                    beehrt hat. Er gibt heuer am hiesigen Gymnasium zum ersten Mal Unterricht in
+                    Sanskrit mit vielem Erfolge.“<lb/>„3. Was aber seine kirchliche, katholische
+                    Gesinnung betrifft, so glaube ich nach reiflicher Überlegung und ernstlichem
+                    Gebete entschieden aussprechen zu müssen, daß ich in dieser Beziehung <rs type="person" ref="#fertig-michael">Dr. Fertig</rs> für diese Stellung <hi rend="ul">nicht</hi> für geeignet halte. Directe und auffallende Beweise von
+                    Antikirchlichkeit kann ich nicht aufführen, aber auch gar keine für seine
+                    Kirchlichkeit. Er war einige Zeit Candidat der Theologie, verließ sie und steht
+                    wie so viele, ja die meisten Philologen, auf <hi rend="ul">antik</hi>philologischem Standpunkte der Bildung, und daher getraue ich mir für
+                    den Geist, in welchem er die Geschichte des Mittelalters oder der Reformation
+                    vortragen würde, nicht zu garantiren; wenigstens ist ihm das gesammte Alterthum
+                    in Vorbereitung auf Christus nie und nirgends noch erschienen. Ihm ist das
+                    Höchste in der Geschichte der römische <hi rend="ul">Staat</hi> und seine
+                    politische Entwicklung. Das zu zeigen versteht er meisterlich. Ein christliches
+                    Element aber findet sich nicht, das glaube ich bestimmt aussprechen zu können;
+                    für das katholische Prinzip wird er sicher keine Lanze einlegen, geschweige
+                    brechen: eher für die liberale Parthei und ihre Ansichten.“<lb/>„Übrigens führt
+                    Herr <rs type="person" ref="#fertig-michael">Dr. Fertig</rs> ein gelehrtes
+                    zurückgezogenes, abgeschlossenes Leben seit langer Zeit, wodurch sein Äußeres
+                    und seine Manieren etwas Schroffes und Hartes verrathen, das seinem Herzen zwar
+                    fremd ist, aber für die Stellung im historisch-philologischen Seminar manche
+                    Schwierigkeit bieten dürfte.“<lb/>„So erscheint mir die Sache, auch nachdem ich
+                    heute bei der heiligen Messe sie Gott nochmals empfohlen habe. Zur Ehre <rs type="place" subtype="country" ref="#place_5afc76bc69955ce317651a3dc1dbb0d6">Bayerns</rs> wünschte ich die Berufung sehr, und mir würde
+                    eine Stelle leer, worauf schon lange so manche alte verdiente Lehrer warten;
+                    fragen Sie mich aber über katholische Gesinnung und kirchlichen Geist mit
+                    Freiheit und Klugheit gepaart, so glaube ich nicht anders antworten zu können,
+                    als es geschehen ist.“<lb/>„Nachschrift. Während ich mit der Abfassung
+                    beiliegenden Briefes beschäftigt war, kam unvermuthet von
+                        <rs type="place" subtype="place" ref="#place_3667cbbafb66c626f2c1d56c1bd96d69">Jena</rs> ein Schreiben. Ich legte es bei Seite und
+                    vollendete den Brief. Nun begann ich die Lesung mit der Unterschrift <rs type="person" ref="#bippart-georg">Dr. Georg Bippart</rs> außerordentlicher Professor
+                    in <rs type="org" ref="#org_0029">Jena</rs>. Den hatte ich auf der
+                    letzten Philologenversammlung in <rs type="place" subtype="place" ref="#place_bbaad88bd130e5dfe6c3cf185ce5b0be">Erlangen</rs> kennengelernt
+                    und ihm auf seine dringenden Bitten eine Audienz bei dem <rs type="person" ref="#urban-bonifaz-kaspar">Erzbischof in Bamberg</rs> erwirkt. Seine
+                    Bescheidenheit, womit er seinen Vortrag über die Metra beim Pindar und in den
+                    Chören der Tragiker gegen <rs type="person" ref="#boeckh-august">Böckh</rs>
+                    vertheidigte und diesem greisen Philologen alle Ehre seiner neuen Ansichten
+                    zuschrieb, hat mich außerordentlich für den jungen Mann eingenommen. Am nächsten
+                    Morgen trafen wir wieder im Dom zu <rs type="place" subtype="place" ref="#place_2a355a5b0521435f8248f11b12db208a">Bamberg</rs> zusammen, ich
+                    am Altar, er in der Kirche. Sein ganzes Wesen erregte in mir damals die Ahnung
+                    von dem, was in seiner Seele vorging. Ich bitte Sie herzlich, lesen Sie den
+                    Bericht vom Lebenslaufe <rs type="person" ref="#bippart-georg">Dr. Bipparts</rs>
+                    und schicken Sie mir seinerzeit dieses Denkmal der göttlichen Vorsehung und
+                    Liebe zurück.“<lb/>Ich habe nun dem Wunsche meines Correspondenten gemäß den
+                    höchst interessanten Bericht gelesen, kann aber der Meinung desselben, daß
+                        <rs type="person" ref="#bippart-georg">Bippart</rs>, der ein ausgezeichneter
+                    Philologe sein muß, sich für die vacante Stelle qualificire, nicht beistimmen.
+                    Um indessen nichts zu versäumen, lege ich Euer Excellenz obigen Bericht bei,
+                    vielleicht könnte später einmal der junge Professor
+                        <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> ersprießliche Dienste leisten.<lb/>Mit der
+                    ausgezeichnetsten Hochachtung beharre ich als</p>
+                <p>Euer Excellenz</p>
+                <p>unterthänigster Diener<lb/>Dr. G. Phillips</p>
+                <p>Wien, 24. Januar 1852</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

@@ -1,0 +1,119 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="safarik-an-thun-1850-07-08-a3-xxi-d59.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/rudigier-an-thun-1859-03-31-a3-xxi-d499.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/safarik-an-thun-1853-02-27-a3-xxi-d192.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#safarik-pavel-josef" role="sender:gelehrter">Pavel Josef
+                        Šafařík</rs> an <rs type="person" ref="#thun-hohenstein-leo">Leo
+                        Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs>, <date when-iso="1850-07-08">8.
+                        Juli 1850</date>
+                </title>
+            <title type="label">Pavel Josef Šafařík an Leo Thun, Prag, 8. Juli 1850</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DAA5-5</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D59</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Slawist und Bibliothekar Pavel Šafařík teilt Leo Thun seine Meinung
+                            über die vom Minister genannten Kandidaten für eine
+                            Schulinspektorenstelle in der Woiwodschaft Serbien und dem Temeser Banat
+                            mit. Er kennt zwei Kandidaten, Peter Joannović und Theodor Pavlović,
+                            persönlich. Während Joannović als Lehrer am Gymnasium in Novi-Sad über
+                            pädagogisch-didaktische Kenntnisse und Erfahrungen verfüge, stehe
+                            Pavlović als Redakteur, Publizist und Schriftsteller der Schule fern.
+                            Daher glaubt Šafařík, dass Joannović für das Amt des Schulinspektors
+                            geeigneter sei. Über den dritten Kandidaten Moses Georgiević will
+                            Šafařík kein Urteil abgeben, da er diesen nicht persönlich kennt.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>
+                            <lb/>Ein Teil des Briefes ist als Konzept in der Slowakischen
+                            Nationalbibliothek erhalten: Archív literatúry a umenia, Sign. J
+                            2787.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#safarik-pavel-josef">Pavel Josef Šafařík</rs>
+                    <settlement ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</settlement>
+                    <date when-iso="1850-07-08">8.
+                        Juli 1850</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Schulinspektoren</term>
+                    <term>Woiwodschaft Serbien und Temeser Banat</term>
+                </index>
+                <p>Eure Excellenz!</p>
+                <p>Da mir beide für die Stelle eines Inspectors der serbischen Volks- und
+                    Mittelschulen in der <rs type="place" subtype="region" ref="#place_35d1161cc45f7c1d2b14ff99f1d259a3">Wojwodschaft Serbien und dem Temescher Banat</rs> in Vorschlag
+                    gekommene Männer, die Herren Dr. <rs type="person" ref="#joannovic-peter">Peter
+                        Joannović</rs> und <rs type="person" ref="#pavlovic-theodor">Theodor
+                        Pavlović</rs>, persönlich wohl bekannt sind, so nehme ich keinen
+                    Anstand, Eurer Excellenz hochgeneigter Aufforderung gemäß <note xml:id="note_1">Vgl. <ref target="thun/thun-korrespondenz/tschechisches-literaturarchiv/thun-an-safarik-1850-07-05-ca982.xml">Leo Thun an Pavel Šafařík. Wien, 5. Juli 1850</ref>.</note>, meine
+                    unmaßgebliche Meinung über deren relative Eignung zu einem solchen Amte
+                    ehrerbietigst abzugeben. Herr <rs type="person" ref="#joannovic-peter">Joannović</rs> war mir am <rs type="org" ref="#org_0101">Neusatzer
+                        [Novi Sad] Gymnasium</rs> einige Jahre lang, zuletzt als Humaniorum
+                    Professor, sehr nahe gestellt und ich kannte ihn als einen wissenschaftlich
+                    genügend gebildeten – er hat seine Studien an der <rs type="org" ref="#org_0008">Pesther Universität</rs> vollendet – dabei
+                    sittlichen, bescheidenen, ruhigen Mann und zugleich als einen nicht
+                    ungeschickten Lehrer und Pädagogen. Er hat nach meinem Abgang von
+                        <rs type="place" subtype="place" ref="#place_52d08ce39e6c067f42a0366f2239f7c8">Neusatz</rs>, wenn ich nicht irre, eine Zeit lang nicht
+                    nur die Leitung des Gymnasiums, sondern auch die Aufsicht über die Volksschulen
+                    in einem Bezirke, entweder provisorisch oder definitiv, geführt. Er ist demnach
+                    auf jeden Fall ein mit der Schule, ihren Bedürfnissen und den Mitteln, ihnen zu
+                    genügen, durch jahrelange Übung und, wie ich voraussetze, auch durch Studium
+                    vertrauter Mann, dabei von ruhiger Gemüthsart und sittlich unbescholtenem
+                    Character. Den Herrn <rs type="person" ref="#pavlovic-theodor">Theodor
+                        Pavlović</rs> kenne ich nur als Advocaten und Zeitungsredacteur. Die
+                    erste Eigenschaft lasse ich unbesprochen, da sie mir abseits liegt: aber als
+                    Redacteur, Publicist und Schriftsteller hat er kein glänzendes Talent
+                    entwickelt, wohl aber eine auffallende Beschränktheit und Geistesarmuth kund
+                    gegeben. Er stand, meines Wissens, von jeher der Schule fern und dürfte an
+                    pädagogisch-didactischen Kenntnissen und Erfahrungen eben nicht besonders reich
+                    sein. Soll ich demnach über die relative Befähigung beider Männer zu dem
+                    obgenannten Amte meine Meinung äußern, so kann ich, dem Obigen zu Folge, nicht
+                    umhin, unumwunden zu gestehen, daß meiner Überzeugung nach dem erstgenannten,
+                    nämlich Herrn <rs type="person" ref="#joannovic-peter">Joannović</rs>, unbedingt
+                    und ohne Vergleich der Vorzug gebühre.<lb/>Über den dritten, Herrn <rs type="person" ref="#georgievic-moses">Moses Georgiević</rs> aus
+                        <rs type="place" subtype="place" ref="#place_7674e1c4e5c96d0fcb290e9fa130e6ed">Esseg</rs> [Osijek], wahrscheinlich einen viel jüngern
+                    Mann, bin ich nicht in der Lage, irgend eine Meinung zu äußern, da er mir bis
+                    jetzt nur dem Namen nach bekannt geworden ist.<lb/>Genehmigen Eure Excellenz die
+                    Gefühle der tiefsten Hochachtung, mit denen ich unveränderlich verharre</p>
+                <p>Eurer Excellenz</p>
+                <p>gehorsamster Diener<lb/>Paul Jos. Šafařik m.p.</p>
+                <p>Prag, 8. Juli 1850</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-de-luca-1858-02-03-ca641.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-de-luca-02-01-ca642.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-exner-08-10-ca77.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#luca-antonio-de" role="recipient">Antonio Saverio de
+                        Luca</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</rs>, <date when-iso="1858-02-03">3.
+                        Februar 1858</date>
+                </title>
+            <title type="label">Leo Thun an Antonio Saverio de Luca, o. O., 3. Februar 1858</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA3E-B</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Vatikanisches Geheimarchiv</institution>
+                        <repository>Segreteria di Stato</repository>
+                        <idno>Spogli di Cardinali e Officiali di Curia, De Luca card. Antonio
+                            Saverio, 2A</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun teilt dem Kardinal und Nuntius Antonio de Luca mit, dass er die
+                            Resolution die Kirchengüter betreffend erhalten habe. Dieser Entschluss
+                            wurde aber noch nicht veröffentlicht, da der Kaiser wünscht, dem
+                            Heiligen Stuhl zunächst die Absichten der österreichischen Regierung
+                            mitzuteilen. Thun sendet deshalb dem Grafen Buol in dieser Sache einen
+                            Vermerk, der am nächsten Tag abgeschickt werden soll.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Französisch.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</settlement>
+                    <date when-iso="1858-02-03">3.
+                        Februar 1858</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#luca-antonio-de">Antonio Saverio de Luca</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                    <term>Konkordat</term>
+                </index>
+                <p>Monseigneur !</p>
+                <p>Je viens de recevoir la résolution depuis longtemps attendue relative à
+                    l'aliénation des liens de l'Eglise; mais elle n'est point encore publiée, fort
+                    au contraire la <rs type="person" ref="#franz-joseph">Majesté</rs> a ordonné de ne
+                    pas encore la publier, et de faire d'abord seulement au Saint Siège une
+                    communication préalable des intentions du gouvernement autrichien. Ma note au
+                        <rs type="person" ref="#buol-schauenstein-karl-ferdinand">Cte Buol</rs>
+                    relative à ce sujet sera expédiée demain.<lb/>Agréez Monseigneur l'expression de
+                    ma haute considération</p>
+                <p>Le 3 février 1858</p>
+                <p>Comte Thun</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

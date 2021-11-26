@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-rechberg-1855-12-26-ca910.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-rauscher-1858-05-17-ca828.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-rechberg-1857-07-21-ca1571.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#rechberg-rothenloewen-bernhard" role="recipient">Bernhard
+                        Rechberg-Rothenlöwen</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1855-12-26">26. Dezember 1855</date>
+                </title>
+            <title type="label">Leo Thun an Bernhard Rechberg-Rothenlöwen, Wien, 26. Dezember 1855</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-D9F8-9</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Österreichische Nationalbibliothek</institution>
+                        <repository>Handschriftenabteilung</repository>
+                        <idno>Autogr. 458/20-3</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun erkundigt sich beim Gesandten Bernhard Rechberg über Emil
+                            Rössler. Rössler war einst einer der ersten Vertreter der
+                            Rechtsgeschichte in Österreich. Allerdings hatte er 1848 in der
+                            Paulskirche für die Wahl des preußischen Königs zum deutschen Kaiser
+                            gestimmt und ist danach nicht mehr nach Österreich zurückgekehrt.
+                            Derzeit ist er Privatdozent in Göttingen, wünscht sich jedoch eine
+                            Anstellung in Österreich. Thun möchte daher eine genaue Auskunft über
+                            Rösslers Gesinnung haben. Rechberg soll sich hierzu bei Justin Linde
+                            erkundigen, der sicherlich, wie schon in der Vergangenheit auch,
+                            verlässliche Aussagen über Rösslers Charakter machen könne.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Eine Abschrift des Briefes liegt im Bundesarchiv Koblenz, Nachlass Linde,
+                            N 1759, 51.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when-iso="1855-12-26">26. Dezember 1855</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#rechberg-rothenloewen-bernhard">Bernhard Rechberg-Rothenlöwen</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Rechtsgeschichte</term>
+                    <term>Revolution</term>
+                </index>
+                <p>Wien 26. Dezember 1855</p>
+                <p>Hochgeborner Graf!</p>
+                <p>Seit einigen Jahren lehrt an der <rs type="org" ref="#org_0039">Göttinger
+                        Universität</rs> als Privatdozent der Österreicher <rs type="person" ref="#roessler-emil">Dr. Rößler</rs>. Er hat sich schon vor dem Jahre
+                        <date when="1848">1848</date> in Österreich mit rechtshistorischen
+                    Forschungen abgegeben, war in jenem Jahre Deputierter bei dem Frankfurter
+                    Parlament und als solcher einer der 4 Österreicher, welche für die Wahl des
+                    Königs von Preußen zum deutschen Kaiser stimmten. Seine Freunde behaupten, er
+                    sei hiezu durch zufällige Umstände verleitet worden, ohne die politische
+                    Bedeutung zu begreifen, indem er sich überhaupt um Politik nicht bekümmert habe.
+                    Von anderen Seiten wird hingegen behauptet, er sei mit Bewußtsein in der
+                    Gotha'schen Partei gestanden und dürfte dem Einfluße der wissenschaftlichen
+                    Männer dieser Partei auch noch nicht entrückt sein. Er liest in Göttingen
+                    Rechtsgeschichte und deutsches Recht, soll sich einen guten Namen gegründet
+                    haben und ist mir kürzlich auf indirektem Wege sogar durch <rs type="person" ref="#savigny-friedrich-carl">Savigny</rs> empfohlen worden. Nachdem er
+                    gleichwohl im Auslande eine Anstellung bisher nicht erlangt hat, so wünscht er
+                    begreiflicher Weise angelegentlich wieder in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> angestellt zu werden und sein Wunsch wird von
+                    zahlreichen Freunden in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs>
+                    getheilt, die in ihm einen der ersten vaterländischen Vertreter
+                    rechtshistorischer Studien erblicken. Ich sehe mich durch diese Umstände
+                    gezwungen, die Frage in Erwägung zu ziehen, ob seine Anstellung in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> zulässig sei. Sie hängt zunächst von
+                    den beiden Vorfragen ab, welches Gewicht noch gegenwärtig seiner erwähnten
+                    Theilnahme an der Abstimmung über die Kaiserfrage beizumessen sei, und in wie
+                    weit etwa zu besorgen stehe, daß er noch gegenwärtig den wissenschaftlichen
+                    Richtungen der Gotha'er Partei angehöre und in diesem Sinne in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> wirken würde, wozu das Lehrfach der
+                    deutschen Reichs- und Rechtsgeschichte allerdings mehr als jedes andere
+                    Gelegenheit bietet. Eurer Exzellenz wird es nicht an Gelegenheit fehlen, über
+                    diese Fragen im vertraulichen Wege in so weit verläßliche Auskunft einzuholen,
+                    als solches überhaupt möglich ist: Männer der Wissenschaft, welche in <rs type="place" subtype="country" ref="#place_162b390989a8678640067963acb65109">Deutschland</rs> leben, die wissenschaftlichen
+                    Bewegungen mit sorgfältigem Auge beobachten, selbst aber mit aufrichtiger
+                    Überzeugung auf dem richtigen Standpunkte stehen, sind allein befähigt, über
+                    solche Fragen Aufschluß zu geben. Einen solchen Mann haben Eure Exzellenz in der
+                    Person des <rs type="person" ref="#linde-justin">Staatsrathes Linde</rs> an Ihrer
+                    Seite, welcher mir bereits manchen wichtigen Dienst ähnlicher Art geleistet hat
+                    und Euer Exzellenz werden ohne Zweifel noch mit manchem ebenso verlässlichen und
+                    wohlunterrichteten Manne in Berührung stehen. Deßhalb habe ich die Ehre, Eure
+                    Exzellenz zu ersuchen, mir nach eindringlicher Erkundigung Ihre wohlerwogene
+                    Ansicht über die berührte Angelegenheit eröffnen zu wollen, indem ich bis dahin
+                    mit jeder anderweitigen Einleitung zurückhalte.<lb/>Gleichzeitig erlaube ich mir
+                    Euer Exzellenz zu ersuchen, das beiliegende Schreiben<note xml:id="note_1">
+                        <ref target="thun/thun-korrespondenz/bundesarchiv-koblenz/thun-an-linde-1855-12-26-ca1130.xml">Leo Thun an Justin Linde. Wien, 26. Dezember 1855.</ref> Der Brief
+                        findet sich im Nachlass von Justin Linde im Bundesarchiv in Koblenz, Sign. N
+                        1759, 51.</note>, in welchem ich die Gefälligkeit des <rs type="person" ref="#linde-justin">Staatsrathes Linde</rs> noch in einer anderen
+                    Angelegenheit in Anspruch nehme, demselben zukommen zu lassen zu
+                    wollen.<lb/>Genehmigen Euer Exzellenz den Ausdruck der ausgezeichnetsten
+                    Hochachtung, mit welcher ich die Ehre habe zu sein</p>
+                <p>Eurer Exzellenz<lb/>ergebenster Diener<lb/>Leo Thun</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

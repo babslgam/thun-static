@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="tomek-an-thun-1854-05-21-a3-xxi-d260.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/tomasek-an-kuzmany-1860-06-20-a3-xxi-d592.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/tomek-an-thun-1860-05-14-a3-xxi-d584.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#tomek-vaclav-vladivoi" role="sender:gelehrter">Václav
+                        Vladivoj Tomek</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs>, <date when-iso="1854-05-21">21. Mai 1854</date>
+                </title>
+            <title type="label">Václav Vladivoj Tomek an Leo Thun, Prag, 21. Mai 1854</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>Abgedruckt in: Ladislav Kubik, Česká korespondence se Lvem Thunem, Praha 1970, S.
+                        134–137.<tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-D9D4-1</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D260</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Historiker Václav Tomek bedankt sich bei Leo Thun für die Kritik zu
+                            seinem Werk und ist mit einer späteren mündlichen Aussprache in dieser
+                            Angelegenheit einverstanden. Gleichzeitig bittet er um eine finanzielle
+                            Unterstützung für den Studienaufenthalt in Wien. Außerdem kündigt Tomek
+                            an, dass er Josef Jireček mit diesem Schreiben auch den Brief Thuns vom
+                            12. Mai schicke.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Tschechisch.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#tomek-vaclav-vladivoi">Václav Vladivoj Tomek</rs>
+                    <settlement ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</settlement>
+                    <date when-iso="1854-05-21">21. Mai 1854</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Geschichtswissenschaften</term>
+                </index>
+                <p>Der Text wurde hier nicht transkibiert, weil er an anderer Stelle bereits ediert
+                    ist.</p>
+            </div>
+        </body>
+        
+    </text>
+</TEI>

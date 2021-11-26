@@ -1,0 +1,300 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="kolenati-an-thun_1856-10-15_a3-xxi-d390.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#kolenati-friedrich" key="kolenati-friedrich" role="sender:gelehrter">Friedrich
+                        Kolenati</rs> an <rs type="person" ref="#thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_0c51d4343a81db10484268ad1f1b2500">Brünn</rs>, <date when-iso="1856-10-15">15. Oktober 1856</date>
+                </title>
+            <title type="label">Friedrich Kolenati an Leo Thun, Brünn, 15. Oktober 1856</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p/>
+            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000D-F7FA-3</tei:idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D390</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Professor für Naturgeschichte Friedrich Kolenati übersendet dem
+                            Minister einen Artikel aus dem Brünner Tagesboten, der über die
+                            schwierige Situation an der Brünner Technischen Lehranstalt berichtet
+                            sowie einen Entwurf für eine Replik auf diesen Bericht aus seiner Feder.
+                            Kolenati erklärt außerdem, wie es zu dieser Replik gekommen sei: Sein
+                            Kollege Anton Winkler habe ihn im vergangenen August um einen Artikel
+                            über die Besetzung der Kanzel für Mathematik am Wiener Polytechnikum
+                            gebeten, worauf er aber nicht eingegangen sei. Nach einer neuerlichen
+                            Bitte sei er auf den Wunsch Winklers zum Schein eingegangen und habe die
+                            erwähnte Notiz über die Brünner Technische Lehranstalt verfasst. Winkler
+                            habe das Manuskript anschließend korrigiert und ihm zurückgestellt, mit
+                            der Aufforderung es nach Prag oder an eine ausländische Zeitung zu
+                            senden, was er allerdings unterlassen habe. Stattdessen legt er dieses
+                            Manuskript mit den Korrekturen Winklers nun Thun vor, damit sich dieser
+                            vom Sachverhalt überzeugen könne. Kolenati hofft, dass Thun ihm sein
+                            Vorgehen und diese Zeilen nicht übel nehme.<lb/>In dem beigefügten
+                            Manuskript beantwortet Kolenati die Kritik aus der Brünner Zeitung. Er
+                            erklärt darin die Schwierigkeiten des Brünner Technischen Instituts und
+                            weist insbesondere auf Nachteile gegenüber Wien und Prag hin. Er stimmt
+                            dem Autor der Zeitung zwar zu, dass die Technischen Institute
+                            reformbedürftig seien, allerdings spricht er sich gegen die
+                            vorgeschlagenen Maßnahmen aus. Aus der Sicht von Kolenati sollten die
+                            Technischen Institute nämlich analog zu den Universitäten reformiert
+                            werden.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Das beigelegte Manuskript von Friedrich Kolenati ist durch die vielen
+                            Korrekturen sehr schlecht lesbar und weist daher zahlreiche unsichere
+                            Lesungen auf.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#kolenati-friedrich">Friedrich Kolenati</persName>
+                    <date when-iso="1856-10-15">15. Oktober 1856</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#thun-hohenstein-leo">Leo Thun</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Polytechnische Institute</term>
+                </index>
+                <p>Eure Excellenz!</p>
+                <p>Im Tagesboten Nr. 274 aus Böhmen war eine die k.k. technische Lehranstalt zu
+                    Brünn berührende Notiz, welche auch in den Brünner Blättern abgedruckt erschien.
+                    <lb/>Herr Director <rs type="person" ref="#schindler-florian" key="schindler-florian">Dr. Schindler</rs>
+                    ersuchte mich, eine Entgegnung für ihn zu verfassen, was ich mit Vergnügen
+                    ausführte, und ihm das Manuscript zur Verfügung stellte.<lb/>Herr Professor Dr.
+                        <rs type="person" ref="#winkler-anton" key="winkler-anton">Winkler</rs>, welcher mir stets voll
+                    guter Gesinnungen bekannt war und ich mich deshalb an ihn anschloss, ersuchte
+                    mich schon im Monate August, einen Artikel zu verfassen, welchen die Besetzung
+                    der erledigten Lehrkanzel der Mathematik am <rs type="org" ref="#org_0061" key="polytechnisches-institut-wien">Polytechnikum zu Wien</rs> berühren
+                    sollte. Er muthete mir zu, selben Artikel in die allgemeine Zeitung zu bringen.
+                    Ich erklärte ihm, mit keiner Redaction von politischen ausländischen und
+                    inländischen Blättern in Verbindung zu stehen und somit unterblieb dies gewiss
+                    von meiner Seite.<lb/>Diesmal reizte er mich auf, in Folge des Artikels im
+                    Tagesboten, und schien mir, was die Besetzung der Lehrkanzel der Mathematik in
+                    Wien betrifft, sehr gereizt, indem er mir erklärte, man wolle <rs type="person" ref="#hartner-friedrich" key="hartner-friedrich">Prof. Hartner</rs> nur deshalb zur Mathematik
+                    ziehen, um <rs type="person" ref="#herr-josef-philipp" key="herr-josef-philipp">Prof. Heer</rs> [sic!
+                    richtig Herr] die nach ihm offene Stelle schnell zu verleihen. Ich folgte
+                    diesmal dieser Aufreizung zum Scheine und gab ihm den beiliegenden Aufsatz zur
+                    Correctur und Durchfeilung, nicht in der Absicht, den Aufsatz zu
+                    veröffentlichen. Er corrigirte daran, wie es seine Handschrift mit schwarzer und
+                    blauer Tinte darthut, und glaubte, ich solle es entweder nach
+                        <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs> oder noch besser ins Ausland senden. Ich erhielt
+                    ihn bei diesem Wahne, ließ aber das Manuscript in der Absicht liegen, es an Eure
+                    Excellenz bloß in der Absicht gelangen zu lassen, dass<lb/>1. Eure Excellenz den
+                    wahren Sachverhalt und Standpunkt unseres Institutes erfahren und dort, wo ich
+                    recht gesehen, gnädigst unserem Elende abhelfen.<lb/>2. Wenn <rs type="person" ref="#winkler-anton" key="winkler-anton">Dr. Winkler</rs>, was ich nicht zu vermuthen wage,
+                    sich eine Abschrift zu irgend einem Gebrauche gemacht hatte, das hohe
+                    Ministerium prävenirt wäre. <lb/>Indem ich Eure Excellenz bitte, mir die darin
+                    enthaltenen Ausdrücke nicht übel deuten zu wollen und das Ganze als eine
+                    privative Mittheilung zu betrachten geruhen, zeichne mich in aller
+                    Unterthänigkeit</p>
+                <p>Eurer Excellenz<lb/>treu ergebenster Diener<lb/>Dr. Friedrich Kolenati </p>
+                <p>Brünn den 15. Oktober 1856</p>
+
+                <div type="enclosure">
+                    <p>&lt;Dieser Artikel hat bereits eine Discussion in Brünner Blättern
+                        hervorgerufen, durch welche der Sachverhalt in ein ganz anderes Licht
+                        gestellt und der, gegen eine von der kaiserlichen Regierung gegründetes
+                        Institut und dessen berufene Organe vorgebrachten gehässigen Insinuationen
+                        ein Dementi gegeben wird. Indessen scheint uns, daß es, nachdem einmal die
+                        Angelegenheit vor das Forum der Öffentlichkeit gezerrt worden ist, eine
+                        allseitige Beleuchtung und Gewehr im wahren Interesse der angegriffenen
+                        Anstalt liegen müsse, als bekanntlich eine Reorganisation der technischen
+                        Institute des Kaiserreichs ernstlich in Angriff genommen ist.&gt;<note>Einfügung durch Winkler.</note>
+                        <lb/>Da die obige Notiz
+                        zum größten Theile das im Jahre 1850 eröffnete k.k. technische Institut zu
+                            <rs type="place" subtype="place" ref="#place_0c51d4343a81db10484268ad1f1b2500">Brünn</rs> in <rs type="place" subtype="region" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs> betrifft und von
+                        einem Manne verfaßt ist, welcher Glaubensgenosse der Redakzion des
+                        Tagesboten war, der sich nicht mehr in den mährischen Lokalblättern als
+                        umsichtig, hocherfahren, genial usw. herausstreichen kann, indem der
+                        Wiederholungen gar zu viele wären und das ruhige vernünftige Publikum
+                            <rs type="place" subtype="place" key="bruenn" ref="#place_0c51d4343a81db10484268ad1f1b2500">Brünns</rs> sich mit aller Gewalt nichts
+                        aufschwatzen läßt; von einem anderen Manne an die Redakzion befördert ist,
+                        welcher als Namensverwandter desselben jede semitische Tendenz mit großer
+                        Dosis esprit de corps bestreut; so sind wir genöthiget, die Erläuterung
+                        jener Notiz, welche zwischen den Zeilen hauptsächlich Privatinteressen des
+                        Verfassers ersichtlich macht, auf ein anderes öffentliches und zugleich
+                        unpartheiisches Forum hinüber zu spielen.<lb/>Der Verfasser nennt &lt;es
+                        eine Anomalie, daß die Frequenz&gt;<note>Korrektur von
+                            Winkler.</note> des k.k. technischen Institutes zu
+                            <rs type="place" subtype="place" ref="#place_0c51d4343a81db10484268ad1f1b2500">Brünn</rs> eine geringe ist. Wir wollen ihm und
+                        Anderen diese Anomalie aus dem tiefsten Grunde erklären und die hüpfenden
+                        Fragen gänzlich abschneiden.<lb/>Die Zuhörerzahl am k.k. technischen
+                        Institute ist &lt;gegen die&gt;<note>Korrektur von
+                            Winkler.</note> Frequenz des <rs type="org" ref="#org_0061" key="polytechnisches-institut-wien">Wiener</rs> und <rs type="org" ref="#org_0052" key="polytechnisches-institut-prag">Prager Polytechnikums</rs>
+                        deshalb eine verhältnismäßig geringere, weil:<lb/>1.
+                            <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> und <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs> durch die
+                        Eisenbahn leicht zu erreichen, in diesen beiden Städten die Techniker, wenn
+                        sie bemittelt sind, angenehmer leben; wenn sie mittellos, leichter durch
+                        Privatunterricht ihr Fortkommen finden; und wenn sie absolviren, viel
+                        leichter durch Verbindungen zur Anstellung gelangen. In
+                            <rs type="place" subtype="place" ref="#place_0c51d4343a81db10484268ad1f1b2500">Brünn</rs> gibt es nur wenig Adel und der Adel nimmt
+                        keine Techniker zu Erziehern; &lt;die Söhne der&gt;<note>Korrektur von Winkler.</note> Beamten und Handwerker
+                            &lt;werden&gt;<note>Ergänzung von Winkler.</note>
+                        entweder durch die unbesoldeten und besoldeten Assistenten der Realschule
+                        und des Gymnasiums privatim unterrichtet oder zur Frequenz der noch immer
+                        drückend einwirkenden und selbst durch einen Ministerialerlaß nicht zu
+                        erdrückenden Correpetitionen gezwungen und die Fabrikanten, größten Theils
+                        akatholisch, &lt;lassen sich&gt;<note>Korrektur von
+                            Winkler.</note> aus dem Auslande ihre Hauslehrer verschreiben. In
+                            <rs type="place" subtype="place" ref="#place_0c51d4343a81db10484268ad1f1b2500">Brünn</rs> fehlen die Centralstellen, bei denen der
+                        absolvirte Techniker sich um Anstellungen bewerben könnte.<lb/>2. Fehlt dem
+                        Brünner k.k. technischen Institute die gehörige Repräsentanz nach Außen und
+                        insoferne auch zum Theil der höhere Schutz. Dieser Mangel an Repräsentanz
+                        hat nicht seine Wurzel im Lehrpersonale, denn es sind Alle meist ihrem Fache
+                        vollkommen gewachsen, einige sogar, &lt;Männer von&gt;<note>Korrektur von Winkler.</note> wissenschaftlichem &lt;Ruhme&gt;<note>Ergänzung von Winkler.</note> , wie dieß letztere auch
+                        der Verfasser des Artikels im Tagesboten selbst zugesteht. Um diesem Mangel
+                        an Repräsentanz auf den Grund zu kommen, bedarf es eine folgende Thatsachen
+                        zu erwähnen. Seit dem Jahre 1850 ist das k.k. technische Institut in der
+                        Miethe eines äußerst entlegenen und unzweckmäßig gebauten &lt;früher für
+                        eine Fabrik bestimmten&gt;<note>Ergänzung von
+                            Winkler.</note> Hauses, welches noch dazu von Jahr zu Jahr minder
+                        baufest wird. Die Kapitalien zum Aufbau eines zweckmäßigen Gebäudes sind
+                        durch eine auch schon ministeriell &lt;nicht gebilligte&gt;<note>Korrektur von Winkler.</note> Verwaltung zum größten
+                        Theil aufgezehrt. Der seit der Gründung &lt;bestehende&gt;<note>Korrektur von Winkler.</note> Lehrkörper ist
+                            &lt;[?]&gt;<note>Korrektur von Winkler.</note> , &lt;so
+                        daß das Meiste&gt;<note>Korrektur von Winkler.</note> von
+                        ihm Ausgehende nicht unterstützt &lt;wird&gt;<note>Ergänzung von Winkler.</note> , was &lt;[?]&gt;<note>Ergänzung von Winkler.</note> den bisherigen Referenten auch nicht ganz
+                        &lt;allein zur Last fällt&gt;<note>Ergänzung von
+                            Winkler.</note>. Dafür müssen sie noch immer auf einen Salär von 1000 fl
+                        CM &lt;sich so gut es geht zu behelfen suchen&gt;<note>Ergänzung von Winkler.</note> , die unbemittelten leiden durch diesen
+                        Mangel sogar am bürgerlichen Ansehen. Zwei der Herrn Professoren haben
+                        diesen Standpunkt praktischer begriffen und sind, da sich ihnen eine
+                        günstige Gelegenheit eröffnet hat, abgegangen, leider eröffnen sich
+                        derartige Gelegenheiten nicht so vielmal, als es Professoren daselbst gibt.
+                        Es ist dieß eine Anomalie zur Stellung der Lehrer an den Realschulen, welche
+                        auch bis 1000 fl und darüber beziehen &lt;und denen Allen das
+                        Vorrückungsrecht verliehen ist&gt;<note>Ergänzung von
+                            Winkler.</note>, die einer Reform bedarf, so lange es noch nicht allzu
+                        spät ist. &lt;Jetzt geht man sogar&gt;<note>Korrektur von
+                            Winkler.</note> mit der Idee &lt;um&gt;<note>Ergänzung
+                            von Winkler.</note> das Miethaus für das k.k. technische Institut
+                        anzukaufen, wobei vielleicht nur der Hausherr allein Vortheile erreichen
+                        dürfte. In diesem Hause werden nie die Hörsäle, Zeichensäle schön und
+                        geräumig, werden nie die Sammlungen und Kabinette zur Aufstellung und
+                        gehörigen Benutzung geeignet sein, wird nie die denselben durch so nahe
+                        stehende Fabriken drohende Feuersgefahr beseitiget werden. Was helfen dann
+                            &lt;alle&gt;<note>Korrektur von Winkler aus:
+                            vergrößerte.</note> Dotazionen, wenn man das Angekaufte nicht zweckmäßig
+                        aufstellen kann, was helfen äußere Übertünchungen, wenn im Inneren der
+                        Wurmfraß herrscht. Was hilft auch der Wille des <rs type="org" ref="#org_0005" key="ministerium-fuer-kultus-und-unterricht">Unterrichtsministeriums</rs>, wenn provinziell im Lande am
+                        Untergange &lt;[?]&gt;<note>Ergänzung von Winkler.</note>
+                        förmlich gearbeitet wird. Der &lt;studirende&gt;<note>Ergänzung von Winkler.</note> Techniker sieht und fühlt es mit, er
+                        fühlt sich aber glücklich, wenn er diesem Institute den Abschiedsgruß
+                        zurufen kann. Er weiß wohl, daß er an diesem Institute wegen der geringeren
+                        Frequenz besser überwacht und eingeschult wird; seiner Jugend ist es aber zu
+                        verzeihen, wenn er mit der Herde ziehet dorthin, wo er leichter unter
+                        derselben verschwindet oder sogar leichter durchkommt. So lange am <rs type="org" ref="#org_0061" key="polytechnisches-institut-wien">Wiener Polytechnikum</rs> eine
+                        unbedingte Aufnahme &lt;besteht, werden&gt;<note>Korrektur
+                            von Winkler aus: gilt, wird.</note>
+                        <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs>, <rs type="place" subtype="place" ref="#place_3ff694e5c82611cda53341a9bae21735">Lemberg</rs>, <rs type="place" subtype="place" key="graz" ref="#place_6e00929feb7fb02acaa548f47f67c61c">Gratz</rs>, <rs type="place" subtype="place" ref="#place_0c51d4343a81db10484268ad1f1b2500">Brünn</rs> leiden, am
+                        wenigsten jedoch <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs> und <rs type="place" subtype="place" key="graz" ref="#place_6e00929feb7fb02acaa548f47f67c61c">Gratz</rs>, weil die Stände daselbst ein väterliches Schutzwort
+                        hineinzusprechen haben. Unter solchen Umständen &lt;wäre es
+                            allerdings&gt;<note>Ergänzung von Winkler.</note> ein
+                        wahres Glück nur für das Institut und die Professoren, wenn das Institut
+                            &lt;soferne&gt;<note>Korrektur von Winkler aus:
+                            nachdem.</note> man es nicht schützen könnte oder wollte, &lt;aufgehoben
+                            würde.&gt;<note>Ergänzung von Winkler.</note>
+                        <lb/>3.
+                        Hat es sich im verflossenen Jahre herausgestellt, daß die selbst mit
+                            &lt;[?]&gt;<note>Korrektur von Winkler.</note> aus der
+                        Brünner Realschule ausgetretenen Schüler in den technischen Studien
+                        &lt;durchaus keine&gt;<note>Korrektur von Winkler.</note>
+                        Fortschritte gemacht haben und demgemäß auf die heuer zum Übertritte Reifen
+                        eingewirkt wurde, nach <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> zu gehen, auf daß nicht
+                        abermals ein solches Conclusium in das Brünner Publikum gelangen möchte.
+                        Eine Anstalt hat mehr gewirkt, wenn sie wenige und gut geschulte, als wenn
+                        sie eine große Masse verzogener Schüler liefert.<lb/>4. Hat sich die
+                        Realschule in Brünn und zum Theil auch Anderswo auf einen gänzlich falschen
+                        Standpunkt zu erheben abgemüht, indem den Schülern hohe Ideen und Phrasen,
+                        technische Oberflächlichkeit in &lt;einem&gt;<note>Korrektur von Winkler aus: dem.</note> Grade beigebracht wurden, daß
+                        Viele in ihrem gelehrten Wahne den Besuch der Technik für bereits
+                        überflüssig erachteten, indem manche sogar als Realschüler neue
+                        Entdeckungen, die schwierigsten organischen chemischen Analysen gemacht zu
+                        haben glaubten. Derartige höchst lächerliche Beweise liefern so viele
+                        Programme der Realschulen.<lb/>5. Bedürfen wirklich die technischen
+                        Institute in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> einer Reform, aber nicht einer
+                        solchen, wie sie der Verfasser des Artikels im Tagesboten anführt. Er ist
+                        nämlich der Ansicht, daß die Söhne der Fabrikanten als künftige Fabriksherrn
+                        an den technischen Instituten <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</rs> eine für &lt;diese&gt;<note>Korrektur von Winkler aus: ihre künftige.</note> Stellung nöthige
+                            &lt;gezielte&gt;<note>Ergänzung von Winkler.</note>
+                        Ausbildung erhalten sollten. Der Verfasser irrt, wenn er &lt;behauptet, daß
+                        von [?] solchen Zöglingen [?] [?]&gt;<note>Korrektur von
+                            Winkler.</note> an den technischen Instituten die entsprechenden
+                        Kenntnisse im Kommerz, in den mechanischen und chemischen Wissenschaften
+                        &lt;nicht erlangt werden können&gt;<note>Ergänzung von
+                            Winkler.</note>; aber gewöhnlich wollen die Söhne der Fabriksherrn
+                        nichts lernen und befinden sich weiter vom Hause entfernt wohler, weil sie
+                        mehr Gold durchbringen können; &lt;dazu noch kommt, daß&gt;<note>Ergänzung von Winkler.</note> die Fabriksherrn meist
+                        für alles Ausländische mehr eingenommen sind. Aus der &lt;vom Verfasser
+                            erhofften&gt;<note>Korrektur von Winkler aus:
+                            vorgeschlagenen, anzuhoffenden.</note> Reform schimmert des Fürsprechers
+                        Wunsch, daß der jedesmalige Direktor eines technischen Institutes ein
+                        Kommerzmann sei. Ein Kommerzialist kann einer Handelsschule vorstehen, nicht
+                        aber, wenn er kein Fachtechniker ist, einem technischen Institute; dieß wäre
+                        ein höchst lächerlicher Mißgriff. Von den technischen Instituten ist jede
+                        Kommerzschule gänzlich zu trennen; Kaufleute &lt;werden niemals&gt;<note>Korrektur von Winkler.</note> Techniker
+                            &lt;werden&gt;<note>Korrektur von Winkler.</note> und
+                        sollen sich als solche auch nicht gebehrden. Die Fabriksherrn haben für
+                        jedes Fach ihre durchgebildeten Techniker und werden &lt;[?]&gt;<note>Ergänzung von Winkler.</note> selten oder nie
+                        Fachmänner &lt;sein&gt;<note>Ergänzung von Winkler.</note>.
+                        Auch die Lehrer an Kommerzabtheilungen können nie auf den Standpunkt [?]
+                        eigentlichen technischen Lehrer Anspruch machen. Man &lt;organisire
+                        Fachschulen, lasse&gt;<note>Korrektur von Winkler.</note>
+                        den eigentlichen Technikern sich den Fachstudien zu widmen; man wird
+                            &lt;[?]&gt;<note>Korrektur von Winkler.</note> wir
+                        werden dann ebenso treffliche Ingenieurs, Architekten, Maschinisten &lt;und
+                        technische Chemiker&gt;<note>Ergänzung von Winkler.</note>
+                        aufweisen können, wie die, mit denen uns <rs type="place" subtype="country" ref="#place_162b390989a8678640067963acb65109">Deutschland</rs>,
+                            <rs type="place" subtype="country" ref="#place_72ac53f7b58ea996114e510e7d524fb9">Frankreich</rs> und <rs type="place" subtype="country" ref="#place_64f607906be7598a02d75dbc1e979662">England</rs> bisher
+                        überschwemmt haben. Man oktroyire dem technischen Lehrkörper ja keinen
+                        Lehrer &lt;[?] Familien herabsinken&gt;<note>Ergänzung von
+                            Winkler.</note> und &lt;setze an die Spitze dieser Anstalt eine bloß ihr
+                        persönliches Interesse pflegende oder&gt;<note>Ergänzung
+                            von Winkler.</note> als Polyhistoren sich dünkenden Vorstände, man
+                        überwache &lt;ebenso&gt;<note>Korrektur von Winkler.</note>
+                        einreißende Verschwägerungen mit eiserner Strenge, lasse den Lehrkörper
+                        seine Kräfte wo immer her berufen ohne &lt;die [?]&gt;<note>Ergänzung von Winkler.</note> formellen Konkurse, man lasse ihn
+                        entweder seinen Vorstand aus seiner Mitte wie auf Universitäten wählen oder
+                        gebe ihm einen bloßen ökonomischen Verwalter bei, welcher sich nicht
+                        &lt;erlauben darf, ungehörige Eingriffe in die Lehrthätigkeit zu nehmen
+                            [?]&gt;<note>Ergänzung von Winkler.</note>, lasse den
+                        Professor-Senior die Lehrkörpersitzungen leiten &lt;[?]&gt;<note>Korrektur von Winkler.</note> und man wird den
+                        Professoren ein Gespenst nehmen, welches ihnen ihren Wirkungskreis
+                        verleidet; man wird die Garantie des besten Erfolges für das Gedeihen einer
+                        Anstalt in die Hände einer Korporation, einer stets höchst achtbaren
+                        moralischen &lt;und [?]&gt;<note>Ergänzung von
+                            Winkler.</note> Person direkt gelegt haben. &lt;Soviel zur Aufklärung
+                        der öffentlichen Meinung über eine gewiß sehr wichtige vaterländische
+                        Angelegenheit; soviel auch zu [?], die gelegentlich der nothwendig [?]
+                        Reformen ein „Geschäft“ machen möchten.&gt;<note>Ergänzung
+                            von Winkler.</note>
+                    </p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

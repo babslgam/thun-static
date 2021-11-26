@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-unbekannt-1851-04-03-ca1207.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-tomek-1858-05-09-ca1000.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-vicari-1851-02-07-ca804.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an <rs type="person" ref="#fries-flora">Flora Fries</rs> [?]<note xml:id="note_1">Im
+                        Katalog der Berliner Staatsbibliothek ist Flora Gräfin Fries als Adressatin
+                        verzeichnet.</note>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</rs>, <date when="--04-03">3. April [1851]</date>
+                </title>
+            <title type="label">Leo Thun an Flora Fries [?], o. O., 3. April [1851]</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-D9EA-9</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatsbibliothek zu Berlin</institution>
+                        <repository>Handschriftenabteilung</repository>
+                        <idno>Sammlung Darmstaedter, 2 c 1850 (4)</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun teilt einer nicht genannten Adressatin mit, dass Josef Pohl –
+                            wie gewünscht – eine Stelle am Wiener Polytechnikum erhalten habe. Er
+                            berichtet außerdem, dass in Wien eine neue böhmische Zeitung, Vidensky
+                            dennik, erscheint. Thun unterstützt dieses Blatt, da es ein Gegengewicht
+                            zu den Veröffentlichungen der tschechischen Nationalisten bilden soll.
+                            Der Minister wirbt um finanzielle Unterstützung für das Blatt.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</settlement>
+                    <date>3. April [1851]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#fries-flora">Flora Fries [?]</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Presse</term>
+                    <term>Vidensky denik</term>
+                    <term>Nationalitätenkonflikt</term>
+                </index>
+                <p>Gnädige Fürstin!<lb/>Ich freue mich Ihnen mittheilen zu können, daß Ihr Protegé
+                        <rs type="person" ref="#pohl-josef">Pohl</rs> die zunächst gewünschte
+                    Anstellung als Assistent am <rs type="org" ref="#org_0061">polytechnischen
+                        Institute</rs> erlangt hat.<lb/>Ich wage es an diese Nachricht eine Bitte zu
+                    knüpfen. – Es ist endlich gelungen, eine wirklich gute böhmische Zeitung zu
+                    Stande zu bringen, welche seit einem halben Jahre hier unter dem Namen Vidensky
+                    denník erscheint. Das Unternehmen hat Aussicht auf günstigen Erfolg, wenn es
+                    gelingt die erforderlichen Geldmittel flüssig zu erhalten, deren jede neue
+                    Zeitung in der ersten Zeit ihres Bestandes bedarf. Es ist nach meiner
+                    Überzeugung zur Besiegung des verderblichen Einflusses einer gewissen Parthei
+                    wirklich von Wichtigkeit die Sache nicht fallen zu lassen, und ich halte es
+                    deshalb für meine Pflicht um Unterstützung derselben zu bitten, nachdem ich
+                    dafür bürgen kann, daß die Leitung des Unternehmens so eingerichtet ist, um ein
+                    Umschlagen der Richtung auch für künftige Zeiten unmöglich zu machen. Es ist auf
+                    Akzien zu 250 fl CM gegründet.<lb/>Mit aufrichtiger Verehrung habe ich die Ehre
+                    zu verharren gnädige Fürstin<lb/>Ihr ergebenster Diener</p>
+                <p>Leo Thun</p>
+                <p>Den 3. April</p>
+            </div>
+        </body>
+        
+    </text>
+</TEI>

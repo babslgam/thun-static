@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="gesuche-lateinisches-konsistorium-przemysl-wegen-praeparandenkurs-1859-a3-xxi-d543.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/gesuch-ungarn-1857-05-09-a3-xxi-d625b.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/ghidoli-an-thun-1853-07-12-a3-xxi-d214.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Aufstellung der Gesuche des lateinischen Konsistoriums von Przemyśl bezüglich
+                    des dortigen Präparandenkurses<lb/>
+                    <date when="1859">1859</date>
+                </title>
+            <title type="label">Aufstellung der Gesuche des lateinischen Konsistoriums von Przemyśl bezüglich des dortigen Präparandenkurses 1859</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DC01-C</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D543</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Das Dokument enthält eine Aufstellung der Erlässe, die seit 1849
+                            hinsichtlich der Leitung und Aufsicht der k.k. Hauptschulen sowie des
+                            Präparandenkurses in Przemyśl ergangen sind. Leitung und Aufsicht wurden
+                            1849 an das griechisch-katholische Konsistorium übertragen. Seither
+                            versucht das lateinische Konsistorium diese Aufgaben zurückzuerhalten.
+                            Die Anträge hierzu werden im Dokument aufgelistet.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                    <term>Schulaufsicht</term>
+                    <term>Hauptschulen</term>
+                </index>
+                <p>Mit Gubernialerlaß vom 30. August 1849 Z. 10536 wurde in Folge Ermächtigung des
+                    <rs type="org" ref="#org_0005">hohen
+                        Ministeriums</rs> die Oberaufsicht und Leitung über die k.k.
+                    Hauptschulen in <rs type="place" subtype="place" ref="#place_06929365a95f6fe8db033da195ee7498">Przemyśl</rs>, <rs type="place" subtype="place" ref="#place_36ad7c77f8390477ad63932edeee38d7">Sambor</rs>
+                    und <rs type="place" subtype="place" ref="#place_c27b948811259b250ea2e3cd7d986c20">Drohobycz</rs>, welche allmählig in ruthenische
+                    Hauptschulen umgestaltet werden sollten, provisorisch vom lateinischen an das
+                    griechisch-katholische Consistorium in <rs type="place" subtype="place" ref="#place_06929365a95f6fe8db033da195ee7498">Przemyśl</rs>
+                    übertragen. Im Grunde dieser Verfügung ist auch die Leitung des mit der
+                        <rs type="place" subtype="place" ref="#place_06929365a95f6fe8db033da195ee7498">Przemyśler</rs> Hauptschule in Verbindung
+                    stehenden Präparandencurses dem lateinischen Consistorium entzogen und dem
+                    griechisch-katholischen Consistorium zugewiesen worden. <lb/>Unterm 13. Mai 1852
+                    Z. 167 hat das <rs type="place" subtype="place" ref="#place_06929365a95f6fe8db033da195ee7498">Przemyśler</rs> lateinische
+                    Consistorium an das <rs type="org" ref="#org_0005">hohe
+                        Ministerium</rs> die Bitte gerichtet, damit für polnisch-deutsche
+                    Volksschulen ein eigener Präparandencurs errichtet und der Leitung des
+                    lateinischen Ordinariates untergestellt, ferner damit die Oberaufsicht über die
+                        <rs type="place" subtype="place" ref="#place_06929365a95f6fe8db033da195ee7498">Przemyśler</rs> k.k. Haupt- und
+                    Unterrealschule mit Rücksicht auf die überwiegende Zahl der Schüler rit. latini,
+                    dem lateinischen Consistorium wieder zurückgestellt werde. <lb/>In Erledigung
+                    dieses Antrages wurde dem lateinischen Consistorium auf den unter Oberaufsicht
+                    des ruthenischen Consistoriums stehenden Präparandencurs ein beschränkter
+                    Einfluß eingeräumt, bezüglich die Oberleitung der <rs type="place" subtype="place" ref="#place_06929365a95f6fe8db033da195ee7498">Przemyśler</rs> Hauptschule aber der status quo belassen, <hi rend="ul">da in dieser Beziehung seinerzeit allgemein giltige Anordnungen
+                        erfolgen werden</hi>. Unterrichtsministerialerlaß dato 29. Mai 1852 Z. 4870
+                    Gub. Z. 3396 ex 1852. <lb/>Unterm 28. July 1856 Z. 548 stellte das <rs type="place" subtype="place" ref="#place_06929365a95f6fe8db033da195ee7498">Przemyśler</rs> lateinische Ordinariat beim <rs type="org" ref="#org_0005">hohen Ministerium</rs> die
+                    Bitte, damit ihm mit Rücksicht auf den Umstand, daß an der <rs type="place" subtype="place" ref="#place_06929365a95f6fe8db033da195ee7498">Przemyśler</rs> k.k. Haupt- und Unterrealschule <hi rend="ul">zwei Drittheile</hi> der Schuljugend dem lateinischen Ritus
+                    angehören und mit Rücksicht auf den 8. Artikel des Concordates vom 18. Aug. 1855
+                    die Oberaufsicht über die gedachte Schule zurückgegeben werde. <lb/>
+                    <hi rend="ul">Über diese im Wege der k.k. galizischen Statthalterei eingebrachte
+                        Vorstellung ist kein Bescheid herabgelangt</hi>. <lb/>Unterm 31. July 1856
+                    Z. 509 stellte das <rs type="place" subtype="place" ref="#place_06929365a95f6fe8db033da195ee7498">Przemyśler</rs> lateinische
+                    Ordinariat an das <rs type="org" ref="#org_0005">hohe
+                        Unterrichtsministerium</rs> die Bitte wegen Zurückgabe der Oberaufsicht
+                    über den <rs type="place" subtype="place" ref="#place_06929365a95f6fe8db033da195ee7498">Przemyśler</rs> Präparandencurs,
+                    einstweilig aber um die Erweiterung jenes Einflußes auf diese Anstalt. <lb/>
+                    <hi rend="ul">Darüber wird der Bescheid seit 4 Jahren gewärtiget</hi>. Unterm
+                    11. März 1857 Z. 207 stellte das <rs type="place" subtype="place" ref="#place_06929365a95f6fe8db033da195ee7498">Przemyśler</rs> lateinische Consistorium mittelst der <rs type="place" subtype="place" ref="#place_4ff55ec41ee84a7b7a80b0b7734e5a6b">Krakauer</rs> k.k. Landesregierung den Antrag, damit für
+                    den Nachwuchs von Lehrern für die unter Leitung dieses Consistoriums stehenden
+                    polnischen und polnisch-deutschen Schulen an der k.k. Hauptschule in
+                        <rs type="place" subtype="place" ref="#place_51817fa233762c1d5820e819f95e9d3b">Kzeszów</rs> ein eigener, den Bedürfnissen derlei Schulen
+                    angemessener Präparandencurs errichtet werde.<lb/>Dieser Antrug wurde mit hohem
+                    Ministerialerlaße dato 27. Jänner 1859 Z. 17608 (Lembergische Statthalterei Z.
+                    402/praes) <hi rend="ul">abschlägig</hi> beschieden.</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

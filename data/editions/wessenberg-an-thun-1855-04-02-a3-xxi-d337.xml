@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="wessenberg-an-thun-1855-04-02-a3-xxi-d337.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/wessenberg-an-thun-1849-10-23-a3-xxi-d10.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/wiese-an-unbekannt-1858-12-05-a3-xxi-d476.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#wessenberg-johann-philipp" role="sender:beamter">Johann
+                        Philipp Wessenberg</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_84741e39bd2250054745bd841d851b05">Freiburg im Breisgau</rs>, <date when-iso="1855-04-02">2. April 1855</date>
+                </title>
+            <title type="label">Johann Philipp Wessenberg an Leo Thun, Freiburg im Breisgau, 2. April 1855</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-D9A3-8</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D337</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Diplomat in Ruhestand Johann Philipp Wessenberg weist Leo Thun auf
+                            einen möglichen Kandidaten für eine Lehrerstelle an einem
+                            österreichischen Gymnasium hin. Er hat aus Zeitungen erfahren, dass für
+                            österreichische Gymnasien Philologen gesucht werden. Er möchte daher den
+                            Minister auf den tüchtigen und talentierten Lehrer Johann Schlegel
+                            hinweisen, der derzeit in Offenburg tätig ist. Schlegel hat bereits
+                            einige Arbeiten veröffentlicht und sein Leumund ist gut. Er wäre bereit,
+                            an ein Gymnasium in Pressburg oder Pest zu wechseln, wenn man ihm dort
+                            ein etwas höheres Gehalt biete würde, als er derzeit bezieht. Zuletzt
+                            spricht Wessenberg seine Freude darüber aus, dass sich Leo Thuns Bruder
+                            Franz wieder auf dem Weg der Besserung von seiner Krankheit
+                            befindet.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#wessenberg-johann-philipp">Johann Philipp Wessenberg</rs>
+                    <settlement ref="#place_84741e39bd2250054745bd841d851b05">Freiburg im Breisgau</settlement>
+                    <date when-iso="1855-04-02">2. April 1855</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Personalvermittlung</term>
+                    <term>Gymnasien</term>
+                </index>
+                <p>Hochgebohrener [sic!] Graf</p>
+                <p>Aus den Zeitungen ersehe ich, daß dermalen wieder Philologen für die
+                    österreichischen Gymnasien und Lyzeen gesucht werden. Ich bin in dem Falle einen
+                    ganz tüchtigen in der Person des <rs type="person" ref="#schlegel-johann">Herrn J. H.
+                        Schlegel</rs>, dermalen Professor in <rs type="place" subtype="place" ref="#place_a191df18d3a28f88cf32eb0e9e5042a7">Offenburg</rs>
+                    empfehlen zu können. Ich zweifle nicht, daß er hinsichtlich seiner gründlichen
+                    Befähigung, zumal was die lateinische und griechische Litteratur betrifft,
+                    vollkommen befriedigen würde. Er hat diesfalls die besten Zeugnisse aufzuweisen,
+                    auch bereits mehrere lateinische Arbeiten durch den Druck veröffentlicht, welche
+                    allgemeinen Beifall gefunden haben. Seine moralischen und religiösen Grundsätze
+                    dürften ebenfalls nichts zu wünschen übrig lassen, so wie die Anständigkeit
+                    seines Betragens. Er hat noch nicht das dreyßigste Jahr erreicht. Zur Zeit hat
+                    er eine Anstellung von 900 Gulden deutscher Währung. Ich glaube er würde sehr
+                    gerne eine Anstellung mit nur einigermaßen höherer Besoldung allenfalls in
+                        <rs type="place" subtype="place" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Presburg</rs> oder <rs type="place" subtype="place" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pesth</rs> oder sonst einer bedeutenden Stadt in Nieder oder Ober
+                    Oesterreich annehmen.<lb/>Ich beschränke mich denselben für einen vorkommenden
+                    Fall Euer Exzellenz Wohlwollen und mögliche Berücksichtigung zu empfehlen und
+                    benütze zugleich diesen Anlaß mich Ihrem freundlichen Andenken
+                    zurückzurufen.<lb/>Mit großem Vergnügen vernehme ich, daß Ihr Herr <rs type="person" ref="#thun-hohenstein-franz-anton">Bruder Franz</rs> sich wieder auf
+                    der Besserung befinde. Seine Erkrankung hatte meine lebhafteste Theilnahme
+                    erregt.<lb/>Mit der ausgezeichnetesten Hochachtung</p>
+                <p>Euer Exzellenz gehorsamst ergebenster<lb/>J. Fhr. Wessenberg</p>
+                <p>Freiburg, den 2. April 1855</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="rudigier-an-thun-1859-03-31-a3-xxi-d499.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/rudigier-an-franz-joseph-1854-10-18-a3-xxi-d294.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/safarik-an-thun-1850-07-08-a3-xxi-d59.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#rudigier-franz-joseph" role="sender:kleriker">Franz
+                        Joseph Rudigier</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_907e6aad95b11593946e28f6e29860aa">Linz</rs>, <date when-iso="1859-03-31">31. März 1859</date>
+                </title>
+            <title type="label">Franz Joseph Rudigier an Leo Thun, Linz, 31. März 1859</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DAA6-4</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D499</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Bischof von Linz, Franz Joseph Rudigier, berichtet Leo Thun von der
+                            Amtseinführung des neuen Abtes im Benediktinerstift Lambach: Diese
+                            verlief ohne größere Zwischenfälle und die Ordnung im Stift scheint
+                            wieder hergestellt zu sein. Das Kirchenvolk beteiligte sich freudig an
+                            dem Ereignis.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#rudigier-franz-joseph">Franz Rudigier</rs>
+                    <settlement ref="#place_907e6aad95b11593946e28f6e29860aa">Linz</settlement>
+                    <date when-iso="1859-03-31">31. März 1859</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                    <term>Benediktiner</term>
+                </index>
+                <p>Hochgeborner Graf!<lb/>Hochverehrtester Herr Minister!</p>
+                <p>Als ich das letzte Mahl die Ehre hatte, Eurer Excellenz aufzuwarten, haben
+                    Hochdieselben der weitern Entwicklung der <rs type="place" subtype="place" ref="#place_5dbeb093dbe8e51cab45bae7d9ca4b96">Lambacher</rs> Angelegenheit
+                    mit einiger Besorgnis entgegengesehen. Ich glaube daher Eurer Excellenz einen
+                    Trost zu bereiten, wenn ich Hochderselben mittheile, daß am 17. dieses Monats
+                    die Einführung und Benediktion des neuen Abtes <rs type="person" ref="#hagn-theoderich">Theoderich Hagn</rs> zu <rs type="place" subtype="place" ref="#place_5dbeb093dbe8e51cab45bae7d9ca4b96">Lambach</rs>
+                    in der besten Ordnung vor sich gegangen ist. Auch die alten Mitglieder des
+                    Stiftes haben bei diesen Feierlichkeiten eine ganz anständige Haltung bewiesen
+                    und bei dem Festessen in die allgemeine Heiterkeit eingestimmt. Das Volk hat an
+                    dem kirchlichen Theile des Festes großen Antheil genommen und äußert jetzt
+                    bereits, sicherem Vernehmen nach, große Zufriedenheit über die neue Ordnung. Die
+                    Liebenswürdigkeit der aus <rs type="place" subtype="place" ref="#place_b42731b5da8a6e9c9d412d284b692f4f">Metten</rs> gekommenen
+                    Mitbrüder und die Freundlichkeit des Abtes wird auch von den alten Conventualen
+                    bis jetzt anerkannt.<lb/>Mit allem diesem ist zwar noch nicht ein gutes Ende der
+                    Lambacher Sache gegeben, aber doch der Anfang eines solchen; und ich hoffe zu
+                    Gott, das gute Ende werde nicht ausbleiben.<lb/>Genehmigen Eure Excellenz die
+                    Versicherung der tiefsten Verehrung, mit welcher ich geharre</p>
+                <p>Eurer Excellenz</p>
+                <p>gehorsamster Diener<lb/>Franz Joseph Rudigier<lb/>Bischof</p>
+                <p>Linz, den 31. März 1859</p>
+            </div>
+        </body>
+        
+    </text>
+</TEI>

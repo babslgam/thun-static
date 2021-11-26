@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-helfert-1860-07-02-ca1424.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1860-02-14-ca1423.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-hye-1849-10-25-ca928.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#helfert-joseph-alexander" role="recipient">Joseph Alexander
+                        Helfert</rs>
+                    <lb/>o. O., <date when-iso="1860-07-02">o. D. [2. Juli
+                        1860]</date>
+                    <note xml:id="note_1">Das Datum ist mit Bleistift am Blatt
+                        vermerkt.</note>
+                </title>
+            <title type="label">Leo Thun an Joseph Alexander Helfert o. O., o. D. [2. Juli 1860]</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA11-C</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <msDesc>
+                        <msIdentifier>
+                            <institution>Mährisches Landesarchiv [Moravský zemský archiv v
+                                Brně]</institution>
+                            <repository>G 44, Nachlass Helfert</repository>
+                            <idno>Karton 26, Thun Lev</idno>
+                        </msIdentifier>
+                        <msContents>
+                            <p>Leo Thun bittet Joseph Alexander Helfert um eine Besprechung über die
+                                notwendige Herstellung von Repertorien für das Normalienbuch des
+                                Ministeriums. Thun möchte die Arbeit daran beschleunigen, da
+                                ansonsten das Auffinden von Erlässen nur schwer möglich sei.</p>
+                        </msContents>
+                    </msDesc>
+                </p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <date when-iso="1860-07-02">o. D. [2. Juli
+                        1860]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#helfert-joseph-alexander">Joseph Alexander Helfert</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Ministerium für Kultus und Unterricht</term>
+                    <term>Verwaltung</term>
+                </index>
+                <p>Ich bin heute von <rs type="person" ref="#tomaschek-eduard">Tomaschek</rs>
+                    aufmerksam gemacht worden, daß wenn ich in Folge von Interpellazionen Auskünfte
+                    über erlassene Ministerial Weisungen schnell brauchen sollte, solche in dem
+                    Normalienbuch allerdings zu finden wären, aber ohne Repertorium nicht werden mit
+                    verläßlicher Vollständigkeit werden gefunden werden können, daß es deshalb
+                    dringend nothwendig wäre, die anhängige Herstellung derselben möglichst zu
+                    beschleunigen. Ich bitte Montag mit mir darüber zu sprechen.</p>
+                <p>Thun</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

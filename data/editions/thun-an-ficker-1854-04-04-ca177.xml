@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-ficker-1854-04-04-ca177.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-fessler-od-ca372.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-ficker-1854-05-09-ca179.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#ficker-julius" role="recipient">Julius
+                        Ficker</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1854-04-04">4. April 1854</date>
+                </title>
+            <title type="label">Leo Thun an Julius Ficker, Wien, 4. April 1854</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA34-5</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Institut für Österreichische Geschichtsforschung</institution>
+                        <repository>Archiv</repository>
+                        <idno>Nachlass Ficker. Thun, 1</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun bittet den Historiker Julius Ficker, an der Universität
+                            Innsbruck zu bleiben. Thun hat nämlich erfahren, dass die preußische
+                            Regierung Julius Ficker den Lehrstuhl für Geschichte an der Universität
+                            Bonn anbieten möchte. Thun würde einen Abgang Fickers sehr bedauern und
+                            möchte ihn gern in Innsbruck halten, damit Ficker weiter zum Aufschwung
+                            der Geschichtswissenschaften in Österreich beitrage könne. Zu diesem
+                            Zweck versichert er Ficker, dass er ihn stets fördern werde.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Nicht eh. Brief von Leo Thun. Der Brief weist jedoch auch kein
+                            Aktenzeichen des Ministeriums für Kultus und Unterricht auf.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when-iso="1854-04-04">4. April 1854</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#ficker-julius">Julius Ficker</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Universität Innsbruck</term>
+                    <term>Geschichtswissenschaften</term>
+                    <term>Personalfragen</term>
+                </index>
+                <p>Wien, am 4. April 1854</p>
+                <p>Euer Wohlgeboren!</p>
+                <p>Ich habe die verlässliche Nachricht erhalten, daß die preußische Regierung Ihnen
+                    die durch die Berufung des Professor <rs type="person" ref="#aschbach-joseph">Aschbach</rs> nach <rs type="org" ref="#org_0018">Wien</rs>
+                    erledigte Lehrkanzel in <rs type="org" ref="#org_0040">Bonn</rs>
+                    anbiethen wird – vielleicht schon angebothen hat. Ich sehe ein, dass dieser Ruf
+                    ein ehrenvoller ist und daß die preußische Regierung alle Ursache hat, Ihnen
+                    Anerbiethungen zu machen, welche die Bedingungen Ihrer Anstellung in <rs type="org" ref="#org_0020">Innsbruck</rs> weit übertreffen. Unter
+                    solchen Umständen erübrigt mir nichts, als Ihnen werther Herr Professor einfach
+                    zu gestehen, wie sehr ich es bedauern müsste, Sie sobald wieder aus
+                        <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> scheiden zu sehen, wie aufrichtig ich wünsche,
+                    daß Sie Ihre Thätigkeit noch ferner dem Gedeihen der <rs type="org" ref="#org_0020">Innsbrucker Universität</rs> und der
+                    Neubelebung der historischen Studien in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> weisen
+                    mögen, und Ihnen die Versicherung auszusprechen, daß wenn Sie sich dafür
+                    entschließen, ich gerne jederzeit bemüht sein werde, Ihre wissenschaftlichen
+                    Bestrebungen und Arbeiten in jeder mir möglichen Weise zu unterstützen und zu
+                    fördern.</p>
+                <p>Hochachtungsvoll<lb/>Ihr<lb/>ergebener<lb/>Thun</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

@@ -1,0 +1,114 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="moy-an-thun-1860-01-02-a3-xxi-d544.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1859-02-13-a3-xxi-d497.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/mozart-an-thun-1853-09-19-a3-xxi-d235.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#moy-de-sons-ernst" role="sender:gelehrter">Ernst Moy de
+                        Sons</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</rs>, <date when-iso="1860-01-02">2. Januar 1860</date>
+                </title>
+            <title type="label">Ernst Moy de Sons an Leo Thun, Innsbruck, 2. Januar 1860</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DB11-B</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D544</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Jurist Ernst Moy de Sons wendet sich mit den besten Wünschen für das
+                            Neue Jahr an Leo Thun und bedankt sich für die Ernennung zum Präses der
+                            rechtshistorischen Prüfungskommission. In der Folge lobt er den Fleiß
+                            der Studenten: Lediglich zwei von 37 Kandidaten haben die jüngsten
+                            Prüfungen nicht bestanden. Dann erörtert Moy noch einige Personalia. Er
+                            empfiehlt Karl Indermauer für die Lehrkanzel des verstorbenen Johann
+                            Schuler. Er spricht sich auch dafür aus, dass der Professor für
+                            Philosophie, Tobias Wildauer, die rechtsphilosophischen Kollegien
+                            übernehme. Abschließend empfiehlt er nochmals den Juristen Johann
+                            Roßbach, welcher immer noch nach Österreich berufen werden möchte.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Verweis auf A3 XXI D497.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#moy-de-sons-ernst">Ernst Moy de Sons</rs>
+                    <settlement ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</settlement>
+                    <date when-iso="1860-01-02">2. Januar 1860</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Universität Innsbruck</term>
+                    <term>Staatsprüfungen</term>
+                    <term>Studenten</term>
+                    <term>Personalfragen</term>
+                    <term>Rechtswissenschaften</term>
+                    <term>Rechtsphilosophie</term>
+                </index>
+                <p>Euer Exzellenz</p>
+                <p>erlauben, daß ich mit meinen Glückwünschen zum neuen Jahre, das Gott für Sie mit
+                    seinem reinsten Segen begleiten möge, meinen gehorsamsten Dank verbinde für die
+                    mir gewordene Ehre, zum Präses der rechtshistorischen Prüfungscommission ernannt
+                    zu werden.<lb/>Wir haben die Prüfung, die im Juli hätte stattfinden sollen, vom
+                    17. bis 21. Dezember gehalten und von 37 Candidaten sind nur zwei für nicht
+                    befähigt erklärt, die meisten anderen wenigstens in einem Fache besonders
+                    befähigt erfunden worden. Fleiß und Sittlichkeit unserer Studenten verdienen
+                    wirklich alles Lob.<lb/>Die Prüfung der Reparanten werden wir dies[es] Jahr,
+                    weil keine Aufhebung stattfindet, am Ende des ersten Semesters vornehmen. Für
+                    die Folge werde ich im Einverständnis mit meinen Collegen beantragen, daß sie in
+                    den letzten Tagen des Januar in den Abendstunden abgehalten werde, damit die
+                    jungen Leute, die in den ersten Tagen bis März loosen müssen, vier Wochen vorher
+                    ihre Zeugnisse vorlegen können.<lb/>Euer Exzellenz werden nächstens den Bericht
+                    der Facultät über die Wiederbesetzung der durch <rs type="person" ref="#schuler-johannes">Schulers</rs> Tod erledigten Lehrkanzeln erhalten. Die für <rs type="person" ref="#indermauer-karl">Herrn von Indermauer</rs> sprechenden
+                    Empfehlungsgründe scheinen nie so überwiegend, daß sie wohl auch den Ausschlag
+                    gegeben hätten, wenn ihm nicht von Vornherein, wie es wirklich der Fall ist, die
+                    Sympathien aller Mitglieder des Collegiums gewonnen wären. Bei der Gelegenheit
+                    wird subsidiär der Antrag gestellt werden, die Rechtsphilosophie dem Prof. der
+                    Philosophie Dr. <rs type="person" ref="#wildauer-tobias">Wildauer</rs> zu
+                    übertragen. Diesem Antrage würde ich, wenn nicht <rs type="person" ref="#wildauer-tobias">Wildauer</rs> auch Jurist wäre, mich principiell widersetzt haben.
+                    Unter den gegebenen Verhältnissen ist nichts dagegen einzuwenden, zumal
+                        <rs type="person" ref="#wildauer-tobias">Wildauer</rs> auch ein sehr
+                    wohlgesinnter Mann ist.<lb/>Ich wage es, Euer Exzellenz die kleine Schrift eines
+                        <rs type="place" subtype="place" ref="#place_4a09693dd4922847cb8cece9a260c1da">Genter</rs> Professors über Roßbachs Geist der
+                    Geschichte zu senden und neuerdings die Aufmerksamkeit Euer Exzellenz auf diesen
+                    Dr. <rs type="person" ref="#rossbach-johann">Roßbach</rs> zu lenken, der immer noch
+                    sehnlichst wünscht, in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> eine Lehrkanzel zu
+                    erhalten. Talent, Gelehrsamkeit und Gesinnung vereinigen sich ihn ihm und zu
+                    seiner Empfehlung.<lb/>Möge ich Euer Exzellenz nicht unbescheiden ersch[einen],
+                    indem ich noch einmal auf diesen Gegenstand zurückzukommen mir erlaube, und
+                    mögen Hochdieselben gnädig die Versicherung der tiefsten Verehrung aufnehmen,
+                    womit ich verharre</p>
+                <p>Euer Exzellenz</p>
+                <p>unterthäniger Diener<lb/>Baron Moy</p>
+                <p>Innsbruck, den 2. Jänner 1860</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

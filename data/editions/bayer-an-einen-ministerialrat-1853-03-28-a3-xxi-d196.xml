@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="bayer-an-einen-ministerialrat-1853-03-28-a3-xxi-d196.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/baruffi-an-thun-1853-08-10-a3-xxi-d223.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/beck-an-thun-1853-05-18-a3-xxi-d205.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#bayer-johann" role="sender:gelehrter">Johann Bayer</rs>
+                    an einen Ministerialrat im Ministerium für Kultus und Unterricht<lb/>
+                    <rs type="place" subtype="place" ref="#place_6244fbb7edb0da394fbfed3800b4c36d">Hermannstadt</rs>, <date when-iso="1853-03-28">28.
+                        März 1853</date>
+                </title>
+            <title type="label">Johann Bayer an einen Ministerialrat im Ministerium für Kultus und Unterricht, Hermannstadt, 28. März 1853</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DC2F-A</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D196</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Jurist Johann Bayer beklagt sich bei einem nicht näher benannten
+                            Ministerialrat über den Versuch der Hermannstädter Stadtverwaltung, die
+                            Rechtsakademie gegen ihren Willen in das Militärspital zu verlegen.
+                            Bayer bittet den Ministerialrat daher, beim Minister in dieser Sache zu
+                            intervenieren bzw. dass der Minister nötigenfalls beim Gouverneur von
+                            Siebenbürgen, Karl Schwarzenberg, gegen diesen Plan protestiere. Bayer
+                            beschwert sich bitter über das Verhalten der Stadtverwaltung, die die
+                            Rechtsakademie bereits mehrfach verlegt und dabei vollkommen ungeeignete
+                            Räume zur Verfügung gestellt hatte. Um seine Bitte zu untermauern,
+                            betont Bayer den Erfolg der Akademie und den Fleiß der Studenten.
+                            Besonders hebt er dabei die romanischen Studenten hervor. Hinter den
+                            andauernden Umsiedlungen der Akademie sowie den zahlreichen
+                            Unannehmlichkeiten, die der Akademie bereitet werden, glaubt Bayer im
+                            Übrigen eine Intrige der Siebenbürger Sachsen erkennen zu können. Diese
+                            Bevölkerungsgruppe räche sich aus seiner Sicht nämlich dafür, dass
+                            zahlreiche katholische Professoren an die Akademie berufen worden sind
+                            und damit der vormals bestandene protestantische Charakter der Akademie
+                            verloren gegangen sei. Abschließend verweist Bayer auf den schlechten
+                            Zustand der Gymnasien in Siebenbürgen, wobei er insbesondere auf die
+                            evangelischen Gymnasien hinweist.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#bayer-johann">Johann Bayer</rs>
+                    <settlement ref="#place_6244fbb7edb0da394fbfed3800b4c36d">Hermannstadt</settlement>
+                    <date when-iso="1853-03-28">28.
+                        März 1853</date>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Rechtsakademie Hermannstadt</term>
+                    <term>Gymnasien</term>
+                    <term>Siebenbürgen</term>
+                </index>
+                <p>Hochverehrtester Herr Ministerialrath!</p>
+                <p>Ich muß leider wieder mit einer Klage kommen, aber ich weiß auch, welchen regen
+                    Antheil Euer Hochwohlgeboren an <rs type="org" ref="#org_0001">unserer Rechtsakademie</rs> nehmen, und deshalb kann ich nicht umhin,
+                    die ihr neuerlich drohende Gefahr zu schildern. Die <rs type="place" subtype="place" ref="#place_6244fbb7edb0da394fbfed3800b4c36d">Hermannstädter</rs> Communität befindet sich
+                    nämlich in Quartierverlegenheit und denkt wie immer, wenn sie in Quartiersnoth
+                    ist, an die Dislocirung der <rs type="org" ref="#org_0001">Rechtsakademie</rs>, obgleich diese Lehranstalt durch den
+                    Miethcontract gedeckt ist. Euer Hochwohlgeboren kennen die bedauernswerthen
+                    Vorgänge in dieser Beziehung, wir haben das jetzige zwar kleine, aber ganz dem
+                    Bedürfnisse der <rs type="org" ref="#org_0001">Akademie</rs>
+                    entsprechende Lokale dem energischen Wirken des Collegen <rs type="person" ref="#schmidt-heinrich">Schmidt</rs> zu danken, der damals die
+                    Redaktion des Siebenbürger Boten führte und mit persönlicher Gefahr seiner
+                    Freiheit die gewaltigen Hindernisse besiegte. Kaum sind wir ein Jahr im ruhigen
+                    Besitze und wir sind wieder auf dem Punkte, vielleicht sogar mitten im
+                    Schuljahre zu wandern und die Vorlesungen zu unterbrechen, weil die hiesige
+                    Polizeidirektion, wie ich höre, die Lokalität beansprucht. In der letzten Woche
+                    der Fastenzeit erschien nämlich eine Commission, bestehend aus dem
+                    Polizeidirektor, dem Bürgermeisterstellvertreter und 10 andern
+                    Communitätsmitgliedern in den Räumen der <rs type="org" ref="#org_0001">Rechtsakademie</rs>, drang ohne
+                    Rücksicht auf die gerade vortragenden Professoren, wiewohl der Pedell
+                    ausdrücklich sie aufforderte zu warten, bis der Vortrag geschloßen sei, in die
+                    Hörsälle, unterbrach den Vortrag, ohne sich zu entschuldigen, und nahm die
+                    Beaugenscheinigung der Lokalität vor. Der Lehrkörper hat über dieses, jeder
+                    Bildung und der Ehre der Lehranstalt Hohn sprechende Benehmen der Commission
+                    eine Beschwerde an die Oberdirektion gerichtet. Nun entsteht die Frage, wohin
+                    wir wandern müssen? Wie ich vernehme, hat man die Absicht, einen Theil des
+                    Hauses am Hundsrücken, wo seit der Revolution, also durch 5 Jahre, ein
+                    Militärspital war, für uns zu adaptiren. Wir haben wohl diesfalls schon
+                    Großartiges erlebt, wir haben Vorträge in einem Zimmer gehalten, während der
+                    Thürstock und Fußboden dieses Zimmers ausgehoben wurde, wir haben in Zimmern
+                    vorgetragen, während der Mörtel vom Plafond fiel, bis die von uns angesuchte
+                    Baucommission den drohenden Einsturz des Hauses erkannte, wir haben in einem
+                    Quartiere vortragen müssen, dessen Zimmer so klein waren, daß ein Theil des
+                    Auditoriums im benachbarten Zimmerchen durch die Thüre den Vortag anhören mußte,
+                    aber die jetzt gemachte Zumuthung, in Räumen vorzutragen, in welchen seit einer
+                    Reihe von Jahren von typhösen Fiebern und venerischen Krankheiten behaftete
+                    Militärs lebten, wäre denn doch zu stark. Wie ich glaube, wäre dem drohenden
+                    Übel am besten zu begegnen, wenn Seine Excellenz, unser hochverehrter <rs type="person" ref="#thun-hohenstein-leo">Herr Minister</rs>, bei einem etwaigen
+                    Zusammentreffen mit dem Gouverneur <rs type="person" ref="#schwarzenberg-karl">Fürsten
+                        Schwarzenberg</rs>, welcher sich gegenwärtig in
+                        <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> befindet, diesen Gegenstand zur Sprache bringen
+                    würde. Denn leider ist gerade nun der <rs type="person" ref="#schwarzenberg-karl">Fürst</rs> nicht anwesend und die <rs type="org" ref="#org_0001">Akademie</rs> daher ohne Schutz. Zwar
+                    soll der provisorische Generalprocurator von Siebenbürgen, <rs type="person" ref="#fueger-von-rechtborn-maximilian">Füger von Rechtborn</rs>, zum
+                    Curator derselben schon seit 3 Monaten ernannt sein und selbst das Dekret haben,
+                    aber (unglaublich, aber doch wahr) das Gouvernement publicirt die Ernennung
+                    nicht, weil es zur Expedition dieses Stückes noch eines Voraktes benöthigt und
+                    Hauptmann <rs type="person" ref="#kleinmayer">Kleinmayer</rs>, der Adjutant des
+                        <rs type="person" ref="#schwarzenberg-karl">Fürsten</rs>, angeblich alle
+                    Präsidialvorakten vor seiner Abreise mit dem <rs type="person" ref="#schwarzenberg-karl">Fürsten</rs> eingesperrt hat!!! Und so kann selbst <rs type="person" ref="#fueger-von-rechtborn-maximilian">Füger</rs>, welcher mit dem
+                    besten Willen auch die Macht vereinigen würde, uns leider nicht helfen. Es ist
+                    traurig, daß die Lehrer dieser Anstalt so oftmals ein förmliches Dementi der von
+                    ihnen vorgetragenen Rechtsgrundsätze erfahren müssen, weil, wenn ein Chef eines
+                    untergeordneten Amtes sein lüsternes Auge auf die Lokalität der <rs type="org" ref="#org_0001">Akademie</rs> geworfen hat, alle
+                    heiligen Grundsätze des Privatrechtes, die Contracte, das Eigenthumsrecht,
+                    diesen sogenannten politischen Rücksichten weichen müssen! Und gewiß, die
+                        <rs type="org" ref="#org_0001">Hermannstädter
+                        Rechtsakademie</rs> verdient keine solche Zurücksetzung und unwürdige
+                    Behandlung von Seite einzelner Beamten, indem dieselbe im beständigen
+                    Fortschritte sich befindet und vielleicht jetzt schon den ersten Rang bezüglich
+                    der Frequenz der Zuhörer unter den Rechtsakademien einnimmt. Als ich im
+                    Schuljahre 1851 hierher kam, studirten beiläufig 36, in diesem Semester 1853
+                    sind 86 Zuhörer immatriculirt. Jedes unserer Collegien ist von 30 bis 40
+                    Studenten und mehreren Beamten besucht, und es bedarf keiner Divinationsgabe, um
+                    vorauszusagen, daß sich die Anzahl der Zuhörer in 2 Jahren wieder verdoppelt.
+                    Was die Leistungen unserer Schüler betrifft, so findet man, wie überall, mehr
+                    und minder begabte, aber rühmen muß ich den guten Willen und den regen Eifer bei
+                    allen. Sie bilden keine Burschenschaften, besuchen keine Kaffeh- und
+                    Wirthshäuser, nie wurde gegen einen derselben in politischer oder polizeilicher
+                    Beziehung ein Anstand erhoben, sie sind zwar, wenn sie in die <rs type="org" ref="#org_0001">Akademie</rs> gelangen, mitunter sehr
+                    roh, wir Professoren müssen sie noch manche Regeln des Anstandes lehren, aber
+                    wir finden immer ein williges Gemüth und pünktlichen Gehorsam. Besonders eifrig
+                    sind die Romanen, sie legen, wenn sie auf die Rechtsschule kommen, ihre
+                    wallachische Kleidung ab, tragen den deutschen Rock und Hut und germanisiren
+                    sich vollständig. Viele derselben sind so arm, daß sie ihr Leben während der
+                    Studienzeit durch Stiefelputzen und andere knechtische Dienste bei Beamten
+                    fristen, die vom <rs type="org" ref="#org_0005">hohen
+                        Unterrichtsministerium</rs> diesfalls bewilligten Stipendien sind eine
+                    große Wohlthat und werden reiche Früchte tragen. Zum ferneren Gedeihen der
+                        <rs type="org" ref="#org_0001">Lehranstalt</rs> ist es
+                    wesentlich nöthig, daß das Ansehen derselben auch nach außen gewahrt werde. Die
+                    Anfeindung gegen dieses Institut geht nämlich von den hiesigen Sachsen aus, weil
+                    einerseits durch die Anstellung so vieler katholischer Professoren die
+                    Lehranstalt aufhört, protestantisch zu sein und weil dieselben gewohnt sind, in
+                    den Professoren ihre willfährigen Werkzeuge und Diener zu erkennen. Die
+                    hierarchische Stufenleiter bei den Evangelischen ist hier: Nach absolvirten
+                    Studien Professor am Gymnasium, dann Prediger, dann Pfarrer. Die letzteren
+                    Würden, mit denen reiche Pfründen verbunden sind, werden durch freie Wahl der
+                    Bürger besetzt, der absolvirte Theologe, welcher als Professor am Gymnasium kaum
+                    200 fl jährlich hat, muß nach dem Beifall der Schüler und der Ältern [sic!]
+                    derselben ringen, um das Ziel seines Lebens, die Vocation zu einem Pfarramte, zu
+                    erreichen. Bei dieser Abhängigkeit von allen muß das Ansehen der Professoren
+                    leiden. Überhaupt sind hierzulande die Gymnasien auf einer sehr niedrigen Stufe.
+                    Euer Hochwohlgeboren wissen, daß ich bei meiner langjährigen Verwendung in
+                    denselben ein competentes Urtheil umso mehr fällen kann, als ich noch vor meiner
+                    Berufung hierher am Josephstädter Obergymnasium Vorträge hielt und mit der neuen
+                    Organisation vollkommen vertraut bin. Ich habe die viel gepriesenen
+                    evangelischen Gymnasien zu <rs type="place" subtype="place" ref="#place_3341ffed6fa9ac4acf64535f4f9a72e5">Kronstadt</rs>, <rs type="place" subtype="place" ref="#place_e747daf7efb52835d18bbc6bce29474a">Schäßburg</rs>, <rs type="place" subtype="place" ref="#place_3a0ef7f393fdd2f83c32f3a26a89f03a">Mediasch</rs> und
+                        <rs type="place" subtype="place" ref="#place_6244fbb7edb0da394fbfed3800b4c36d">Hermannstadt</rs> kennengelernt, und zwar in loco, habe
+                    aber leider die Erfahrung gemacht, daß manche der wichtigsten Wissenschaften, z.
+                    B. Mathematik und Physik, sehr wenig betrieben werden, daß ferner die
+                    Consistorialprüfung, welche die Stelle der Maturitätsprüfung vertritt, bei
+                    weitem nicht den Umfang und die Wichtigkeit der letzteren hat. Das hiesige
+                    katholische Untergymnasium ist gut. Wenn mir die Zeit erübrigt, so werde ich in
+                    einem umfassenden Berichte die bei den hierländigen Gymnasien herrschenden
+                    Gebrechen zur Kenntnis des <rs type="org" ref="#org_0005">hohen Ministeriums</rs> bringen.<lb/>Mit tiefster Hochachtung</p>
+                <p>Euer Hochwohlgeboren</p>
+                <p>gehorsamster Diener<lb/>J. Bayer</p>
+                <p>Hermannstadt, am 28. März 1853</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="haidinger-an-thun-1857-04-01-a3-xxi-d411.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/haidinger-an-thun-1857-03-31-a3-xxi-d410.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/handel-an-thun-1855-03-24-a3-xxi-d336.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#haidinger-wilhelm" role="sender:gelehrter">Wilhelm
+                        Haidinger</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1857-04-01">1. April 1857</date>
+                </title>
+            <title type="label">Wilhelm Haidinger an Leo Thun, Wien, 1. April 1857</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DBD6-D</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D411</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Wilhelm Haidinger, Direktor der Geologischen Reichsanstalt, teilt dem
+                            Minister mit, dass die Geographische Gesellschaft dem Botaniker Josef
+                            Maly eine einmalige Unterstützung in der Höhe von 250 fl für seine
+                            Verdienste um die Wissenschaft gewähren wird. Haidinger glaubt, dass
+                            damit ein erster Schritt zur Besserung von Malys trostloser Lage getan
+                            sei, allerdings müsse auch für die Zukunft Sorge getragen werden. Daher
+                            verweist Haidinger nochmals auf sein Gesuch, Maly ein Gnadengehalt zu
+                            gewähren.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#haidinger-wilhelm">Wilhelm Haidinger</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when-iso="1857-04-01">1. April 1857</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Botanik</term>
+                </index>
+                <p>Eure Excellenz,</p>
+                <p>Gestern konnte ich nicht widerstehen, in der Unruhe des Augenblickes Eurer
+                    Excellenz mächtigen und nachhaltigen wohlwollenden Einfluß für Herrn <rs type="person" ref="#maly-josef-karl">Dr. Maly</rs> ehrfurchtsvoll anzurufen.<note xml:id="note_1">Vgl. <ref target="thun/thun-korrespondenz/tetschen/haidinger-an-thun-1857-03-31-a3-xxi-d410.xml">Wilhelm Haidinger an Leo Thun. Wien, 31. März 1857.</ref>
+                    </note> Mit um
+                    desto größerer Freude kann ich heute gehorsamst Nachricht geben, daß die k.k.
+                    geographische Gesellschaft in ihrer gestrigen Sitzung auf den Antrag des
+                    Ausschußes Herrn <rs type="person" ref="#maly-josef-karl">Dr. Maly</rs> als
+                    Ehrengeschenk die Summe von 250 fl Conv. Mze. zuerkannt hat, für seine wichtigen
+                    botanischen Arbeiten, namentlich auch für Begründung vaterländischer
+                    pflanzengeographischer Forschungen und Studien. Zwischen den Zeilen wird man
+                    wohl die Schilderung seiner bedrängten Lage lesen, in der Gestalt der Widmung
+                    erscheint aber nur die Wissenschaft.<lb/>Ist nun auch Eines gewonnen, so bleibt
+                    doch noch immer die Sorge für die Zukunft, in Bezug auf welche die Wünsche
+                    vieler, wie ich sie gestern ehrfurchtsvoll vorzulegen wagte, fortwährend gleich
+                    lebhaft hervortreten.<lb/>Genehmigen Eure Excellenz den Ausdruck der Gefühle
+                    tiefster Ehrfurcht, mit welchen ich die Ehre habe zu seyn</p>
+                <p>Eurer Excellenz unterthänigster Diener<lb/>W. Haidinger</p>
+                <p>Wien, den 1. April 1857</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

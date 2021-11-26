@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="neumann-an-thun-1850-09-21-a3-xxi-d71.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/mueller-an-thun-1854-10-13-a3-xxi-d291.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/neumann-an-thun-1851-04-13-a3-xxi-d113.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#neumann-leopold" role="sender:gelehrter">Leopold
+                        Neumann</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1850-09-21">21. September 1850</date>
+                </title>
+            <title type="label">Leopold Neumann an Leo Thun, Wien, 21. September 1850</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DB0C-2</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D71</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Professor für diplomatische Staatengeschichte und europäisches
+                            Völkerrecht an der Universität Wien, Leopold Neumann, wendet sich in der
+                            Angelegenheit von Moritz Heyssler an Leo Thun. Der Lehrbeauftragte für
+                            Enzyklopädie, Methodologie und Rechtsphilosophie an der juridischen
+                            Fakultät der Wiener Universität muss wegen seiner hegelianischen Lehren
+                            die Universität verlassen und den Beruf eines Notars ergreifen. Neumann
+                            setzt sich für den Verbleib von Heyssler ein. Obwohl Hegelianer, so sei
+                            Heyssler ein selbständiger Denker und weit davon entfernt Hegel, blind
+                            zu folgen. Für die Universität würde der Abgang Heyssler einen schweren
+                            Verlust darstellen, da er hochbegabt und für die Wissenschaft und den
+                            Unterricht der Jugend ein Gewinn sei. Im Namen des juridischen
+                            Professorenkollegiums bittet er Thun wenigstens um eine außerordentliche
+                            Professur für Heyssler.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#neumann-leopold">Leopold Neumann</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when-iso="1850-09-21">21. September 1850</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Universität Wien</term>
+                    <term>Personalfragen</term>
+                    <term>Juridische Fakultät</term>
+                    <term>Hegelianismus</term>
+                </index>
+                <p>Eure Excellenz!</p>
+                <p>Die Wichtigkeit des Gegenstandes und das mir so oft bewiesene ehrende Vertrauen
+                    ermuthigen mich, die von mir letzthin als Mitglied der Deputation des
+                    juridischen Professorencollegiums vorgebrachten Bemerkungen neuerdings und
+                    inständig Euer Excellenz ans Herz zu legen.<lb/>In Folge seiner Quiescirung und
+                    des durch den Tod <rs type="person" ref="#heyssler-johann">seines Vaters</rs> auf
+                    einige Hundert Gulden reducirten Einkommens der von ihm zärtlich geliebten
+                    Familie, ist <rs type="person" ref="#heyssler-moritz">
+                        <hi rend="ul">Dr.
+                        Heyssler</hi>
+                    </rs>, wie Euer Excellenz bekannt sein wird, zum
+                    Entschlusse gelangt, sich um die Advocatur oder das Notariat zu bewerben. Ohne
+                    Vorliebe, ja wohl gegen seine Neigung zu diesem Entschlusse <hi rend="ul">gedrängt</hi>, würde der hochbegabte und grundhonette Mann sich
+                    zweifelsohne bald eine ansehnliche Clientel verschaffen – für die Wissenschaft
+                    aber und ihre Lehre zu ihrem und der Jugend Abbruche fortan verloren sein.
+                    Gerade der wissenschaftliche Standpunct, den<rs type="person" ref="#heyssler-moritz"> Dr.
+                        Heyssler</rs> einnimmt, hat, wenn ich nicht irre, zu manchen Bedenken
+                    Veranlassung gegeben. Ich bin kein unbedingter Verehrer <rs type="person" ref="#hegel-georg-wilhelm-friedrich">Hegel’s</rs>, aber ich kann nicht
+                    umhin zu bemerken, daß seine Lehre vom <hi rend="ul">Absoluten</hi> von der
+                    modernen <hi rend="ul">Encyclopädie</hi> (der Rotteck-Welcker’schen)<note xml:id="note_1">Damit ist die "Encyklopaedie der Staatswissenschaften",
+                        (in späteren Ausgaben unter dem Titel: Das Staats-Lexikon. Encyklopädie der
+                        sämmtlichen Staatswissenschaften für alle Stände) gemeint, die nach den
+                        Herausgebern und Autoren der Erstausgabe von 1834, <rs type="person" ref="#rotteck-karl">Karl von Rotteck</rs> und <rs type="person" ref="#welcker-karl-theodor">Carl Theodor Welcker</rs>, als
+                        Rotteck-Welckersches Staatslexikon bezeichnet wird.</note>verketzert worden
+                    ist, während die Jung-Hegelianer unserer Tage aus derselben Lehre die tollsten
+                    Umsturzideen abzuleiten bemüht sind. Es ist eben das Schicksal jedes
+                    herrschenden philosophischen Systems, in den entgegengesetztesten Richtungen
+                    ausgebeutet und gedeutet zu werden. <rs type="person" ref="#heyssler-moritz">Dr.
+                        Heyssler</rs>, obgleich auf dem Systeme <rs type="person" ref="#hegel-georg-wilhelm-friedrich">Hegels</rs> fußend, ist als
+                    selbstständiger Denker weit entfernt, dessen blinder Nachbether zu sein. Er hat
+                    das unbestreitbare Verdienst, durch seine ernste, tief eingehende Auffassung des
+                        <hi rend="ul">organischen Staates</hi> die alte und längst überwundene
+                    Fiction des Naturzustandes, die mechanisch gelehrte und mechanisch von
+                    studierenden Generationen nachgelernte Vertragstheorie, welche consequenter
+                    Weise zum contrat social führen muß, aus den Hörsälen <rs type="org" ref="#org_0018">unserer Universität</rs> verbannt, die
+                    erkünstelte und verderbliche Sonderung von Recht und Sittlichkeit beseitigt zu
+                    haben. Ich glaube die Überzeugung aussprechen zu können, – und eine auch nur
+                    flüchtige Durchsicht seiner Vorlesehefte wird sie bestätigen –, daß <rs type="person" ref="#heyssler-moritz">Dr. Heysslers</rs> Lehre vom Staatsrechte die
+                    Jugend zum Nachdenken, zum gründlichen Studium auffordert und eben deshalb am
+                    besten geeignet ist, sie vom seichten Räsonniren und anmaßlichen Weltverbessern
+                    abzuhalten. Der ganze Character des von seinen Collegen und Allen, die ihn näher
+                    kennen, hoch geachteten Mannes ist ein würdiger, ein Gegensatz alles Frivolen
+                    und Leichtfertigen. Aus eigener Erfahrung kann ich anführen, daß, als im April
+                    des Jahres 1848 ganz <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> durch die deutsche Frage in
+                    Aufregung versetzt ward, und die verhängnisvolle Distinction, ob Staatenbund, ob
+                    Bundesstaat, Tausende in entgegengesetzte, feindliche Lager führte, <rs type="person" ref="#heyssler-moritz">Dr. Heyssler</rs> ohne Zaudern und laut sich als
+                    Oesterreicher und vor allem als solcher bekannte, was ihm in seiner damaligen
+                    Stellung wiederholt die Verfolgung des aufgehetzten Pöbels zuzog. Sein ruhiges,
+                    würdevolles, jedes Buhlen um Popularität des Tages verschmähendes Benehmen,
+                    welches er zur Zeit seiner, ihn moralisch und pecuniär so empfindlich
+                    berührenden Quiescirung beobachtete, konnte die Achtung seiner Freunde für ihn
+                    nur erhöhn. Da er von einer Art Ovation Kunde erhalten, mit welcher seine
+                    Schüler – wahrscheinlich fremdem Impulse folgend – ihn bei seinem ersten
+                    Wiedererscheinen nach jenem Ereignisse zu empfangen beabsichtigten, entzog er
+                    sich alsbald der Ausführung dieses Planes und begann die Vorlesungen des zweiten
+                    Semesters, als ob nichts vorgefallen wäre, zum Leidwesen der Skandalsuchenden.
+                    Von gewisser Seite wäre man – wie mir genau bekannt ist – gar erfreut gewesen,
+                    diese Veranlassung recht auszubeuten. <rs type="person" ref="#heyssler-moritz">Dr.
+                        Heyssler</rs> zum Märtyrer zu stempeln, ihn zum Helden des Tages und
+                    der Opposition zu machen, die Sache in Journalen zu besprechen. Ja, man erboth
+                    sich, dem tüchtigen Gelehrten zur Erlangung einer Kanzel an einer ausländischen
+                    Universität behülflich zu sein. Herr <rs type="person" ref="#heyssler-moritz">Heyssler</rs> verbath sich alle Journalartikel, alle Vermittelung für
+                    eine auswärtige Kanzel. Er sei und bleibe ein Oesterreicher und wolle sein
+                    Vaterland nicht verlassen. Zu gut, um sich zu Machinationen herzugeben, ist Herr
+                        <rs type="person" ref="#heyssler-moritz">Heyssler</rs> zu stolz, um sich von
+                    irgend einer Coterie als Werkzeug gebrauchen zu lassen. Freilich wäre es für
+                    diese Coterie kein geringer Gewinn, einen Mann von so hervorragendem Talente,
+                    von so eminenter publicistischer Kenntnis und Darstellungsgabe vollkommen für
+                    ihre Sache in Beschlag zu nehmen. Ich befürchte nicht, daß ihr dieses bei dem
+                    selbstständigen Character und patriotischen Sinne Herrn <rs type="person" ref="#heyssler-moritz">Heysslers</rs> je gelingen könne.<lb/>Der Zweck
+                    dieses meines Schreibens ist, die Bitte des juridischen Professorencollegiums um
+                    Verleihung einer – wenigstens außerordentlichen – Kanzel an <rs type="person" ref="#heyssler-moritz">Dr. Heyssler</rs>, so viel an meinem schwachen
+                    Fürworte liegt, zu unterstützen. Ich kann und will nicht läugnen, daß auch
+                    freundschaftliche Zuneigung für den mir sehr werthen Freund und mehrjährigen
+                    Berufsgenossen mit meine Feder leitet; aber Eure Excellenz kennen mich zu gut,
+                    um erst der Versicherung zu bedürfen, daß ich meinen eigenen Bruder in ähnlichem
+                    Falle nicht anempfehlen würde, wenn ich die geringste Besorgnis für das
+                    Interesse der Sache und des Staates hegen könnte. Ich würde mit vielen Andern es
+                    für ein Glück erachten, wenn eine so bedeutende Persönlichkeit, ein Mann von so
+                    tiefem Wissen und so respectablem Character wie <rs type="person" ref="#heyssler-moritz">Dr. Heyssler</rs> bleibend für die Wissenschaft und den Unterricht
+                    der Jugend gewonnen würde.<lb/>Genehmigen Eure Excellenz den Ausdruck der
+                    innigsten Anhänglichkeit und tiefsten Verehrung, mit der ich stets bin</p>
+                <p>Hochderselben</p>
+                <p>ergebenster Diener<lb/>L. Neumann</p>
+                <p>Wien, den 21. September 1850</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

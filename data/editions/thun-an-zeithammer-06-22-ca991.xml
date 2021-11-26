@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-zeithammer-06-22-ca991.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-wessenberg-1849-10-31-ca1570.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-zeithammer-08-08-ca992.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#zeithammer-gregor" role="recipient">Gregor
+                        Zeithammer</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</rs>, <date when="--06-22">22. Juni o. J.</date>
+                    <note xml:id="note_1">Da Zeithammer als
+                        Gymnasialinspektor angesprochen wird, kann die Ernennung Zeithammers zum
+                        Gymnasialinspektor im Mai 1850 als terminus post quem für den Brief
+                        angesehen werden.</note>
+                </title>
+            <title type="label">Leo Thun an Gregor Zeithammer, o. O., 22. Juni o. J.</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-D9E6-D</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Tschechisches Literaturarchiv [Literární archiv Památníku
+                            národního písemnictví]</institution>
+                        <repository>Nachlass Zeithammer</repository>
+                        <idno>19/E/27</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun berichtet dem Gymnasialinspektor Gregor Zeithammer, dass er
+                            immer noch keinen Gymnasialinspektor für Mähren eingestellt hat. Daher
+                            bittet er Zeithammer um einen Vorschlag. Sofern dieser keinen geeigneten
+                            Kandidaten benennen kann, wird Thun Dr. Denkstein aus Linz ernennen.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</settlement>
+                    <date>22. Juni o. J.</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#zeithammer-gregor">Gregor Zeithammer</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Schulinspektoren</term>
+                    <term>Gymnasien</term>
+                </index>
+                <p>Lieber Herr Gymnasialinspektor!</p>
+                <p>Ich bin immer noch in großer Verlegenheit um einen Gymn. Inspektor für
+                        <rs type="place" subtype="region" ref="#place_c736c0f45ab9a93b1db9820b15c526cf">Mähren</rs>. Sollten Sie bereits Gelegenheit zu Beobachtungen
+                    gemacht(!), und an einem Gymn. in <rs type="place" subtype="region" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs> einen für den Posten
+                    geeigneten Mann entdeckt haben, so ersuche ich Sie mir mit umgehender Post davon
+                    Nachricht zu geben. Jedenfalls warte ich auf Ihre Antwort ehe ich mich für einen
+                    Mann <rs type="person" ref="#denkstein">(Dr. Denkstein)</rs> in
+                        <rs type="place" subtype="place" ref="#place_907e6aad95b11593946e28f6e29860aa">Linz</rs> entscheide, – der einzige den ich noch im Auge
+                    habe, der aber so viele ausgezeichnete Eigenschaften er auch hat, doch Einiges
+                    mangelt, was ich für den fraglichen Zweck wünsche.</p>
+                <p>Mit aufrichtiger Hochachtung</p>
+                <p>Ihr ergebener<lb/>Thun</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

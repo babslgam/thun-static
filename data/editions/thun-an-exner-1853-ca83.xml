@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-exner-1853-ca83.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-exner-1852-09-22-ca81.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-exner-od-ca82.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#exner-franz" role="recipient">Franz Exner</rs>
+                    <lb/> o. O., <date when="1852-04">o. D. [April 1852]</date>
+                    <note xml:id="note_1">Die Datierung in den April 1852 ergibt sich aus dem Inhalt des Briefes: Die
+                        von Thun genannte Verlängerung des Urlaubs von Exner erfolgte im April 1852.
+                        Der von Thun erwähnte, für Mai geplante eigene Kuraufenthalt in Karlsbad
+                        fand im Mai 1852 statt. Vgl. <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=apr&amp;datum=18520521&amp;seite=2&amp;zoom=33">Die Presse, Nr. 119, 21. Mai 1852, S. 2</ref>.</note>
+                </title>
+            <title type="label">Leo Thun an Franz Exner o. O., o. D. [April 1852]</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA37-2</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Österreichische Nationalbibliothek</institution>
+                        <repository>Handschriftenabteilung</repository>
+                        <idno>Autogr. 273/47-13</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun freut sich über Franz Exners Genesungsfortschritte. Er möchte
+                            den Heilungsfortschritt weiter unterstützen. Thun möchte Exner dazu auch
+                            einen langen Urlaub gewähren, wofür er aber ein offizielles Gesuch
+                            benötigt. Sofern Exner in Italien bleiben möchte, kann Thun ihm einen
+                            offiziellen Auftrag hierfür erteilen, allerdings gibt er ihm den
+                            Ratschlag, die italienische Sommerhitze zu meiden. Thun selbst wird im
+                            Mai nach Karlsbad reisen und hofft, Exner im Herbst wieder in Wien zu
+                            sehen. Thun freut sich auf eine neuerliche, fruchtbare
+                            Zusammenarbeit.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <date>o. D. [April 1852]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#exner-franz">Franz Exner</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Ministerium für Kultus und Unterricht</term>
+                    <term>Lombardo-Venetien</term>
+                </index>
+                <p>Lieber Freund!</p>
+                <p>Es freut mich herzlich endlich zu hören, daß sich Ihre Gesundheit herzustellen
+                    anfängt. Was ich thun kann um den Zweck zu fördern, werde ich mit wahrer Freude
+                    thun. Urlaub über 1/2 Jahr hinaus zu bewilligen habe ich aber keine Vollmacht.
+                    Wollen Sie mir daher ein Gesuch einsenden, belegt mit einem ärztlichen
+                    Zeugnisse, welches beweist, daß Sie noch nicht gesund sind, aber hoffen dürfen
+                    es binnen eines weiteren Urlaubes von einigen Monaten zu werden. Auf Grundlage
+                    desselben werde ich mir dann die Ermächtigung erbitten, Ihnen eine Verlängerung
+                    des Urlaubes nach Bedürfnis zu erwirken.<lb/>Ich hatte geglaubt, es würde Ihnen
+                    vielleicht erwünscht sein, noch einige Zeit in <rs type="place" subtype="country" ref="#place_19cb29505c294db5ca9190ea93447e98">Italien</rs> zu
+                    bleiben, in welchem Falle ich Ihnen hätte einen amtlichen Auftrage zur Bereisung
+                    des Landes geben können, auch <rs type="person" ref="#gaentner">Gäntner</rs>[?]
+                    billiget aber die Ansicht, daß Sie sich der italienischen Sommerhitze entziehen
+                    sollen. Ich selbst muß nach <rs type="place" subtype="place" ref="#place_11a4764afdf4fd27fe76a91244b49852">Karlsbad</rs> und werde wohl
+                    Anfangs oder Mitte May dahin abreisen und so kann es wohl sein, daß ich noch
+                    lange des Vergnügens entbehren werde, Sie wiederzusehen. Mit um so freudigerer
+                    Erwartung sehe ich Ihrem Beistand für den Herbst oder Winter entgegen – ich
+                    vermisse ihn recht schmerzlich. Mit dem herzlichen Wunsch, daß Sie wenigsten den
+                    April etwas angenehmer als die verflossenen Monate in
+                        <rs type="place" subtype="place" ref="#place_80c239e539544aa459dc13996638cb2f">Venedig</rs> werden zubringen können.</p>
+                <p>Ihr aufrichtig ergebener</p>
+                <p>Thun</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

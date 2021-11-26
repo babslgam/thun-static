@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-bach-1851-04-27-ca946.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-bach-1850-07-ca932.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-bach-1853-01-11-ca939.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#bach-alexander" role="recipient">Alexander
+                        Bach</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</rs>, <date when-iso="1851-04-27">o.
+                        D. [27. April 1851]</date>
+                    <note xml:id="note_1">Das Datum ergibt sich aus
+                        dem im Brief erwähnten Tod des Patriarchen von Venedig.</note>
+                </title>
+            <title type="label">Leo Thun an Alexander Bach, o. O., o. D. [27. April 1851]</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA50-5</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Österreichisches Staatsarchiv</institution>
+                        <repository>Allgemeines Verwaltungsarchiv</repository>
+                        <idno>Nachlass Bach, Karton 11</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun gibt Alexander Bach den Tod des Patriarchen von Venedig
+                            bekannt.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</settlement>
+                    <date when-iso="1851-04-27">o.
+                        D. [27. April 1851]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#bach-alexander">Alexander Bach</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                </index>
+                <p>Lieber Freund!</p>
+                <p>So eben erhalte ich von dem l.v. Gen. Gouvernement die telegraphische Anzeige daß
+                    der <rs type="person" ref="#monico-giacomo">Patriarch von Venedig</rs> ohne
+                    vorausgegangene bedeutende Krankheit am <date when-iso="1851-04-25">25.</date>
+                    gestorben ist.</p>
+                <p>Aufrichtig der Ihrige<lb/>Thun</p>
+                <p>Sonntag Nachm.</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-schulte-09-29-ca504.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-safarik-1852-08-26-ca986.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-segesser-1856-10-27-ca567.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#schulte-friedrich" role="recipient:gelehrter">Friedrich
+                        Schulte</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</rs>, <date when-iso="1856-09-29">29. September [1856]</date>
+                    <note xml:id="note_1">Die Datierung auf das Jahr
+                        1856 erfolgt auf Grund einer Bleistiftnotiz auf dem Blatt. Die Ehegesetze
+                        wurden am 8. Oktober 1856 vom Kaiser bewilligt. Vgl. <ref target="http://alex.onb.ac.at/cgi-content/alex?apm=0&amp;aid=rgb&amp;datum=18560004&amp;seite=00000605&amp;size=45">RGBl 185/1856</ref>.</note>
+                </title>
+            <title type="label">Leo Thun an Friedrich Schulte, o. O., 29. September [1856]</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-D9F2-F</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <msDesc>
+                        <msIdentifier>
+                            <institution>Bayerische Staatsbibliothek</institution>
+                            <repository>Handschriften und Alte Drucke</repository>
+                            <idno>Schulteana 9,1</idno>
+                        </msIdentifier>
+                        <msContents>
+                            <p>Leo Thun sendet Johann Friedrich Schulte einen Antrag zur Umsetzung
+                                der Ehegesetze des Konkordats. Er bitte Schulte um sein Urteil dazu
+                                und lädt ihn zu einer Besprechung in dieser Frage ein.</p>
+                        </msContents>
+                    </msDesc>
+                </p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</settlement>
+                    <date when-iso="1856-09-29">29. September [1856]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#schulte-friedrich">Friedrich Schulte</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                    <term>Konkordat</term>
+                    <term>Ehefrage</term>
+                </index>
+                <p>den 29. Sept.</p>
+                <p>Werther Herr Professor!</p>
+                <p>beiliegend erhalten Sie den ersten mit Motiven versehenen Antrag zu den
+                    Ehegesetzen. Die [sic!] mit rother Tinte korrigierte Exemplar bezeichnet Phasen
+                    einer zweiten, das Exemplar, das Sie bereits in Händen haben, die einer dritten
+                    Berathung. Wenn Sie morgen zu mir kommen, so bringen Sie mir all' diese
+                    Schriftstücke mit; ich werde Ihnen dann darüber noch einiges mündlich
+                    mittheilen.</p>
+                <p>Hochachtungsvoll</p>
+                <p>Thun</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

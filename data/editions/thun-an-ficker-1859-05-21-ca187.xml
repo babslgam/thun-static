@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-ficker-1859-05-21-ca187.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-ficker-1858-06-19-ca178.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-ficker-1860-08-31-ca188.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#ficker-julius" role="recipient">Julius
+                        Ficker</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1859-05-21">21. Mai 1859</date>
+                </title>
+            <title type="label">Leo Thun an Julius Ficker, Wien, 21. Mai 1859</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA2B-0</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Institut für Österreichische Geschichtsforschung</institution>
+                        <repository>Archiv</repository>
+                        <idno>Nachlass Ficker. Thun, 11</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun informiert Julius Ficker darüber, dass man durch das Ministerium
+                            des Äußeren eine Anfrage an die preußische Regierung gestellt habe, ob
+                            sie damit einverstanden sei, Fickers Dienstjahre an österreichischen
+                            Universitäten anzuerkennen. Thun wird Ficker über das Verfahren auf dem
+                            Laufenden halten. Er bedauert, dass Ficker gesundheitlich angeschlagen
+                            ist.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when-iso="1859-05-21">21. Mai 1859</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#ficker-julius">Julius Ficker</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                </index>
+                <p>Wien den 21. Mai 1859</p>
+                <p>Geehrter Herr Rector!</p>
+                <p>Ich bin Ihnen für Ihre Mittheilung vom 27. vorigen Monats sehr dankbar. Ich habe
+                    nicht unterlassen, mit Benützung der darin erhaltenen Daten durch das <rs type="org" ref="#org_0091">Ministerium des Äußeren</rs> neuerlich
+                    bei der preußischen Regierung zu reklamieren, nachdem dieselbe vor zwei Jahren
+                    über unsere Anfrage bereits die Zusicherung abgegeben hat, daß der Einrechnung
+                    der an österreichischen Universitäten zugebrachten Zeit nichts entgegenstehe.
+                    Ich bin auf den Erfolg begierig und ersuche Sie, mich von dem was Sie noch
+                    weiter in der Angelegenheit erfahren sollten, auch fernerhin in Kenntnis zu
+                    setzen. Mit Bedauern ersehe ich aus einem neuerlichen Berichte, daß Sie unwohl
+                    sind, ich wünsche angelegentlichst, daß es nichts von Bedeutung sei.</p>
+                <p>Mit ausgezeichneter Hochachtung<lb/>Ihr<lb/>ergebener<lb/>Thun</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

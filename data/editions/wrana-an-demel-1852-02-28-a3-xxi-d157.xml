@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="wrana-an-demel-1852-02-28-a3-xxi-d157.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/wolkenstein-an-thun-o-d-a3-xxi-d141.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/zaboysky-an-thun-1851-12-11-a3-xxi-d136.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#wrana-cajetan" role="sender:kleriker">Cajetan Wrana</rs>
+                    an <rs type="person" ref="#demel-heinrich-johann" role="recipient:gelehrter">Heinrich
+                        Johann Demel</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_5b95fe248458e8e40898129bb087ae5a">Nikolsburg</rs>, <date when-iso="1852-02-28">28. Februar 1852</date>
+                </title>
+            <title type="label">Cajetan Wrana an Heinrich Johann Demel, Nikolsburg, 28. Februar 1852</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-D993-A</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D157</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Provinzial der Piaristen in Nikolsburg, Cajetan Wrana, teilt dem
+                            Direktor der theresianischen Ritterakademie, Johann Demel, mit, dass der
+                            Lehrer an der Akademie und Piaristenpater Benedikt Albrecht sich für die
+                            Lehramtsprüfung aus dem Fach Physik vorbereiten müsse. Albrecht soll
+                            nämlich bei Bedarf an ein dem Piaristenorden anvertrautes Obergymnasium
+                            versetzt werden können. Wrana versichert dem Direktor jedoch, dass
+                            Albrecht nur im Notfall der Akademie entzogen werde, da dem Orden die
+                            Besetzung einer Lehramtsstelle an der Akademie durch eines seiner
+                            Mitglieder von unschätzbarem Wert sei. Deshalb hofft er auf die
+                            Genehmigung Demels.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#wrana-cajetan">Cajetan Wrana</rs>
+                    <settlement ref="#place_5b95fe248458e8e40898129bb087ae5a">Nikolsburg</settlement>
+                    <date when-iso="1852-02-28">28. Februar 1852</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#demel-heinrich-johann">Heinrich Johann Demel</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Gymnasien</term>
+                    <term>Piaristen</term>
+                    <term>Lehramtsprüfung</term>
+                    <term>Theresianische Ritterakademie</term>
+                </index>
+                <p>Hochwohlgeborner Herr!<lb/>Hochgeehrter Herr Director!</p>
+                <p>Pater <rs type="person" ref="#albrecht-benedikt">Benedikt Albrecht</rs> hat den
+                    Auftrag erhalten, sich für die Physik vorzubereiten, um in diesem
+                    Lehrgegenstande an den dem Orden anvertrauten Obergymnasien verwendet zu werden.
+                    Nicht meine Willkühr, sondern das Bedürfnis des Ordens hat ihm diese Bestimmung
+                    gegeben. Der Orden hat fünf Obergymnasien mit Lehrern also auch überall mit
+                    einem Lehrer der Physik zu versehen, und es ist unerläßlich, daß der Provinzial
+                    immer in der Lage sey, in langwierigen Krankheiten der Lehrer oder in
+                    Todesfällen lehrfähige Stellvertreter oder Nachfolger im Lehramte aufzustellen.
+                    Pater <rs type="person" ref="#albrecht-benedikt">Benedikt Albrecht</rs> ist aus der
+                    Mathematik geprüft und für lehrfähig erklärt, und sein Talent läßt zuverlässig
+                    erwarten, daß er die Prüfung aus der Physik mit gleichem Erfolge bestehen werde.
+                    Nur im Nothfalle würde er der Akademie entzogen werden, und dann wäre es die
+                    angelegentlichste Sorge des Provinzials, ein tüchtiges Lehrindividuum in die
+                    <rs type="org" ref="#org_0016">Akademie</rs> zu
+                    beordern.<lb/>Es ist dem Orden unschätzbar, den Posten in der <rs type="org" ref="#org_0016">Akademie</rs> zu besetzen, auf
+                    welchem seine Glieder unter den Augen des hohen <rs type="org" ref="#org_0005">Unterrichtsministeriums</rs> verdienstlich wirken können. Ich bitte
+                    Euere Hochwohlgeboren sich auf den Standpunkt des Provinzials zu stellen, dem
+                    die Sorge für so viele Lehranstalten obliegt, und hoffe dann mit Zuversicht, daß
+                    meine Absicht mit dem mir sehr werthem Lehrer Pater <rs type="person" ref="#albrecht-benedikt">Benedikt Albrecht</rs> geneigte Billigung
+                    finden werde.<lb/>Ich verharre mit ausgezeichneter Hochachtung</p>
+                <p>Euerer Hochwohlgeboren</p>
+                <p>ganz ergebener<lb/>Cajetan Wrana<lb/>Provinzial</p>
+                <p>Nikolsburg, den 28. Februar 1852</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="schulte-an-thun-1856-02-09-a3-xxi-d369.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/schulte-an-thun-1856-02-04-a3-xxi-d368.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/schulte-an-thun-1856-04-11-a3-xxi-d374.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#schulte-friedrich" role="sender:gelehrter">Johann Friedrich
+                        Schulte</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs>, <date when-iso="1856-02-09">9. Februar 1856</date>
+                </title>
+            <title type="label">Johann Friedrich Schulte an Leo Thun, Prag, 9. Februar 1856</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA93-9</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D369</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Jurist Johann Friedrich Schulte übermittelt dem Minister die
+                            Erklärung des Lehrers Eduard Goebel, eine Stelle als Gymnasiallehrer in
+                            Österreich annehmen zu wollen. Schulte erklärt die Verzögerung der
+                            Zusage damit, dass Goebel offenbar von verschiedenen Seiten zum Verbleib
+                            in Bonn aufgefordert worden war, insbesondere auch mit Warnungen vor den
+                            zu erwartenden Unannehmlichkeiten in Triest, wo Goebel wirken soll.
+                            Schulte berichtet außerdem, dass er die beiden besten Oberlehrer der
+                            Rheinprovinz für ein Engagement in Österreich begeistern konnte: bei
+                            entsprechenden Bedingungen wären diese vielleicht zu einem Übertritt
+                            nach Österreich bereit. Darüber will er in Kürze mehr schreiben.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#schulte-friedrich">Johann Friedrich Schulte</rs>
+                    <settlement ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</settlement>
+                    <date when-iso="1856-02-09">9. Februar 1856</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Gymnasien</term>
+                    <term>Personalfragen</term>
+                    <term>Preußen</term>
+                </index>
+                <p>Euer Excellenz!</p>
+                <p>bin ich so frei, anliegend die Erklärung<note xml:id="note_1">Die angesprochene
+                        Erklärung ist im Nachlass nicht vorhanden.</note> des <rs type="person" ref="#goebel-eduard">Dr. Goebel</rs> zu übersenden. Hochdieselben
+                    wollen dabei erwägen, daß man auf den <rs type="person" ref="#goebel-eduard">Dr.
+                        Goebel</rs> vielfach einstürmt, um ihn zum Verbleiben in
+                        <rs type="place" subtype="place" ref="#place_6c1def5820cdde63de0c38dd673de4d6">Bonn</rs> zu bestürmen, und daß ihn die Entfernung von den
+                    Seinigen, welche bei einem Aufenthalte in <rs type="place" subtype="place" ref="#place_4fd4ef3f46418624bcfdb765d2881356">Triest</rs>
+                    stattfände, sowie das für einen Norddeutschen so höchst ungesunde Klima
+                        <rs type="place" subtype="place" ref="#place_4fd4ef3f46418624bcfdb765d2881356">Triests</rs> besorgt machen. Was den anderen
+                    Punkt betrifft, so dürfte wohl derselbe die Erklärung Euer Excellenz
+                    mißverstanden haben. Euer Excellenz das Gesuch des <rs type="person" ref="#goebel-eduard">Dr. Goebel</rs> zu einer definitiven gnädigen Entscheidung ergebenst
+                    anempfehlend, verbleibe ich, unter dem Bemerken, daß vielleicht jedoch unter
+                    etwas anderen Bedingungen, die beiden besten Oberlehrer der Rheinprovinz (Leute
+                    von 31–34 Jahren) sich bereit finden werden, hierher zu kommen, worüber ich
+                    näher berichten werde, in unbegränzter Hochachtung und Verehrung</p>
+                <p>Euer Excellenz<lb/>gehorsamster Diener<lb/>Dr. Schulte</p>
+                <p>Prag den 9. Februar 1856</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

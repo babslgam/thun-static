@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="brenner-an-haferl-1854-09-21-a3-xxi-d284.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/borovich-an-viale-prela-1856-01-03-a3-xxi-d363.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/brueggemann-an-thun-1860-02-20-a3-xxi-d585.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#brenner-felsach-adolph" role="sender:beamter">Adolph
+                        Brenner-Felsach</rs> an <rs type="person" ref="#haferl-josef" role="recipient">Josef Haferl</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_e9cd6cbbbc3248f7a69252439ba3d6e6">Frankfurt a. M.</rs>, <date when-iso="1854-09-21">21. September 1854</date>
+                </title>
+            <title type="label">Adolph Brenner-Felsach an Josef Haferl, Frankfurt a. M., 21. September 1854</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DC9F-B</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D284</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Diplomat Adolph Brenner-Felsach wendet sich mit einer Bitte an seinen
+                            alten Freund, den Ministerialkonzipisten Josef Haferl. Brenner-Felsach
+                            hat nämlich erfahren, dass sich einflussreiche Personen für eine
+                            Berufung von Cornelius Bock nach Österreich engagieren. So soll etwa
+                            Johann Baptist Weiß aus Graz Cornelius Bock höheren Ortes für die
+                            vakante Kanzel der Philologie in Prag empfohlen haben. In der Folge gibt
+                            er einen Ausschnitt eines Briefes von Johann Baptist Weiß an ihn wider.
+                            Weiß schreibt darin, dass die Angelegenheit noch nicht entschieden und
+                            es offenbar notwendig sei, Kardinal Schwarzenberg zu überzeugen. Weiß
+                            glaubt, dass man keinen besseren Gelehrten für die Stelle finden könne,
+                            da Bock nicht nur von stupender Gelehrsamkeit als auch von streng
+                            konservativer und katholischer Überzeugung sei. Bock selbst werde sich
+                            jedoch nicht bewerben, aber er hoffe darauf, dass man ihn nach Prag
+                            berufe. Als Auskunftsperson könne der Onkel von Kardinal Schwarzenberg,
+                            der Herzog von Arenberg, dienen. Da Weiß und andere verdienstvolle
+                            Personen sich für eine Berufung von Bock stark machen, will auch er,
+                            Brenner-Felsach, dies tun und wählt dazu den Weg über Haferl, weil er
+                            Leo Thun nicht persönlich kennt. Die Angelegenheit ist für
+                            Brenner-Felsach von höchster Wichtigkeit, weil Bock durch seine
+                            konservative Haltung und seinen katholischen Glauben positiv auf die
+                            Studenten wirken könne, außerdem könnte dadurch ein Missgriff wie jener
+                            der Berufung von Hermann Bonitz abgemildert werden. Brenner-Felsach hat
+                            sich sehr über die jüngsten Berufungen nach Österreich gefreut und er
+                            hofft, dass Haferl die Berufung von Bock positiv beeinflussen könne.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#brenner-felsach-adolph">Adolph Brenner-Felsach</rs>
+                    <settlement ref="#place_e9cd6cbbbc3248f7a69252439ba3d6e6">Frankfurt a. M.</settlement>
+                    <date when-iso="1854-09-21">21. September 1854</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#haferl-josef">Josef Haferl</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Universität Prag</term>
+                    <term>Klassische Philologie</term>
+                </index>
+                <p>&lt;An den Ministerialkonzipisten <rs type="person" ref="#haferl-josef">Haferl</rs>&gt;<note xml:id="note_1">Eh. Randnotiz von
+                    Thun.</note>
+                </p>
+                <p>Frankfurt am Main, 21. September 1854</p>
+                <p>Lieber Freund,</p>
+                <p>erstaunen Sie nicht, wenn ich mir auf unsere alte Freundschaft bauend, hiemit die
+                    Freiheit nehme, Ihnen über eine Angelegenheit zu sprechen, die mir von sehr
+                    achtbarer Seite dringend ans Herz gelegt worden ist und die als das
+                    Unterrichtswesen in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> betreffend,
+                    soviel ich weiß, in den Bereich Ihrer amtlichen Wirkungssphäre fallen
+                    dürfte.<lb/>Wie ich höre, haben sich sehr angesehene litterarische und
+                    universitätische Notabilitäten im „Reich“ und auch in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> geeigneten Orts dafür verwendet, einen gewißen
+                        <rs type="person" ref="#bock-cornelius-peter">Dr. Cornelius Bock</rs>, der
+                    gegenwärtig Profeßor der Philologie in <rs type="org" ref="#org_0074">Brüßel</rs> ist, für eine Lehrkanzel in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> zu gewinnen. Dieser Gelehrte soll ebenso ausgezeichnet
+                    durch seine Kenntniße in der claßischen Philologie wie durch seine correcte
+                    politische und katholische Gesinnung seyn und überdieß die Gabe eines äußerst
+                    anziehenden Vortrags besitzen, was für den Unterricht von jungen Männern
+                    besonders zu berücksichtigen ist. Der Prof. der Geschichte in <rs type="org" ref="#org_0026">Gratz</rs>, <rs type="person" ref="#weiss-johann-baptist">Dr. Weiß</rs>, kennt Herrn <rs type="person" ref="#bock-cornelius-peter">Dr. Bock </rs>und hat sich, wie mir
+                    berichtet wird, bereits Mühe gegeben, die Behörden in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> für seine Berufung geneigt zu machen, wozu die
+                    Besetzung der gegenwärtig erledigten Lehrkanzel der Philologie in <rs type="org" ref="#org_0017">Prag</rs> eine erwünschte Gelegenheit bietet.
+                    In einem Briefe des <rs type="person" ref="#weiss-johann-baptist">Dr. Weiß</rs>,
+                    der mir mitgetheilt wurde, sagt derselbe: „Gelegentlich der Berufung des
+                        <rs type="person" ref="#bock-cornelius-peter">Dr. Bock</rs> nach <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> habe ich heute einen Brief erhalten,
+                    wonach die Sache noch unentschieden ist, daß man sich aber alle Mühe giebt,
+                    Seine Eminenz den <rs type="person" ref="#schwarzenberg-friedrich">Cardinal
+                        Schwarzenberg</rs> – der als Patron der <rs type="org" ref="#org_0017">Universität Prag</rs> am meisten dabei zu sagen
+                    hat – für einen Inländer zu stimmen. Ich kenne keinen Österreicher, der an Fülle
+                    des Wißens und Feinheit des Urtheils in diesem Fache <rs type="person" ref="#bock-cornelius-peter">Bock</rs> gleich käme. Läßt man diese
+                    Gelegenheit vorüber, die eminenten Gaben des <rs type="person" ref="#bock-cornelius-peter">Dr. Bock</rs> für die conservative und
+                    katholische Sache zu gewinnen, so wird sich vielleicht eine ähnliche nie mehr
+                    bieten. Gestern und heute habe ich den ganzen Tag mit ihm zugebracht und staune
+                    fortwährend über diese coloßale Gelehrsamkeit, über diese feinen Combinationen
+                    und neuen überraschenden Standpuncte der Betrachtung. Was könnte <rs type="person" ref="#bock-cornelius-peter">Bock</rs> nicht leisten, wenn man ihn an
+                    die rechte Stelle brächte! Er wäre eine Zierde des Kaiserstaates. Durch viele
+                    traurige Erfahrungen bitter gemacht, durch die völlig isolirte Stellung als
+                    Deutscher in <rs type="place" subtype="country" ref="#place_361e734b7e9d674efb5e3ac441e2c149">Belgien</rs> niedergeschlagen, will <rs type="person" ref="#bock-cornelius-peter">Bock</rs> selber keinen Schritt thun, was
+                    bei dem starken Selbstgefühl seiner Leistung sich begreifen läßt. Er meint, daß
+                    wenn die österreichische Regierung sich zuverläßige Berichte über sein
+                    vieljähriges Leben und Wirken in <rs type="org" ref="#org_0074">Brüßel</rs> verschaffen wollte, es ihr ein leichtes seyn werde; sie
+                    dürfe sich diesfalls nur an den <rs type="person" ref="#arenberg-prosper-ludwig">Herzog
+                        von Aremberg</rs>, den Oheim des <rs type="person" ref="#schwarzenberg-friedrich">Cardinal Schwarzenberg</rs>,
+                    wenden.“<lb/>So schreibt <rs type="person" ref="#weiss-johann-baptist">Dr.
+                        Weiß</rs>. Sie sehen, welchen hohen Begriff derselbe von <rs type="person" ref="#bock-cornelius-peter">Bocks</rs> Werth hat und welches Gewicht er
+                    darum auf deßen Berufung nach <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs>
+                    legt. Noch muß ich hinzusetzen, daß <rs type="person" ref="#bock-cornelius-peter">Dr.
+                        Bock</rs> persönliches Vermögen hat, also der Geldpunct bei seiner
+                    etwaigen Anstellung seinerseits keine Schwierigkeiten bieten wird.<lb/>Da mir,
+                    wie oben bemerkt, diese Angelegenheit von höchst achtbaren Personen empfohlen
+                    wird, welchen <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> bereits mehrere
+                    Acquisitionen im Lehrfache verdankt, zu denen wir uns nur Glück wünschen können,
+                    so habe ich mir die Freiheit genommen, mich an Sie zu wenden, weil ich sonst gar
+                    niemand von den darauf Einfluß nehmenden Autoritäten kenne und den <rs type="person" ref="#thun-hohenstein-leo">Minister Grafen Leo Thun</rs> nur einmal
+                    besucht habe, obwohl ihm vielleicht durch seinen <rs type="person" ref="#thun-hohenstein-friedrich">Bruder</rs> den Gesandten, mit dem ich
+                    sehr befreundet bin, mein Name einigermaßen bekannt seyn dürfte.<lb/>Nehmen Sie
+                    sich daher wo möglich der Sache an, suchen Sie gehörigen Orts zu diesem Zwecke
+                    einzuwirken, weil es mir wirklich wichtig scheint, eine Gelegenheit nicht außer
+                    Acht zu laßen, um einen Mann zu gewinnen, der auf die heranwachsende Generation
+                    in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> im politisch und religiös
+                    heilsamen Sinne einwirken kann, was mir bei der Philologie nicht minder wichtig
+                    erscheint als bei der Geschichte und Mißgriffe und Unannehmlichkeiten wie die
+                    mit <rs type="person" ref="#bonitz-hermann">Prof. Bonitz</rs> vermeidet. Schreiben
+                    Sie mir jedenfalls gütigst, wie die Sache steht, ob Aussicht vorhanden oder
+                    welche Schritte etwa noch zu thun wären, um einen günstigen Erfolg
+                    herbeizuführen. Ich war so glücklich zur Berufung von <rs type="person" ref="#juelg-bernhard">Jülg</rs>, <rs type="person" ref="#winkler-anton">Winkler</rs>, <rs type="person" ref="#weiss-johann-baptist">Weiß</rs>
+                    und <rs type="person" ref="#mischler-peter">Mischler</rs> mitzuwirken, welche man,
+                    wie ich meine, in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> nicht zu bereuen hat, es wäre
+                    mir sehr angenehm, wenn ich auch dießmal dazu beitragen könnte, für unser
+                    Vaterland eine so tüchtige Lehrkraft zu gewinnen. Nehmen Sie mir nicht übel, daß
+                    ich Sie mit dieser Sache plage, doch rechne ich vertrauensvoll auf unsere alte
+                    Freundschaft und Ihren Eifer für die Verbeßerung und Hebung unseres
+                    Unterrichtswesens.<lb/>Leben Sie recht wohl lieber Freund und schreiben Sie
+                    recht bald Ihrem unveränderlich ergebenen alten Schüler</p>
+                <p>Adolf Brenner</p>
+                <p>&lt;Legationsrath am Bundestag in Frankfurt&gt;<note xml:id="note_2">Anmerkung
+                        von fremder Hand.</note>
+                </p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

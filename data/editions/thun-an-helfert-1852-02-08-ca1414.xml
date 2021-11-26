@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-helfert-1852-02-08-ca1414.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1851-04-08-ca1413.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1852-07-07-ca1415.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#helfert-joseph-alexander" role="recipient">Joseph Alexander
+                        Helfert</rs>
+                    <lb/>o. O., <date when-iso="1852-02-08">o. D. [8. Februar
+                        1852]</date>
+                    <note>Das Datum ist am oberen Blattrand vermerkt. Der im Brief
+                        erwähnte <ref target="http://anno.onb.ac.at/cgi-content/anno?aid=hum&amp;datum=18520206&amp;seite=4&amp;zoom=33">Ball</ref> fand am 8. Februar 1852 statt.</note>
+                </title>
+            <title type="label">Leo Thun an Joseph Alexander Helfert o. O., o. D. [8. Februar 1852]</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA21-A</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Mährisches Landesarchiv [Moravský zemský archiv v
+                            Brně]</institution>
+                        <repository>G 44, Nachlass Helfert</repository>
+                        <idno>Karton 26, Thun Lev</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun bittet Joseph Alexander Helfert ihn auf dem Slawenball zu
+                            entschuldigen, da er schon zu einem anderen Ball eingeladen worden
+                            ist.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <date when-iso="1852-02-08">o. D. [8. Februar
+                        1852]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#helfert-joseph-alexander">Joseph Alexander Helfert</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Ministerium für Kultus und Unterricht</term>
+                </index>
+                <p>Ich vermuthe Sie gehen auf den Slawenball. In diesem Fall bitte ich Sie den
+                    Ausschüßen mein Bedauern auszudrücken, daß ich durch eine andere Einladung und
+                    den Drang der Geschäfte, der mir zwei Bälle an einem Abend doch des Guten zu
+                    viel sein läßt, verhindert bin zu erscheinen.</p>
+                <p>Ihr<lb/>ergebenster<lb/>Thun</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

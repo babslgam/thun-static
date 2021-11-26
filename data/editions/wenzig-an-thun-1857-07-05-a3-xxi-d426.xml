@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="wenzig-an-thun-1857-07-05-a3-xxi-d426.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/weiss-an-thun-1859-05-12-a3-xxi-d505.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/wessenberg-an-thun-1849-10-23-a3-xxi-d10.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#wenzig-josef" role="sender:gelehrter">Josef Wenzig</rs>
+                    an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs>, <date when-iso="1857-07-05">5.
+                        Juli 1857</date>
+                </title>
+            <title type="label">Josef Wenzig an Leo Thun, Prag, 5. Juli 1857</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-D9A5-6</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D426</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Schulrat Josef Wenzig bittet Leo Thun, das Gesuch der Königlich
+                            Böhmischen Gesellschaft der Wissenschaften um eine jährliche Subvention
+                            zu unterstützen. Außerdem berichtet er dem Minister, dass er im Namen
+                            ebenjener Gesellschaft einen Nachruf auf Franz Exner verfassen soll.
+                            Dazu benötige er allerdings einige Arbeiten Exners zu Fragen der
+                            Bildungsreform aus dem Archiv des Unterrichtsministeriums. Er bittet
+                            Thun daher, dass man ihm diese zur Verfügung stelle.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#wenzig-josef">Josef Wenzig</rs>
+                    <settlement ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</settlement>
+                    <date when-iso="1857-07-05">5.
+                        Juli 1857</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Böhmen</term>
+                    <term>Ministerium für Kultus und Unterricht</term>
+                </index>
+                <p>Euere Excellenz!</p>
+                <p>Da gegenwärtig in der <rs type="org" ref="#org_0051">k. böhmischen Gesellschaft der Wissenschaften</rs> die Reihe an mich
+                    kam, derselben für ein Jahr als Director vorzustehen: so wage ich es, Euerer
+                    Excellenz mit zwei Bitten zu nahen, welche die erwähnte Gesellschaft betreffen,
+                    gegen die ich mich unter solchen Verhältnissen um so mehr verpflichtet fühle:
+                    <lb/>Fürs Erste nehme ich mir die Freiheit, Euere Excellenz auf das
+                    Majestätsgesuch der Gesellschaft vom 23. März letzten Jahres Z. 84 um eine
+                    jährliche Subvention aufmerksam zu machen und ehrfurchtsvoll zu bitten, Euere
+                    Excellenz möchten diesem Gesuche bei der Triftigkeit der darin angeführten
+                    Gründe Hochdero einflußreiche Verwendung huldvoll angedeihen lassen.<lb/>Fürs
+                    Zweite bin ich bei dem Umstande, daß ich von der Gesellschaft den ehrenvollen
+                    Auftrag erhalten, den Nekrolog meines Schwagers, des<rs type="person" ref="#exner-franz">
+                        Ministerialrathes Exner</rs>, zu verfassen, so kühn, Euere Excellenz
+                    zu ersuchen, gnädigst zu gestatten, daß mir die wichtigeren Arbeiten <rs type="person" ref="#exner-franz">Exners</rs> im Schulwesen, besonders sein
+                    ursprünglicher Plan zur Reorganisirung der philosophischen Studien, aus den
+                    Acten des Hohen Unterrichtsministeriums ausgefolgt und zugeschickt werden,
+                    weshalb ich mich auch schon an den Herrn Sectionsrath <rs type="person" ref="#mozart-joseph">Mozart</rs> gewendet. Auf gewissenhafte Benützung
+                    von meiner Seite geruhen Euere Excellenz in vollem Maße zu rechnen.<lb/>Mich dem
+                    gütigen Andenken empfehlend mit aufrichtiger Hochachtung und inniger
+                    Verehrung</p>
+                <p>Euerer Excellenz gehorsamer<lb/>Joseph Wenzig<lb/>k.k. Schulrath und Director der
+                    k.k. böhm. Oberrealschule</p>
+                <p>Prag, am 5. Juli 1857</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="szeberinyi-an-thun-1859-11-29-a3-xxi-d529.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/szeberinyi-an-franz-joseph-1860-02-08-a3-xxi-d560.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/szebernyi-an-thun-1860-02-07-a3-xxi-d557.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#szeberinyi-johann" role="sender:kleriker">Johann
+                        Szeberinyi</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_792be515410368f1ac3c6e58ea01814c">Schemnitz</rs>,
+                        <date when-iso="1859-11-29">29. November 1859</date>
+                </title>
+            <title type="label">Johann Szeberinyi an Leo Thun, Schemnitz, 29. November 1859</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA5E-7</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D529</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der evangelische Geistliche, Johann Szeberinyi, informiert Leo Thun von
+                            seiner Protestaktion gegen den vom Pester Senioralkonvent für den 15.
+                            Dezember einberufenen Distriktualkonvent. Gleichzeitig übermittelt er
+                            Thun auch die von mehreren protestantischen Theologen verfassten Thesen,
+                            welche sich gegen das Protestantenpatent aussprachen.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Verweis auf A3 XXI D490.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#szeberinyi-johann">Johann Szeberinyi</rs>
+                    <settlement ref="#place_792be515410368f1ac3c6e58ea01814c">Schemnitz</settlement>
+                    <date when-iso="1859-11-29">29. November 1859</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                    <term>Protestanten</term>
+                    <term>Protestantenpatent</term>
+                </index>
+                <p>Eure Exzellenz,<lb/>Hochzuverehrender Herr Minister!</p>
+                <p>Halten zu Gnaden, ich muß Euer Exzellenz berichten, daß ich mit potenzirten
+                    Geisteskräften aufs Feld der Thätigkeit mich geworfen habe. Ich lebe und falle
+                    mit der Fahne des Patents vom 1. September.<lb/>Als mir die Kunde von der
+                    empörenden Kühnheit des <rs type="place" subtype="place" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pesther</rs>
+                    Senioralconvents kam, sandte ich sogleich im Namen der Geistlichkeit des obern
+                    Theils der gewesenen Bergsuperintendenz eine Protestation gegen den für den 15.
+                    December abzuhaltenden Districtualconvent ein, sie wird in der nächsten Nummer
+                    des evangelischen Wochenblattes erscheinen. Überdies schrieb ich an alle Herren
+                    Senioren sie beschwörend, sich der Schmach des thatsächlichsten Ungehorsams
+                    gegen die k. Regierung nicht auszusetzen. Geistliche werden dort kaum Einige
+                    erscheinen, die Weltlichen werden ohne uns Nichts beschließen können und mögen
+                    auseinander gejagt werden. Auf jeden Fall wird der 15. December der Wendepunkt
+                    in der Patentenfrage sein; hier wird die Opposition an den heterogenen Elementen
+                    der <rs type="place" subtype="place" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Pressburger</rs> Superintendenz und der
+                    loyalen Vojvodina scheitern.<lb/>Zugleich bin ich so frei, beigeschloßene
+                    Thesen, die „im Namen vieler Theologen <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarns</rs>“
+                    dieser Tage gedruckt werden, mitzutheilen. <note xml:id="note_1">Diese Thesen
+                        liegen dem Brief nicht bei. Sie sind aber im Nachlass unter der Signatur
+                            <ref target="thun/thun-korrespondenz/tetschen/keine-briefe/thesen-gegen-kirchenbeschluesse-protestanten-ungarn-od-a3-xxi-d490.xml">A3 XXI D490</ref> abgelegt. Ob es sich dabei um die ursprüngliche
+                        Beilage handelt, kann nicht zweifelsfrei festgestellt werden.</note> Sie
+                    sind ein Griff in glühende Kohlen und werden im Ausland nicht ohne Wirkung sein.
+                    Weh‘ aber mir!<lb/>Es zeichnet sich ehrfurchtsvoll</p>
+                <p>Euer Exzellenz</p>
+                <p>ergebenster Diener<lb/>Johann Szeberinyi</p>
+                <p>Schemnitz, den 29.11.</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

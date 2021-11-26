@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-helfert-1853-08-21-ca1417.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1853-06-06-ca1416.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1853-08-23-ca1418.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#helfert-joseph-alexander" role="recipient">Joseph Alexander
+                        Helfert </rs>
+                    <lb/>o. O. [<rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>], <date when-iso="1853-08-21">o. D. [21. August 1853]</date>
+                    <note xml:id="note_1">Datum
+                        und Ort sind mit Bleistift am oberen Blattrand vermerkt.</note>
+                </title>
+            <title type="label">Leo Thun an Joseph Alexander Helfert o. O. [, Wien], o. D. [21. August 1853]</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA1E-F</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Mährisches Landesarchiv [Moravský zemský archiv v
+                            Brně]</institution>
+                        <repository>G 44, Nachlass Helfert</repository>
+                        <idno>Karton 26, Thun Lev</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun bittet Joseph Alexander Helfert um Auskunft, ob der Dozent
+                            Julius Galba seine Venia legendi bereits nach der neuen
+                            Habilitationsordnung erworben habe.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when-iso="1853-08-21">o. D. [21. August 1853]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#helfert-joseph-alexander">Joseph Alexander Helfert</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Universität Wien</term>
+                    <term>Habilitation</term>
+                </index>
+                <p>Noch Eines!</p>
+                <p>Ich brauche die Auskunft wann und wie Dr. <rs type="person" ref="#galba-julius">Galba</rs> Dozent geworden war; ich glaube nämlich noch vor 1848,
+                    wenigstens vor Einführung des jetzigen Habilitazionsgesetzes. Ich bitte Sie zu
+                    veranlassen, daß mir diese Auskunft nach <rs type="place" subtype="place" ref="#place_11a4764afdf4fd27fe76a91244b49852">Karlsbad</rs>
+                    geschickt werde.</p>
+                <p>Thun</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

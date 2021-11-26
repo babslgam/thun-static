@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="schaguna-an-rajacic-1850-07-27-a3-xxi-d63.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/schaguna-an-franz-joseph-1857-09-09-a3-xxi-d355.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/schanda-an-thun-1861-01-03-a3-xxi-d623a25.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#schaguna-andreas" role="sender:kleriker">Andreas
+                        Schaguna</rs> an <rs type="person" ref="#rajacic-joseph">Joseph
+                        Rajačić</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_6244fbb7edb0da394fbfed3800b4c36d">Hermannstadt</rs>, <date when-iso="1850-07-27">27. Juli 1850</date>
+                </title>
+            <title type="label">Andreas Schaguna an Joseph Rajačić, Hermannstadt, 27. Juli 1850</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DAA0-A</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D63</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der griechisch-orthodoxe Bischof Andreas Schaguna äußert seine
+                            Enttäuschung über die bereits dritte Verschiebung der geplanten
+                            Versammlung der griechisch-orthodoxen Bischöfe Österreichs. Seiner
+                            Meinung nach hätte Patriarch Joseph Rajačić bereits 1849, als er zu
+                            Beratungen über die griechisch-orthodoxe Kirchenfrage nach Wien beordert
+                            worden war, eine Versammlung mit den Bischöfen abhalten sollen. Er
+                            glaubt, dass durch das fortwährende Aufschieben der Synode die
+                            griechisch-orthodoxe Kirche an Ansehen bei der österreichischen
+                            Regierung verliere. Schaguna drängt daher darauf, dass die orthodoxe
+                            Kirche, ähnlich wie andere Konfessionen auf eine neue Regelung
+                            hinsichtlich ihres Verhältnisses zum Staat hinarbeiten solle.
+                            Abschließend betont Schaguna, dass es um die orthodoxe Kirche in
+                            Siebenbürgen sehr gut bestellt sei, vielmehr müsse man Sorge tragen,
+                            dass die Situation der gesamten orthodoxen Kirche in Österreich
+                            verbessert werde.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#schaguna-andreas">Andreas Schaguna</rs>
+                    <settlement ref="#place_6244fbb7edb0da394fbfed3800b4c36d">Hermannstadt</settlement>
+                    <date when-iso="1850-07-27">27. Juli 1850</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#rajacic-joseph">Joseph Rajačić</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                    <term>Siebenbürgen</term>
+                    <term>Griechisch-orthodoxe Kirche</term>
+                </index>
+                <p>Euere Beatitudo!</p>
+                <p>Dreimalige Zuschriften Euerer Beatitudo erhielt ich über die abzuhaltende Synode;
+                    jede derselben, aufrichtig sei es gesagt, erfüllte mich mit Verwunderung und
+                    Schmerz. Mit Verwunderung, sage ich, indem die Ursache, aus welcher die Synode
+                    schon dreimal verschoben wurde, mir nicht genügen kann; mit Schmerz, weil ich
+                    dabei den größten Nachtheil voraussehe, der unserer soviel versuchungsweise
+                    heimgesuchten Kirche durch diesen Aufschub der Synode bevorsteht. Ich zweifle
+                    nicht, daß Euere Beatitudo als der erste Steuermann unseres kirchlichen Schiffes
+                    in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> die Stürme kennen, in welchen
+                    sich das Schiff befindet.<lb/>Dieser Umstand nöthigt mich, als einen treuen
+                    Sohn, Diener und Wächter unserer Orthodoxie, alle Geheimnisse meines Herzens und
+                    meiner Seele vor der gesammten Kirche jetzt – jetzt, da es nämlich noch nicht
+                    spät ist zu offenbaren und dadurch mich unverantwortlich zu machen vor dem
+                    Richterstuhle der Kirche. Dennoch enthalte ich mich nicht bestimmt zu sagen, daß
+                    die Kirche gegenwärtig um Vieles besser und tröstlicher bestehen könnte, wenn
+                    jener dreimaliger Aufschub der Synode nicht vorgekommen wäre und wenn bei dem
+                    zweiten Termine der Synode wir festgehalten hätten. Um aber meine frühere
+                    Meinung zu sagen, ich hätte gewunschen und nach den Satzungen unserer Kirche
+                    erwartet, daß Euere Beatitudo noch im vorigen Jahre, als Sie mittelst
+                    Allerhöchsten Decrets nach <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> der Berathung wegen in
+                    kirchlichen Angelegenheiten berufen worden waren, zugleich und unverzüglich
+                    dahin gewirkt hätten, daß auch andere Bischöfe zu demselben Zwecke dahin berufen
+                    werden. Da aber dies nicht geschah, so wurde der Grund zu dem unbeschreiblichen,
+                    zugleich aber auch nicht mehr zu verbessernden Übel gelegt!<lb/>Es schmerzt mich
+                    im Herzen und Seele, wenn ich auf den Unterschied denke zwischen der Lage der
+                    Kirche, in welche dieselbe durch das Aufschieben der Synode und durch das
+                    Nichtberufen aller Bischöfe noch im verflossenen Frühjahre verfallen ist und
+                    zwischen jener Lage, welcher sie sich jetzt erfreuen könnte, falls die Synode
+                    zur gehörigen Zeit abgehalten worden wäre!<lb/>Es beliebe Ihnen mir zu glauben,
+                    daß diese Verfahrungsweise unsere Achtung bei der Regierung vermindere und daß
+                    die Kirche, unsere heiligste Mutter, dabei leide durch die Schuld eigener Söhne.
+                    Oder leidet sie nicht, indem sie keinen Trost findet? Wissen müssen wir, daß der
+                    Fluch dieser heiligen Mutter und noch dazu der Fluch ihrer vielen, ja vielen
+                    treuen Söhne unser Andenken verfolgen wird nicht nur diesseits, sondern auch
+                    jenseits unsern finstern Grabes, wenn wir das Geringste vernachlässigen, das ihr
+                    nützen könnte. Und was soll ich von der Geschichte sagen, welche ohnehin viel
+                    über uns zu reden und zu schreiben wird haben?<lb/>Andere Kirchen in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">österreichischen Staaten</rs> können uns Beispiel
+                    geben; diese wirken und bewerkstelligen Vieles, formen sich zu eigenem Gedeihen
+                    im Geiste der vom <rs type="person" ref="#franz-joseph">Allergnädigsten
+                        Monarchen</rs> verliehenen Constitution. Was können wir von unserer
+                    Kirche erwarten, wenn wir entweder nichts oder unvollkommen wirken? Es ist
+                    möglich, daß man auch bei uns wirkt und es für rathsam findet, es mir, als einem
+                    schwachen Gefäße, nicht mitzutheilen; ich würde mich auch dabei zufrieden
+                    stellen, wiewohl es nicht genügt, daß, nach den Worten des Bischofdichters, der
+                    Armeecommandant die Gefahr oder den Sieg der Schlacht allein wisse und das Heer
+                    nicht; ebenso im nationalen Leben ist es nothwendig, daß der Sionswächter seinen
+                    Mitwächtern seine Bedürfnisse zeitlich kundgebe.<lb/>Ich bitte, den Inhalt
+                    gegenwärtigen Schreibens nicht so zu deuten, als befände sich etwa die
+                    Orthodoxie in <rs type="place" subtype="region" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">meiner Diöcese</rs> in Gefahr und
+                    ich deshalb der Hilfe bedürfte; nein, <rs type="place" subtype="region" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">meine
+                        Eparchie</rs>, Gott sei Dank, ist außer aller Gefahr, vielmehr sie
+                    erbeutet ihre unter 300jähriger Verfolgung ihr abgekürzten Rechte wieder und
+                    steht da als jeder und feste Burg ohne Furcht vor Feinden. Nicht also Hilfe
+                    suche ich für die mir anvertraute <rs type="place" subtype="region" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Eparchie</rs>,
+                    sondern ich richte meine Stimme dahin, daß in der Einrichtung unserer gesammten
+                    Kirche in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> ohne allen Verzug
+                    alles geordnet werde, was ihr Heiligthum und gefahrlose Zukunft von uns
+                    verlangt. Über diese dringende Noth sind vermutlich bis jetzt auch von andern
+                    Brüdern Bischöfen Vorstellungen zu Euerer Beatitudo angelangt.<lb/>Was den
+                    Gesundheitszustand Euerer Beatitudo anbelangt, leid thut es mir, daß derselbe
+                    oft durch Krankheit beunruhigt wird, bin aber doch dabei frei in dieser
+                    Beziehung aufrichtig meinen Wunsch und meine Bitte zu äußern, daß Sie Ihre
+                    Hoffnung auf Gott legen und alle baldigst und zwar unausbleiblich für den Monat
+                    August nach <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> wegen kirchlichen Angelegenheiten zu
+                    berufen belieben.</p>
+                <p>Hermannstadt, 27. Juli [1]850</p>
+                <p>Andreas Schaguna m.p.<lb/>gr. n. u. Bischof in Siebenbürgen</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

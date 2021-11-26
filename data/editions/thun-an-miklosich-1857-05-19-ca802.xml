@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-miklosich-1857-05-19-ca802.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-miklosich-1857-03-10-ca801.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-pfeiffer-1855-04-01-ca846.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#miklosich-franz" role="recipient">Franz
+                        Miklosich</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</rs>, <date when-iso="1857-05-19">19. Mai 1857</date>
+                </title>
+            <title type="label">Leo Thun an Franz Miklosich, o. O., 19. Mai 1857</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-D9FF-2</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Österreichische Nationalbibliothek</institution>
+                        <repository>Handschriftenabteilung</repository>
+                        <idno>Autogr. 139/12-4</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun bittet den Slawisten Franz Miklosich, einen Entwurf für das neue
+                            Statut der Wiener Universität durchzusehen. Der Kaiser wünscht zwar die
+                            Wiedereinführung der Studiendirektoren, Thun möchte jedoch deren Rolle
+                            beschränken, um die Selbstverwaltung der Universität durch die
+                            Professoren aufrecht zu erhalten.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</settlement>
+                    <date when-iso="1857-05-19">19. Mai 1857</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#miklosich-franz">Franz Miklosich</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Universität Wien</term>
+                    <term>Selbstverwaltung</term>
+                    <term>Studiendirektoren</term>
+                </index>
+                <p>den 19. Mai 1857</p>
+                <p>Werther Herr Professor!</p>
+                <p>Auf Grundlage von Bestimmungen, die mir bereits durch Allerhöchste Entschließung
+                    vorgeschrieben worden sind, habe ich den anliegenden neuen Entwurf eines
+                    Statutes für die <rs type="org" ref="#org_0018">Wiener Universität</rs>
+                    ausarbeiten lassen. Ich habe mich bemüht, darin die Stellung der
+                    Studiendirektoren, deren Einsetzung Seine Majestät definitiv bereits angeordnet
+                    haben, gegenüber den Professoren und Dekanen so zu regeln, daß deren
+                    selbstthätiges Wirken dadurch nicht gefährdet werde. Es wäre mir sehr erwünscht,
+                    vorläufig noch Ihre Meinung zu hören, ob es mir gelungen ist. Ebenso Ihre
+                    Ansicht über die Zuläßigkeit der Bestimmungen über die Doktoren-Collegien, und
+                    was Sie sonst etwa zu bemerken finden.<lb/>Ich bitte das Exemplar mit beliebigen
+                    Noten zu versehen, und mir bei der Besprechung zurückzustellen. – Es versteht
+                    sich, daß die Angelegenheit vor der Hand vor jeder Kenntnißnahme anderer
+                    Professoren bewahrt werden muß.</p>
+                <p>Hochachtungsvoll<lb/>Thun</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

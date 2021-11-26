@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="schulraete-siebenbuergen_1860-10-31_a3-xxi-d623a40.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Die Schulräte von Siebenbürgen an <rs type="person" ref="#thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                    Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" key="hermannstadt" ref="#place_6244fbb7edb0da394fbfed3800b4c36d">Hermannstadt</rs>, <date when-iso="1860-10-31">31. Oktober 1860</date>
+                </title>
+            <title type="label">Die Schulräte von Siebenbürgen an Leo Thun, Hermannstadt, 31. Oktober 1860</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p/>
+            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000D-F7F4-9</tei:idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D623a</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Die Schulräte von Siebenbürgen danken Thun für die Förderung des
+                            Schulwesens im Großfürstentum Siebenbürgen. Sie schätzen sich glücklich,
+                            unter der Leitung des Ministers gedient zu haben. Gleichzeitig
+                            gratulieren sie Thun zu seiner vom Kaiser verliehenen Auszeichnung.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Das Schreiben befindet sich im Nachlass gemeinsam mit 39 weiteren
+                            Dankadressen unter der Signatur A3 XXI D623a.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Ministerium für Kultus und Unterricht</term>
+                    <term>Entlassung Thuns</term>
+                </index>
+                <p>Euer Excellenz!</p>
+                <p>Die ergebenst unterzeichneten Schulräthe für das Großfürstenthum <rs type="place" subtype="country" key="siebenbuergen" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> sind in dem Wirkungskreise,
+                    welchen Eurer Excellenz Vertrauen ihnen zugewiesen, die glücklichen Zeugen der
+                    erleuchteten Weisheit gewesen, mit welcher Eure Excellenz das Schul- und
+                    Unterrichtswesen auch in dem fernen Osten des Kaiserstaates gepflegt und
+                    gefördert und haben ihre bescheidenen Leistungen von Eurer Excellenz huldreichst
+                    und nachsichtvoll aufgenommen und beurtheilt gesehen.<lb/>Erlauben uns Eure
+                    Excellenz unseren tiefsten Dank für diese Huld in dem aufrichtigsten
+                    Glückwunsche zu der Auszeichnung, durch welche Allerhöchst Seine k.k.
+                    apostolische Majestät Eurer Excellenz unsterbliche Verdienste um Staat und
+                    Wissenschaft zu belohnen geruhte, und in der Versicherung der ehrfurchtsvollsten
+                    Hochachtung auszusprechen, mit welcher wir die Ehre haben zu geharren</p>
+                <p>Eurer Excellenz<lb/>unterthänigste Diener<lb/>
+                    <rs type="person" ref="#schuller-johann-karl" key="schuller-johann-karl">Johann Carl Schuller</rs>
+                    <lb/>
+                    <rs type="person" ref="#vaszits-paul" key="vaszits-paul">Dr. Paul Vaszits</rs>
+                    <lb/>
+                    <rs type="person" ref="#festl-karl" key="festl-karl">Dr. Karl Festl</rs>
+                    <lb/>
+                    <rs type="person" ref="#salamon-josef" key="salamon-josef">Dr. Joseph Salamon</rs>
+                </p>
+                <p>Hermannstadt, am 31. Oktober 1860</p>
+            </div>
+        </body>
+    </text>
+</TEI>

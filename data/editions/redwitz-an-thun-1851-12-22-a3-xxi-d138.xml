@@ -1,0 +1,117 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="redwitz-an-thun-1851-12-22-a3-xxi-d138.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/reden-an-thun-1857-11-28-a3-xxi-d435.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/redwitz-an-thun-1853-12-27-a3-xxi-d244.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#redwitz-oskar" role="sender:gelehrter">Oskar
+                        Redwitz</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1851-12-22">22. Dezember 1851</date>
+                </title>
+            <title type="label">Oskar Redwitz an Leo Thun, Wien, 22. Dezember 1851</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DAB7-1</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D138</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Dichter und designierte Professor an der Universität Wien Oskar
+                            Redwitz bittet Leo Thun um die Erhöhung seines Gehaltes. Redwitz hatte
+                            sich zunächst mit dem ihm angebotenen Gehalt von 1.000 Gulden zufrieden
+                            gegeben, weil er davon ausgegangen sei, man hätte damit ein gutes
+                            Auskommen in Österreich. Nun, da er die Lebenserhaltungskosten in Wien
+                            durch eigene Erfahrung kennt, müsse er jedoch mindestens um eine
+                            Verdoppelung seines Gehaltes bitten, um für sich und seine Familie
+                            ausreichend sorgen zu können. Außerdem bittet Redwitz Thun um Auskunft,
+                            wie die Abgeltung seiner Umzugskosten gehandhabt werde. Redwitz teilt
+                            Thun zudem mit, dass er – anknüpfend an ein Gespräch mit Thun –
+                            Allgemeine Literaturgeschichte und Ästhetik zu seinen Nominalfächern
+                            wählen möchte.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#redwitz-oskar">Oskar Redwitz</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when-iso="1851-12-22">22. Dezember 1851</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Gehaltsfragen</term>
+                    <term>Universität Wien</term>
+                    <term>Germanistik</term>
+                </index>
+                <p>Hochgeborner Herr Graf!</p>
+                <p>Da nach Euerer Excellenz gütiger Versicherung in den nächsten Tagen schon die
+                    Einleitung zu meiner Ernennung getroffen werden dürfte, so wage ich es in
+                    ehrerbietigster Offenherzigkeit, die Euer Hochgeboren gewiß im ächten
+                    Verständnis liebreich aufnehmen, Euerer Excellenz noch einige Momente
+                    vorzutragen, auf die ich im Eifer der Rede, als ich die Ehre hatte von Euerer
+                    Excellenz huldvollst [empfangen] zu werden, vergessen hatte, und die ich nun
+                    Euerer Excellenz auf diesem Wege, um nicht nochmals stören zu müssen,
+                    ehrfurchtsvollst mitzutheilen mir erlaube. Als Höchst <rs type="person" ref="#thun-hohenstein-friedrich">Ihr Herr Bruder</rs> in
+                        <rs type="place" subtype="place" ref="#place_e9cd6cbbbc3248f7a69252439ba3d6e6">Frankfurt</rs> mir die Berufung gütigst mittheilte, in
+                    welcher tausend Gulden Conventionsmünze als Besoldung ausgesprochen waren, da
+                    erklärte ich mich damals für den Anfang mit einverstanden, als ich die
+                    Verhältnisse <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wiens</rs> nach denen in <rs type="place" subtype="country" ref="#place_5afc76bc69955ce317651a3dc1dbb0d6">Bayern</rs> beurtheilte, und theilte diese Erklärung Höchst <rs type="person" ref="#thun-hohenstein-friedrich">Ihrem Herrn Bruder</rs> auch
+                    schriftlich mit, wogegen jedoch <rs type="person" ref="#thun-hohenstein-friedrich">Herr
+                        Graf</rs> mir zu erwiedern die Liebe hatte: „Ich möge mir doch vorher
+                    bezüglich der Besoldung das Leben in <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>
+                    etwas ansehen.“ In der kurzen Zeit meines hiesigen Aufenthalts bin ich nun aber
+                    zu der Überzeugung gekommen, daß das Leben in <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> gerade
+                    noch einmal soviel pecuniäre Mittel erfordert als in <rs type="place" subtype="region" ref="#place_5afc76bc69955ce317651a3dc1dbb0d6">Baiern</rs>, und sonach ohne Zweifel die mir ausgesprochene Besoldung
+                    kaum die Hälfte ist von dem, wie ich sie in <rs type="place" subtype="place" ref="#place_e9cd6cbbbc3248f7a69252439ba3d6e6">Frankfurt</rs> mir
+                    berechnet hatte. Euere Excellenz werden mich daher gewiß nicht der Übertreibung
+                    zeihen, wenn ich die Gewißheit auszusprechen mir ehrerbietigst erlaube, daß auch
+                    bei Verdoppelung des mir anfangs ausgesprochenen Gehaltes noch immer bedeutende
+                    Opfer nothwendig sind, um hier ein auch nur sehr anspruchsloses Leben bestreiten
+                    zu können.<lb/>Was die Kosten meines Umzugs betrifft, so weiß ich nicht, ob ich
+                    eine genaue Berechnung einsenden soll, oder ob es dem hohen Ministerium
+                    angenehmer sein dürfte, mir hiefür ein Pauschale huldvollst auszusprechen.
+                    Endlich glaube ich Euere Excellenz im Hinblick auf meine mit Höchst Ihnen
+                    gepflogene Unterredung nicht zu beleidigen, wenn ich mir die eherbietigste
+                    Andeutung zu machen erlaube, wie mir allgemeine Litteraturgeschichte und
+                    Ästhetik als Nominalfächer die angenehmsten wären.<lb/>Und so kann ich denn
+                    Euere Excellenz nur aus ganzem vertrauensvollem Herzen bitten, mir diese sehr
+                    unpoetischen Erklärungen verzeihen und den Dichter mit dem angehenden
+                    Familienvater liebreich entschuldigen zu wollen.<lb/>Ich war so glücklich, von
+                    Höchst <rs type="person" ref="#thun-hohenstein-friedrich">Ihrem Herrn Bruder</rs>
+                    mit so hochwollender Liebe beschenkt zu werden und habe der freudigsten Hoffnung
+                    durch treues und gewissenhaftes Wirken, dem der liebe Gott seinen reichsten
+                    Segen geben möge, auch Euerer Excellenz liebreiche Huld erwerben zu
+                    dürfen.<lb/>So verharre ich in aufrichtigster Ehrerbietung</p>
+                <p>Euerer Excellenz</p>
+                <p>ganz gehorsamster<lb/>Dr. Oskar Frhr. v. Redwitz</p>
+                <p>Wien, 22. Dez. 1851</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

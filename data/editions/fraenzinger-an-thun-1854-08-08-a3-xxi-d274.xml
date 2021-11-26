@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="fraenzinger-an-thun-1854-08-08-a3-xxi-d274.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/forgach-an-thun-1860-10-28-a3-xxi-d623a1.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/fragen-und-antworten-ungarn-od-a3-xxi-d625c.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#fraenzinger" role="sender:beamter">Ignaz Fränzinger
+                    </rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>[?]<note xml:id="note_1">Im Nachlass ist Leo Thun als
+                        Adressat verzeichnet. Allerdings lässt sich dies nicht zweifelsfrei
+                        feststellen. Es besteht die Möglichkeit, dass der Brief Teil eines
+                        Schreibens von <ref target="thun/thun-korrespondenz/tetschen/weiss-an-thun-1854-09-04-a3-xxi-d279.xml">Johann Baptist Weiß an Leo Thun. Baden-Baden, 04. September 1854</ref>,
+                        war und der ursprüngliche Adressat daher Johann Baptist Weiß gewesen
+                        ist.</note>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_84741e39bd2250054745bd841d851b05">Freiburg i.
+                        B.</rs>, <date when-iso="1854-08-08">8. August 1854</date>
+                </title>
+            <title type="label">Ignaz Fränzinger an Leo Thun[?], Freiburg i. B., 8. August 1854</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DC31-6</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D274</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Württembergische Geheimrat Ignaz Fränzinger übermittelt einige
+                            Informationen zu Professoren aus Württemberg, die sich Leo Thun erbeten
+                            hatte. Über Roderich Stintzing kann Fränzinger nichts mitteilen, da
+                            dieser in Freiburg unbekannt ist. Der Geheimrat will daher weitere
+                            Erkundigungen in Heidelberg und Mannheim einholen. Sein Urteil über
+                            Prof. Adolph Schmidt ist hingegen schlecht. Dieser habe sich nämlich bei
+                            seiner Lehrtätigkeit am Lyzeum gehässig über die katholische Religion
+                            geäußert und die Gottheit Christi in Zweifel gezogen. Deshalb wurde ihm
+                            diese Stelle entzogen. Schmidts Bruder ist Ministerialrat und ebenfalls
+                            als Feind der Kirche anzusehen.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Auszug aus einem Brief. Möglicherweise war das Schreiben ein Teil eines
+                            Briefs von <ref target="thun/thun-korrespondenz/tetschen/weiss-an-thun-1854-09-04-a3-xxi-d279.xml">Johann Baptist Weiß an Leo Thun. Baden-Baden, 04. September
+                                1854</ref>.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#fraenzinger">Ignaz Fränzinger</rs>
+                    <settlement ref="#place_84741e39bd2250054745bd841d851b05">Freiburg i. B.</settlement>
+                    <date when-iso="1854-08-08">8. August 1854</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Römisches Recht</term>
+                </index>
+                <p>Von Prof. <rs type="person" ref="#stintzing-roderich">Strinzing</rs> [Stintzing]
+                    weiß hier Niemand Auskunft zu geben, ja sein Name ist sogar den hiesigen
+                    Professoren der Universität unbekannt. Indessen ging bereits ein Brief an eine
+                    zuverlässige Quelle in <rs type="place" subtype="place" ref="#place_bd2b145b873049a539012fea08bfa71a">Mannheim</rs> und
+                        <rs type="place" subtype="place" ref="#place_35ec7062379a5b1e1743de648e2f3809">Heidelberg</rs> ab und im Augenblick, wo von daher Antwort
+                    eintrifft, soll Ihnen solche überreicht werden.<lb/>Herr <rs type="person" ref="#schmidt-karl-adolf">Adolph Schmidt</rs>, Dr. der Rechte,
+                    Gerichts- und Hofrath und ordentlicher öffentlicher Professor des römischen
+                    Rechts an der <rs type="place" subtype="place" ref="#place_0c2ce30147792a38e32f4c6c209ad4d8">hiesigen
+                        Universität</rs>, Protestant und eifriger Gegner der Kirche, bekannt
+                    als Verfolger ihrer Freunde, kann wohl nicht der nämliche seyn, welcher sich um
+                    die fragliche Stelle bewirbt: – der <rs type="person" ref="#schmidt-adolf">wahrscheinliche Bewerber</rs> ist ein anderer gleichen Namens, ein
+                    junger Mann von etwa 25 Jahren, Philolog, welcher bey dem hiesigen Lyceum
+                    angestellt und auch zu philosophischen Vorlesungen (ich weiß nicht, ob an der
+                    Universität oder am Lyceum) ermächtigt war. Die letzteren wurden ihm abgenommen,
+                    weil er – wie ich hörte – in seinen Excursionen im Gebiet der Religion, die
+                    Gottheit Christi (man sagte auf eine rohe Weise) in Abrede gezogen haben soll.
+                    Vor einiger Zeit wurde er an das Lyceum zu <rs type="place" subtype="place" ref="#place_35ec7062379a5b1e1743de648e2f3809">Heidelberg</rs> als
+                    Lehrer mit Staatsdienereigenschaft versetzt. Er ist der Bruder des Ihnen ohne
+                    Zweifel wohlbekannten <rs type="person" ref="#schmidt">Ministerialraths
+                        Schmidt</rs>, des Referenten in katholischen Kirchen- und Schulsachen;
+                    einer jener Katholiken, deren Wirksamkeit das Gegentheil ihres Glaubens zu
+                    bethätigen pflegt: Man nennt den letzteren als eine zur Gegenparthei der Kirche
+                    gehörige Hauptperson.<lb/>Was hier über beide Herren Schmidt gesagt ist, kommt
+                    aus dem Mund gelassener Männer weltlichen Standes, ich selbst kenne keinen von
+                    beiden und stehe mit keinem in irgend einer Berührung, sie sind mir völlig
+                    fremd.<lb/>Freiburg, 8. Aug. 1854</p>
+                <p>von Hrn. Geh.Rath. Fränzinger in Freiburg</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

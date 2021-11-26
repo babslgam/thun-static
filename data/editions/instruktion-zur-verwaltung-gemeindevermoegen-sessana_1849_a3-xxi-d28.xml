@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="instruktion-zur-verwaltung-gemeindevermoegen-sessana_1849_a3-xxi-d28.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Instruktion für die Gemeinde Sessana [Sežana] zur Verwaltung des
+                        Gemeindevermögens<lb/>
+                    <rs type="place" subtype="place" key="goerz" ref="#place_4de166ce82fade94306232184d2c4387">Görz</rs>, <date when="1849">[1849]</date>
+                    <note>Das Dokument wurde im Nachlass
+                        auf das Jahr 1849 datiert. Es steht in Verbindung mit dem vorangehenden und
+                        nachfolgenden Dokument des Nachlasses, die sich ebenfalls mit Organisation
+                        bzw. der Verwaltung der Gemeinden und der Bestellung der Gemeindeorgane
+                        befassen. Es handelt sich dabei wohl um die Vorschriften, die Graf Stadion
+                        1845 für das Küstenland entworfen hat und die dieser 1847 zur Genehmigung
+                        vorgelegt hat. Vgl. dazu bei Bericht der vom Wiener Gemeinderathe
+                        eingesetzten Commission zur Revision des Gemeinde-Statutes, Bd. 1
+                        (Geschichte des Gemeindewesens und ggenwärtiger Stand der
+                        Gemeindegesetzgebung in Oesterreich und in einigen deutschen Staaten mit
+                        besonderer Rücksicht auf Wien. Aeltere Entwürfe für die Revision des Wiener
+                        Gemeinde-Statutes), Wien 1868, S. 208–209.</note>
+                </title>
+            <title type="label">Instruktion für die Gemeinde Sessana [Sežana] zur Verwaltung des Gemeindevermögens, Görz, [1849]</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p/>
+            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000D-F7E2-D</tei:idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D28</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Die vom Kreisamt Görz erlassene Instruktion für die Gemeinde Sessana
+                            beinhaltet die Vorschriften zur Verwaltung des Gemeindevermögens. Der
+                            verstärkte Gemeinderat hat aus neun Abgeordneten und sechs Ersatzmännern
+                            zu bestehen. Anschließend wird die Wahl der Abgeordneten, der
+                            Wahlvorgang, die Wählbarkeit usw. näher erläutert. Weitere Abschnitte
+                            behandeln den Vorgang bei Verwaltung der Gemeindesachen und des
+                            Gemeindevermögens.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Druck.<lb/>Mit handschriftlichen Ergänzungen, Anmerkungen und Korrekturen
+                            von unbekannter Hand.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Gemeindeordnung</term>
+                </index>
+                <p>
+                    <hi rend="italic">Dieser Druck wurde nicht transkribiert.</hi>
+                </p>
+            </div>
+        </body>
+    </text>
+
+</TEI>

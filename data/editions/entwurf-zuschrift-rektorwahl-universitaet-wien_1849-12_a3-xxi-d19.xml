@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="entwurf-zuschrift-rektorwahl-universitaet-wien_1849-12_a3-xxi-d19.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Entwurf von Franz Tomaschek für eine Zuschrift an den niederösterreichischen
+                        Landeschef<lb/>
+                    <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date from="1849-12-06" to="1849-12-17">6. bis 17. Dezember 1849</date>
+                </title>
+            <title type="label">Entwurf von Franz Tomaschek für eine Zuschrift an den niederösterreichischen Landeschef, Wien, 6. bis 17. Dezember 1849</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p/>
+            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000D-F7E4-B</tei:idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D19</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Entwurf für eine Zuschrift an den niederösterreichischen Landeschef
+                            bezüglich der Wahl Andreas Baumgartners zum Rektor der Universität Wien
+                            für das Studienjahr 1850. Dem Entwurf sind außerdem Bemerkungen
+                            verschiedener Mitarbeiter des Unterrichtsministeriums zum Wahlvorgang
+                            und zum Statut der Universität Wien beigefügt. Der Entwurf setzt die
+                            Frage der Wählbarkeit von Andreas Baumgartner auseinander, da dieser zum
+                            Zeitpunkt der Wahl nicht Professor an der Universität Wien gewesen war.
+                            Das Schreiben stellt jedoch klar, dass entsprechend der Gesetzeslage an
+                            den Universitäten Wien und Prag auch ehemalige ordentliche
+                            Universitätsprofessoren zum Rektor gewählt werden können. Allerdings
+                            trifft dies nicht auf ehemalige Professoren anderer Universitäten zu.
+                            Aus diesem Grund wurde auch der erste Vorschlag des philosophischen
+                            Professorenkollegiums, Ministerialrat Franz Exner zum Rektor zu wählen,
+                            vom Wiener Universitätskonsistorium abgelehnt, da Exner nie ordentlicher
+                            Professor der Universität Wien und kein immatrikuliertes Mitglied des
+                            Doktorenkollegiums war. Daher wird abschließend festgestellt, dass das
+                            Wiener Konsistorium im Sinne des Gesetzes gehandelt habe.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Unvollständige Akte mit eigenhändigen Bemerkungen Thuns und der
+                            Ministerialbeamten Franz Exner, Marian Koller, Franz Tomaschek und
+                            Joseph Alexander Helfert.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Universität Wien</term>
+                    <term>Personalfragen</term>
+                    <term>Rektor</term>
+                </index>
+                <p>Ministerium des Cultus und Unterrichtes<lb/>Nr. 8918/54<lb/>Datum: 6.
+                    Dezember<lb/>Zl. 53382<lb/>Der <rs type="person" ref="#chorinsky-gustav-ignaz" key="chorinsky-gustav-ignaz">niederösterreichische Landeschef</rs> mit dem Berichte des Wiener
+                    Universitätskonsistoriums über die Wahl des Universitätsrektors für das
+                    Studienjahr 1849/50 in der Person des Dr. <rs type="person" ref="#baumgartner-andreas" key="baumgartner-andreas">Andreas Ritter von Baumgartner</rs>, k.k. Sektionschefs im <rs type="org" ref="#org_0012" key="ministerium-der-finanzen">Finanzministerium</rs> und Vizepräsident
+                    der <rs type="org" ref="#org_0015" key="akademie-der-wissenschaften">Akademie der
+                        Wissenschaften</rs> zu <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, und dem Bemerken,
+                    daß er diese Wahl bestäthiget habe.<lb/>
+                    <rs type="person" ref="#paumann-johann" key="paumann-johann">Paumann</rs>
+                    <note>Der Bericht des Wiener
+                        Universitätskonsistoriums fehlt. Es ist nur der Entwurf einer Antwort an den
+                        niederösterreichischen Landeschef von Franz Tomaschek vorhanden.</note>
+                </p>
+                <p>Den Herrn Ministerialrathe Dr. <rs type="person" ref="#exner-franz" key="exner-franz">Exner</rs> und
+                    Sektionsrat <rs type="person" ref="#koller-marian" key="koller-marian">Koller</rs> zur geneigten
+                    Äußerung b. m. mitgetheilt <lb/>9.12.1849<lb/>Tomaschek</p>
+                <p>&lt;Ich ersuche, lieber gleich eine kurze Nachtragsbestimmung zur Erläuterung der
+                    §§ 11 und 32 zu entwerfen, durch deren Kundmachung dann die spezielle Vorlage
+                    ihre Erledigung findet. <rs type="person" ref="#thun-hohenstein-leo" key="thun-hohenstein-leo">Thun</rs>&gt;<note>Eigenhändige Hinzufügung
+                        Thuns.</note>
+                </p>
+                <p>&lt;Wenn die Auslegung des betreffenden [?] richtig ist, daß nämlich auch
+                    ehemalige Professoren der <rs type="org" key="universitaet-wien" ref="#org_0018">Wiener
+                        Universität</rs> wählbar sind, da wäre dies hierwohl zu
+                        [?]<lb/>
+                    <rs type="person" ref="#exner-franz" key="exner-franz">F[ranz] Exner</rs>
+                    <lb/>9.12.&gt;<note>Hinzufügung Exners.</note>
+                </p>
+                <p>&lt;Da Dr. <rs type="person" ref="#baumgartner-andreas" key="baumgartner-andreas">Andr[eas] Baumgartner</rs>
+                    immatriculiertes Mitglied des Doctorencollegiums ist und die Motivirung seiner
+                    Wahl mir genügend erscheint – mithin den Vorschriften des § 33 in Beziehung auf
+                    die Wählbarkeit entsprochen wurde – wäre diese Wahl zu bestätigen.<lb/>
+                    <rs type="person" ref="#koller-marian" key="koller-marian">Koller</rs>
+                    <lb/>10.12.1849&gt;<note>Hinzufügung Kollers.</note>
+                </p>
+                <p/>
+                <p>1.) An den <rs type="person" ref="#chorinsky-gustav-ignaz" key="chorinsky-gustav-ignaz">Landesschef von
+                        Niederösterreich</rs>
+                    <lb/>Über den Bericht vom 6.12.[18]49 53382,
+                    dessen Beilagen zur geeigneten weiteren Rückmittlung in % zurückfolgen, nehme
+                    ich die Wahl des Sektionschefs <rs type="person" ref="#baumgartner-andreas" key="baumgartner-andreas">Andreas
+                        Ritter von Baumgartner</rs> zum Rector der <rs type="org" key="universitaet-wien" ref="#org_0018">Wiener Hochschule</rs> genehmigend zur
+                    Kenntnis. Warum ich erachte, daß die dieser Wahl beigefügte Motivirung nicht
+                    nothwendig und ihre Beifügung nicht in dem Geiste des Gesetzes gelegen war,
+                    wollen Excellenz zugleich mit den Bemerkungen, welche ich aus Anlaß dieses
+                    Wahlactes den akademischen Behörden der <rs type="org" key="universitaet-wien" ref="#org_0018">hiesigen Universität</rs> machen zu müssen glaube, aus dem zugleich an
+                    das Universitätsconsistorium gerichteten Erlasse entnehmen, welcher unter einem
+                    Euer Excellenz zur Einsicht in die Hände kommen wird.<lb/>2. An das hiesige
+                    Universitätsconsistorium <lb/>In Erledigung des im Anschlusse zurückfolgenden
+                    Sitzungsprotokolles des Universitätsconsistoriums vom 22. November dieses Jahres
+                    finde ich in Beziehung auf die in denselben vorkommenden
+                    Meinungsverschiedenheiten über das passive Wahlrecht zum Rectorate und in
+                    Beziehung auf die vorgenommenen und von dem Universitätsconsistorium einer
+                    Motivierung bedürfend erachtete Wahl des Sectionschefs und gewesenen Professors
+                    Andreas Ritter von Baumgartner folgendes zu bemerken: <lb/>Das provisorische
+                    Gesetz über die Organisirung der akademischen Behörden geht sichtbar von der
+                    Voraussetzung aus, daß die Leitung der Universität als eines Ganzen und in ihren
+                    Gliederungen im allgemeinen am zweckmäßigsten in die Hände von Professoren
+                    niedergelegt werde. Die Würde eines Rectors ist daher an den Universitäten zu
+                        <rs type="org" ref="#org_0021" key="universitaet-lemberg">Lemberg</rs>, <rs type="org" ref="#org_0023" key="universitaet-krakau">Krakau</rs>, <rs type="org" ref="#org_0047" key="universitaet-olmuetz">Olmütz</rs>, <rs type="org" ref="#org_0026" key="universitaet-graz">Gratz</rs> und <rs type="org" ref="#org_0020" key="universitaet-innsbruck">Insbruck</rs> ausschließend, in <rs type="org" key="universitaet-wien" ref="#org_0018">Wien</rs> und <rs type="org" ref="#org_0017" key="universitaet-prag">Prag</rs> wenigstens in der Regel Professoren vorbehalten. Der § 33
+                    motivirt diese Bestimmung ausdrücklich durch die Natur des neuen dem Rector
+                    durch das gegenwärtige Gesetz zugewiesenen Wirkungskreises. Dieser fordert nicht
+                    nur eine hohe wissenschaftliche Ausbildung, sondern setzt eine Summe von
+                    gewonnenen Erfahrungen in dem Studienwesen und in der Behandlung der Studirenden
+                    voraus, welche in der Regel nur Männern, die noch Professoren sind oder als
+                    solche im Lehrfache sich Verdienste &lt;gesammelt&gt; <note>Korrektur Thuns aus: verwendet</note>haben eigen sind.<lb/>Von diesem
+                    Gesichtspunkte ausgehend hat das Gesetz für sämmtliche Universitäten zuerst
+                    zweifellos zu Dekanen und Rectoren nicht bloß ordentliche Facultätsprofessoren,
+                    sondern auch solche, welche es gewesen sind, als passiv wahlfähig
+                    erklärt.<lb/>In dem § 26 werden die Bestimmungen der §§ 1–25 auch für die
+                    Universitäten von <rs type="org" key="universitaet-wien" ref="#org_0018">Wien</rs> und <rs type="org" ref="#org_0017" key="universitaet-prag">Prag</rs> als gültig erklärt, soweit nicht die
+                    folgenden Paragraphe Zusätze oder Abänderungen erhalten. Die Abänderungen nun,
+                    welche allerdings in diesen §§ vorkommen, beziehen sich unwidersprechlich auf
+                    eine <hi rend="ul">Ausdehnung</hi> nicht aber auf eine <hi rend="ul">Beschränkung</hi> des passiven Wahlrechtes zum Rectorate. Es läßt sich kein
+                    Grund denken, aus welchem das Gesetz, welches in <rs type="org" key="universitaet-wien" ref="#org_0018">Wien</rs> und <rs type="org" ref="#org_0017" key="universitaet-prag">Prag</rs> jeden immatriculirten Doctor <note>Streichung im Text: ohne Rücksicht auf eine specielle wissenschaftliche
+                        Thätigkeit, ohne Rücksicht auf irgend welche im Studienfache erworbene
+                        Erfahrungen</note>das passive Wahlrecht eingeräumt hat, es den gewesenen
+                    ordentlichen Facultätsprofessoren, hätte vorenthalten sollen, nachdem solche an
+                    den übrigen Hochschulen gleich den noch lehrenden Professoren als wählbar
+                    erklärt worden sind.<lb/>Die Worte des § 32: „der Rector wird jährlich aus einer
+                    anderen Facultät gewählt“, stehen nicht im Wege. Denn der § 11 bedient sich in
+                    Ansehung der Rectorswahl an den übrigen Universitäten genau der nämlichen Worte
+                    mit dem Beifügen: „und zwar aus der Zahl der ordentlichen Professoren oder
+                    derjenigen Professoren, welche ordentliche Professoren <hi rend="ul">waren</hi>
+                    <note>Streichung im Text: und so kann es vor den Augen des
+                        Gesetzgebers kein Widerspruch sein, daran festzuhalten, daß auch in <rs type="org" key="universitaet-wien" ref="#org_0018">Wien</rs>, wenn ein gewesener Professor zum
+                        Rector gewählt wird, <hi rend="ul">aus</hi> der Facultät gewählt worden
+                        sei.</note>.<lb/>Auch die am Schluße des § 32 vorkommende Hinweisung auf den
+                    § 11 &lt;hat keinen anderen Sinn&gt;<note>Korrektur aus: dient
+                        dieser Ansicht zur Stütze, denn sie haben nicht wohl keinen anderen Sinn
+                        als</note> als, daß sowohl die<note>Streichung im Text:
+                        genaueren</note>Bestimmungen über die passive Wahlfähigkeit als über die
+                    Vornahme der Wahl aus dem § 11 ebenso zu ergänzen seien, wie der § 29 sich
+                    rücksichtlich des Professoren, Dekans der Kürze wegen bloß durch die Hinweisung
+                    auf die §§ 6–8 vervollständigt.<lb/>Aus eben diesen Paragraphen ist sohin zu
+                    erklären, was in § 33 mit dem allgemeinen Ausdrucke „jeder Professor“ gemeint
+                        ist.<note>Streichung im Text: Daß derselbe nicht
+                        vereinzelt, sondern nur im Zusammenhange mit den §§ 32 und 11 aufgefaßt
+                        werden dürfe, ergibt sich schon daraus, weil sonst auch ein
+                        außerordentlicher oder sogar ein in <rs type="org" key="universitaet-wien" ref="#org_0018">Wien</rs> gar nicht anwesender Professor gewählt werden könnte,
+                        was mit der Natur der Sache unvereinbar ist.</note>
+                    <lb/>Wenn es hiernach
+                    zweifellos ist, daß nebst dem immatriculirten Doctoren betreffenden
+                    Doctorencollegiums nicht nur die wirklich lehrenden ordentlichen
+                    Facultätsprofessoren, sondern auch diejenigen, welche ordentliche Professoren
+                    waren, zu Rectoren gewählt werden können, so darf doch die Ausdehnung nicht
+                    weiter gehen, als es in dem § 11 des Gesetzes selbst geschah und darf daher <hi rend="ul">nicht</hi> sich auf wirkliche oder gewesene Professoren anderer
+                    Universitäten erstrecken, sollten sie auch in <rs type="org" key="universitaet-wien" ref="#org_0018">Wien</rs> ihr bleibendes Domicil haben.<note>Randbemerkung Thuns: Ist wohl gemeint: "Es sei denn als
+                        Doktoren".<lb/>Randbemerkung Helferts: Das scheint mir nicht so ausgemacht
+                        zu sein. Können in <rs type="org" key="universitaet-wien" ref="#org_0018">Wien</rs> und
+                            <rs type="org" ref="#org_0017" key="universitaet-prag">Prag</rs> selbst Doktoren, die <hi rend="ul">niemals</hi> Professoren waren, zu akademischen Würden
+                        gelangen, so sehe ich nicht ein, warum Männer, die <hi rend="ul">zwar</hi>
+                        Professoren, aber <hi rend="ul">nicht an derselben Universität</hi> waren,
+                        eingeschlossen sein sollten. <rs type="person" ref="#helfert-joseph-alexander" key="helfert-joseph-alexander">Helfert</rs> mp.</note>Für eine solche Ausdehnung liegt in dem
+                    Gesetze kein hinreichender Anhaltspunkt und es wiederspricht der Natur der Sache
+                    einen Mann zum Vorstande einer Universität zu machen, welcher ihr gegenwärtig
+                    nicht angehört und nie in einem bleibenden Zusammenhange mit ihr stand.<lb/>In
+                    der Anwendung dieser Erläuterung des provisorischen Gesetzes über die
+                    Organisierung der akademischen Lehrenden auf die Wahl des Sectionschefs und
+                    gewesenen Professors <rs type="org" key="universitaet-wien" ref="#org_0018">dieser
+                        Hochschule</rs>, Dr. <rs type="person" ref="#baumgartner-andreas" key="baumgartner-andreas">Andreas Ritter
+                        von Baumgartner</rs>, zum Rector für das Studienjahr 1850, muß ich
+                    bemerken, daß diese Wahl, welche ich so, wie sie in dem Wahlprotokolle vom 19.
+                    dieses Monats vorgenommen erscheint, zur genehmigenden Kenntnis genommen habe,
+                    der Motivirung, welche ihr mit dem Berichte des Consistoriums vom 5. Dezember
+                    1849 gegeben wurde, nicht bedurfte, daß dagegen das <rs type="place" subtype="place" key="wien" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wiener</rs> Consistorium ganz in dem Geiste des Gesetzes gehandelt
+                    habe, als es den ersten Vorschlag des philosophischen Professorencollegiums mit
+                    Rücksicht auf den Umstand, daß Ministerialrath <rs type="person" ref="#exner-franz" key="exner-franz">Exner</rs> nie ordentlicher Professor der <rs type="org" key="universitaet-wien" ref="#org_0018">Wiener Universität</rs> war und nicht
+                    immatriculirtes Mitglied ihres Doctorencollegiums ist, zurückwies<note> Korrektur aus: zur Erstattung eines anderen Vorschlages
+                        zurückzumitteln.</note>, und das philosophische Professorencollegium zu
+                    einer zweiten Wahl aufforderte.<lb/>17.12.1849<lb/>
+                    <rs type="person" ref="#tomaschek-eduard" key="tomaschek-eduard">Tomaschek</rs>
+                </p>
+                <p>&lt;gelesen <rs type="person" ref="#helfert-joseph-alexander" key="helfert-joseph-alexander">Helfert</rs> mp.&gt;<note>Hinzufügung Helferts</note>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-bach-od-ca947.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-bach-od-ca943.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-bonitz-1855-08-09-ca1011.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#bach-alexander" role="recipient">Alexander
+                        Bach</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</rs>, <date>o. D.</date>
+                </title>
+            <title type="label">Leo Thun an Alexander Bach, o. O., o. D.</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA45-2</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Österreichisches Staatsarchiv</institution>
+                        <repository>Allgemeines Verwaltungsarchiv</repository>
+                        <idno>Nachlass Bach, Karton 11</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Thun lobt die Predigten von Johann Emanuel Veith. Dieser habe großen
+                            Einfluß auf die Bevölkerung und könne gegen die Revolution wirken.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Eh. kurze Notiz mit Bleistift von Leo Thun.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</settlement>
+                    <date>o. D.</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#bach-alexander">Alexander Bach</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Katholische Kirche</term>
+                    <term>Revolution</term>
+                </index>
+                <p>Die Predigten des <rs type="person" ref="#veith-johann-emanuel">Veith</rs> sind von
+                    wesentlichem Einfluß um das Gewissen des Volkes in Beziehung auf die politischen
+                    Angelegenheiten wieder zu wecken, wovon am Ende allein Heilung der
+                    Zeitkrankheiten erwartet werden kann. Ihm Hindernisse legen, heißt der Permanenz
+                    der Revoluzion in die Hände arbeiten; den <rs type="person" ref="#rauscher-joseph">Erzbischof</rs>
+                    <note xml:id="note_1">Da das Datum nicht klar ist, ist
+                        eine klare Zuordnung nicht möglich. Es kann sich um Erzbischof Joseph Othmar
+                        Rauscher oder um dessen Vorgänger Vinzenz Eduard Milde handeln.</note> dazu
+                    gebrauchen, überdieß auch der kirchlichen Demokrazie (<rs type="person" ref="#brunner-sebastian">Brunner</rs> et cons[?]) Vorschub
+                    leisten.</p>
+                <p>Thun</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

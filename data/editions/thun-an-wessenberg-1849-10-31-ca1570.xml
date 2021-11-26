@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-wessenberg-1849-10-31-ca1570.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-weiss-1855-08-08-a3-xxi-d347b.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-zeithammer-06-22-ca991.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#wessenberg-johann-philipp" role="recipient">Johann Philipp
+                        Wessenberg</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1849-10-31">31. Oktober 1849</date>
+                </title>
+            <title type="label">Leo Thun an Johann Philipp Wessenberg, Wien, 31. Oktober 1849</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-D9E7-C</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Österreichisches Staatsarchiv</institution>
+                        <repository>Haus-, Hof- und Staatsarchiv</repository>
+                        <idno>StK Interiora 80-47</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun dankt Johann Philipp Wessenberg für die Empfehlung des Juristen
+                            Leopold Warnkönig. Thun hatte bereits von anderer Seite Hinweise
+                            erhalten, dass dieser einer Berufung an eine österreichische Universität
+                            nicht abgeneigt sei. Thun ist überzeugt davon, dass Warnkönig zum
+                            Aufschwung der Rechtsgeschichte in Österreich beitragen könnte. Bevor er
+                            Warnkönig aber ein definitives Angebot unterbreiten wollte, hatte er
+                            sich zunächst bei einigen Personen über Warnkönigs Vortrag und Eignung
+                            näher informieren wollen. Die gewünschten Informationen sollten
+                            demnächst eintreffen.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when-iso="1849-10-31">31. Oktober 1849</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#wessenberg-johann-philipp">Johann Philipp Wessenberg</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Rechtswissenschaften</term>
+                </index>
+                <p>Hochgeborner Graf!</p>
+                <p>Bei der erkannten Nothwendigkeit unsere Universitäten durch einige gediegene
+                    deutsche Gelehrte, namentlich auch im Gebiethe der Rechtsgeschichte zu
+                    kräftigen, habe ich bereits Anlaß gehabt, auch mit <rs type="person" ref="#warnkoenig-leopold-august">Hofrath Warnkönig</rs> indirekt in
+                    Verbindung zu treten, und ich habe mit großer Freude erfahren, daß er selbst zu
+                    gewinnen sein dürfte. Das gütige Schreiben Euerer Excellenz bestärkt mich auf
+                    das Angenehmste in dieser Voraussetzung. Entscheidende Schritte habe ich bisher
+                    nur aus dem Grunde noch nicht eingeleitet, weil es mir noch nicht verbürgt
+                    schien, daß er bei seinem bereits vorgerückten Alter noch für eine längere Zeit
+                    jenen anregenden Vortrag hoffen lasse, der mir unter den gegenwärtigen
+                    Verhältnissen besonders wünschenswerth scheint, um durch die Berufung fremder
+                    Gelehrter auf die Entwicklung unserer Universitätsstudien heilbar zu wirken.
+                    Auskünfte, welche ich hierüber einzuholen bemüht war, müssen mir in den nächsten
+                    Tagen zukommen, und ich glaube schon die Empfehlung Euerer Excellenz als den
+                    Zweifel lösend, ansehen zu dürfen, wenn auch darin von dem erwähnten Umstande
+                    keine ausdrückliche Erwähnung geschieht.<lb/>Indem ich Euerer Excellenz für die
+                    gütige Mitteilung so wie für die dabei an mich gerichteten freundlichen Worte
+                    einen verbindlichsten Dank abstatte, habe ich die Ehre mit der Versicherung der
+                    ausgezeichnetsten Hochachtung zu verharren.</p>
+                <p>Euerer Excellenz<lb/>Ergebener Diener<lb/>Graf Leo Thun</p>
+                <p>Wien den 31. Oktober 1849</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="radziwill-an-thun-1849-11-24-a3-xxi-d17.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/purkinje-an-thun-1849-10-22-a3-xxi-d9.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/radziwill-an-thun-1850-01-21-a3-xxi-d32.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#radziwill-friedrich-wilhelm" role="sender:beamter">Friedrich
+                        Wilhelm Radziwiłł</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_577256f045b4ace067e156813e6e7390">Torgau</rs>,
+                        <date when-iso="1849-11-24">24. November 1849</date>
+                </title>
+            <title type="label">Friedrich Wilhelm Radziwiłł an Leo Thun, Torgau, 24. November 1849</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DACE-8</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <msDesc>
+                        <msIdentifier>
+                            <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                                Tetschen-Bodenbach</institution>
+                            <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                                Thun</repository>
+                            <idno>A3 XXI D17</idno>
+                        </msIdentifier>
+                        <msContents>
+                            <p>Friedrich Radziwill erteilt auf Anfrage Leo Thuns Auskunft über
+                                einige Personen, die für eine Stelle an einem Gymnasium bzw. an
+                                einer Universität in Frage kämen. Radziwill fühlt sich geehrt von
+                                dem Vertrauen, das in ihn gesetzt wird und bedauert die "Verwirrung"
+                                aufgrund der Unruhen von 1848. In der Folge teilt Radziwill Leo Thun
+                                die Informationen zu den gewünschten Personen mit, die er in
+                                Erfahrung bringen konnte. Dabei handelt es sich vorwiegend um Lehrer
+                                und Professoren aus Posen. Radziwill schildert jeweils ihre Eignung
+                                als Lehrer, ihre politische Haltung sowie ihre Stellung zur
+                                katholischen Kirche. Radziwill hofft, Thun mit den Auskünften
+                                behilflich zu sein. Schließlich bestärkt er Thun in dessen
+                                Reformanstrengungen und betont, dass er diese mit großem Interesse
+                                verfolge. Gleichzeitig äußert er jedoch seine Bedenken darüber, dass
+                                die Organisation der Gymnasien einem Protestanten [gemeint ist
+                                Hermann Bonitz] anvertraut worden sei.</p>
+                        </msContents>
+                    </msDesc>
+                </p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#radziwill-friedrich-wilhelm">Friedrich Wilhelm Radziwiłł</rs>
+                    <settlement ref="#place_577256f045b4ace067e156813e6e7390">Torgau</settlement>
+                    <date when-iso="1849-11-24">24. November 1849</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Personalvermittlung</term>
+                    <term>Klassische Philologie</term>
+                </index>
+                <p>Torgau, den 24. November 1849</p>
+                <p>Theuerster Graf!</p>
+                <p>Gleich nach Empfang Ihres Schreibens vom 19. vorigen Monats habe ich die mir
+                    nöthig scheinenden Schritte gethan, um die Nachrichten einzuziehen, welche Sie
+                    wünschen. Gerade die, welche ich aus officieller Quelle eingezogen und auf deren
+                    Mittheilung ich den größten Werth legte, weil ich sie von einem Freunde mir
+                    erbeten, der im Ministerio selbst angestellt ist, haben mich bis jetzt im Stiche
+                    gelassen, und ich will nicht länger warten, um nicht in Ihren Augen als säumig
+                    und lässig zu erscheinen. Der Beweis von Vertrauen und freundlichen Andenken,
+                    den Sie mir durch ihren Auftrag gegeben, die unveränderten Gesinnungen, die sich
+                    in demselben aussprechen, haben meinem Herzen wohl gethan, ein solches Gefühl
+                    hat in den Zeiten, die Gott über uns verhängt hat, einen hohen Werth. Das Herz
+                    bedarf der Erwärmung; es ist so viel zerstört worden von dem, auf welchem unsere
+                    liebsten Hoffnungen ruhten, daß man mit keiner rechten Freudigkeit für die
+                    Zukunft arbeiten kann: Pflichtgefühl und Vernunft müssen an ihre Stelle
+                    treten.<lb/>Männer von der Gesinnung, die Sie mit Recht wünschen, sind auch bei
+                    uns kaum zu finden: die Verwirrung, welche der vorjährige Umsturz in allen
+                    Köpfen angerichtet, ist so groß, daß ein Maaßstab aus der Zeit vor <date when="1848">1848</date> nicht mehr ausreicht. Was ich über die Personen,
+                    welche Sie mir nennen, habe erfahren können, theile ich Ihnen mit.<lb/>Bei dem
+                    Marien Gymnasium in <rs type="place" subtype="place" ref="#place_d55199956d521bfae14b87d631fe8ae8">Posen</rs> sind zwei Personen angestellt,
+                    die leicht zu Namensverwechslungen Anlaß geben können. Ein Dr. <rs type="person" ref="#matecki">Matecki</rs> (mit einem t), der nicht zu empfehlen ist;
+                    er gehört der demokratischen Richtung an, und ein Dr. <rs type="person" ref="#malecki-antoni">Małecki</rs> (mit dem durchstrichenem l), den ich
+                    persönlich nicht kenne, der mir aber aus einer Quelle, die mir Vertrauen
+                    einflößt, als ein guter Lehrer und Katholik geschildert worden. Dr. <rs type="person" ref="#rymarkiewicz-jan">Rymarkiewicz</rs> verdient kein Vertrauen;
+                    schwacher Charakter und Werkzeug in den Händen der demokratischen Leiter.
+                        <rs type="person" ref="#milewski-witold">Milewski</rs> in
+                        <rs type="place" subtype="place" ref="#place_dd9a9d2afccb4eea1d3d2d56951a7f69">Ostrowo</rs> kenne ich persönlich; er ist indes kein
+                    Philolog, sondern Mathematiker. Als solcher recht tüchtig; das Jahr <date when="1848">1848</date> hat ihn zwar auch augenblicklich sehr aufgeregt, er
+                    soll aber zur Besinnung gekommen sein und ist ein ehrenwerther Charakter. Außer
+                    diesen kann ich Ihnen zwei Männer nennen, die nicht angestellt sind. Ein Dr.
+                        <rs type="person" ref="#prabucki-jakub">Prabudzki</rs> [Prabucki], Priester,
+                    früher Direktor des Marien Gymnasiums in <rs type="place" subtype="place" ref="#place_d55199956d521bfae14b87d631fe8ae8">Posen</rs>, guter
+                    Philolog und Lehrer, geübter Schulmann, strenger Katholik und ehrenwerther
+                    Charakter, indes in seiner consequenten Durchbildung und Überzeugung nicht ohne
+                    Schroffheit. Dadurch in entschiedenem Antagonismus mit der philosophisch
+                    liberalen Richtung war er mit der im <rs type="place" subtype="place" ref="#place_d55199956d521bfae14b87d631fe8ae8">Posen’schen</rs> herrschenden Gesinnung entschieden verfeindet,
+                    hatte nur die wirklichen Katholiken, also die Minderzahl zu Freunden. Seine
+                    Gegner thaten alles, um ihm bei der Regierung zu schaden und ihm seine Stelle zu
+                    verleiden. Die Theilnahme einer kleinen Anzahl Schüler der höhern Classen des
+                    Gymnasii an der Bewegung des Jahres 1846 brachte ihn mit den Provinzialbehörden,
+                    die ihm nicht wohl wollten, weil sie meist in der deutsch liberalen Richtung
+                    befangen waren, in einen Conflickt, in welchem er sich formell in Unrecht
+                    setzte, was seine Entfernung aus dem Rektorat mit Wartegeld zur Folge hatte. Sie
+                    hat für ihn durchaus nichts gravirendes, und ich halte ihn für einen Mann, der
+                    bei Ihnen gewiß an seiner Stelle sein würde. Er lebt in
+                        <rs type="place" subtype="place" ref="#place_d55199956d521bfae14b87d631fe8ae8">Posen</rs> und bewirbt sich um eine Pfarre, weil er sich
+                    ganz der Seelsorge widmen will; ich weiß also nicht, ob er einen Ruf ins
+                    Schulfach wieder annehmen würde. Derselbe Conflickt, der den Dr. <rs type="person" ref="#prabucki-jakub">Prabudzki</rs> vom Marien Gymnasium entfernte,
+                    bewog auch seinen nächsten Freund, den Oberlehrer Dr. <rs type="person" ref="#cegielski-hipolit">Ciegielski</rs> [Cegielski], zum Austritte;
+                    einen guten Philologen, den ich stets habe rühmen hören. Man wollte ihn
+                    vortheilhaft in einer andern Provinz anstellen, er nahm es indes nicht an, trat
+                    aus dem Lehramte aus und fing ein Handlungsgeschäft in
+                        <rs type="place" subtype="place" ref="#place_d55199956d521bfae14b87d631fe8ae8">Posen</rs> an, das einen guten Fortgang haben soll. Ob er
+                    einen Ruf zu Ihnen annehmen würde, weiß ich nicht. Endlich nenne ich Ihnen einen
+                    Herrn <rs type="person" ref="#strzelecki">Strzelecki</rs>, der in
+                        <rs type="place" subtype="place" ref="#place_4ff55ec41ee84a7b7a80b0b7734e5a6b">Krakau</rs> als Sekretair bei der Municipalität angestellt
+                    ist. Er ist zwar kein öffentlicher Lehrer gewesen, sondern hat sich
+                    hauptsächlich dem Berufe als Erzieher in vortheilhaften Stellungen gewidmet; er
+                    soll aber einer der besten Schüler des frühern Lyceum’s von <rs type="place" subtype="place" ref="#place_249fb5525c7df009d242a77074ee16fa">Krzemieniec</rs> [Kremenez] in <rs type="place" subtype="region" ref="#place_547e1271ff591f3c23fbcc4c74954189">Volhynien</rs> gewesen [sein], dessen Ruf Ihnen gewiß bekannt ist. Er
+                    ist guter Historiker und Numismat und soll in Bezug auf seine religiöse und
+                    politische Richtung Vertrauen verdienen; vielleicht könnten Sie ihn bei der
+                    <rs type="org" ref="#org_0023">Jagiellonischen Universität</rs>
+                    brauchen.<lb/>Soweit die Materialien, die ich Ihnen bis jetzt schaffen konnte,
+                    mögen sie Ihnen nützlich sein. Ich bin Ihrer Wirksamkeit mit lebhaftem Interesse
+                    in den officiellen Blättern gefolgt. Sie führen vieles bei Ihren neuen
+                    Organisationen ein, das sich bei uns in der Erfahrung bewährt, und haben so viel
+                    ich weiß einen preußischen Schulmann <note xml:id="note_1">Gemeint ist <rs type="person" ref="#bonitz-hermann">Hermann Bonitz</rs>, der vor der Berufung
+                        nach <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> Gymnasialprofessor in
+                            <rs type="place" subtype="place" ref="#place_c0c852074dcac98f3b0c312dce033190">Stettin</rs> war.</note>, der früher in
+                        <rs type="place" subtype="place" ref="#place_c0c852074dcac98f3b0c312dce033190">Stettin</rs> angestellt war, ins Ministerium gezogen. Sie
+                    werden wohl gesehen haben, daß der praktisch brauchbare Mann, ganz auf einer
+                    protestantisch philosophischen Basis steht und also in einem überwiegend
+                    katholischen Erziehungssysteme nur bedingt zu brauchen ist. Ich kann mich
+                    wenigstens nicht von der Überzeugung losmachen, daß Schulen auf einer streng
+                    confessionellen Grundlage organisirt werden müssen, und denke auch, daß Sie sich
+                    an diesen Grundsatz halten.<lb/>Gott fördere Ihre Thätigkeit: den Ihrigen
+                    empfehlen Sie mich angelegentlichst, und genehmigen Sie den Ausdruck meiner
+                    alten Freundschaft und herzlichen Hochachtung</p>
+                <p>F. Radziwiłł</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

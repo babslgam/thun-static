@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="tomek-an-thun-konzept-od-ca1407.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/tomek-an-thun-konzept-1858-05-15-ca1408.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/toqueville-an-thun-1856-03-13-a3-xxi-d371.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#tomek-vaclav-vladivoi" role="sender:gelehrter">Václav Vladivoj
+                        Tomek</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
+                    <lb/>o. O., <date notAfter="1853">o. D.</date> [ante
+                        1853]<note xml:id="note_1">Der Brief muss vor 1853 entstanden sein, da das
+                        in dem Brief erwähnte, von Thun in Auftrag gegebene Buch im Jahr 1853
+                        erschienen ist.</note>
+                </title>
+            <title type="label">Václav Vladivoj Tomek an Leo Thun o. O., o. D. [ante 1853]</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-D9D0-5</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <msDesc>
+                        <msIdentifier>
+                            <institution>Tschechisches Nationalmuseum [Archiv Národního
+                                muzea]</institution>
+                            <repository>Archiv</repository>
+                            <idno>Nachlass Tomek</idno>
+                        </msIdentifier>
+                        <msContents>
+                            <p>Der Historiker Václav Tomek bedankt sich für das Angebot, ein
+                                Lehrbuch für den Unterricht in österreichischer Geschichte zu
+                                schreiben. Er äußert allerdings Zweifel, das Werk in der kurzen
+                                Zeit, in der Thun ihn vom Unterricht freistellen will, fertigstellen
+                                zu können. Er hofft daher, gegebenenfalls wieder von seiner
+                                Lehrverpflichtung befreit zu werden.</p>
+                        </msContents>
+                        <physDesc>
+                            <p>Eh. Konzept von Václav Tomek.<lb/>Tschechisch.</p>
+                        </physDesc>
+                    </msDesc>
+                </p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#tomek-vaclav-vladivoi">Václav Vladivoj Tomek</rs>
+                    <date>o. D.</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Gymnasien</term>
+                    <term>Schulbücher</term>
+                    <term>Österreichische Geschichte</term>
+                </index>
+                <p>Vaše Excellencí!</p>
+                <p>Obdrživ vysoký ministeriální dekret, jímž se mi v sepsání dějepisu rakouského
+                    povoluje osvobození od školních přednášek v druhém půlletí tohoto školního roku,
+                    dovoluji si Vaši Exc. obtěžovati těmito uctivými řádky, abych jim vřelé díky své
+                    za tuto mně prokázanou milost vyslovil.<lb/>Musímť blahosklonné splnění mé
+                    žádosti v tomto ohledu považovati za důkaz skládané ve mne důvěry, že se o
+                    vykonání onoho úkolu dle vší síly své pokusím; i račtež tedy Vaše Exc. laskavě
+                    přijmouti ode mne slib, že svědomitě užiji svobodného času mně propůjčeného,
+                    abych práci tuto vykonal co nejpřiměřeněji účelu jejímu.<lb/>Poněvadž okolnosti
+                    tomu nepřály, aby bylo bývalo možná, mne na delší čas z povinností školních
+                    propustiti; nemohu sice doufati, že bych za čas uděleného propuštění s celým
+                    tímto, velmi rozsáhlým úkolem svým hotov byl; a však učiním, seč mne bude,
+                    odevzdávaje se přitom naději, že kdyby se práce tato naskrze jinak v žádoucí
+                    krátké lhůtě dokonati nedala, Vaše Excellencí ponížené žádosti mé o opětné
+                    udělení potřebné prázdně časem svým slyšeti neráčíte.</p>
+                <p>Vaší Excellencí<lb/>s povinnou poslušností<lb/>oddaný<lb/>Tomek</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

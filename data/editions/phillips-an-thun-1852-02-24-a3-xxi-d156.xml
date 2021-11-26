@@ -1,0 +1,114 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="phillips-an-thun-1852-02-24-a3-xxi-d156.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/phillips-an-thun-1852-01-24-a3-xxi-d154.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/phillips-an-thun-1852-03-09-a3-xxi-d158.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#phillips-george" role="sender:gelehrter">George
+                        Phillips</rs> an <rs type="person" ref="#thun-hohenstein-leo">Leo
+                        Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1852-02-24">24.
+                        Februar 1852</date>
+                </title>
+            <title type="label">George Phillips an Leo Thun, Wien, 24. Februar 1852</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DAEB-7</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D156</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Jurist George Phillips teilt Leo Thun die von ihm eingeholten
+                            Informationen über Sebastian Mutzl mit. Die nicht namentlich genannten
+                            Informanten Phillips' halten Mutzl für geeignet, eine Professur zu
+                            übernehmen. Außerdem ist Mutzl katholisch gesinnt. Einer der beiden
+                            Vertrauensmänner kennt Mutzl persönlich und dieser ist davon überzeugt,
+                            dass Mutzl die Professur gewiss annehmen werde, falls er dadurch keine
+                            finanziellen Einbußen zu seiner jetzigen Situation in Kauf nehmen
+                            müsse.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Unter dieser Signatur finden sich noch zwei weitere Briefe:<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/hartmann-an-thun-1852-04-01-a3-xxi-d156a.xml">Franz Hartmann an Leo Thun. Linz, 1. April 1852.</ref>
+                            <lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/hartmann-an-thun-1852-04-27-a3-xxi-d156b.xml">Franz Hartmann an Leo Thun. Linz, 27. April 1852.</ref>
+                            <note xml:id="note_1">Die Briefe wurden hier eigens
+                            aufgenommen.</note>
+                        </p>
+                        <p>Verweis auf A3 XXI D154.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#phillips-george">George Phillips</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when-iso="1852-02-24">24.
+                        Februar 1852</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Personalvermittlung</term>
+                    <term>Geschichtswissenschaften</term>
+                </index>
+                <p>Hochgeborner Herr Graf</p>
+                <p>Euer Exzellenz beehre ich mich über den Rector <rs type="person" ref="#mutzl-sebastian">Seb[astian] Mutzl</rs> die nachstehenden Notizen mitzutheilen, welche
+                    mir heute auf meine Anfragen zugegangen sind. Der eine meiner Correspondenten
+                    äußert sich nur ganz kurz über ihn unter lobender Anerkennung seiner
+                    schriftstellerischen Leistungen (Urgeschichte, Lateinische Grammatik), und zwar
+                    dahin: „<rs type="person" ref="#mutzl-sebastian">Mutzl</rs> halte ich für geeignet,
+                    viel geeigneter als <rs type="person" ref="#fertig-michael">Fertig</rs>
+                    <note xml:id="note_2">Vgl. dazu den Brief <ref target="thun/thun-korrespondenz/tetschen/phillips-an-thun-1852-01-24-a3-xxi-d154.xml">A3 XXI D154</ref>.</note>; seine Gesinnung ist gut; wenn er einen Ruf
+                    erhält und ihn annimmt, so wird er ihm Ehre machen.“<lb/>Ausführlichere
+                    Mittheilungen macht mir ein Professor aus <rs type="place" subtype="place" ref="#place_5cf6a77064d5d368e7bd500399dacfd2">Eichstätt</rs>: „Über Herrn <rs type="person" ref="#mutzl-sebastian">Seb[astian] Mutzl</rs> bin ich im Stande Ihnen die gewünschte
+                    Auskunft zu geben. Im Jahre 1845 kam er auf den Vorschlag des <rs type="person" ref="#reisach-karl-august">Erzbischofs von Reisach</rs> von
+                        <rs type="place" subtype="place" ref="#place_9ae0133b9256a87352801c2a37fdd149">Landshut</rs> nach <rs type="place" subtype="place" ref="#place_5cf6a77064d5d368e7bd500399dacfd2">Eichstätt</rs> als Rector der hiesigen Studienanstalt. Weil ich
+                    früher im Auftrage des Ordinariates <rs type="place" subtype="place" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs> sein Buch über die Urgeschichte<note xml:id="note_3">
+                        <ref target="http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10412107-6">Sebastian Mutzl, Urgeschichte der Erde und des Menschengeschlechtes
+                            nach der Mosaischen Urkunde und den Ergebnissen der Wissenschaften,
+                            Landshut 1843</ref>.</note> censirt[?] hatte, so wurde ich mit ihm
+                    dahier bald persönlich bekannt und pflege mit ihm seither häufigen Umgang. Seine
+                    Gesinnung ist katholisch, nicht windwendig, mit ihm herangewachsen, beständig.
+                    Er hat nicht nur ein ausgebreitetes Wissen, sondern er versteht es auch dasselbe
+                    auf die rechte Weise an den Mann zu bringen. Obgleich sein Äußeres nichts
+                    Anziehendes hat, nicht schön ist, so finden doch alle nach einigem Umgange
+                    angenehm. Seine Rede ist fließend und klar, der Ausdruck gewählt, die
+                    Declamation mit kräftiger Baßstimme natürlich, Gesticulation ruhig, ganze
+                    Haltung ernst und würdevoll. Ich nehme also keinen Anstand zu erklären, daß
+                        <rs type="person" ref="#mutzl-sebastian">Mutzl’s</rs> Vortrag für eine
+                    Lehrkanzel der allgemeinen Geschichte an einer Universität sich sehr wohl
+                    eignet. Ich zweifle keinen Augenblick, daß <rs type="person" ref="#mutzl-sebastian">Mutzl</rs> eine solche Stelle annehme, wenn, was vorausgesetzt werden
+                    kann, er dadurch in materieller Beziehung einen Vortheil gewinnt.“<lb/>Mit
+                    ausgezeichnetster Verehrung bestehe ich als</p>
+                <p>Euer Excellenz</p>
+                <p>unterthänigster Diener<lb/>Dr. G. Phillips</p>
+                <p>Wien, 24. Febr. 1852</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

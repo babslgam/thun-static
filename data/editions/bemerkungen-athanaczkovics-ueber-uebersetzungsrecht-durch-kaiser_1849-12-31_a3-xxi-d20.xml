@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="bemerkungen-athanaczkovics-ueber-uebersetzungsrecht-durch-kaiser_1849-12-31_a3-xxi-d20.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bemerkungen von <rs type="person" ref="#athanaczkovicz-plato" role="sender:kleriker">Plato Athanaczkovics</rs> über das Übersetzungsrecht
+                    durch den Kaiser<lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1849-12-31">31. Dezember 1849</date>
+                </title>
+            <title type="label">Bemerkungen von Plato Athanaczkovics über das Übersetzungsrecht durch den Kaiser, Wien, 31. Dezember 1849</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p/>
+                <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000D-F802-9</tei:idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D20</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der griechisch-orthodoxe Bischof von Bacs, Plato Athanaczkovicz,
+                            verurteilt den Versuch des Patriarchen Joseph Rajačić, das dem Kaiser
+                            gebührende Recht zur Versetzung von Bischöfen in eine andere Diözese,
+                            angetastet zu haben. Athanaczkovicz führt in der Folge eine Reihe von
+                            Reskripten und Beispielen an, die bestätigen sollen, dass das Recht zur
+                            Versetzung von Bischöfen allein dem Kaiser gebühre. Der Bischof zitiert
+                            auch die Kirchensatzungen, die es dem Patriarchen sogar ausdrücklich
+                            verbieten, Versetzungen von Bischöfen vorzunehmen. Auch hat der
+                            Patriarch kein Votum bei der Wahl des Bischofs. Die Bischöfe werden
+                            durch die bischöfliche Synode gewählt und dann vom Kaiser bestätigt.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#athanaczkovicz-plato">Plato Athanaczkovics'</persName>
+                    <date when-iso="1849-12-31">31. Dezember 1849</date>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                </index>
+                <p>Als <rs type="person" ref="#franz-joseph">Seine Majestät der Kaiser und
+                        König</rs>, Höchstwelchem ohnehin in kirchlichen Angelegenheiten das ius
+                    inspiciendi zusteht, Allerhöchst sich das Recht, unsere Bischöfe aus einer
+                    Diöcese in eine andere zu übersetzen, zu behalten geruheten, ist dabey mit
+                    keiner Sylbe die Erwähnung gemacht worden von einem Erzbischöflichen
+                    Präsentirungsrechte.<lb/>Im allerhöchsten Rescripte dato 7. April 1778 lautet
+                    der § 16 so: „Quoad translationem Episcoporum de una Dioecesi in aliam iure
+                    Nobis, qua Reginae Apostolicae et supremo Ecclesiarum Patronae, competente,
+                    porro quoque utemur, neque petitum in contrarium amplius reiterandum erit.“<lb/>
+                    <lb/>Nicht einmal einen Administrator auf ein erledigtes Bisthum kann der
+                    Erzbischof einsetzen. Im erwähnten Rescripte § 5 lautet darüber:
+                    „Administratorem Episcopatuum dum vacant, denominandi porro Nostrae reservamus
+                        <hi rend="ul">potestati</hi>, neque petitum in contrarium amplius iterari
+                    volumus.“<lb/>Ein anderes allerhöchstes Rescript dato 16. Juli 1779 enthält im §
+                    20 die Worte:<lb/>„Denominationem Adminstratoris Episcopatuum, quotiescumque
+                    aliquis horum vacaverit, <hi rend="ul">Nobis</hi> porro quoque reservamus,
+                    casusque emersurae iutius modi vacantiae absque mora Cancellariae Nostrae
+                    Hungarico-Aulicae significandus, et relate ad administrationem et procurationem
+                    vacantis Episcopatus a b. Resolutione Nostra praestolandum erit.“<lb/>Selbst der
+                    Ausdruck „neque petitum in contrarium <hi rend="ul">amplius</hi> reiterari
+                    volumus“ beweiset zur Genüge, daß unsere Erzbischöfe dieses Majestätsrecht zu
+                    beeinträchtigen oft bemühet waren, daß aber auch diese allerhöchsten Orts
+                    wiederhohlt gewagten ungegründeten Belästigungen ausdrücklich und wiederholt
+                    allerhöchst verbothen worden sind.<lb/>Und jetzt würde man wagen dieses über 70
+                    Jahre festbestandene Majestätsrecht in Zweifel zu ziehen und eigenmächtig aus
+                        <hi rend="ul">purer Leidenschaftlichkeit</hi> ohne alle vorhandene Ursache
+                    erschleichend sich zu zueignen!<lb/>
+                    <rs type="person" ref="#rajacic-joseph">Herr Patriarch</rs> beruft sich auf den
+                    Prüfer von Stylus der allerhöchsten Diplomen „ad repraesentationem fidelis Nobis
+                    dilecti Archiepiscopi Carlovicensis“. Doch wird es keinem Menschen, selbst dem
+                        <rs type="person" ref="#rajacic-joseph">Patriarchen</rs> nicht einfallen, zu
+                    wagen zu behaupten, <rs type="person" ref="#franz-joseph">Seine Majestät</rs>
+                    wäre bemüßigt, ja nicht einem andern verdienten Bischofe, sondern einzig und
+                    allein demjenigen diese allerhöchste Übersetzungsgnade zu Theil werden zu
+                    lassen, welchen der Erzbischof namentlich etwa bezeichnet hat! Diesen Umstand
+                    könnten wohl die bisherigen Beispiele erläutern:<lb/>1. Im Jahre 1833, am 12.
+                    Februar, dem Geburtstage <rs type="person" ref="#franz-I-II">Kaisers Franz</rs>
+                    glorreichen Andenkens, geruheten <rs type="person" ref="#franz-I-II">Seine
+                        Majestät</rs> den damaligen <rs type="place" subtype="place" ref="#place_8fa012f3d7caecd67c332e0f803e0a5c">Ofner</rs> Bischof <rs type="person" ref="#stankovics-stephan">Stephan Stankovics</rs>
+                    allergnädigst zu befragen, welche von beyden ledig gewesenen <rs type="place" subtype="place" ref="#place_ef6d1c7654009cfc1b61dfc613ce92bb">Bacser</rs>-
+                    und <rs type="place" subtype="place" ref="#place_3b202c11c9eb9f8d289acdb678dbc975">Temesvarer</rs> Diöcesen ihm
+                    lieber wäre; <rs type="person" ref="#stankovics-stephan">Stankovics</rs>
+                    erklärte sich für die erstere und gleich am folgenden Tage wurde derselbe von
+                    Seiner k. Hoheit dem <rs type="person" ref="#joseph-anton-johann-erzherzog">Erzherzoge Palatin Joseph</rs>, Höchstwelcher Sich zufällig in <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> befand, schriftlich in Kenntnis gesetzt, daß <rs type="person" ref="#franz-I-II">Seine Majestät</rs> ihn in die <rs type="place" subtype="place" ref="#place_ef6d1c7654009cfc1b61dfc613ce92bb">Bacser</rs>
+                    Diöcese allergnädigst zu übersetzen geruheten. Diesen allerglücklichsten Zufall
+                    sagte <rs type="person" ref="#stankovics-stephan">Stankovics</rs> in seiner
+                    Installationspredigt heraus, öffentlich in der Kirche, was man noch männiglich
+                    im Volke erzählt.<lb/>2. Ich bin im Besitze eines eigenhändigen Briefes vom
+                    Erzbischofe <rs type="person" ref="#stratimirovics-stefan">Stratimirovics</rs>,
+                    welcher an den <rs type="place" subtype="place" ref="#place_0a6e1cc016ecc63c7bcdca9c8dd3be25">Werscheczer</rs> Bischof <rs type="person" ref="#manujlovics-maximus">Maxim Manujlovics</rs> im Jahre
+                    1833 folgendermaßen schrieb: „Euer Hochwürden bitten mich ich möchte dahin
+                    wirken, damit Sie in die <rs type="place" subtype="place" ref="#place_ef6d1c7654009cfc1b61dfc613ce92bb">Bacser</rs> Diöcese übersetzt
+                    werden würden; das steht aber nicht in meiner Macht, sondern einzig und allein
+                    in der Macht <rs type="person" ref="#franz-I-II">Seiner Majestät des
+                        Kaisers</rs>.“<lb/>3. Unsere Bischöfe in <rs type="place" subtype="region" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürgen</rs> und <rs type="place" subtype="region" ref="#place_1e3ed35591fca7321b21f50db5ab75be">Bukowina</rs> sind auch wirkliche Mitglieder unserer <rs type="place" subtype="place" ref="#place_001191dc08dccefed6b8e2a8dc6867cd">Carloviczer</rs> [Karlowitzer]Synode und diese Bischöfe werden ohne allen
+                    Einfluß von Seite unserer bischöflichen Synode gewählt und nach der von Seiner
+                    Majestät erfolgten Bestätigung in <rs type="place" subtype="place" ref="#place_001191dc08dccefed6b8e2a8dc6867cd">Carlovicz</rs> geweihet. Der
+                    gegenwärtige <rs type="place" subtype="region" ref="#place_45e0bb0b029ff4919974c4717bb7a4b4">Siebenbürger</rs> Bischof <rs type="person" ref="#schaguna-andreas">Andreas Schaguna</rs> hatte unter den
+                    3. seinen Mitcandidaten die wenigsten vota für sich und ward doch dabey von
+                    Seiner Majestät <hi rend="ul">e plenitudine iuris et potestatis
+                        Maiestaticae</hi> bestätiget.<lb/>Mit Übergehung der vielen andern
+                    dergleichen Beispiele ist zu bemerken, daß es sehr zweckdienlich wäre, die
+                    Anteacta hervorzunehmen, wie der gegenwärtige <rs type="person" ref="#rajacic-joseph">Patriarch</rs>, damals noch Bischof zu <rs type="place" subtype="place" ref="#place_0a6e1cc016ecc63c7bcdca9c8dd3be25">Werschecz</rs>, in Gesellschaft des damaligen <rs type="place" subtype="place" ref="#place_8fa012f3d7caecd67c332e0f803e0a5c">Ofner</rs> –
+                    nunmehrigen <rs type="place" subtype="place" ref="#place_3b202c11c9eb9f8d289acdb678dbc975">Temesvarer</rs> Bischofs <rs type="person" ref="#zsivkovics-pantaleon">Zsivkovics</rs> in den Jahren 1838
+                    und 1839 bey dem k.k. Hofkriegsrathe wie auch der k. ungarischen Hofkanzley und
+                    selbst bey <rs type="person" ref="#ferdinand-I">Seiner Majestät</rs> unabläßig
+                    durch viele Monathe in <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> weilend, aus allen
+                    Kräften dahin arbeitete, um ebendasselbe prätensive Präsentirungsrecht dem
+                    Erzbischofe <rs type="person" ref="#stankovics-stephan">Stankovics</rs> als null
+                    und nichtig zu beweisen und dem im Anempfehlungs- und nicht Präsentirungswege
+                    vom Erzbischofe <rs type="person" ref="#stankovics-stephan">Stankovics</rs>
+                    vorgemerkten Bischofe <rs type="person" ref="#chranislaw-georg">Chranislaw</rs>,
+                    welcher dem Rajacsics [<rs type="person" ref="#rajacic-joseph">Rajačić</rs>],
+                        <rs type="person" ref="#zsivkovics-pantaleon">Zsivkovics</rs> und auch mir
+                    Professor in Humanioribus gewesen ist (die Erwähnung dessen geschieht hier aus
+                    der triftigen Ursache seines Alters und der Erkenntlichkeit andererseits), die
+                        <rs type="place" subtype="place" ref="#place_ef6d1c7654009cfc1b61dfc613ce92bb">Bacser</rs> Diöcese zu
+                    entreißen. Demnach dachte <rs type="person" ref="#rajacic-joseph">Seine
+                        Excellenz</rs> damals ganz entgegen gesetzt und konnte sich natürlich nicht
+                    einbilden, daß er Waffen schmiede gegen sich selbst; denn sein Vorgänger
+                    Erzbischof <rs type="person" ref="#stankovics-stephan">Stankovics</rs> war
+                    jünger als er.<lb/>Jetzt fragt er sich aber: wie tauchte auf dieses prätensive
+                    Präsentirungsrecht? Außer andern psychologischen Rücksichten der einzelnen
+                    Erzbischöfe könnte man füglich die fragliche Protension daraus ableiten, daß die
+                    oben angeführten Rescriptsparagraphen dem Erzbischofe anbefehlen, jeden Fall der
+                    Bisthumserledigung alsogleich allerhöchsten Orts zu melden und durch die Länge
+                    der Zeit bildete man sich ein daraus ein Präsentirungsrecht.<lb/>Hinzu kam
+                    noch<lb/>Des IV. öcumenischen Chalcedonischen Concils Canon 25, welcher den
+                    Erzbischof, falls dieser vernachlässigen würde von seiner Seite auch Sorge zu
+                    tragen, damit kein erledigtes Bisthum über 3 Monate vacire, der Epitimiae zu
+                    unterwerfen anbefiehlt. Daraus wurde wieder hie und da von einem unserer
+                    Erzbischöfe ungebührlich die Idee des prätensiven Präsentirungsrechtes
+                    modulirt.<lb/>Über ebendieses prätensive Recht unserer Erzbischöfe sprechen
+                    nicht – können nicht sprechen – die Kirchensatzungen unserer Kirche, indem
+                    ebendiese Kirchensatzungen alle und jede Übersetzung aus einer Diöcese in die
+                    andere strengstens verbiethen und folglich nur gegen die <hi rend="ul">eigenmächtigen</hi> Eingriffe in andere – erledigte oder nicht – Diöcesen
+                    verdammen.<lb/>Seit <rs type="person" ref="#konstantin-der-grosse">Constantin‘s
+                        dem Großen</rs> bis <rs type="person" ref="#photios-I">Photius‘</rs> und
+                    seit dessen Zeiten bis zur Gegenwart hat sich niemals ein Fall ereignet, daß ein
+                    ganz gesetzmäßiges und in der gehörigsten Form herausgegebenes Diplom eines
+                    Kaisers angetastet worden wäre; der <rs type="person" ref="#rajacic-joseph">Herr
+                        Patriarch</rs> ist bemüht solch ein ganz und gar isolirtes Beispiel in der
+                    Kirchengeschichte aufzustellen!<lb/>Die Abhaltung unserer Synode nahet; die
+                    Lösung dieser ungegründeten Frage lasse man der Synode für die Zukunft über, die
+                    Vergangenheit aber belasse man in Ruhe; denn selbst auch diese
+                    Synodalzukunftsformirung wird sich nach dem Alten regeln müssen; so befiehlt der
+                    Geist unserer Kirchensatzungen, welche für ewige Zeiten als Dogma gelten müssen,
+                    so der Geist unserer Kirchenregierung, welche lauter hierarchatisch ist und
+                    nicht durch einen Patriarchen, nicht durch einen Erzbischof, nicht durch einen
+                    Metropoliten (was bey uns respective gleichviel ist), sondern einzig und allein
+                    durch bischöfliche Synode ausgeübt wird. Wer könnte es von den in die Sache
+                    nicht Eingeweiheten glauben, daß bey uns ein Patriarch nicht einmal <hi rend="ul">ein Votum</hi> in der Wahl eines Bischofs hat? Und doch ist es im
+                    strengen Sinne der Kirchensatzungen so und nicht anders.<lb/>
+                    <rs type="person" ref="#franz-joseph">Seine Majestät</rs> hat dadurch, daß
+                    Allerhöchstdieselben das fragliche Übersetzungsrecht zu behalten geruheten,
+                    einen mächtigen Damm gegen die bey uns großartig grassirende Simonie dadurch zu
+                    setzen sehr zweckmäßig und nothwendigerweise geruhet. Auch für diesen
+                    gegenwärtig obwaltenden fraglichen Fall spricht die böswillige Fama nicht
+                    erwünschenstwerth, nicht kirchensatzungsmäßig!</p>
+                <p>Wien, am 31. December 1849</p>
+                <p>Plato Athanaczkovics<lb/>Früher Ofner, nunmehr Bacser gr. n. unirter Bischof </p>
+            </div>
+        </body>
+    </text>
+</TEI>

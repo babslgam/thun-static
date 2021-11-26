@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-juelg-1855-03-04-ca808.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-juelg-1855-01-05-ca807.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-juelg-1855-04-17-ca809.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#juelg-bernhard" role="recipient">Bernhard
+                        Jülg</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1855-03-04">4.
+                        März 1855</date>
+                </title>
+            <title type="label">Leo Thun an Bernhard Jülg, Wien, 4. März 1855</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA0B-4</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Österreichische Nationalbibliothek</institution>
+                        <repository>Handschriftenabteilung</repository>
+                        <idno>Autogr. 346/38-5</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun bittet den Philologen Bernhard Jülg um Unterstützung bei der
+                            Anwerbung von Gymnasiallehrern. Thun schildert zunächst die unangenehme
+                            Situation, mehrere Stellen an unterschiedlichen Gymnasien nicht besetzen
+                            zu können, weil ihm die geeigneten Lehrer dazu fehlten. Insbesondere für
+                            Landgymnasien sei es schwierig, Personal zu finden. Daher erkundigt sich
+                            Thun bei Jülg, ob dieser in seiner Heimat Baden Lehrer kenne, die
+                            interessiert wären, eine Stelle in Österreich anzunehmen. Die Personen
+                            sollten katholisch und von vertrauenswürdiger Gesinnung sein sowie die
+                            Befähigung zum Lehramt bewiesen haben.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when-iso="1855-03-04">4.
+                        März 1855</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#juelg-bernhard">Bernhard Jülg</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Gymnasien</term>
+                    <term>Gymnasiallehrer</term>
+                    <term>Personalvermittlung</term>
+                    <term>Philologie</term>
+                </index>
+                <p>Wien, den 4. März 1855</p>
+                <p>Werther Herr Professor!</p>
+                <p>Die fortschreitende Entwicklung der Gymnasialeinrichtungen, namentlich auch in
+                    Theilen des Reiches die bisher in dieser Beziehung außerordentlich vernachläßigt
+                    waren, macht einen Mangel an befähigten Gymnasiallehrern für das philologische
+                    Fach sehr fühlbar. Ich bin bereits in der peinlichen Lage in <rs type="place" subtype="place" ref="#place_8fa012f3d7caecd67c332e0f803e0a5c">Ofen</rs> und <rs type="place" subtype="place" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburg</rs> und an anderen Orten die systemisierten Stellen nicht
+                    besetzen zu können, weil es an Bewerbern fehlt. Die Thätigkeit die von Ihnen und
+                    anderen neu angestellten Professoren an den Universitäten geübt wird, läßt
+                    hoffen, daß dieser Übelstand allmählich schwinden wird, allein Sie wissen am
+                    besten, daß die Zahl der Schüler, die ihre Bildung in der nächsten Zeit
+                    vollenden werden, noch weit hinter dem Bedarf zurücksteht. Glauben Sie, daß ich
+                    [in] Ihrer <rs type="place" subtype="region" ref="#place_4bafeb20cbf9d5c7c934c564ec1365ad">Heimath</rs> tüchtige junge Leute finden
+                    könnte, die geneigt wären, eine Anstellung mit 800 fl. – nach Umständen was ich
+                    aber eben nicht jedem versprechen kann, auch 900 fl. – anzunehmen, auch an den
+                    genannten oder anderen entlegenen Orten, oder an Landgymnasien? Es versteht
+                    sich, daß es Katholiken sein müßten, Männer für deren Charakter und Gesinnung
+                    vertrauenswürdige Bürgen einstünden, und die entweder schon in ihrem Land die
+                    Lehramtsbefähigung für Philologie bestanden hätten, oder wenigstens sich über
+                    gründliche Studien ausweisen könnten und geneigt wären, sich sogleich der
+                    Lehramtsprüfung vor der Kommission in <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs> oder
+                        <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> zu unterziehen. Halten Sie es für ausführbar
+                    solche Leute zu finden, so bitte ich Sie sogleich die geeigneten Schritte
+                    einzuleiten und mir davon Nachricht zu geben.</p>
+                <p>Mit aufrichtiger Hochachtung</p>
+                <p>Thun</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

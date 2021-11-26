@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="albrecht-an-franz-joseph-1860-02-02-a3-xxi-d555.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/aeusserung-zum-kirchenverfassungsentwurf-von-schmidt-1850-06-05-a3-xxi-d55.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/albrecht-an-thun-1858-05-05-a3-xxi-d451.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Depesche von <rs type="person" ref="#albrecht-erzherzog" role="sender:beamter">Erzherzog
+                        Albrecht</rs> an <rs type="person" ref="#franz-joseph" role="recipient">Kaiser
+                        Franz Joseph</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_8fa012f3d7caecd67c332e0f803e0a5c">Ofen</rs>, <date when-iso="1860-02-02">2. Februar 1860</date>
+                </title>
+            <title type="label">Depesche von Erzherzog Albrecht an Kaiser Franz Joseph, Ofen, 2. Februar 1860</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DC12-9</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D555</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Erzherzog Albrecht teilt in der Depesche Kaiser Franz Joseph mit, dass
+                            die protestantischen Delegierten, Nikolaus Vay und Gabriel Prónay, sich
+                            für die zugesicherte Audienz beim Kaiser bedanken und in zwei Tagen in
+                            Wien eintreffen werden.<lb/>In einer beigelegten Notiz schreibt Leo
+                            Thun, dass die Gespräche mit den Delegierten nur Erfolg haben können,
+                            wenn nicht durch die Superintendenzen ständig gegen die Verhandlungen
+                            Stimmung gemacht werde.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Beilage: <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d555_1">Eigenhändige Notiz Leo Thuns.</tei:ref>
+                        </p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#albrecht-erzherzog">Erzherzog Albrechts</rs>
+                    <settlement ref="#place_8fa012f3d7caecd67c332e0f803e0a5c">Ofen</settlement>
+                    <date when-iso="1860-02-02">2. Februar 1860</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#franz-joseph">Kaiser Franz Joseph</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                    <term>Protestanten</term>
+                    <term>Protestantenpatent</term>
+                    <term>Ungarn</term>
+                </index>
+                <p>Von Erzherzog Albrecht an Seine k.k. apostolische Majestät</p>
+                <p>Ofen, am 2. Februar 1860</p>
+                <p>
+                    <rs type="person" ref="#vay-nikolaus">Vay</rs> und <rs type="person" ref="#pronay-gabriel">Pronay</rs> sehr dankbar für die Audienz bei <rs type="person" ref="#franz-joseph">Euer Majestät</rs>, versprechen mir die Bedingungen
+                    einzuhalten. Über jene des Fortganges der Koordinirung schien <rs type="person" ref="#pronay-gabriel">Pronay</rs> betreten, hat aber schlüßlich
+                    zugesagt. Beide werden übermorgen in <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>
+                    eintreffen.<lb/>Ich hoffe übermorgen Früh in <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> zu
+                    sein.</p>
+                <p/>
+                <div xml:id="D555_1" type="enclosure">
+                    <p>Bedingung, um an die Aufrichtigkeit zu glauben und die Besprechung
+                        fortzusetzen ist, daß inzwischen in den Zeitungen darüber kein Lärm gemacht
+                        werde und die Operation gegen die Koordinirung, namentlich in den
+                        Superintendenzen, die sich bereits dazu geneigt gezeigt haben, aufhöre.<note xml:id="note_1">Eh. Notiz von Leo Thun.</note>
+                    </p>
+                </div>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="simor-an-thun-1854-12-23-a3-xxi-d296h.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/simor-an-thun-1854-12-15-a3-xxi-d296g.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/simor-an-thun-1858-06-18-a3-xxi-d455.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#simor-johann" role="sender:kleriker">János Simor</rs> an
+                        <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs>, <date when-iso="1854-12-23">23.
+                        Dezember 1854</date>
+                </title>
+            <title type="label">János Simor an Leo Thun, Rom, 23. Dezember 1854</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA76-B</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <msDesc>
+                        <msIdentifier>
+                            <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                                Tetschen-Bodenbach</institution>
+                            <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                                Thun</repository>
+                            <idno>A3 XXI D296</idno>
+                        </msIdentifier>
+                        <msContents>
+                            <p>János Simor berichtet Minister Leo Thun von seinem Aufenthalt in Rom.
+                                Zunächst kündigt er jedoch seine baldige Rückkehr an. Anschließend
+                                geht er auf die Verhandlungen zum Konkordat ein. Diese waren durch
+                                eine Krankheit von Kardinal Santucci für einige Tage unterbrochen.
+                                Mittlerweile wurden sie fortgesetzt. Der Wiener Erzbischof Rauscher
+                                wird jedoch persönlich an den Kaiser über den Fortgang der
+                                Verhandlungen berichten. Kardinal Ján Scitovský will demnächst nach
+                                Ungarn zurückkehren. Simor betont, dass Scitovský durch sein
+                                Auftreten und seine Äußerungen mehrfach Anlass zu Scherzen gegeben
+                                und sein Ruf in der Stadt einigermaßen gelitten habe. Er nennt in
+                                der Folge die Männer, die Scitovský in Rom für Titel vorgeschlagen
+                                habe. Simor berichtet dann, dass die zuletzt mehrfach kolportierte
+                                Ausweisung der Jesuiten aus dem Königreich Neapel nicht mehr zu
+                                befürchten sei. Zuletzt verweist Simor noch einmal auf die
+                                außerordentliche Wirkung einer Predigt des Erzbischofs Rauscher in
+                                der Kirche Santa Maria dell'Anima, sowie auf die Angelegenheit
+                                dieser Kirche im Allgemeinen. Abschließend wünscht Simor dem
+                                Minister ein frohes neues Jahr und viel Ausdauer für die
+                                bevorstehenden Aufgaben.</p>
+                        </msContents>
+                        <physDesc>
+                            <p>Unter der Signatur A3 XXI D296 sind weitere sieben Briefe und
+                                Berichte Simors abgelegt:<lb/>
+                                <ref target="thun/thun-korrespondenz/tetschen/simor-an-thun-1854-11-11-a3-xxi-d296a.xml">János Simor an Leo Thun. Rom, 11. November 1854</ref>.<lb/>
+                                <ref target="thun/thun-korrespondenz/tetschen/simor-an-thun-1854-11-14-a3-xxi-d296b.xml">János Simor an Leo Thun. Rom, 14. November 1854</ref>.<lb/>
+                                <ref target="thun/thun-korrespondenz/tetschen/simor-an-thun-1854-11-17-a3-xxi-d296c.xml">János Simor an Leo Thun. Rom, 17. November 1854</ref>.<lb/>
+                                <ref target="thun/thun-korrespondenz/tetschen/simor-an-thun-1854-12-01-a3-xxi-d296d.xml">János Simor an Leo Thun. Rom, 1. Dezember 1854</ref>.<lb/>
+                                <ref target="thun/thun-korrespondenz/tetschen/simor-an-thun-1854-12-07-a3-xxi-d296e.xml">János Simor an Leo Thun. Rom, 7. Dezember 1854</ref>.<lb/>
+                                <ref target="thun/thun-korrespondenz/tetschen/simor-an-thun-1854-12-12-a3-xxi-d296f.xml">János Simor an Leo Thun. Rom, 12. Dezember 1854</ref>.<lb/>
+                                <ref target="thun/thun-korrespondenz/tetschen/simor-an-thun-1854-12-15-a3-xxi-d296g.xml">János Simor an Leo Thun. Rom, 15. Dezember 1854</ref>.</p>
+                        </physDesc>
+                    </msDesc>
+                </p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#simor-johann">János Simor</rs>
+                    <settlement ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</settlement>
+                    <date when-iso="1854-12-23">23.
+                        Dezember 1854</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Vatikan</term>
+                    <term>Konkordat</term>
+                </index>
+                <p>Euere Excellenz!</p>
+                <p>Ich habe die Ehre Euerer Excellenz gehorsamst anzuzeigen, daß ich die Rückreise
+                    am 27. dieses anzutreten gedenke. Wenn ich auch in dieser Jahreszeit nicht über
+                    dem Meere reisen werde, da ich mich jedoch am Wege nirgends länger aufhalten
+                    will, als wegen Visirung des Passes unumgänglich nothwendig sein wird, so hoffe
+                    ich am 4. oder 5. Jänner in <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> einzutreffen.<lb/>Seit
+                    meinem letzten Schreiben ist hier nichts von Wichtigkeit vorgefallen, nur wurde
+                    die Verhandlung des Herrn <rs type="person" ref="#rauscher-joseph">Erzbischofs von
+                        Wien</rs> mit dem <rs type="person" ref="#santucci-vincenzo">Kardinal
+                        Santucci</rs> durch die Krankheit des letzteren auf 12 Tage
+                    unterbrochen, welche jedoch bereits wieder in ihrem wiewohl langsamen Gange
+                    begriffen ist. Über den Stand der Concordatsangelegenheit berichtet eben jetzt
+                    der <rs type="person" ref="#rauscher-joseph">Herr Erzbischof</rs> unmittelbar an
+                        <rs type="person" ref="#franz-joseph">Seine Majestät den Kaiser</rs>. Der
+                        <rs type="person" ref="#ketteler-wilhelm-emanuel">Bischof von Mainz</rs>,
+                    welcher hier als Abgesandter des <rs type="person" ref="#vicari-hermann">Erzbischofs von
+                        Freiburg</rs> und des oberrheinischen Episcopates verweilt, hat immer
+                    noch nicht den Mann gefunden, mit welchem er verhandeln könnte. Bei dem
+                    Umstande, daß hier der Grundsatz herrscht „festina lente“, läßt sich das Ende
+                    der Verhandlungen über unsere Angelegenheit nicht voraussehen, und somit kann
+                    auch die Zeit nicht bestimmt werden, wann der <rs type="person" ref="#rauscher-joseph">Herr Erzbischof</rs> wird abreisen können. Der Kardinal von
+                        <rs type="place" subtype="place" ref="#place_cde856980f41b5362c96273d9c84431d">Gran</rs> [Esztergom] reist ab am 29. dieses und will über
+                        <rs type="place" subtype="place" ref="#place_44dd74f1f0839b82eafff78727d59982">Ancona</rs> gehen. Wie die Urtheile der einsichtsvolleren
+                    römischen Prälaten über ihn dermalen lauten, wollen Euere Excellenz aus der
+                    Äußerung des <rs type="person" ref="#santucci-vincenzo">Kardinals Santucci</rs>
+                    entnehmen „<rs type="person" ref="#scitovsky-jan">primas Hungariae</rs> est bonus
+                    sed simplex homo“ sagte dieser Kardinal zum <rs type="person" ref="#rauscher-joseph">Herrn Erzbischofe von Wien</rs>. Manche küchenlateinische Äußerungen
+                    desselben werden unter den Prälaten herumgetragen und herzlich belacht sogar vom
+                        <rs type="person" ref="#pius-IX">Heiligen Vater</rs>, welcher über Alles
+                    unterrichtet wird. Ich habe vorausgesehen und vorausgesagt, daß der <rs type="person" ref="#scitovsky-jan">Kardinal</rs> in <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs> sich
+                    in der öffentlichen Meinung zu Grunde richten wird. Übrigens ist er mit seinem
+                    hierortigen Aufenthalte satt und reist sehr gerne zurück. So viel mir bekannt
+                    ist, wurden von ihm folgende Männer für römische Titeln vorgeschlagen, und zwar
+                    pro Episcopis solio Pontificio Assistentibus: <rs type="person" ref="#sterca-sulutiu-alexandru">Sterka Sulucz</rs>, <rs type="person" ref="#fabry-ignaz">Fábry</rs>, <rs type="person" ref="#roskovanyi-augustin">Roskoványi</rs>, <rs type="person" ref="#szaniszlo-ferenc">Szaniszlo</rs>, <rs type="person" ref="#osegovich-emerich">Osegovich</rs>, <rs type="person" ref="#krautmann-joseph">Krautmann</rs>
+                    – pro Praelatis Domesticis: <rs type="person" ref="#nehiba-johann">Nehiba</rs>,
+                        <rs type="person" ref="#schirgl-andreas">Schirgl</rs>, <rs type="person" ref="#forgach-de-ghymes-august">Forgàch</rs>, <rs type="person" ref="#danielik-johann">Danielik</rs>; pro Cubiculariis: <rs type="person" ref="#hollok-emerich">Hollok</rs> (Rosenauer Domherr), Senerteczky[?]
+                    (Preßburger Domherr), <rs type="person" ref="#szabo-joseph">Szabó</rs>
+                    (Kanzleidirektor in <rs type="place" subtype="place" ref="#place_cde856980f41b5362c96273d9c84431d">Gran</rs>), <rs type="person" ref="#szabo-johann">Szabó</rs> et <rs type="person" ref="#zalka-johann">Zalka</rs>
+                    (Professoren an der <rs type="org" ref="#org_0008">Universität zu
+                        Pesth</rs>), dann sind <rs type="person" ref="#szantofy-anton">Szàntòfy</rs>, <rs type="person" ref="#palasthy-paul">Palássty</rs>,
+                        <rs type="person" ref="#bubla-karl">Bubla</rs> (Sekretär zu Pirnau
+                        [<rs type="place" subtype="place" ref="#place_2856b996cf0fe5b2b0f5f9c907235664">Pornóapáti</rs>]), <rs type="person" ref="#schumichraszt-michael">Schumichrast</rs> (Gerichtsnotar zu <rs type="place" subtype="place" ref="#place_cde856980f41b5362c96273d9c84431d">Gran</rs>)
+                    unter den Vorgeschlagenen. Für den Neffen des <rs type="person" ref="#palugyay-imrich">Bischofs Palugyai</rs> wurde um einen päpstlichen Orden
+                    eingeschritten. Ich konnte mich von dem Vorschlage nur mit der kathegorischen
+                    Erklärung befreien, werde ich ernannt, so werde ich dagegen protestiren, d. h.
+                    den mir verliehenen Titel durch aus nicht annehmen.<lb/>Nachdem die Jesuiten in
+                        <rs type="place" subtype="place" ref="#place_2a4e63dc83d509fece21a7872f95a242">Neapel</rs> auf‘s Verlangen des Ministers, welcher sie
+                    eines Abends mit seinem Besuche überraschte, schriftlich erklärt haben, daß sie
+                    die absolute monarchische Regierungsform für die beste und haltbarste
+                    anerkennen, und daß sie sich hiernach benehmen werden, wurde das bereits fertige
+                    Ausweisungsdekret zurückgenommen. <rs type="person" ref="#djunkovsky-paul-marie">Djunkovsky</rs>, welcher hier auf das <rs type="org" ref="#org_0005">Cultusministerium</rs>,
+                    vorzüglich aber auf mich tüchtig geschimpft hat, erhielt eine Sendung nach
+                    Scandinavien und Grönland und ist bereits auf dem Wege.<lb/>Die am 3. Sonntage
+                    des Advents gehaltene Rede des Herrn <rs type="person" ref="#rauscher-joseph">Erzbischofs
+                        von Wien</rs> hat sehr gefallen und wird im Drucke erscheinen; am 6.
+                    Jänner wird er abermals predigen. Das zu der deutschen Stiftung <rs type="org" ref="#org_0062">dell’Anima</rs> gehörige Haus ist bereits
+                    auserkoren, welches die deutschen Bischöfe in Pacht zu nehmen und als
+                    Absteigequartier zu benutzen gedenken. Die dogmatische Bulle über die
+                    „Immaculata“ ist noch immer nicht erschienen, wohl aber die am 9. dieses
+                    gehaltene „Allocution“. Erlauben Euere Excellenz, daß ich diesen meinen letzten
+                    Brief von <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs> mit dem aufrichtigen und tief in dem
+                    innersten meiner Seele gefühlten Wunsche beschließe, Gott, der Herr möge Euere
+                    Excellenz auch im künftigen Jahre, ja durch eine unabsehbare Reihe kommender
+                    Jahre zum Wohle der Kirche und des Staates in dem besten Wohlsein erhalten: es
+                    möge Euerer Excellenz die Kraft von oben nie fehlen zur Ausdauer und zur
+                    Vollbringung Hochdero heilsamster und edelster Absichten. Ich bin dessen sicher,
+                    daß mir die bisherige Huld und Gnade Euerer Excellenz auch im neuen Jahre nicht
+                    entgehen werde, hätte ich nur auch die Kraft, um dieselbe zu
+                    verdienen.<lb/>Genehmigen Euere Excellenz den Ausdruck meiner tiefsten
+                    Verehrung, mit welcher ich die Ehre habe zu verharren </p>
+                <p>Rom, den 23. Dezember 1854</p>
+                <p>Euerer Exzellenz unterthänigst gehorsamster Diener<lb/>Simor</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

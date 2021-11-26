@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="jaeger-an-thun-1851-02-26-ca949.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/inzaghi-an-thun-1851-12-11-a3-xxi-d137.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/jaeger-an-thun-1851-04-23-a3-xxi-d114.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#jaeger-albert" role="sender">Albert Jäger</rs> an
+                        <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_834e1bca2cb7d2238249e70860ed8ae8">Meran</rs>, <date when-iso="1851-02-26">26. Februar 1851</date>
+                </title>
+            <title type="label">Albert Jäger an Leo Thun, Meran, 26. Februar 1851</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DBA0-9</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Österreichisches Staatsarchiv</institution>
+                        <repository>Allgemeines Verwaltungsarchiv</repository>
+                        <idno>MCU, Präs. 68/1851</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Historiker Albert Jäger bittet Leo Thun, ihn wieder an die
+                            Universität Innsbruck zu versetzen. Jäger wurde im Jahr 1849 von seinem
+                            Abt an das ordenseigene Gymnasium in Meran gerufen, um dieses auf
+                            Grundlage der geänderten rechtlichen Bestimmung neu zu organisieren. Jäger
+                            sieht seine Aufgabe nun als abgeschlossen und möchte wieder
+                            wissenschaftlich arbeiten und seine historischen Studien fortsetzen. Er
+                            hat bereits viel Material für eine vaterländische Geschichte
+                            gesammelt. Jäger versichert, dass er als Professor und anerkannter
+                            Forscher mehr für Österreich leisten könne, als er dies als Direktor
+                            eines Gymnasiums tun könne. Jäger bittet Thun auch, dass sein Gehalt bei
+                            einer Rückkehr nach Innsbruck den gestiegenen Kosten und dem sozialen
+                            Rang eines Professors angepasst werde.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#jaeger-albert">Albert Jäger</rs>
+                    <settlement ref="#place_834e1bca2cb7d2238249e70860ed8ae8">Meran</settlement>
+                    <date when-iso="1851-02-26">26. Februar 1851</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Universität Innsbruck</term>
+                    <term>Geschichtswissenschaften</term>
+                </index>
+                <p>Meran den 26. Februar 1851</p>
+                <p>Euere Excellenz!<lb/>Hochgeborner Graf!</p>
+                <p>Vielfältige Beweise einer huldvollen Gewogenheit für meine unbedeutende Person
+                    benehmen mir die Scheue, mich in einem Anliegen vertrauensvoll an Euere
+                    Exzellenz selbst zu wenden. Ich wurde im Jahr 1849, plötzlich gegen alle
+                    Erwartung, aus einem ebenso schönen als meinen Neigungen und erworbenen
+                    Kenntnissen zusagenden Wirkungskreis an der <rs type="org" ref="#org_0020">Universität in Innsbruck</rs> abberufen,
+                    und hierher an das <rs type="org" ref="#org_0048">Gymnasium</rs> versetzt.
+                    Es war das größte Opfer, das in meinem Leben von mir gefordert wurde. Allein ich
+                    musste dem Rufe <rs type="person" ref="#mayr-karl">meines Ordensvorgesetzten</rs>
+                    gehorchen, und nur das Bewusstsein, meine fast verfallene Lehranstalt vor der
+                    Auflösung zu retten, und sogar ihre Neugestaltung und Erweiterung zu einem
+                    vollständigen Obergymnasium fördern zu helfen, konnte mich über den Verlust
+                    meines Wirkungskreises an der <rs type="org" ref="#org_0020">Universität</rs> einigermaßen trösten. Durch die Gnade Eurer Excellenz
+                    und Hochdero huldvoller Berücksichtigung meiner Bemühungen und Anträge ist das
+                    vollständige <rs type="org" ref="#org_0048">Obergymnasium in Meran</rs>
+                    nunmehr organisiert und in Gang gebracht. Nach meiner Ansicht bin ich zu
+                    ferneren Leitung nicht mehr so nothwendig, und die Sehnsucht nach dem früheren
+                    Wirkungskreis erwacht wieder in ihrer ganzen Stärke. Berichte meiner ehemaligen
+                    Collegen aus <rs type="place" subtype="place" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</rs>, worin sie ihr Bedauern
+                    ausdrücken, daß die Geschichtskanzel daselbst nicht besetzt sei, und vielleicht
+                    auch nicht bald besetzt werden dürfte, und der von ihnen beigefügte für mich
+                    ehrenvolle Wunsch nach meiner Rückkehr, steigern meine Sehnsucht noch mehr. Ich
+                    wage dennoch die unterthänigste Bitte an Euere Exzellenz, mich wieder auf die
+                    Geschichtskanzel an der <rs type="org" ref="#org_0020">Universität
+                        Innsbruck</rs> zurückzuversetzen. Das <rs type="org" ref="#org_0048">Gymnasium in Meran</rs> leidet durch meinen Abgange keinen Nachtheil,
+                    da die Verhältnisse mit dem Stadtmagistrat geordnet, die neue Organisierung in
+                    Gang gebracht, die Lehrerstellen mit fähigen zum Theil schon geprüften Männern
+                    besetzt sind, und schon für das künftige Jahr wieder ein tüchtiger Lehrer im
+                    Stifte sich herangebildet hat. Zum Director erlaube ich mir Euer Excellenz den
+                    Lehrer des Obergymnasiums <rs type="person" ref="#zingerle-pius">P. Pius
+                        Zingerle</rs> vorzuschlagen, einen Mann von den vielseitigsten
+                    Kenntnissen, ausgezeichnet durch seine Schriftstellerischen Arbeiten, der
+                    vollkommen geeignet ist, die geordnete Lehranstalt fortan zu
+                    leiten.<lb/>Erlauben Euere Excellenz, daß ich auch noch andere Gründe erwähne,
+                    die mich zu meiner Bitte auffordern. Ich habe mich seit Jahren, zumal in
+                    <rs type="org" ref="#org_0020">Innsbruck</rs>, mit Forschungen
+                    in der vaterländischen Geschichte abgegeben, und durch einige Arbeiten mir die
+                    unverdiente Auszeichnung erworben, von der <rs type="org" ref="#org_0015">kais. Akademie der Wissenschaften in
+                        Wien</rs> und der <rs type="org" ref="#org_0050">kön. baierischen Akademie in München</rs> zum Mitgliede ernannt zu
+                    werden. Ich habe ferner in <rs type="place" subtype="place" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</rs> für ein größeres
+                    Werk durch einige Jahre Materialien aufgezeichnet, in der Hoffnung, sie mit Muße
+                    verarbeiten zu können, allein hier, fern von allen Quellen und Hilfsmitteln, und
+                    in Anspruch genommen von den Directorats- und Lehrerpflichten, konnte ich seit 2
+                    Jahren nicht nur nichts zu Tage fördern, sondern ich gehe auch für die Zukunft
+                    in den tausend Kleinigkeiten meiner Geschäfte völlig unter. Wollen Euere
+                    Excellenz auch aus diesen Gründe sich gnädigst bewogen finden, mich wieder der
+                    Geschichtskanzel in <rs type="org" ref="#org_0020">Innsbruck</rs>
+                    zurückzugeben!<lb/>Freilich muß ich zu dieser obigen Bitte noch eine hinzufügen;
+                    Eure Excellenz erlauben, daß ich Sie ohne Rückhalt ausspreche, ich könnte ja nur
+                    dann nach Innsbruck zurückkehren, wenn ich einen ordentlichen Gehalt von
+                    wenigstens 1000 fl bekäme. Die Erfahrung hat mich gelehrt, daß ich mit den
+                    bisherigen 600 fl kaum leben konnte, was jetzt um so weniger möglich seyn würde,
+                    als der Preis der Lebensmittel enorm gestiegen und der Bedarf der Bücher durch
+                    die Steigerung der Anforderungen an einen Universitätsprofessor ein ganz anderer
+                    ist als früher. Ich habe die Überzeugung, daß es nicht von ferne in den Wünschen
+                    Euerer Excellenz liege, einen Professor nothleiden zu lassen, was aber früher
+                    nach meinem Austritte aus dem Hause des <rs type="person" ref="#brandis-clemens">Grafen
+                        Brandis</rs>, wo ich nur auf den Gehalt der 600 f angewiesen war,
+                    beinahe der Fall war. In der zuversichtlichsten Erwartung, Euere Excellenz
+                    werden meine Bitten gnädigst berücksichtigen, bitte ich die Versicherung meiner
+                    redlichsten Absicht, dem <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Staate</rs> mehr zu
+                    nützen als es hier an dieser <rs type="org" ref="#org_0048">kleinen
+                        Lehranstalt</rs> möglich ist, genehmigen zu wollen, mit welcher ich
+                    mich ehrfurchtsvoll unterzeichne.</p>
+                <p>Euer Excellenz</p>
+                <p>Unterthänigster Diener Albert Jäger</p>
+                <p>Provisorischer Direktor des Gymnasium in Meran</p>
+                <p>&lt;Von Seiner Exzellenz beantwortet 29/3 1851&gt;.<note xml:id="note_1">Notiz am
+                        Blattrand. Vgl. dazu auch <ref target="thun/thun-korrespondenz/edierte-briefe/thun-an-jaeger-1851-03-29-ca528.xml">Leo Thun an Albert Jäger. Wien, 29. März 1851.</ref>
+                    </note>
+                </p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

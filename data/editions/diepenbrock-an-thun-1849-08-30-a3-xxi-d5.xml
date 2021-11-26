@@ -1,0 +1,134 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="diepenbrock-an-thun-1849-08-30-a3-xxi-d5.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/deutsch-an-thun-1860-04-10-a3-xxi-d567.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/diepenbrock-an-thun-1850-04-04-a3-xxi-d42.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#diepenbrock-melchior" role="sender:kleriker">Melchior
+                        Diepenbrock</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_91b0a7edce9741cd76bb46d5d425bbd7">Ratibor</rs>, <date when-iso="1849-08-30">30. August
+                    1849</date>
+                </title>
+            <title type="label">Melchior Diepenbrock an Leo Thun, Ratibor, 30. August 1849</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DC85-7</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D5</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Melchior Diepenbrock bedauert, dass es gegen die beabsichtigte Abhaltung
+                            einer Generalversammlung der deutschen Katholikenvereine in Wien
+                            Widerstände gibt. Er verstehe nicht, warum der Wiener Fürsterzbischof
+                            eine solche Versammlung verbieten sollte. Fürstbischof Diepenbrock will
+                            sich für diese Versammlung einsetzen, da er die Zusammenarbeit von
+                            katholischen Vereinen und Bischöfen, wie sie auf der Generalversammlung
+                            in Breslau stattgefunden hatte, für wichtig erachtet. Im zweiten Teil
+                            des Briefes äußert sich Diepenbrock zu einer Anfrage von Leo Thun über
+                            die Eignung von Anton Kahlert zur Leitung eines Gymnasiums. Diepenbrock
+                            betont, dass er diesen für eine solche Aufgabe nicht geeignet halte. Er
+                            stützt sich in seinem Urteil auf die Aussagen von Personen, die Kahlert
+                            kennen und ihn als eitel und wenig geistvoll beschreiben.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#diepenbrock-melchior">Melchior Diepenbrock</rs>
+                    <settlement ref="#place_91b0a7edce9741cd76bb46d5d425bbd7">Ratibor</settlement>
+                    <date when-iso="1849-08-30">30. August
+                    1849</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                    <term>Katholische Kirche</term>
+                    <term>Katholikenvereine</term>
+                    <term>Bischofsversammlung</term>
+                    <term>Personalfragen</term>
+                </index>
+                <p>Ratibor, 30. August 1849</p>
+                <p>Hochgeborener Graf!</p>
+                <p>Hochzuehrender Herr Staatsminister!</p>
+                <p>Eurer Excellenz geehrtes Schreiben vom 27. dieses [Monats] habe ich heute hier in
+                        <rs type="place" subtype="place" ref="#place_91b0a7edce9741cd76bb46d5d425bbd7">Ratibor</rs>, wo ich mich auf einer Firmungsreise befinde,
+                    zu erhalten die Ehre gehabt und säume nicht, dasselbe alsbald ergebenst zu
+                    beantworten.<lb/>Es thut mir in aller Hinsicht sehr leid, daß man der
+                    beabsichtigten Abhaltung einer Generalversammlung der deutschen
+                    Katholikenvereine in <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, dort Hindernisse
+                    entgegensetzt. Weder von kirchlicher noch von politischer Seite sehe ich dazu
+                    eine genügende Veranlassung; ich sehe vielmehr in jeder Hinsicht Gründe für das
+                    Gegentheil. Die Versammlung österreichischer Bischöfe hat die katholischen
+                    Vereine als ein wichtiges und heilsames Förderungsmittel der edelsten Zwecke in
+                    dieser Zeit anerkannt und der Herr <rs type="person" ref="#milde-vinzenz-eduard">Fürsterzbischof</rs> hat dieser Anerkennung seine Zustimmung
+                    ertheilt; ich sehe also nicht ein, warum er gegen die Generalversammlung in
+                        <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> principiell sich erklären sollte. Seiner
+                    Autorität wird das Verbot (und man glaubt allgemein, dass es <hi rend="underline">von ihm</hi> allein oder vorzüglich ausgeht) unendlich mehr
+                    schaden, als vielleicht eine vorlaute Äußerung, die ein Einzelner etwa sich
+                    erlauben könnte, die aber von der Gesammtheit gewiß in ihrem und ihrer Sache
+                    eigenem Interesse alsbald zum Schweigen gebracht werden wird. Die Vereine hatten
+                    allerdings ihre bedenkliche Seite; allein alle gewichtigen katholischen Stimmen
+                    haben auf die Gefahren aufmerksam gemacht, und die große Mehrzahl der
+                    Vereinsglieder, der einflußreichen zumal, ist alles Ernstes beflissen, diese
+                    Gefahren gründlich zu beseitigen. Graf <rs type="person" ref="#stolberg-joseph-theodor">Joseph Stolberg’s</rs> Programm, das er mir auch hier mitgetheilt,
+                    ist in dieser Hinsicht ganz vortrefflich; und es wird gewiß überall angenommen
+                    werden. Am sichersten werden alle Gefahren gehoben, wenn die Bischöfe durch
+                    Vertrauen und Entgegenkommen sich der Leitung der Vereine bemächtigen; aber neue
+                    Gefahren werden geschaffen, wenn ein engherziges Mißtrauen, ein kaltes
+                    Zurückweisen ihnen dort begegnet, wo sie auf Anerkennung und Unterstützung
+                    rechnen zu dürfen überzeugt sind. Die letzte Generalversammlung in
+                        <rs type="place" subtype="place" ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</rs> ist in der befriedigendsten würdigsten Weise
+                    abgehalten worden; alle guten Katholiken sind dadurch erfreut und erbaut worden,
+                    und die Protestanten haben kein Wort der Anschuldigung dagegen vorzubringen
+                    gewußt, vielmehr verrathen, daß die Sache ihnen nicht wenig imponirt hat. Mein
+                    bischöfliches Ansehen hat in der Versammlung volle Anerkennung gefunden; und
+                    dasselbe würde gewiß auch in <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> der Fall seyn. <hi rend="ul">Politisch</hi> würde es in ganz <rs type="place" subtype="country" ref="#place_162b390989a8678640067963acb65109">Deutschland</rs> und
+                    darüber hinaus das Vertrauen auf die österreichische Staatsregierung bei allen
+                    wohldenkenden, den Namen werthen <hi rend="ul">Katholiken</hi> sehr schwächen,
+                    ja erschüttern, wenn auch von ihrer Seite den Katholikenvereinen Hindernisse
+                    gelegt würden, und mir scheint, daß diese Rücksicht auch alle Beachtung
+                    verdient. Sollten die Vereine jemals eine falsche Bahn einschlagen, so wird eine
+                    officielle Erklärung der Bischöfe, daß und warum sie sie nicht mehr als <hi rend="ul">katholisch</hi> ansehen können, zwingen, ihnen den Hauptnerv zu
+                    durchschneiden.<lb/>Den Prof. <rs type="person" ref="#kahlert-anton">K[ahlert]</rs>
+                    in <rs type="place" subtype="place" ref="#place_5f4c4242ec22bd5ab57ba18fde9fde1d">L[eobschütz]</rs>, nach welchem Eure
+                    Excellenz sich erkundigen, halte ich nicht für eine besonders wünschenswerthe
+                    Acquisition. Seine Schriften verrathen wenig Geist und Kern; hier, wo man ihn
+                    kennt, genießt er wenig Vertrauen und zur Leitung eines Gymnasiums halten ihn
+                    Urtheilsfähige nicht für geeignet; er ist sehr eitel und unverträglich. Von
+                    irgendeiner namenswerthen politischen Wirksamkeit, die er in <rs type="place" subtype="place" ref="#place_e9cd6cbbbc3248f7a69252439ba3d6e6">Francfurt</rs> geübt, haben weder ich noch andere,
+                    die länger mit ihm dort waren, das mindeste wahrgenommen; für den Absatz
+                    schlesischer Leinwand hat er sich einige Mühe gegeben, um seine Wähler zu
+                    befriedigen. Entschuldigen Euer Excellenz diese flüchtige Schrift; ich bin sehr
+                    gedrängt und beeilt.</p>
+                <p>Mit ausgezeichnetster Hochachtung</p>
+                <p>Euer Excellenz</p>
+                <p>ergebenster Diener</p>
+                <p>Melchior Fürstbischof</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

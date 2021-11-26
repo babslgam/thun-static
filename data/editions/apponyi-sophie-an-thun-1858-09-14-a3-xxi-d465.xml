@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="apponyi-sophie-an-thun-1858-09-14-a3-xxi-d465.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/apponyi-an-thun-1854-12-07-a3-xxi-d307.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/apponyi-therese-an-thun-1858-08-14-a3-xxi-d466.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#apponyi-sophie" role="sender">Sophie Apponyi</rs> an
+                        <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_c02c72b51669c91cfda3c0599a674b45">Bad Ems</rs>, <date when-iso="1858-09-14">14. August 1858</date>
+                </title>
+            <title type="label">Sophie Apponyi an Leo Thun, Bad Ems, 14. August 1858 Sophie Apponyi an Leo Thun, Bad Ems, 14. August 1858 Sophie Apponyi an Leo Thun, Bad Ems, 14. August 1858Digitale Edition der Korrespondenz von Leo von Thun-HohensteinDigitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DC17-4</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D465</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Sophie Apponyi wendet sich an Leo Thun und bittet um die Ernennung eines
+                            tüchtigen und energischen Bischofs für die Diözese Neutra. Eingangs
+                            entschuldigt sie sich, dass sie es wagt, sich in dieser Angelegenheit an
+                            Thun zu wenden, aber Thuns Güte und Freundschaft zu ihrem verstorbenen
+                            Mann gaben ihr den Mut dazu. Als geeigneten Kandidaten für dieses Amt
+                            nennt die Gräfin den Domherrn Johann Krajcik. Ein großer Wunsch würde in
+                            Erfüllung gehen, wenn der Domherr zum Bischof ernannt werden würde.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Verweis auf A3 XXI D466.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#apponyi-sophie">Sophie Apponyi</rs>
+                    <settlement ref="#place_c02c72b51669c91cfda3c0599a674b45">Bad Ems</settlement>
+                    <date when-iso="1858-09-14">14. August 1858</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                    <term>Personalfragen</term>
+                </index>
+                <p>Bad Ems, den 14. August 1858</p>
+                <p>Verehrtester Herr Graf!</p>
+                <p>Ihre mir stets bewiesene Güte und Freundschaft für <rs type="person" ref="#apponyi-julius">meinen seeligen Gatten</rs> geben mir den Muth mich in einer höchst
+                    wichtigen Angelegenheit vertrauensvoll an Sie zu wenden. Jedenfalls muß ich aber
+                    damit beginnen mich zu entschuldigen, daß ich es wage, Ihnen von einer
+                    Angelegenheit zu sprechen, die viel zu wichtig und zu erhaben ist, um damit
+                    meine Bitte und meine Ansicht im mindesten durchdringen könnte. Andererseits
+                    werden Sie, lieber Graf, mich entschuldigen, wenn ich Ihnen sage, wie wichtig
+                    die Wahl eines würdigen, thätigen und kräftigen Bischofs selbst bis in das
+                    innerste Privatleben eingreift. Denn unsere arme <rs type="place" subtype="place" ref="#place_d856324689e6964c27e3903e6f63a34e">Neutraer</rs> Diocese braucht eine tüchtige Regeneration, indem der
+                    jüngst verstorbene Herr <rs type="person" ref="#palugyay-imrich">Bischof von
+                        Neutra</rs> zwar ein sehr geachteter frommer Mann und Priester war,
+                    allein alt und kränklich unter ihm der niedere Clerus sehr herabgekommen ist, so
+                    daß es Energie, Thätigkeit und ein durch ein ganzes Leben so schön durchgeführte
+                    hohe Frömmigkeit, Moralität und Gelehrsamkeit braucht, um alle diese Schäden
+                    wieder herzustellen, welche unsere Gemeinden in jeder Hinsicht vernachlässigt,
+                    so zu sagen ohne geistliche Leitung lassen, und uns Grundbesitzern unseren
+                    Aufenthalt auf dem Lande oft trostlos und recht schwierig machen, wenn wir den
+                    festen Willen haben unsere Kinder in der Achtung des Priesterstandes zu erziehen
+                    und dasselbe von unseren Hauspriestern fordern. Daß Herr Domherr <rs type="person" ref="#krajcik-johann">Johann Krajcsik</rs> [Krajcik] Ihre besondere
+                    hohe Protection in jeder Hinsicht verdient, ist Ihnen, lieber Graf, gewiß schon
+                    von verschiedenen Seiten zugekommen, er ist die Perle des <rs type="place" subtype="place" ref="#place_d856324689e6964c27e3903e6f63a34e">Neutraer</rs> Capitels und würde gewiß selbst
+                    unter den ausgezeichnetsten Priestern hervorragen. Der Wunsch, die Hoffnung den
+                    verehrten Herrn als unseren Bischof begrüßen zu können, sein segensvolles Wirken
+                    zu sehen, ist ein so warmer Wunsch geworden, daß Sie mich, lieber Graf,
+                    entschuldigen müssen, indem Sie sich daran erinnern wollen, wie liebevollsegnend
+                    Sie mein <rs type="person" ref="#apponyi-julius">Giulio</rs> von Oben ansehen
+                    würde, wenn Sie mir helfen, so viele Monathe im Jahre, die ich auf dem Lande
+                    zubringe, den Trost einer geistigen Leitung zu grünen[?], die uns unter den
+                    jetzigen Umständen ganz fehlt und selbst auf die Erziehung meiner Kinder sehr
+                    schwierig einwirkt.<lb/>Sie nochmahls um Vergebung bittend nenne ich mich
+                    verehrter Graf Ihre dankbarst ergebene</p>
+                <p>Sophie Apponyi-Sztáray</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

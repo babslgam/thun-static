@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-bach-1854-05-03-ca940.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-bach-1853-01-11-ca939.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-bach-1856-03-23-ca942.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#bach-alexander" role="recipient">Alexander
+                        Bach</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">o. O. [Wien]</rs>, <date when-iso="1854-05-03">3. Mai 1854</date>
+                </title>
+            <title type="label">Leo Thun an Alexander Bach, o. O. [Wien], 3. Mai 1854</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA4E-9</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Österreichisches Staatsarchiv</institution>
+                        <repository>Allgemeines Verwaltungsarchiv</repository>
+                        <idno>Nachlass Bach, Karton 11</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun teilt Alexander Bach mit, dass dessen Bruder auch ohne
+                            Maturitätsprüfung das Studium der Jurisprudenz beginnen darf. Thun
+                            betont, dass er grundsätzlich gegen Sonderregelungen sei, weil sie die
+                            Wichtigkeit dieser Prüfung konterkarierten. Thun möchte außerdem keine
+                            Präzedenzfälle schaffen. In diesem Fall will er allerdings aus guten
+                            Gründen eine Ausnahme gestatten. Er hat dem Kaiser bereits einen
+                            alleruntertänigsten Vortrag erstattet.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">o. O. [Wien]</settlement>
+                    <date when-iso="1854-05-03">3. Mai 1854</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#bach-alexander">Alexander Bach</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Gymnasien</term>
+                    <term>Maturitätsprüfungen</term>
+                </index>
+                <p>Hochwohlgeborener Freiherr!</p>
+                <p>Mit geehrtem Schreiben vom 13. v. M. haben Euere Exzellenz ein Gesuch um die
+                    Bewilligung an mich geleitet, daß Ihrem <rs type="person" ref="#bach-otto">Herrn
+                        Bruder</rs> die Aufnahme in die juridischen Studien mit Nachsicht der
+                    Maturitätsprüfungen gestattet werde. Diese Bewilligung selbst zu ertheilen,
+                    halte ich mich nun zwar nicht für ermächtigt, und kann auch bei der Wichtigkeit,
+                    welche ich der Aufrechthaltung der Maturitätsprüfungen für die Hebung des
+                    Studienwesens beilegen zu sollen glaube, gar nicht wünschen, daß dem <rs type="org" ref="#org_0005">Ministerium</rs>
+                    wenigstens dermalen noch – die Ermächtigung davon zu dispensieren ertheilt
+                    werden. Nachdem jedoch in dem vorliegenden Falle Umstände geltend gemacht werden
+                    können, welche eine Ausnahme rechtfertigen dürften, und die Gefahr die
+                    Wirksamkeit der Regel zu entkräften nicht enthalten, so habe ich darüber einen
+                    a.u. Vortrag erstattet, welcher sich bereits in den Händen <rs type="person" ref="#franz-joseph">S. Maj.</rs> befindet, und glaube mit Zuversicht
+                    einer dem Wunsche Euerer Exzellenz erfüllenden a.h. Entscheidung in den nächsten
+                    Tagen entgegen sehen zu dürfen. Wenn also Ihr <rs type="person" ref="#bach-otto">Herr
+                        Bruder</rs> inzwischen sich bereits inskribieren läßt, so wird es
+                    keinen Anstand unterliegen, daß ihm das l. Semester bereits in die gesetzliche
+                    Studienzeit eingerechnet werde.</p>
+                <p>Mit ausgezeichnetster Hochachtung habe ich die Ehre zu verharren.</p>
+                <p>Euer Exzellenz </p>
+                <p>Ergebener Diener</p>
+                <p>Thun</p>
+                <p>Den 3. Mai 854</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

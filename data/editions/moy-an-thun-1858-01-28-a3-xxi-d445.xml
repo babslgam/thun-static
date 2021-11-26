@@ -1,0 +1,126 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="moy-an-thun-1858-01-28-a3-xxi-d445.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1855-01-06-a3-xxi-d322.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1859-01-07-a3-xxi-d491.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#moy-de-sons-ernst" role="sender:gelehrter">Ernst Moy de
+                        Sons</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</rs>, <date when-iso="1858-01-28">28. Januar 1858</date>
+                </title>
+            <title type="label">Ernst Moy de Sons an Leo Thun, Innsbruck, 28. Januar 1858</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DB14-8</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D445</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Jurist Ernst Moy de Sons rechtfertigt sich für sein Schreiben an den
+                            Kaiser, in dem er um die Wiedererrichtung einer medizinischen Fakultät
+                            an der Universität Innsbruck gebeten hatte. Er versichert, diesen
+                            Schritt mit der Zustimmung des Statthalters von Tirol, Erzherzog Karl
+                            Ludwig, vollzogen zu haben. Außerdem betont er, würde eine medizinische
+                            Fakultät dem ganzen Land von Vorteil sein und es zudem enger an den Rest
+                            der Monarchie binden. Nicht zuletzt wäre die Möglichkeit, eine
+                            christliche Schule der Medizin zu etablieren, nirgends so groß wie in
+                            Innsbruck. In der Folge geht Moy de Sons auch auf weitere
+                            Angelegenheiten der Universität Innsbruck ein, nämlich die Berufung von
+                            Ignaz Pfaundler. Diese Berufung sei bei vielen Landsleuten auf wenig
+                            Verständnis gestoßen, weil man Pfaundlers Äußerungen aus dem Jahre 1848
+                            noch gut in Erinnerung habe. Umgekehrt, so Moy de Sons weiter, habe die
+                            Ernennung von Josef Oberweis zum Professor allgemein Zustimmung
+                            erfahren. Für den Posten des Bibliotheksdirektors empfiehlt Moy de Sons
+                            den Priester Martin Huber, der großen Sinn für Ordnung und solide
+                            Bildung in sich vereine. Außerdem sei dessen Gesicht durch eine
+                            Krankheit stark entstellt, so dass er in der Seelsorge nicht mehr
+                            eingesetzt werden könne. Zuletzt äußert er sich positiv über die
+                            Leistungen des jungen Professors Tobias Wildauer sowie über die
+                            Genesungsfortschritte von Julius Ficker.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#moy-de-sons-ernst">Ernst Moy de Sons</rs>
+                    <settlement ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</settlement>
+                    <date when-iso="1858-01-28">28. Januar 1858</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Universität Innsbruck</term>
+                    <term>Medizinische Fakultät</term>
+                    <term>Personalfragen</term>
+                    <term>Rechtswissenschaften</term>
+                </index>
+                <p>Hochgeborener Herr Graf!</p>
+                <p>Euer Exzellenz werden finden, daß ich von der gütigen Erlaubnis, Ihnen zu
+                    schreiben, nicht allzuhäufigen Gebrauch mache. Meiner Ansicht nach soll man
+                    einen Minister nur im äußersten Falle mit Schreiben belästigen. Wenn ich es
+                    heute thue, so geschieht es im Gefühle, mich rechtfertigen zu müssen wegen des
+                    Schrittes, den ich gewagt, bei Seiner Majestät um Wiederherstellung der
+                    medicinischen Facultät in <rs type="place" subtype="place" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</rs> zu bitten. Ich that
+                    es dem Wunsche unseres <rs type="person" ref="#karl-ludwig-erzherzog">Erzherzogs</rs> entgegenkommend und im Einverständnis mit Ihm. Wird
+                    das Gesuch bewilligt, so wird es dem Staate ein geringes Opfer kosten, dem Lande
+                    aber großen Vortheil bringen und die Bande, die dasselbe an
+                        <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> knüpfen, neu befestigen. Dabei werden Euer
+                    Exzellenz nicht verkennen, wie wichtig es wäre, irgend wo eine christliche
+                    Schule der Medicin zu Stande zu bringen und daß dieses, wenn irgend wo, am
+                    meisten in <rs type="place" subtype="place" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</rs> gelingen könnte. Mehr glaube ich in
+                    dieser Sache nicht sagen zu müssen.<lb/>Weil ich nun aber einmal es gewagt, Euer
+                    Exzellenz zu behelligen, so will ich auch die Gelegenheit benützen, Alles
+                    vorzubringen, was mir bezüglich unserer Universität am Herzen liegt. <lb/>Daß
+                    unter den Freunden derselben die Ernennung des <rs type="person" ref="#pfaundler-ignaz">Prof. Pfaundler</rs> geringe Freude erregt, wird Euer Exzellenz, wenn
+                    Sie wissen, wie er sich im Jahre [18]48 gezeigt, und welchen Ruf er sich als
+                    Jurist erworben, wenig befremden. Daß dagegen die Ernennung des <rs type="person" ref="#oberweis-josef">Dr. Oberweis</rs> zum Professor des deutschen
+                    Rechtes von Professoren sowohl der Studirenden mit wahrer Freude begrüßt werden
+                    würde, dafür glaube ich mich verbürgen zu können. <rs type="person" ref="#oberweis-josef">Dr. Oberweis</rs> hat ungemeinen Eifer für die Wissenschaft, die Gabe
+                    eines klaren geordneten Vortrags und die eben so glückliche Gabe, die
+                    Studirenden an sich zu ziehen und für das Studium anzufeuern.<lb/>Unsere
+                    Bibliothek wird, scheint es, nächstens wieder verwaist werden. Unter den sich zu
+                    der Stelle meldenden Bewerbern möchte ich, wenn es kein zu kühnes Unterfangen
+                    wäre, vor Allem den Priester <rs type="person" ref="#huber-martin">Martin
+                        Huber</rs> angelegentlichst empfehlen. Er ist ein äußerst ruhiger,
+                    sorgfältiger Arbeiter und Sammler, von tüchtiger philosophischer und
+                    theologischer Bildung und ausgebreiteter literarischer Kenntnis. Dabei hat er
+                    das Unglück in Folge einer vor vielen Jahren überstandenen Skrophelkrankheit im
+                    Gesichte dermaßen entstellt zu seyn, daß er in der Seelsorge nicht verwendet
+                    werden kann. Es wäre also ein Werk der Barmherzigkeit, ihm einen solchen Posten
+                    zu geben.<lb/>Professor <rs type="person" ref="#wildauer-tobias">Wildauer</rs>
+                    wirkt mit sehr gutem Erfolg und wird seiner Kanzel von Jahr zu Jahr mehr Ehre
+                    machen. <rs type="person" ref="#ficker-julius">Fickers</rs> Krankheit erregt
+                    allgemeine Theilnahme. Es wird aber wohl vorübergehen, da nach dem Urtheile der
+                    Ärzte die Brust an sich durchaus gesund ist.<lb/>Genehmigen Euer Exzellenz den
+                    Ausdruck der aufrichtigen und tiefsten Verehrung, womit ich geharre</p>
+                <p>Euer Exzellenz<lb/>unterthäniger Diener<lb/>Baron Moy</p>
+                <p>Innsbruck, den 28. Jänner 1858</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

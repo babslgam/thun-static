@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="phillips-an-thun-1856-03-14-a3-xxi-d372.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/phillips-an-thun-1854-09-08-a3-xxi-d280.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/phillips-an-thun-1857-06-04-a3-xxi-d417.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#phillips-george" role="sender:gelehrter">George
+                        Phillips</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs>,
+                        <date when-iso="1856-03-14">14. März 1856</date>
+                </title>
+            <title type="label">George Phillips an Leo Thun, München, 14. März 1856</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DAE4-E</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D372</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Jurist Georg Phillips berichtet dem Minister, dass Generalvikar
+                            Friedrich Windischmann gewillt sei, in den österreichischen Staatsdienst
+                            einzutreten. Allerdings sei jenem aus Rom die Bitte zugekommen, dem
+                            neuen Erzbischof von München, zumindest für den Anfang seines
+                            Amtsantritts, helfend zur Seite zu stehen. Windischmann habe sich daher
+                            an Kardinal Reisach gewandt, damit dieser beim Papst in der Sache
+                            vermitteln möge. Am Ende berichtet Phillips, dass sich Prof. Eugen Mor
+                            aus Pressburg erfreut über eine mögliche Versetzung geäußert habe.
+                            Zugleich äußerte dieser seinen Wunsch, an die Universität Graz versetzt
+                            zu werden.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#phillips-george">George Phillips</rs>
+                    <settlement ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</settlement>
+                    <date when-iso="1856-03-14">14. März 1856</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Universität Graz</term>
+                    <term>Kirchenrecht</term>
+                </index>
+                <p>Euer Excellenz<lb/>Hochgeborner Herr Graf!</p>
+                <p>Dem Befehle Euer Excellenz gemäß habe ich gleich am ersten Tage nach meiner
+                    Ankunft in <rs type="place" subtype="place" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs> mit dem Generalvicar <rs type="person" ref="#windischmann-friedrich">Dr. Windischmann</rs> in Betreff eines
+                    Übertrittes in den k.k. Staatsdienst weitere Rücksprache genommen. Derselbe
+                    wiederholte seine Bereitwilligkeit, unter den Euer Excellenz bereits früher
+                    bekannt gegebenen Voraussetzungen das für ihn ehrenvolle Anerbieten anzunehmen
+                    und war insbesondere über die ihm zugedachte Art der Verwendung sehr erfreut. Da
+                    ihm jedoch von <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs> aus bekannt geworden war, daß Seine
+                    Heiligkeit der Papst den Wunsch ausgesprochen habe, daß er wenigstens für den
+                    Anfang dem neuen <rs type="person" ref="#scherr-georg">Herrn Erzbischofe</rs>, wenn
+                    auch nicht als Generalvicar, in der Leitung der Diöcese zur Seite stehen möge,
+                    so hat <rs type="person" ref="#windischmann-friedrich">Windischmann</rs> es für
+                    seine Pflicht gehalten, unter dem Siegel der Verschwiegenheit dem <rs type="person" ref="#reisach-karl-august">Herrn Kardinal Grafen von Reisach</rs> von
+                    den ihm von Euer Excellenz gemachten Anträgen in Kenntnis zu setzen, damit Seine
+                    Eminenz mit dem <rs type="person" ref="#pius-IX">heiligen Vater</rs> in dieser
+                    Hinsicht Rücksprache nehmen könne. <rs type="person" ref="#windischmann-friedrich">Windischmann</rs> erwartete bereits vor einigen Tagen die Antwort; da
+                    diese aber bis jetzt nicht eingetroffen ist, so habe ich geglaubt, nicht länger
+                    damit zögern zu dürfen, Hochdenselben den befohlenen Bericht zu erstatten.
+                    <lb/>Bei dieser Gelegenheit erlaube ich mir noch die ganz gehorsamste
+                    Mittheilung, daß Dr. <rs type="person" ref="#mor-eugen">Eugen Mor</rs> aus
+                        <rs type="place" subtype="place" ref="#place_494eccfffbfff4c93f6e601ab346a3cf">Preßburg</rs> mir in einem längeren Briefe
+                    auseinandergesetzt hat, wie glücklich und dankbar er sein würde, wenn Euer
+                    Excellenz bei der ihm zu seiner Freude angedeuteten Versetzung an eine
+                    Universität Hochdero Wahl auf <rs type="org" ref="#org_0026">Graz</rs>
+                    lenken würden.<lb/>Genehmigen Hochdieselben den Ausdruck meiner ausgzeichnetsten
+                    Hochachtung und Verehrung, mit welcher ich bestehe als</p>
+                <p>Euer Excellenz unterthäniger Diener<lb/>G. Phillips<lb/>k.k. Hofrath </p>
+                <p>München 14. März 1856</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

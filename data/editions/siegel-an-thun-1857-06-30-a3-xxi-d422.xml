@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="siegel-an-thun-1857-06-30-a3-xxi-d422.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/sickel-an-thun-1860-10-25-a3-xxi-d623a26.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/simor-an-thun-1854-11-11-a3-xxi-d296a.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#siegel-heinrich" role="sender:gelehrter">Heinrich
+                        Siegel</rs> an <rs type="person" ref="#schulte-friedrich" role="recipient">Johann Friedrich Schulte</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_d54f6cc2237a0ee51accd7a92bf76db1">Gießen</rs>,
+                        <date when-iso="1857-06-30">30. Juni 1857</date>
+                </title>
+            <title type="label">Heinrich Siegel an Johann Friedrich Schulte, Gießen, 30. Juni 1857</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA7E-3</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D422</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Jurist Heinrich Siegel bedankt sich für das Angebot, eine
+                            außerordentliche Professur an der Universität Wien übernehmen zu können.
+                            Er nimmt dieses Angebot unter den Bedingungen an, die ihm genannt
+                            wurden. Er bittet jedoch um eine Entschädigung für seine
+                            Übersiedlungskosten.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Dieser Brief ist eine Beilage zu: <ref target="thun/thun-korrespondenz/tetschen/schulte-an-thun-1857-07-04-a3-xxi-d424.xml">Johann Friedrich Schulte an Leo Thun. Prag, 4. Juli
+                            1857.</ref>
+                            <lb/>Der Brief wurde bei der Ordnung des Nachlasses
+                            fälschlicherweise als eigenständiger Brief gewertet.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#siegel-heinrich">Heinrich Siegel</rs>
+                    <settlement ref="#place_d54f6cc2237a0ee51accd7a92bf76db1">Gießen</settlement>
+                    <date when-iso="1857-06-30">30. Juni 1857</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#schulte-friedrich">Johann Friedrich Schulte</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Universität Wien</term>
+                    <term>Rechtswissenschaften</term>
+                    <term>Rechtsgeschichte</term>
+                </index>
+                <p>Verehrter Herr Professor,</p>
+                <p>Ihr Brief vom 24. dieses[?], worin Sie im Auftrage Seiner Excellenz des <rs type="person" ref="#thun-hohenstein-leo">Herrn Unterrichtsministers</rs> mir eine
+                    außerordentliche Professur für deutsches Privatrecht und deutsche Reichs- und
+                    Rechtsgeschichte an der <rs type="org" ref="#org_0018">Universität zu
+                        Wien</rs> antragen, hat mich in die freudigste Stimmung versetzt, und
+                    ich erkläre, daß ich in Folge des so sehr ehrenden Vertrauens, welches Seine
+                    Excellenz zu mir haben, und in Berücksichtigung des in Aussicht gestellten
+                    Wirkungskreises bereit bin, das Amt in der angebotenen Weise und unter den
+                    gestellten Bedingungen nebst einer Entschädigung für die Übersiedlung im Betrage
+                    von 300 fl. anzunehmen.<lb/>Indem ich Sie, verehrter Herr Professor, bitte,
+                    diese meine Erklärung Seiner Excellenz gefälligst mittheilen zu wollen, sage ich
+                    Ihnen für Ihre freundlichen Bemühungen meinen wärmsten Dank und zeichne mit der
+                    ausgezeichnetsten Hochachtung</p>
+                <p>Ihr ergebenster<lb/>Siegel</p>
+                <p>Gießen, 30. Juni 1857</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

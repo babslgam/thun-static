@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-bach-od-ca934.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-bach-od-ca933.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-bach-od-ca936.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#bach-alexander" role="recipient">Alexander
+                        Bach</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">o. O. [Wien]</rs>, <date when="1850">[1850]</date>
+                </title>
+            <title type="label">Leo Thun an Alexander Bach, o. O. [Wien], [1850]</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA4A-D</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Österreichisches Staatsarchiv</institution>
+                        <repository>Allgemeines Verwaltungsarchiv</repository>
+                        <idno>Nachlass Bach, Karton 11</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun bittet Alexander Bach um eine Unterredung.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">o. O. [Wien]</settlement>
+                    <date>[1850]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#bach-alexander">Alexander Bach</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Ministerkonferenz</term>
+                </index>
+                <p>Verehrtester Collega!</p>
+                <p>Als ich heute Ihre Rückkehr aus der "Korrespondenz" erfuhr, wollte ich Sie eben
+                    um eine Unterredung – etwa heute Abend ersuchen. Nachdem mir nun – erst jetzt –
+                    Ihre Zeilen von gestern Früh zukommen, sende ich Ihnen beiliegend die
+                    gewünschten Akten. – Ist heute <rs type="org" ref="#org_0004">Ministerrath</rs>
+                    so werden die einschlägigen Fragen dabei ohnehin der Erörterung unterzogen
+                    werden müssen. Im Allgemeinen haben wir uns neulich schon verständigt. Sollte
+                    heute noch kein <rs type="org" ref="#org_0004">Ministerrath</rs> sein, – ich
+                    habe noch keine Einladung erhalten, – so bitte ich Sie mir sagen zu lassen, ob
+                    ich Sie Abends etwa zwischen 8 und 9 Uhr aufsuchen kann? Ich hoffe der Ausflug
+                    hat Ihnen gut angeschlagen.</p>
+                <p>Der Ihrige<lb/>Thun</p>
+                <p>Montag 12 Uhr.</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

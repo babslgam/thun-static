@@ -1,0 +1,216 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="simor-an-thun-1854-12-12-a3-xxi-d296f.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/simor-an-thun-1854-12-07-a3-xxi-d296e.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/simor-an-thun-1854-12-15-a3-xxi-d296g.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#simor-johann" role="sender:kleriker">János Simor</rs> an
+                        <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs>, <date when-iso="1854-12-12">12.
+                        Dezember 1854</date>
+                </title>
+            <title type="label">János Simor an Leo Thun, Rom, 12. Dezember 1854</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA78-9</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D296</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>János Simor berichtet von den Feierlichkeiten zur Dogmatisierung der
+                            Immaculata Conceptio. Er schreibt, dass die Messe mit großer Würde und
+                            viel Pracht gefeiert wurde. Am Tag nach dem Hochamt habe der Papst noch
+                            einmal alle anwesenden Bischöfe und Kardinäle versammelt und sie
+                            aufgefordert, den Irrtümern der Zeit entschieden entgegen zu treten. Als
+                            diese Irrtümer habe er den Sozialismus, den Rationalismus und den
+                            Indifferentismus genannt. Simor wurde von verschiedenen Bischöfen versichert,
+                            dass der Papst bei der Erwähnung des Rationalismus auch die Lehre Anton
+                            Günthers gemeint habe. Dabei ermahnte er die Bischöfe auch, die Rechte
+                            der Kirche im Unterrichtswesen stärker wahrzunehmen, bzw. diese
+                            einzufordern. Aus diesem Grund begrüße der Papst auch den Plan des
+                            Bischofs von Verona, das dortige Gymnasium den Jesuiten zu übergeben.
+                            Dies beweise auch, dass das vielfach geäußerte Gerücht, der Papst
+                            schätze die Jesuiten nicht, völlig aus der Luft gegriffen sei. Simor
+                            berichtet dann, dass der Erzbischof von Gran unterdessen seine Meinung
+                            zum Konkordat geändert und sich beim Papst für den Abschluss des
+                            Konkordats ausgesprochen habe. Der Erzbischof hatte dabei jedoch die
+                            Beibehaltung der Vorrechte der ungarischen Kirche eingefordert. Simor
+                            versichert Thun außerdem, dass die deutschen Bischöfe den Abschluss des
+                            Konkordats unterstützen werden. Simor rät schließlich davon ab, die
+                            beiden vakanten Lehrstühle an der Medizinischen Fakultät der Pester
+                            Universität an Protestanten zu verleihen. Ein solcher Schritt würde in
+                            Rom böses Blut machen und vielleicht sogar den Abschluss des Konkordats
+                            gefährden.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Unter der Signatur A3 XXI D296 sind weitere sieben Briefe und Berichte
+                            Simors abgelegt:<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/simor-an-thun-1854-11-11-a3-xxi-d296a.xml">János Simor an Leo Thun. Rom, 11. November 1854</ref>.<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/simor-an-thun-1854-11-14-a3-xxi-d296b.xml">János Simor an Leo Thun. Rom, 14. November 1854</ref>.<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/simor-an-thun-1854-11-17-a3-xxi-d296c.xml">János Simor an Leo Thun. Rom, 17. November 1854</ref>.<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/simor-an-thun-1854-12-01-a3-xxi-d296d.xml">János Simor an Leo Thun. Rom, 1. Dezember 1854</ref>.<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/simor-an-thun-1854-12-07-a3-xxi-d296e.xml">János Simor an Leo Thun. Rom, 7. Dezember 1854</ref>.<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/simor-an-thun-1854-12-15-a3-xxi-d296g.xml">János Simor an Leo Thun. Rom, 15. Dezember 1854</ref>.<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/simor-an-thun-1854-12-23-a3-xxi-d296h.xml">János Simor an Leo Thun. Rom, 23. Dezember 1854</ref>.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#simor-johann">János Simor</rs>
+                    <settlement ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</settlement>
+                    <date when-iso="1854-12-12">12.
+                        Dezember 1854</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Vatikan</term>
+                    <term>Konkordat</term>
+                    <term>Gesellschaft Jesu</term>
+                    <term>Universität Pest</term>
+                    <term>Santa Maria dell'Anima</term>
+                </index>
+                <p>Rom, den 12. Dezember 1854</p>
+                <p>Euere Excellenz!</p>
+                <p>Die beiden großen kirchlichen Feierlichkeiten sind vorüber. Eine wie die am 8.
+                    dieses abgehaltene – wurde selbst von den Römern seit Jahrhunderten nicht mehr
+                    gesehen. Die dabei entfaltete kirchliche und weltliche Pracht will ich nicht
+                    beschreiben, sondern auf Befehl Euerer Excellenz mündlich erzählen.
+                    Unbeschreiblich feierlich und tief ergreifend war insbesondere der Akt der
+                    Verkündigung des dogmatischen Beschlusses durch den Heiligen Vater selbst. Es
+                    waren um ihn versammelt 54 Kardinäle, 1 Patriarch, 42 Erzbischöfe, 103 Bischöfe,
+                    die Ordensgeneräle, die ganze römische Prälatur, der hohe Adel, das
+                    diplomatische Corps, der Generalstab der französischen Armee und eine ungeheuere
+                    Menschenmenge, durch welche die großen Räume der größten Kirche der Welt so
+                    gefüllt waren, daß man sich kaum bewegen konnte. Die Römer erinnern sich nicht,
+                    die fragliche Kirche je so voll gesehen zu haben. Der <rs type="person" ref="#pius-IX">Papst</rs> stand auf seinem Thron und las die dogmatische
+                    Entscheidung, oft zum Weinen gerührt konnte er kaum lesen, allein er ermannte
+                    sich bald wieder und verkündete die Entscheidung mit herrlicher, fester Stimme.
+                    Ich stand nicht weit vom Throne, konnte daher alles sehen und hören. Nachdem der
+                        <rs type="person" ref="#pius-IX">Papst</rs> ein Präambulum, welches sich auf
+                    die Geschichte der Tage und die Veranlassung der eben stattfindenden Feier
+                    bezog, vorausgeschickt hätte, sprach er beiläufig, wie folgt:<lb/>Auctoritate
+                    Jesu Christi, SS. Apostolorum Petri et Pauli ac Nostra declaramus et definimus
+                    divinitus revelatam Doctrinam esse, quod Deipara Virgo singulari beneficio et
+                    gratia Dei, nec non ob merita passionis et mortis Jesu Christi a primo momento
+                    conceptionis ab omni labe peccati originalis praeservata fuerit.<lb/>Wenn ich
+                    auch die Verse nicht ganz genau angeben kann, dafür bürge ich, daß ich den Sinn
+                    der Entscheidung richtig ausgedrückt und angeführt habe. Die Publication
+                    erfolgte unter dem vom <rs type="person" ref="#pius-IX">Papste</rs> selbst
+                    celebriten Hochamte nach dem ersten Evangelium, wobei der <rs type="person" ref="#antonelli-giacomo">Kardinal Antonelli</rs> als Diacon fungirte
+                    und das Evangelium latinum mit schwacher Stimme gesungen hat. Das griechische
+                    Evangelium wurde von einem anderen gesungen. Nach Beendigung des Hochamtes war
+                    „Te Deum“ und feierliche Procession vom Bilde der Heiligen Jungfrau in einer
+                    Seitenkapelle, welcher vom Papste eine goldene Krone aufgesetzt wurde. Die ganze
+                    Feierlichkeit dauerte von 8 Uhr morgens bis halb zwei Uhr nachmittag. Abends war
+                    die Stadt und die Peterskirche festlich beleuchtet. Die in Folge der
+                    bischöflichen Conferenzen modificirte dogmatische Bulle wird bereits gedruckt
+                    und dann verschickt an alle Bischöfe. Am 9. dieses früh um 10 Uhr versammelte
+                    der Heilige Vater um sich die sämmtlichen Kardinäle, Erz- und Bischöfe und
+                    beschenkte jeden mit einem Bilde und einem Numisma der unbefleckt empfangenen
+                    Jungfrau. Das Numisma ließ er von dem ersten ihm von
+                        <rs type="place" subtype="country" ref="#place_f9bc40ca10f433dea7afac987494929a">Australien</rs> geschenkten Golde prägen. Dann hielt er an die
+                    versammelten Väter eine lange feierliche Rede. Er dankte den Bischöfen für die
+                    ihm stets auch in den traurigen Tagen bewiesene treue Anhänglichkeit und für ihr
+                    Erscheinen in Rom. Die in diesen Tagen erlebten Freuden machten ihn vergessen
+                    auf die Widerwärtigkeiten der letzteren Jahre. Dann forderte er die Bischöfe auf
+                    mit allem Nachdruck zu bekämpfen a.) den Socialismus und Radicalismus, b.) den
+                    Rationalismus (der Güntherianismus war zwar nicht genannt, aber doch gemeint,
+                    wie mir einige Bischöfe versicherten), c.) den Indifferentismus. Dann beklagte
+                    sich der Heilige Vater über die Moderatores regnorum, welche die Kirche
+                    beherrschen wollen, namentlich wurde Sardinien angeführt, er forderte die
+                    Bischöfe auf dem Kaiser zu geben, was des Kaisers ist, aber auch Gott was Gottes
+                    ist, daher die Übergriffe der weltlichen Machthaber in kirchlichen Dingen nicht
+                    zu dulden, usw. Endlich forderte er die Bischöfe auf, die ihnen von Christus
+                    eingeräumten Rechte und Pflichten in Bezug auf den Unterricht in den Schulen
+                    fest und ernst auszuüben. Nicht zum Staate, sondern zu den Aposteln und ihren
+                    Nachfolgern redete Christus als er sprach: Gehet hin und lehret alle Völker. Das
+                    ihnen hiedurch eingeräumte Recht sollen sie sich nicht nehmen lassen etc. etc.
+                    etc. Im Namen der Versammelten sprach der Kardinal <rs type="person" ref="#bonald-louis-jacques-maurice">Erzbischof von Lyon</rs>, er dankte
+                    dem Heiligen Vater für seine Hospitalität und versprach seine Befehle und
+                    Wünsche genau zu erfüllen. Man hofft, daß die meisterhaft ausgearbeitete Rede
+                    allen Bischöfen mitgetheilt werden wird. Ich lege auf diese von den Bischöfen –
+                    wie ich höre – mit Begeisterung angehörte Rede ein großes Gewicht und werde sie
+                    zu bekommen suchen. Ich habe schon in einem anderen Briefe die Ehre gehabt
+                    Euerer Excellenz zu berichten, es sei nicht wahr, daß die Jesuiten von dem
+                    Papste nicht geschätzt werden. Wie er über dieselben denkt, werden Euere
+                    Excellenz aus folgendem entnehmen. Der <rs type="person" ref="#riccabona-benedikt">
+                        Bischof von Verona</rs> hat die Absicht das bischöfliche Gymnasium den
+                    Jesuiten zu übergeben. Alle Domkapitulare haben sich dafür ausgesprochen. Die
+                    Grafen <rs type="person" ref="#radetzky-josef-wenzel">Radetzky</rs>, <rs type="person" ref="#rechberg-rothenloewen-bernhard">Rechberg</rs> und der Podestà
+                    gleichfalls. Um ganz sicher zu Werke zu gehen, fragte er bei seiner Audienz den
+                    Heiligen Vater um seine Meinung über diese Absicht, und der Papst äußerte sich,
+                    der Bischof könne nichts besseres und heilsameres thun, als diese Absicht je
+                    eher auszuführen, die Jesuiten wären nicht nur gute Lehrer, sondern auch die
+                    besten Erzieher der Jugend. Es ist mir aus der besten Quelle bekannt, daß der
+                        <rs type="person" ref="#scitovsky-jan">Kardinal von Gran</rs> an den <rs type="person" ref="#pius-IX">Heiligen Vater</rs> eine Einlage gemacht hat, in welcher
+                    er ihn um den Abschluß des Concordates bittet, er drückt dabei die Hoffnung aus,
+                    durch das Concordat werde die Österreichische Kirche gewinnen und die ungarische
+                    an den bisher genossenen Freiheiten nichts verlieren. Dann schließte er die
+                    Postulata der ungarischen Bischöfe an, jene nemlich, welche bei der Conferenz in
+                        <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> zwischen dem Wiener Erzbischofe und den
+                        <rs type="person" ref="#scitovsky-jan">Erzbischöfen von Gran</rs>, <rs type="person" ref="#kunszt-jozef">Kalocsa</rs> und <rs type="person" ref="#haulik-georg">Agram</rs> zu Stande gekommen sind, und wo von ein Exemplar der
+                        <rs type="person" ref="#rauscher-joseph">Erzbischof von Wien</rs> nach
+                        <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs> mitgebracht hat und zwar, um davon hier Gebrauch
+                    zu machen. Ich habe den Kardinal einen nicht gefährlichen Feind des Concordats
+                    genannt, nun tritt er theilweise als Beförderer auf. Wie diese Umstimmung
+                    erfolgte, ob meine Bemühungen bei dem Domherrn <rs type="person" ref="#schirgl-andreas">Schirgl</rs> auch etwas gewirkt haben, weiß ich nicht, ich hoffe die
+                    Eingabe lesen zu können. Auch die deutschen Bischöfe erscheinen als Förderer
+                    dieser Angelegenheit, indem sie erklären, die Lage der katholischen Kirche in
+                        <rs type="place" subtype="country" ref="#place_162b390989a8678640067963acb65109">Deutschland</rs> hänge ab von dem österreichischen Concordate.
+                    Allein sie dringen darauf, daß ein vollkommen gut katholisches Concordat zu
+                    Stande komme, sonst würden sie ungemein viel verlieren, daher lieber Nichts,
+                    lieber kein Concordat, als ein schlechtes, so argumentirt insbesondere der
+                        <rs type="person" ref="#ketteler-wilhelm-emanuel">Mainzer Bischof</rs>, welcher
+                    hier in hohem Ansehen steht. Er sagt, alle deutschen Katholiken erwarten mit der
+                    größten Spannung das österreichische Concordat, wird es nicht zu Stande kommen,
+                    dann verliert <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> in
+                        <rs type="place" subtype="country" ref="#place_162b390989a8678640067963acb65109">Deutschland</rs> viel, wird ein nicht gut katholisches
+                    Concordat geschlossen, dann verliert <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> in <rs type="place" subtype="country" ref="#place_162b390989a8678640067963acb65109">Deutschland</rs> Alles. Euere
+                    Excellenz haben die Gnade gehabt mir zu erlauben auch längere Briefe zu
+                    schreiben, ich mache von der mir gestatteten Freiheit einen Gebrauch und
+                    berichte auch über Kleinigkeiten, welche jedoch nicht ignorirt werden dürfen.
+                    Viele Bischöfe haben sich bereits entfernt, namentlich die meisten französischen
+                    und die belgischen. Auch der <rs type="person" ref="#romilli-bartolomeo">Mailänder
+                        Erzbischof</rs> ist nach Hause gereist. Die Einweihungsfeierlichkeit
+                    bei St. Paul hat nichts besonderes dargeboten, und die Mitwirkung von 6
+                    ausländischen Kardinälen bei der Consecration der Kirche ist als eine
+                    Aufmerksamkeit für die Ausländer zu betrachten. Nach hieher gelangten Briefen
+                    wird von Seite der Protestanten daran gearbeitet, zwei an der medicinischen
+                    Facultät der <rs type="org" ref="#org_0008">Pesther Universität</rs>
+                    erledigte Lehrkanzeln mit protestantischen Lehrern zu besetzen. Meiner Ansicht
+                    nach wäre doppelt gefehlt in dem gegenwärtigen Augenblicke an die <rs type="org" ref="#org_0008">Pesther Universität</rs> noch mehr Protestanten
+                    anzustellen. Nichts hat hier mehr böses Blut als solche Anstellungen
+                    verursacht.<lb/>Genehmigen Euere Excellenz die Versicherung meiner tiefsten
+                    Verehrung, mit welcher ich die Ehre habe zu sein</p>
+                <p>Euerer Excellenz unterthänigst gehorsamster Diener<lb/>Simor</p>
+                <p>Rom den 12. Dezember 1854</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

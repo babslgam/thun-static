@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-ficker-1857-08-15-ca184.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-ficker-1856-09-22-ca183.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-ficker-1858-06-09-ca186.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#ficker-julius" role="recipient">Julius
+                        Ficker</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_6d484de842d3e23757071dd656e2513e">Lungern</rs>, <date when-iso="1857-08-15">15. August 1857</date>
+                </title>
+            <title type="label">Leo Thun an Julius Ficker, Lungern, 15. August 1857</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA2E-D</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Institut für Österreichische Geschichtsforschung</institution>
+                        <repository>Archiv</repository>
+                        <idno>Nachlass Ficker. Thun, 8</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun entschuldigt sich bei Julius Ficker, dass noch immer kein
+                            Professor für klassische Philologie an die Innsbrucker Universität
+                            berufen worden ist. Thun spielt zwar mit dem Gedanken, Anton Goebel auf
+                            einen Lehrstuhl zu berufen, allerdings möchte er zunächst versuchen,
+                            Johannes Vahlen für Innsbruck zu gewinnen. Thun bittet Ficker daher,
+                            sich bei Vahlen auf privatem Wege über dessen Bereitschaft, nach
+                            Innsbruck zu kommen, zu informieren. Thun versichert Ficker außerdem,
+                            dass er möglichst bald die Gehälter der Professoren in Innsbruck und
+                            Graz aufbessern will. Thun berichtet dann, dass Karl Stumpf-Brentano an
+                            Thun geschrieben und sich über die fehlende Unterstützung für den
+                            Historiker Josef Durig beschwert habe. Ficker soll sich hierzu an den
+                            Statthalter wenden, sollte dieser keine Unterstützung gewähren, werde er
+                            selbst dafür Sorge tragen.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_6d484de842d3e23757071dd656e2513e">Lungern</settlement>
+                    <date when-iso="1857-08-15">15. August 1857</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#ficker-julius">Julius Ficker</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Universität Innsbruck</term>
+                    <term>Philosophie</term>
+                    <term>Klassische Philologie</term>
+                    <term>Gehaltsfragen</term>
+                    <term>Personalfragen</term>
+                </index>
+                <p>Lungern, Kanton Unterwalden den 15. August 1857</p>
+                <p>Werther Herr Professor!</p>
+                <p>Obgleich ein Professor der Philologie für <rs type="org" ref="#org_0020">Inspruck</rs> [Innbruck] noch immer nicht ernannt ist, so habe ich
+                    doch keineswegs darauf vergessen.<lb/>Ich hoffe den <rs type="person" ref="#goebel-anton">Dr. Göbel</rs> noch auf dieser oder einer ähnlichen Stelle zu sehen,
+                    mehrere Gründe bestimmen mich aber jetzt noch nicht zu den hierzu erforderlichen
+                    Einleitungen zu schreiten. Zunächst wünsche ich sehr den <rs type="person" ref="#vahlen-johannes">Dr. Vahlen</rs>, der jetzt a. o. Professor in
+                    <rs type="org" ref="#org_0065">Breslau</rs> ist, für eine
+                    österreichische Universität zu gewinnen, und es scheint mir an angemessensten,
+                    daß er als ordentlicher Professor nach <rs type="org" ref="#org_0020">Inspruck</rs> berufen werde. Ohne Zweifel dürfte er Ihnen auch
+                    persönlich bekannt sein; ich glaube sogar Sie haben mich schon früher einmal auf
+                    ihn aufmerksam gemacht, jedenfalls gründe ich auf die sehr günstigen Auskünfte,
+                    die mir von verschiedenen Seiten über ihn mitgetheilt worden sind, die Hoffnung,
+                    daß er Ihnen auch ein erwünschter Kollega sein werde. In diesem Falle würden Sie
+                    mich sehr verbinden, wenn Sie es übernehmen wollten, an ihn zu schreiben, und
+                    mir dadurch eine noch nicht offiziell eingeholte, und doch sichere Auskunft zu
+                    verschaffen, ob er bereitwillig wäre, dem Rufe unter den gewöhnlichen oder unter
+                    welchen günstigeren Bedingungen zu folgen. Jenes wäre erwünscht, in so fern
+                    günstigere Bedingungen anderen Kollegen wieder einen schmerzlichen Eindruck
+                    machen würden. Doch darf das nicht entscheiden. Übrigens hoffe ich doch in nicht
+                    gar ferner Zeit eine allgemeine Aufbesserung der wirklich erbärmlichen Gehalte
+                    erwirken zu können, welche noch für die Professoren in <rs type="org" ref="#org_0020">Inspruck</rs> und <rs type="org" ref="#org_0026">Gratz</rs> als Regel gelten. Daß <rs type="person" ref="#vahlen-johannes">Vahlen</rs> im Allgemeinen nicht abgeneigt wäre,
+                    nach <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> zu kommen, glaube ich bereits zu
+                    wissen.<lb/>Wie Sie aus dem Datum ersehen, bin ich auf einer Urlaubsreise
+                    begriffen, und werde am 5. nächsten Monats in <rs type="place" subtype="place" ref="#place_da90eb3328276934d8dbcbbff3aba4ee">Tetschen</rs>
+                    und am 13. oder 14. wieder in <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> eintreffen. <rs type="person" ref="#stumpf-brentano-karl-friedrich">Stumpf</rs> hat mir mitgetheilt,
+                    was Sie an Ihn über <rs type="person" ref="#durig-josef">Durig</rs> geschrieben
+                    haben. Ich sollte denken, der <rs type="person" ref="#karl-ludwig-erzherzog">Erzherzog
+                        Carl Ludwig</rs> würde Rath zu schaffen wissen, daß ihm aus Tyroler
+                    Landesmitteln die nöthige Unterstützung zugewendet werde, um die Geschichte des
+                        <rs type="place" subtype="region" ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Landes</rs> zu bearbeiten. Geht es wenigstens
+                    vorläufig nicht, so wollen Sie nicht unterlassen, wo möglich durch den <rs type="person" ref="#karl-ludwig-erzherzog">Erzherzog</rs> ein Gesuch an mich gelangen
+                    zu lassen, damit es ihm vor der Hand ermöglicht werde, einige Zeit in
+                        <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> zuzubringen, um das Archiv zu benützen.
+                    Irgendwie wird es ja doch gelingen, den Zweck zu erreichen.</p>
+                <p>Mit aufrichtiger Hochachtung<lb/>Thun</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

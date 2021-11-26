@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="stimpel-an-thun-1860-10-25-a3-xxi-d623a16.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/stimmungsbericht-ungarn-1856-12-28-a3-xxi-d395.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/stlaukal-an-thun-1853-04-16-a3-xxi-d200.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#stimpel-anton" role="sender:beamter">Anton Stimpel</rs>
+                    an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</rs>, <date when-iso="1860-10-25">25. Oktober 1860</date>
+                </title>
+            <title type="label">Anton Stimpel an Leo Thun, Innsbruck, 25. Oktober 1860</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA68-B</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D623a</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Schulrat Anton Stimpel dankt Thun für sein Wirken als
+                            Unterrichtsminister. Er ist – wie viele seiner Kollegen in Tirol – zwar
+                            unglücklich über den Rücktritt Thuns, aber er ist auch überzeugt davon,
+                            dass die Reformen und der von Thun forcierte Aufschwung im
+                            österreichischen Bildungswesen Lehrer und Erzieher weiterhin motivieren
+                            werden.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Das Schreiben befindet sich im Nachlass gemeinsam mit 39 weiteren
+                            Dankadressen unter der Signatur A3 XXI D623a.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#stimpel-anton">Anton Stimpel</rs>
+                    <settlement ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</settlement>
+                    <date when-iso="1860-10-25">25. Oktober 1860</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Ministerium für Kultus und Unterricht</term>
+                    <term>Entlassung Thuns</term>
+                </index>
+                <p>Eure Excellenz!</p>
+                <p>Je mehr der Gefühle die Brust im innersten bewegen und je trüber dieselben sind,
+                    desto schwerer findet sich das Wort und desto zögernder erweist es sich, das
+                    denselben Ausdruck geben soll. In diesem Falle sind mir gegenwärtig in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> alle, deren Brust sich bei der
+                    endlichen Errichtung des so lang und heiß ersehnten Ministeriums für den
+                    Unterricht mächtig gehoben hatte und die dann freier athmend und das Haupt
+                    erhebend der Fahne folgten, die Euer Excellenz mit fester Hand und klaren Blicks
+                    dem unverrückten Ziele zugetragen. Jedoch, so gedrückt auch unsre Stimmung ist,
+                    sie soll der Flamme, die Eure Excellenz in unsern Herzen angefacht, nicht Licht
+                    noch Wärme nehmen und auf der begonnenen Bahn muthig fortzustreben nicht den Fuß
+                    uns lähmen. Der reiche Segen, der aus der edlen Saat dem geliebten Vaterlande
+                    erblüht, gebührt Euer Excellenz ganz allein; der Dank, der dem Lehrer und
+                    Erzieher aus seinem bessern freieren Wirken wird, er muß ihn dankbar Eurer
+                    Excellenz zu Füßen legen.<lb/>Möchten, Eure Excellenz, zum Gedeihen Ihrer edlen,
+                    schönen Pflanze auch fortan aus Ihrem frommen Herzen gern gehörte Wünsche zu
+                    Gottes Thron zu erheben nicht ermüden, um demnächst (es ist unsre sichere
+                    Hoffnung, unser Trost) sie wieder fester gewurzelt und stärker geworden in Ihre
+                    väterliche Obhut zu nehmen und zu pflegen.<lb/>Gereichen diesen schwachen
+                    Ausdruck innigsten Gefühls, wozu uns in <rs type="place" subtype="region" ref="#place_d3d8d213fb1fbd178f1c9c4aea35cbc6">Tirol</rs>
+                    ewige, nie versiegende Dankbarkeit drängt, mit der unbegrenzten Hochachtung und
+                    tiefster Verehrung huldvollst zu genehmigen, womit zu erstreben die Ehre hat</p>
+                <p>Eurer Excellenz<lb/>unterthänigster Diener<lb/>Anton Stimpel<lb/>Schulrath</p>
+                <p>Innsbruck, den 25. Oktober 1860</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

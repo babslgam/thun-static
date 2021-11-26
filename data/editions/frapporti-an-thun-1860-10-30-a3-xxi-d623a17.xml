@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="frapporti-an-thun-1860-10-30-a3-xxi-d623a17.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/fragen-und-antworten-ungarn-od-a3-xxi-d625c.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/fuchs-an-thun-1853-04-08-a3-xxi-d198.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#frapporti-joseph" role="sender:gelehrter">Joseph
+                        Frapporti</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_48a09f4956b196a2489d69e3c117000d">Padua</rs>, <date when-iso="1860-10-30">30. Oktober 1860</date>
+                </title>
+            <title type="label">Joseph Frapporti an Leo Thun, Padua, 30. Oktober 1860</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DC0C-1</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D623a</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Gymnasiallehrer Joseph Frapporti bedauert Thuns Entlassung aus dem
+                            Ministeramt. Seine Reformen des Bildungssystems ermöglichten aus der
+                            Sicht von Frapporti einen geistigen und religiösen Aufschwung in
+                            Österreich. Thun ernannte ihn zudem zum Gymnasialprofessor und
+                            -direktor, und daher er ist ihm auf ewig zu Dank verpflichtet.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Das Schreiben befindet sich im Nachlass gemeinsam mit 39 weiteren
+                            Dankadressen unter der Signatur A3 XXI D623a.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#frapporti-joseph">Joseph Frapporti</rs>
+                    <settlement ref="#place_48a09f4956b196a2489d69e3c117000d">Padua</settlement>
+                    <date when-iso="1860-10-30">30. Oktober 1860</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Ministerium für Kultus und Unterricht</term>
+                    <term>Entlassung Thuns</term>
+                </index>
+                <p>Euer Excellenz,</p>
+                <p>Ich hatte das Glück durch eilf Jahre im Lehrfache während des von Euer Excellenz
+                    geführten Ministeriums in Verwendung zu stehen und bin nun durch die Veränderung
+                    schmerzlich berührt, daß Euer Excellenz aus Anlaß des von <rs type="person" ref="#franz-joseph">Seiner Majestät</rs> zugewiesenen neuen
+                    Wirkungskreises ein Ministerium verlassen, dessen Chef den Unterricht und die
+                    wissenschaftliche Bildung in religiöser und intellektueller Hinsicht auf eine
+                    solche Stufe und zu solch' edler Blüthe gebracht hatte.<lb/>Da ich überdies die
+                    mir zu Theil gewordenen Anstellungen als Gymnasialprofessor und Direktor
+                    Hochdero Güte verdanke, so erlaube ich mir bei dieser Gelegenheit die
+                    unterthänigste Bitte, Euer Excellenz geruhen den besonderen Ausdruck meiner
+                    Verehrung und Dankgefühles huldvoll zu genehmigen.<lb/>Es gereicht mir das
+                    Bewußtsein zum Troste, daß ich bei den mir anvertrauten Amtsstellen redlich
+                    bestrebt war, den wissenschaftlichen und religiösen Absichten und Verfügungen
+                    Euer Excellenz stets nachzukommen und in diesem Bewußtsein gebe ich mich der
+                    ermuthigenden Hoffnung hin, daß auch fernerhin Euerer Excellenz wohlwollende
+                    Erinnerung einem Manne zu Theil werden möchte, welcher sich mit Ehrerbietung und
+                    Hochachtung zeichnet</p>
+                <p>Hochdero<lb/>dankschuldiger, ergebenster<lb/>Josef Frapporti</p>
+                <p>Padua, den 30. Oktober 1860</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

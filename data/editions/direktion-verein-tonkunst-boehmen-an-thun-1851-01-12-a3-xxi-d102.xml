@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="direktion-verein-tonkunst-boehmen-an-thun-1851-01-12-a3-xxi-d102.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/diepenbrock-an-thun-1850-11-09-a3-xxi-d76.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/dittrich-an-thun-1849-08-10-a3-xxi-d1.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Die Direktion des Vereins zur Beförderung der Tonkunst in Böhmen an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>o. O.,
+                        <date when-iso="1851-01-12">12. Januar 1851</date>
+                </title>
+            <title type="label">Die Direktion des Vereins zur Beförderung der Tonkunst in Böhmen an Leo Thun o. O., 12. Januar 1851</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DC7F-0</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D102</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Präsident des Vereins zur Beförderung der Tonkunst in Böhmen, Albert
+                            Nostitz, bittet Leo Thun, dem Verein wieder als Mitglied beizutreten.
+                            Das Jahr 1848 hatte auch für den Verein unangenehme Folgen. Nach
+                            erfolgter Änderung der Vereinsstatuten will er nun aber seine Tätigkeit
+                            mit neuer Energie wieder aufnehmen. Nostitz appelliert an Thuns
+                            Vaterlandsliebe und hofft auf eine positive Antwort.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Beilage: Mitgliederverzeichnis.<note xml:id="note_1">Das Verzeichnis
+                                wurde hier nicht transkribiert.</note>
+                        </p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Vereine</term>
+                    <term>Verein zur Beförderung der Tonkunst in Böhmen</term>
+                </index>
+                <p>Euer Excellenz!</p>
+                <p>Durch eine Reihe von Jahren hatte der <rs type="org" ref="#org_0070">Verein zur Beförderung der
+                        Tonkunst</rs> in <rs type="place" subtype="region" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs> das Glück, Euer
+                    Excellenz nicht nur unter die Seinen zu zählen, sondern auch in Euer Excellenz
+                    einen der wärmsten Führer seiner Angelegenheiten zu verehren.<lb/>Das Scheiden
+                    Euer Excellenz aus seiner Mitte war und ist daher ein doppelt schmerzlicher
+                    Verlust, der von jedem wahren Freunde und Förderer der Tonkunst dermalen um so
+                    tiefer empfunden werden muß, als die Ereignisse verhängnisvoller Jahre auch hier
+                    nicht ohne traurige Rückwirkung geblieben sind und die ehrfurchtsvoll gefertigte
+                    Direction, in ihrer Thätigkeit gehemmt, itzt, nach vollendeter Reorganisirung
+                    der Vereinsstatuten im Stande ist, ihr ungetheiltes Wirken wieder zu
+                    beginnen.<lb/>Wenn sie dies mit der Bitte zu thun wagt, Euer Excellenz geruhen
+                    dem <rs type="org" ref="#org_0070">Vereine</rs> sich
+                    hochgeneigt wieder anzuschließen, so ist diese ehrfurchtsvolle Bitte nur der
+                    festen Überzeugung entsprungen, daß Euer Excellenz – der Sie das Gute und
+                    Gemeinnützige im weiten Reiche zu fördern wissen – dennoch das Vaterland vor
+                    allem im Herzen tragen, wenn heimische Institute zu ihrem Erblühen Dero Hilfe
+                    und mächtigen Einfluß bedürfen.<lb/>In der Hoffnung einer gütigen Würdigung gibt
+                    sich die gefertigte Direction die Ehre, eine Beitrittserklärung, ein Verzeichnis
+                    der Vereinsmitglieder und ein Exemplar der Statuten im Anbuge beizulegen.</p>
+                <p>Die Direction des Vereins zur Beförderung der Tonkunst in Böhmen, den 12. Jänner
+                    1851</p>
+                <p>Alb. Graf Nostitz<lb/>Prsdt.<lb/>Wenzel Ritter v.
+                    Bergenthal<lb/>Geschäftsleiter</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

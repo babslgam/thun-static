@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="apponyi-therese-an-thun-1858-08-14-a3-xxi-d466.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/apponyi-sophie-an-thun-1858-09-14-a3-xxi-d465.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/athanaczkovics-an-thun-1854-08-02-a3-xxi-d273.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#apponyi-therese" role="sender">Therese Apponyi</rs> an
+                        <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_c02c72b51669c91cfda3c0599a674b45">[Bad] Ems</rs>, <date when-iso="1858-08-14">14. August 1858</date>
+                </title>
+            <title type="label">Therese Apponyi an Leo Thun, [Bad] Ems, 14. August 1858 Therese Apponyi an Leo Thun, [Bad] Ems, 14. August 1858 Therese Apponyi an Leo Thun, [Bad] Ems, 14. August 1858Digitale Edition der Korrespondenz von Leo von Thun-HohensteinDigitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DC16-5</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D466</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Therese Apponyi, Mutter von Julius Apponyi, bittet Leo Thun, die
+                            Ernennung von Johann Krajcik zum Bischof von Neutra zu unterstützen. Sie
+                            schließt sich damit ihrer Schwiegertochter Sophie an, die sich mit
+                            derselben Bitte an Thun gewandt hat. Die Gräfin hebt die Qualifikationen
+                            des Domherrn für das Amt hervor. Ihrer Meinung nach könne Krajcik als
+                            Bischof einen positiven Einfluss auf das Komitat Neutra ausüben, dem sie
+                            durch ihren Gatten und Sohn eng verbunden sei. Die Gräfin erhofft sich
+                            deshalb die Unterstützung von Thun.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Französisch.</p>
+                        <p>Verweis auf A3 XXI D465.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#apponyi-therese">Therese Apponyi</rs>
+                    <settlement ref="#place_c02c72b51669c91cfda3c0599a674b45">[Bad] Ems</settlement>
+                    <date when-iso="1858-08-14">14. August 1858</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                    <term>Personalfragen</term>
+                </index>
+                <p>Ems, le 14 août 1858</p>
+                <p>Monsieur le Comte,</p>
+                <p>c'est à peine que vous vous souviendrez qu'il existe une vieille Comtesse
+                    Apponyi, qui a eu le plaisir de vous voir à <rs type="place" subtype="place" ref="#place_ccbee73cd81c7f42405e1920409247ec">Paris</rs>, il y a
+                    bien des années, et qui est la mère de <rs type="person" ref="#apponyi-rudolf">Rodolphe</rs>, qui a l'honneur de vous voir de temps en temps, et la
+                    mère de ce bon <rs type="person" ref="#apponyi-julius">Giulio</rs> si aimé et si
+                    pleuré, et pour lequel vous avez eu la bonté de vous intéresser d'une manière si
+                    touchante pendant sa cruelle dernière maladie! Je n'ai surement aucun droit à
+                    venir vous implorer, car je suis moins que rien, dans ce monde et j'y vis bien
+                    située, cependant je viens de savoir que ma belle fille <rs type="person" ref="#apponyi-sophie">Sophie</rs> vous écrit et vous expose une prière
+                    qui lui tient forte au cœur, et j'ose humblement unir ma voix à la sienne en
+                    demandant votre haute protection en faveur du Chanoine <rs type="person" ref="#krajcik-johann">Krojcsik</rs> [Krajcik], que nous serions si
+                    heureux d'avoir pour Evêque; c'est un homme d'une vertu reconnue un Prêtre
+                    distingué; actif Savant, et qui possède tout à fait, l'esprit et le zèle qui
+                    sont faits pour exercer une influence heureuse, sur le clergé du <rs type="place" subtype="place" ref="#place_d856324689e6964c27e3903e6f63a34e">Comitat de Neutra</rs> – c'est une bien grande
+                    liberté que je prends, en osant indiquer son nom – je n'ose rien espérer, pour
+                    moi, mais je ne suis qu'une voix de plus, qui se permet de placer son nom, sous
+                    vos yeux; il nous semble que si Dieu permettait que ma prière fût accordée, ce
+                    serait une vraie bénédiction, pour toute une population! Quoique pendant ma
+                    longue vie, je n'ai pas beaucoup habité la <rs type="place" subtype="place" ref="#place_d856324689e6964c27e3903e6f63a34e">Comitate de Neutra</rs>, cependant le souvenir de mon cher mari et
+                    de mon bon fils, m'attache fortement et tendrement à ce lieu et je ne saurais
+                    être indifférente au choix de la personne, qui y sera d'une si grande
+                    importance. Que Dieu vous bénisse, Monsieur le Comte, de tout le bien que vous
+                    faites et auquel vous consacrés tous vos talents et tout votre temps –
+                    pardonnez-moi de grâce, mon indiscrétion et ma confiance, et veuillez agréer
+                    l'hommage de mes sentiments les plus distingués,</p>
+                <p>Thérèse Apponyi<lb/>née Nogarola</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

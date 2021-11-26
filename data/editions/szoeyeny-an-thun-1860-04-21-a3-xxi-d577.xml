@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="szoeyeny-an-thun-1860-04-21-a3-xxi-d577.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/szoegyeny-an-thun-1860-04-26-a3-xxi-d578.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/taaffe-an-thun-1850-02-15-a3-xxi-d34.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#szoegyeny-marich-ladislaus" role="sender:beamter">Ladislaus
+                        Szögyény</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>o. O., <date when-iso="1860-04-21">21. April
+                        1860</date>
+                </title>
+            <title type="label">Ladislaus Szögyény an Leo Thun o. O., 21. April 1860</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA5A-B</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D577</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Ladislaus Szögyény bittet Leo Thun, beim Kaiser die Begnadigung von
+                            Eduard Zsedényi, der wegen Agitation gegen das Protestantenpatent zu
+                            einer achtmonatigen Gefängnisstrafe verurteilt wurde, zu erwirken. Er
+                            betont dazu die bisherige Treue Zsedényis und erklärt, dass dieser aus
+                            falschem religiösen Eifer gehandelt habe. Er ist aber überzeugt, dass er
+                            der Regierung in Zukunft treue Dienste leisten werde. Eine Verurteilung
+                            würde die Durchführung des Protestantenpatents erschweren.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#szoegyeny-marich-ladislaus">Ladislaus Szögyény</rs>
+                    <date when-iso="1860-04-21">21. April
+                        1860</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                    <term>Ungarn</term>
+                    <term>Protestanten</term>
+                    <term>Protestantenpatent</term>
+                </index>
+                <p>Hochgeborner Graf!</p>
+                <p>Euer Exzellenz hatten die Güte, neulich zu erwähnen, daß wenn es in der
+                    protestantischen Angelegenheit zu einer erwünschten Ausgleichung käme, die gegen
+                    Einzelne im Zuge befindlichen strafgerichtlichen Schritte aufgehoben werden
+                    dürften. Dahin gehört wohl auch vorzüglich, daß die bereits gefällten Urtheile
+                    einstweilen nicht in Vollzug gesetzt werden. Nun hat aber <rs type="person" ref="#zsedenyi-eduard">Herr v. Zsedényi</rs> eben heute vom <rs type="place" subtype="place" ref="#place_dd51fef1ae0877c04e8b4e19eddbabd5">Kaschauer</rs> [Košice] Amtsgerichte die Zustellung des
+                    gegen ihn gefällten oberstgerichtlichen Urtheiles mit dem Auftrage erhalten,
+                    sich übermorgen nach <rs type="place" subtype="place" ref="#place_dd51fef1ae0877c04e8b4e19eddbabd5">Kaschau</rs> zu begeben, um dort seine
+                    Strafe zu beginnen.<lb/>Nach den Äußerungen, die ich von Eurer Exzellenz über
+                        <rs type="person" ref="#zsedenyi-eduard">Zsedényi</rs> zu vernehmen die Ehre
+                    hatte, wäre es fruchtlos Sie davon überzeugen zu wollen, daß ihm, den
+                    dynastischesten, monarchischesten Manne, der sein ganzes Leben lang für die
+                    Rechte des Thrones gekämpft hat, nichts mehr ferne liegen könnte als eine
+                    Widersetzlichkeit[?] gegen die Befehle seines kaiserlichen Herrn – und daß ihn
+                    daher nur unstatthafter religiöser Eifer zu dem fräglichen [?] Verhalten
+                    verleitet haben konnte. Ich beschränke mich nun darauf zu bemerken, daß die
+                    Nachricht von der Verhaftung <rs type="person" ref="#zsedenyi-eduard">Zsedényis</rs>, welche sich wie ein Lauffeuer im ganzen Lande
+                    verbreiten wird, den günstigen Eindruck der gestrigen allerhöchsten Erlässe
+                    wesentlich paralysieren werde und daß dadurch auch die Ausgleichung der
+                    protestantischen Verwicklungen nicht unbedeutend erschwert sei.<lb/>
+                    <rs type="person" ref="#zsedenyi-eduard">Zsedényi</rs> hat noch vorgestern an den
+                    Superintendential [?] in <rs type="place" subtype="place" ref="#place_ae8effcf53078ebe204e349a55546ca8">Debreczin</rs>
+                    geschrieben und gerathen, um Erlaubnis zur Abhaltung des Districtualconventes
+                    einzuschreiten. Blieb dies auch ohne Erfolg, so beweiset es doch die gute
+                    Gesinnung des Mannes.<lb/>Ich fühle mich verpflichtet, die hohe Aufmerksamkeit
+                    Eurer Exzellenz auf diese Umstände mit der Bitte zu lenken, im Interesse der
+                    guten Sache und zur Hebung der hochherzigen Absichten <rs type="person" ref="#franz-joseph">Seiner Majestät des Kaisers für Ungarn</rs>, die
+                    allerhöchste Begnadigung desselben bei <rs type="person" ref="#franz-joseph">Seiner
+                        Majestät</rs> noch bevor <rs type="person" ref="#zsedenyi-eduard">Zs[edényi]</rs>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> verläßt, zu erwirken. <rs type="person" ref="#franz-joseph">Seine Majestät</rs> sichere sich durch einen solchen Akt kaiserlicher
+                    Großmuth die Dankbarkeit eines braven, ausgezeichneten Mannes, welcher der
+                    Regierung noch wesentliche Dienste zu leisten in der Lage sein wird.<lb/>Dixi et
+                    salvavi animam.<lb/>Empfangen Sie den Ausdruck meiner ausgezeichneten
+                    Hochachtung, mit der ich die Ehre habe zu sein</p>
+                <p>Euer Excellenz</p>
+                <p>gehorsamster Diener<lb/>Ladislaus Szögyény </p>
+                <p>21.4.[1]860</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

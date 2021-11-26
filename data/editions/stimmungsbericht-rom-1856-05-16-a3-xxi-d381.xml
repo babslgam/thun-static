@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="stimmungsbericht-rom-1856-05-16-a3-xxi-d381.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/stellungnahme-clam-handeslrecht-1854-07-07-a3-xxi-d265.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/stimmungsbericht-ungarn-1856-12-28-a3-xxi-d395.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stimmungsbericht aus Rom<lb/>
+                    <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs>, <date when-iso="1856-05-16">16. Mai 1856</date>
+                </title>
+            <title type="label">Stimmungsbericht aus Rom, Rom, 16. Mai 1856</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA6A-9</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D381</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Ein nicht identifizierbarer Autor berichtet über die politische Situation
+                            in Italien und im Vatikan sowie über die Außenpolitik der beiden Länder.
+                            Der Autor ist überzeugt, dass sich der Kirchenstaat zunehmend von
+                            Frankreich abwende und Österreich zuwende. Der Grund hierfür sei die
+                            Annäherung zwischen Graf Cavour und Napoleon III. Außerdem gehe in Rom
+                            das Gerücht um, Napoleon III. wolle den Papst nach Paris bringen, um
+                            dort von diesem zum Kaiser gekrönt zu werden. Der Papst sei dazu
+                            allerdings nicht bereit.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Der Bericht ist einem nicht erhaltenen Brief entnommen.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                    <term>Vatikan</term>
+                    <term>Außenpolitik</term>
+                </index>
+                <p>Aus einem Schreiben de dat. <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs> 16. Mai 1856</p>
+                <p>Im <rs type="place" subtype="place" ref="#place_24722a1d2a82015c05b6e296a88203bb">Vatikan</rs> geht gegenwärtig eine wichtige Geisteswende vor
+                    sich: die Herzen kehren sich endlich <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> zu. Der Mund
+                    spricht noch je nach Umständen. Die Äußerungen, die in <rs type="place" subtype="place" ref="#place_ccbee73cd81c7f42405e1920409247ec">Paris</rs> über <rs type="place" subtype="country" ref="#place_19cb29505c294db5ca9190ea93447e98">Italien</rs> gefallen
+                    sind, haben hier tief verletzt. Man weiß, daß <rs type="person" ref="#napoleon-III">Napoleon</rs> denselben Raum gab. <rs type="person" ref="#cavour-camillo-benso">Cavour</rs> wurde von <rs type="person" ref="#colonna-walewski-alexandre">Walewsky</rs> an den <rs type="person" ref="#napoleon-III">Kaiser</rs> gewiesen. Der Kaiser behielt die
+                    Schrift, welche der Piemontese in Discussion werfen wollte: er ließ den
+                    Grafen ohne Ja <hi rend="ul">und Nein</hi>: er genehmigte also stillschweigend.
+                    Dazu kommt die Entfernung dreier legitimistischer Bischöfe, von denen einer eben
+                    hier weilt. Man weiß hier genau, wie unkirchlich manche Konversation des
+                        <rs type="person" ref="#napoleon-III">französischen Kaisers</rs> mit
+                    gallikanischen Bischöfen und Gelehrten ist. <hi rend="ul">Man traut ihm nicht
+                        mehr.</hi> Neulich erhielt <rs type="person" ref="#pius-IX">Seine
+                        Heiligkeit</rs> die offenbar überspannte Warnung, er möge sich
+                    vorsehen: Napoleon beabsichtige, ihn im Nothfalle aufzuheben und nach
+                        <rs type="place" subtype="place" ref="#place_ccbee73cd81c7f42405e1920409247ec">Paris</rs> zu ziehen. Der Kaiser habe aus seinem Studium
+                    des Charakters <rs type="person" ref="#pius-IX">Seiner Heiligkeit</rs> die
+                    Zuversicht gewonnen, von <rs type="person" ref="#pius-IX">Pio IX</rs>, wenn er ihn
+                    einmal in <rs type="place" subtype="place" ref="#place_ccbee73cd81c7f42405e1920409247ec">Paris</rs> habe, die Krönung zu erlangen. Von dieser
+                    geheimen Warnung wissen nur Wenige. <rs type="person" ref="#pius-IX">Pio IX</rs>
+                    ist durchaus nicht geneigt, nach <rs type="place" subtype="place" ref="#place_ccbee73cd81c7f42405e1920409247ec">Paris</rs> zu reisen, und am
+                    allerwenigsten, die Krönung zu vollziehen. Schon bei den ersten Anträgen und
+                    Begehrungen dieser Art hatte <rs type="person" ref="#hohenlohe-schillingfuerst-gustav">Fürst Hohenlohe</rs> den guten Einfall, jenen vortrefflichen
+                        Aufsatz<note xml:id="note_1">Vgl. <ref target="http://books.google.at/books?id=n0nhaaaacaaj&amp;dq=d%c3%b6llinger+kaiserw%c3%bcrde&amp;hl=de&amp;source=gbs-navlinks-s">Ignaz Döllinger, Betrachtungen über die Frage der Kaiser-Krönung,
+                            München 1853</ref>.</note> der historisch-politischen Blätter, der die
+                    Bedeutung der Kaiserwürde entwickelte, in das Italienische zu übersetzen und
+                        <rs type="person" ref="#pius-IX">Seiner Heiligkeit</rs> vorzulesen. <rs type="person" ref="#pius-IX">Pio IX </rs>war davon sehr ergriffen und der Eindruck
+                    jener Worte <rs type="person" ref="#doellinger-ignaz">Döllingers</rs> war ein
+                    bleibender.</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

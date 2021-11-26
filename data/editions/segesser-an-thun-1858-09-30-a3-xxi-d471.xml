@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="segesser-an-thun-1858-09-30-a3-xxi-d471.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/schwarzenberg-an-thun-o-d-a3-xxi-d139.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/segesser-an-thun-konzept-1856-11-ca.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#segesser-philipp-anton" role="sender:beamter">Philipp
+                        Segesser</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1858-09-30">30. September 1858</date>
+                </title>
+            <title type="label">Philipp Segesser an Leo Thun, Wien, 30. September 1858</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA83-B</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D471</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Historiker Philipp Segesser bedauert, dass er bei seinem Aufenthalt
+                            in Wien Leo Thun nicht angetroffen hat, um sich für die ihm erwiesene
+                            Auszeichnung zu bedanken. Er möchte dies nun schriftlich nachholen. Bei
+                            dieser Gelegenheit äußert Segesser auch sein Bedauern darüber, vor zwei
+                            Jahren die ihm von Thun angetragene Professur in Graz abgelehnt zu
+                            haben.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#segesser-philipp-anton">Philipp Segesser</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when-iso="1858-09-30">30. September 1858</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Universität Graz</term>
+                    <term>Geschichtswissenschaften</term>
+                </index>
+                <p>Wien, 30. September 1858</p>
+                <p>Exzellenz</p>
+                <p>den Besuch zu erwidern, womit Euer Exzellenz voriges Jahr auf Ihrer
+                    Schweizerreise mich beehrten, bin ich dieser Tage nach
+                        <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> gekommen. Leider aber mußte ich durch
+                    Vermittlung des Herrn Ministerialraths <rs type="person" ref="#meyer-bernhard">Bernhard
+                        Meyer</rs> vernehmen, daß wenige Stunden bevor ich um eine Audienz
+                    hatte bitten lassen, Euer Exzellenz von <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> abgereist
+                    seien, was ich um so mehr bedaure, als ich dadurch die Gelegenheit verliere, für
+                    die mir erwiesene Auszeichnung meinen ergebensten Dank persönlich aussprechen zu
+                    können. Wollen Eure Exzellenz daher dessen schriftlichen Ausdruck genehm halten.
+                    Noch immer bedaure ich, daß vor rund zwei Jahren besondere Verhältnisse mich
+                    abgehalten haben, den ehrenvollen Antrag der Professur in <rs type="org" ref="#org_0026">Graz</rs>, welchen Euer Exzellenz mir zu machen
+                    die Freundlichkeit hatten, anzunehmen und ich gebe mich gerne der Hoffnung hin,
+                    daß irgend einmal eine Gelegenheit sich wieder finden werde, mein kleines Wissen
+                    und meine unbedingte Ergebenheit Eurer Exzellenz zur Verfügung stellen zu
+                    können.<lb/>Wollen Eure Exzellenz bei diesem Anlaß den Ausdruck meiner
+                    vollkommensten Hochachtung genehm halten,</p>
+                <p>Dero ergebenster</p>
+                <p>Segesser<lb/>Nat. Rath</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

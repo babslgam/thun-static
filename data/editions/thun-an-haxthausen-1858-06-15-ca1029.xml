@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-haxthausen-1858-06-15-ca1029.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-goluchowski-1859-07-29-a3-xxi-d514.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-haxthausen-1858-06-19-ca1030.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#haxthausen-august" role="recipient">August
+                        Haxthausen</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">o. O. [Wien]</rs>, <date when-iso="1858-06-15">15. Juni 1858</date>
+                </title>
+            <title type="label">Leo Thun an August Haxthausen, o. O. [Wien], 15. Juni 1858</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA25-6</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Universitätsbibliothek Münster (Westfalen)</institution>
+                        <repository>Handschriften und Alte Drucke</repository>
+                        <idno>Nachlass Haxthausen 5, 021</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun bedankt sich für die Nachricht des Agrarwissenschaftlers und
+                            Nationalökonomen August von Haxthausen. Thun würde sich freuen, ihn
+                            persönlich kennen zu lernen. Thun erwartet Haxthausen in seinem Büro im
+                            Ministerium.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">o. O. [Wien]</settlement>
+                    <date when-iso="1858-06-15">15. Juni 1858</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#haxthausen-august">August Haxthausen</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                </index>
+                <p>den 15. Juni 858</p>
+                <p>Hochwohlgeborener Freiherr!</p>
+                <p>
+                    <rs type="person" ref="#meysenbug-otto-heinrich-rivalier">Baron Meysenbug</rs> hat
+                    mir mitgetheilt, daß Sie mir die Ehre ihres Besuchs schenken wollen. Das Band
+                    gemeinsamer Freunde, und die theilweise Bekanntschaft mit Ihrem Werk hat es mich
+                    längst lebhaft wünschen lassen, Sie persönlich kennen zu lernen und ich werde
+                    mich sehr glücklich schätzen, wenn sie so freundlich sein wollen, mich <date when-iso="1858-06-16">morgen</date> zwischen 2 und 4 Uhr in <rs type="org" ref="#org_0005">meinem Bureau</rs>
+                    (Singerstraße, gegenüber der Staatsdruckerei) aufzusuchen.</p>
+                <p>Mit ausgezeichneter Hochachtung habe ich die Ehre zu verharren.</p>
+                <p>Ihr<lb/>ergebener Diener<lb/>Gf. Leo Thun </p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

@@ -1,0 +1,131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="nuell-sicardsburg-ferstl-an-thun-1856-04-a3-xxi-377.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/notizen-und-aufzeichnungen-thuns-einiger-buecher-od-a3-xxi-d657.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/oa-oa-1849-08-18-a3-xxi-d3.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#nuell-van-der-eduard" role="sender">Eduard van der
+                        Nüll</rs>, <rs type="person" ref="#sicard-von-sicardsburg-august">August Sicard
+                        von Sicardsburg</rs> und <rs type="person" ref="#ferstel-heinrich">Heinrich
+                        Ferstel</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when="1856-04">April 1856</date>
+                </title>
+            <title type="label">Eduard van der Nüll, August Sicard von Sicardsburg und Heinrich Ferstel an Leo Thun, Wien, April 1856</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DAFA-6</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D377</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Die Architekten Eduard van der Nüll, August Sicard von Sicardsburg und
+                            Heinrich Ferstel unterbreiten dem Minister ihre Vorschläge und Gedanken
+                            für die Planungen zum Bau von Universität und Votivkirche. Zunächst
+                            waren genaue Vermessungen notwendig. Die geforderte Versetzung der
+                            Votivkirche nach hinten kann aus ihrer Sicht erfolgen. Sie führen
+                            allerdings einige Vorrausetzungen an, unter welchen eine solche dem
+                            geplanten Entwurf der Kirche nicht schaden würde. Dabei gehen sie sowohl
+                            von städtebaulichen als auch ästhetischen Überlegungen aus.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Zwei beigelegte Blätter enthalten Skizzen und Pläne von der geplanten
+                            Position der Kirche und der Universität.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#nuell-van-der-eduard">Eduard van der Nüll</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date>April 1856</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                    <term>Votivkirche</term>
+                    <term>Universität Wien</term>
+                </index>
+                <p>Euere Excellenz!</p>
+                <p>Um eine technisch artistische[?] Begründung der für den Bau der Votiv-Kirche und
+                    der k.k. Universität in Vorschlag gebrachten Gebäudegruppen, und der respectiven
+                    Entfernung beider Gebäude von einander, Euer Exzellenz in tiefster Ehrfurcht
+                    unterbreiten zu können, war es nothwendig eine genaue Aufnahme des Platzes
+                    vorzunehmen, und die Axe in welche die Kirche zu liegen käme zu fixieren, welche
+                    Aufnahme der nebengezeichneten Skizze und folgenden Erörterung zu Grunde
+                    gelegt wurde.</p>
+                <p>Schon bei den ersten Berathungen über diesen Gegenstand wurde der Wunsch
+                    ausgesprochen, die Kirche so weit zurück zu verlegen, daß die jetzt bestehende
+                    Circumvallations-Straße in solange unberührt belassen werde, als es die
+                    Verhältnisse während der Dauer des Baues in Beziehung einer bequemen Zufuhr der
+                    Baumaterialien erheischen werden, da voraussichtlich die Richtung dieser neuen
+                    Straße in Verbindung mit der Fortsetzung der Alser-Hauptstraße am Glacis erst
+                    später bestimmt werden kann.<lb/>Ein vorläufiger Versuch in dieser Richtung,
+                    ohne in eine nähere Raumauftheilung der k.k. Universität einzugehen, welches
+                    ohne detailierterem Programme nicht möglich war, hat jedoch die Überzeugung
+                    hervorgerufen, daß ohne Nachtheil für beide Gebäudeanlagen eine solche Rückung
+                    der Kirche im Außmaße von 6 Klaftern möglich sei, und daß wenn man hierdurch die
+                    Stellung der Kirche als bedingt annimmt, der Abstand von dem Chore derselben
+                    gegen die Front des in dieser Skizze etwas veränderten Universitätsgebäudes sich
+                    auf 30 Klafter reduziert.<lb/>Die ergebenst unterzeichneten Architekten glauben
+                    aber auch hier durch das minimum der Entfernung ausgedrückt zu haben, welche
+                    zwischen beiden Gebäuden ohne gegenseitigen Nachtheil anzunehmen wäre, und zwar
+                    folgender Gründe wegen:<lb/>1. Ist diese Entfernung von 30 Klaftern zwischen der
+                    Kirche und Universität durch die Höhen-Verhältnisse der Ersteren bedingt, welche
+                    aufstrebenden Verhältnisse bei der Entwicklung der architectonischen Gliederung
+                    des Universitäts-Baues vermöge dessen abweichender Bestimmung nicht eingehalten
+                    werden können.<lb/>2. Fordert die Totalanlage der Kirche mit Rücksicht auf die
+                    effektvolle Erscheinung ihrer einzelnen Gebäudemassen und besonders die bei
+                    gotischen Kirchen so reiche Chor-Ansicht, daß der Standpunkt des Beschauers
+                    nicht zu nahe gerückt werde. Durch ähnliche Rücksichten sah man sich veranlaßt
+                    bei der Restauration der Notre Dame Kirche zu <rs type="place" subtype="place" ref="#place_ccbee73cd81c7f42405e1920409247ec">Paris</rs> einen Platz mit großem Kostenaufwande zu schaffen,
+                    welcher die Rückseite des Chores frei macht.<lb/>Und als eine der schönsten
+                    Anlagen ist die in einer Baumpflanzung sich erhebende Kirche St. Ouen zu
+                        <rs type="place" subtype="place" ref="#place_25f815808553ecb1af140011841c1a22">Rouen</rs> in der <rs type="place" subtype="region" ref="#place_17e0e6c0d667097b5248e3d84a31dab6">Normandie</rs>.<lb/>3. Der
+                    Besorgnis, daß die Votiv-Kirche zu isolirt von dem Universitätsgebäude
+                    erscheinen könnte, war durch die beabsichtigte Anlage des letztern darin
+                    begegnet, daß es auf den beiden den Platz begrenzenden Hauptstraßen keinen
+                    Standpunkt gibt, wo eine freie Durchsicht zwischen Kirche und Universität
+                    möglich wäre.<lb/>4. Wird die Votiv-Kirche muthmaßlich zur Wallfahrtskirche für
+                    das ganze Land, und es kann als solche eine freie Entwicklung ihrer nächsten
+                    Umgebung nur als zweckdienlich erachtet werden.<lb/>5. Schiene es
+                    empfehlenswerth bei einer nachmaligen vielleicht beabsichtigten Erweiterung der
+                    Stadt, darauf Rücksicht zu nehmen, daß ein der Würde und den Dimensionen beider
+                    Gebäude entsprechender Platz immer reserviert bleibe. Da nun die äußeren Grenzen
+                    dieses Platzes durch die beiden schon bestehenden Hauptstraßen nahezu bestimmt
+                    sind, so wäre eine Einschränkung dieser Begrenzung nicht zu rechtfertigen, wenn
+                    überhaupt die Ansicht zur Geltung gelangt, daß die beabsichtigte Gebäudegruppe
+                    ihrer monumentalen Bedeutung wegen, als Centralpunct aller weiteren baulichen
+                    Bestrebungen in diesem Stadttheile betrachtet werden könne.<lb/>In tiefster
+                    Ehrfurcht</p>
+                <p>van der Nüll</p>
+                <p>von Sicardsburg</p>
+                <p>m.p. Heinrich Ferstl</p>
+                <p>Wien im April 1856</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

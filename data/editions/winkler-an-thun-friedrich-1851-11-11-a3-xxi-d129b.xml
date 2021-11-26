@@ -1,0 +1,365 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="winkler-an-thun-friedrich-1851-11-11-a3-xxi-d129b.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/winkler-an-philippsberg-1851-11-14-a3-xxi-d129.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/witek-an-kaiserin-1854-06-05-a3-xxi-d320c.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#winkler-anton" role="sender:gelehrter">Anton
+                        Winkler</rs> an <rs type="person" ref="#thun-hohenstein-friedrich" role="recipient">Friedrich
+                        Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_2126faa64bfa66d02e06345d06e61a25">Karlsruhe</rs>, <date when-iso="1851-11-11">11. November 1851</date>
+                </title>
+            <title type="label">Anton Winkler an Friedrich Thun, Karlsruhe, 11. November 1851</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-D99D-0</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D129</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Mathematiker und Ingenieur Anton Winkler bedankt sich für die
+                            Möglichkeit, Friedrich Thun seine Aufwartungen machen zu dürfen. Nun
+                            bittet er Friedrich Thun, ein Gesuch an das Ministerium für Kultus und
+                            Unterricht weiterzuleiten, worin er die Verleihung einer Lehrkanzel in
+                            Österreich beantragt. Er hofft außerdem, dass Friedrich Thun ihn bei
+                            seinem Bruder empfiehlt. Er wäre Friedrich Thun zu tiefstem Dank
+                            verpflichtet, wenn er durch seine Vermittlung zu einer Anstellung in
+                            Österreich gelangen könnte.<lb/>Im beigelegten Gesuch bittet Anton
+                            Winkler das Ministerium für Kultus und Unterricht, ihm eine freie
+                            Lehrkanzel für Mathematik an einer Universität oder einem Polytechnikum
+                            zu verleihen. Anschließend schildert er seinen beruflichen Werdegang.
+                            Als Grund für seinen Austritt aus dem badischen Staatsdienst im Jahr
+                            1849 nennt er seinen Wunsch, sich nicht mit radikalen politischen
+                            Kräften gemein machen zu wollen und seine katholische Überzeugung. Wegen
+                            der revolutionären Unruhen in Baden verließ Winkler das Land und war
+                            fortan den Verfolgungen nicht nur seiner Kollegen am Polytechnikum in
+                            Karlsruhe, sondern auch des Leiters des badischen Innenministeriums
+                            ausgesetzt. Er nennt auch Personen, welche hierüber nähere Auskunft
+                            erteilen können. Am Ende weist er nochmals auf seine prekäre Lage hin
+                            und gibt seiner Hoffnung Ausdruck, das Ministerium werde ihn bei der
+                            Besetzung von Lehrkanzeln in Österreich berücksichtigen</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Beilage:<lb/>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d129b_1">Gesuch von Anton Winkler an das
+                                Ministerium für Kultus und Unterricht. Karlsruhe, 11. November
+                                1851</tei:ref>.<lb/>Dem Gesuch sind zwei weitere Beilagen
+                                beigegeben:<lb/>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d129c_1">Eine Abschrift des Diploms
+                                der Universität Berlin, 10. August 1847.</tei:ref>
+                            <lb/>
+                            <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d129c_2">Eine Abschrift der Bestätigung des Ministeriums
+                                des Innern über die Aufnahme Winklers als Ingenieurspraktikant, 1.
+                                April 1845.</tei:ref>
+                            <note xml:id="note_1">Im Nachlass sind der Brief und
+                                seine Beilagen gemeinsam mit zwei anderen Briefen unter der Signatur
+                                A3 XXI D129 abgelegt.</note>
+                        </p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#winkler-anton">Anton Winkler</rs>
+                    <settlement ref="#place_2126faa64bfa66d02e06345d06e61a25">Karlsruhe</settlement>
+                    <date when-iso="1851-11-11">11. November 1851</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-friedrich">Friedrich Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Personalvermittlung</term>
+                    <term>Mathematik</term>
+                    <term>Universität</term>
+                </index>
+                <p>Hochgeborner Graf,<lb/>Gnädiger Herr!</p>
+                <p>Als jüngst durch Vermittelung des hochverehrtesten k.k. Gesandten <rs type="person" ref="#philippsberg-eugen">Freiherrn <hi rend="ul">von
+                        Philippsberg</hi>
+                    </rs>
+                    <rs type="place" subtype="place" ref="#place_2126faa64bfa66d02e06345d06e61a25">dahier</rs> mir das Glück zu Theil wurde, Euer
+                    Excellenz meine persönliche Aufwartung machen zu dürfen, hatten Euer Excellenz
+                    die Gnade, mir die Zusendung einer Eingabe an das k.k. hohe
+                    Unterrichtsministerium, worin ich um Aufnahme in kaiserliche Dienste als Lehrer
+                    der höhern Mathematik und deren Anwendungen zu bitten mir die Freiheit nehme, zu
+                    gestatten und mir die gnädige Befürwortung jener gehorsamsten Bitte bei Hochdero
+                    Herrn <rs type="person" ref="#thun-hohenstein-leo">Bruder, dem k.k. Minister des
+                        Unterrichts</rs>, zuzusagen.<lb/>Mögen Euer Excellenz den Inhalt der
+                    Eingabe gnädig aufnehmen und möge mir nun das Glück Ihrer vielvermögenden
+                    Empfehlung zu Theil werden, von welcher die Gewährung meiner gehorsamsten Bitte
+                    in so hohem Maße abhängt.<lb/>Zum tiefsten Danke verbunden, würde ich nie
+                    aufhören zu wiederholen, daß Euer Excellenz die Verwirklichung meines heißesten
+                    Wunsches und hierdurch die Begründung meines Glückes befördert haben, welches in
+                    dem Gefühle wurzeln wird, ein treuer und pflichteiferiger Unterthan des Kaisers
+                    zu sein und zu bleiben.<lb/>Seine gehorsamste Bitte wiederholend verharret in
+                    unbegrenzter Verehrung</p>
+                <p>Euer Excellenz</p>
+                <p>dankbar ergebenster<lb/>Dr. A. Winckler<lb/>badischer Ingnr.</p>
+                <p>Carlsruhe, 11. November 1851</p>
+                <div xml:id="D129b_1" type="enclosure">
+                    <p>An das kaiserlich-königliche hohe Unterrichtsministerium.</p>
+                    <p>Der gehorsamst Unterzeichnete nahm sich unter dem 6. November 1850 die
+                        Freiheit hohes Ministerium, um gnädige Aufnahme in kaiserliche Dienste als
+                        Lehrer der höhern Mathematik und deren Anwendungen an einer kaiserlichen
+                        Universität, Kriegs- oder polytechnischen Schule gehorsamst zu
+                        bitten.<lb/>Gemäß einer an die k.k. Gesandtschaft <rs type="place" subtype="place" ref="#place_2126faa64bfa66d02e06345d06e61a25">dahier</rs> gelangten Depesche des k.k. auswärtigen Ministeriums
+                        vom 28. Dezember 1850 fand sich damals keine derartige Lehrkanzel in
+                            <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> erledigt, und wurde es dem gehorsamst
+                        Unterzeichneten anheimgestellt, sich um eine solche im Falle einer
+                        Erledigung zu bewerben, „wobei auf sein Gesuch die verdiente Rücksicht
+                        genommen werden wird“.<lb/>Diese gnädige Eröffnung ermuthigt mich, meine
+                        gehorsamste Bitte in der Hoffnung zu wiederholen, daß vielleicht jetzt eine
+                        Lehrerstelle bezeichneter Art zu besetzen sein möchte. Da ich an hiesigem
+                        Orte nicht leicht Kenntnis von Competenzeröffnungen erhalten kann, so bin
+                        ich auf ausgesprochene Vermuthungen beschränkt, wonach an den Universitäten
+                        <rs type="org" ref="#org_0020">Innsbruck</rs>, <rs type="org" ref="#org_0026">Graz</rs> oder <rs type="org" ref="#org_0021">Lemberg</rs> im bezeichneten Fache noch
+                        weitere Lehrkräfte gewünscht würden.<lb/>Die Beweggründe, aus welchen ich
+                        den badischen Dienst aufzugeben trachte, haben sich seitdem nur vermehrt;
+                        möge hohes Ministerium gnädigst mir gestatten, dieselben in Kürze zu
+                        bezeichnen.<lb/>Der gehorsamst Unterzeichnete, geboren zu <rs type="place" subtype="place" ref="#place_0a703b7d65a1a57903599f90cb45d869">
+                            <hi rend="ul">Riegel</hi>
+                        </rs> im <rs type="place" subtype="region" ref="#place_2444c477f7e0b7ede350c155cc4ed9e6">Breisgau</rs> den
+                        3. August 1821, katholischer Religion, besuchte vom Jahre 1838 an die
+                        hiesige polytechnische Schule und erstand im Jahre 1844 mit vortheilhaftem
+                        Prädikate die Staatsprüfung im Ingenieurfache. Seiner ursprünglichen Neigung
+                        gemäß setzte er alsdann seine mathematischen etc. Studien bei dem nun
+                        verstorbenen Hofastronomen <rs type="person" ref="#nicolai-bernhard">
+                            <hi rend="ul">Nicolai</hi>
+                        </rs> in <rs type="place" subtype="place" ref="#place_bd2b145b873049a539012fea08bfa71a">Mannheim</rs> und
+                        später während eines zweijährigen Besuches der <rs type="org" ref="#org_0027">Berliner Universität</rs> bei den
+                        Professoren <rs type="person" ref="#jacobi-carl-gustav">
+                            <hi rend="ul">Jacobi</hi>
+                        </rs>, <rs type="person" ref="#lejeune-dirichlet-peter-gustav">
+                            <hi rend="ul">Lejeune-Dirichlet</hi>
+                        </rs>, <rs type="person" ref="#encke-johann-franz">
+                            <hi rend="ul">Encke</hi>
+                        </rs> und
+                            <rs type="person" ref="#steiner-jakob">
+                            <hi rend="ul">Steiner</hi>
+                        </rs>
+                        fort; hierzu unterstützt durch die Gnade des Großherzogs aus den Fonds für
+                        Künste und Wissenschaften.<lb/>Vom Jahre 1847 bis Oktober dieses Jahres
+                        lehrte er an der polytechnischen Schule <rs type="place" subtype="place" ref="#place_2126faa64bfa66d02e06345d06e61a25">dahier</rs> höhere Mathematik und höhere Geodäsie, – eines guten
+                        Erfolgs seines Unterrichts und der Zuneigung der Schüler sich
+                        erfreuend.<lb/>Die definitive Anstellung als Lehrer an jener Schule wurde
+                        ihm höchsten Ortes auf das Bestimmteste verheißen. Als aber im Jahre 1849 in
+                            <rs type="place" subtype="place" ref="#place_9a43e84f6e1d406076f2372205804f6d">Baden</rs> der Aufruhr ausbrach und der Unterzeichnete
+                        das aufrührerische Land verließ, um der eidlichen Verpflichtung zu entgehen,
+                        welche die sogenannte provisorische Regierung von allen Angestellten
+                        forderte, traf ihn der Haß der an jener Schule sehr stark vertretenen
+                        radikalen Parthei, deren Häupter die Professoren <rs type="person" ref="#klauprecht-johann-ludwig">
+                            <hi rend="ul">Klauprecht</hi>
+                        </rs>,
+                            <rs type="person" ref="#eisenlohr-wilhelm">
+                            <hi rend="ul">W[ilhelm]
+                            Eisenlohr</hi>
+                        </rs> und <rs type="person" ref="#redtenbacher-ferdinand">
+                            <hi rend="ul">F[erdinand] Redtenbacher</hi>
+                        </rs> sind, in so hohem
+                        Grade, daß er von jener Zeit an allen denkbaren Verfolgungen ausgesetzt
+                        ward.<lb/>Das Ministerium des Innern und dessen Vorstand, der durch seinen
+                        Widerwillen gegen jede öffentlich prononcirte <hi rend="ul">katholische</hi>
+                        und <hi rend="ul">conservative</hi> Gesinnung bekannte <rs type="person" ref="#marschall-von-bieberstein-adolf">Freiherr <hi rend="ul">von
+                                Marschall</hi>
+                        </rs>, beließen den Direktor <rs type="person" ref="#klauprecht-johann-ludwig">Klauprecht</rs> fortwährend auf
+                        seinem Posten, unterstützten ihn in seinen Verfolgungen gegen mich und
+                        beseitigten mich zuletzt gänzlich, indem sie meine Stelle einem radikalen
+                        Volksschullehrer übertrugen.<lb/>(Ich war Mitarbeiter an mehreren
+                        conservativen Organen wie z. B. am „Deutschen Volksblatt“.)<lb/>Auf diese
+                        Weise wurde ich meiner vielfach bethätigten Gesinnungen halber aus dem
+                        badischen Staatsdienste entlassen.<lb/>Obschon der Genuß einer
+                        Staatsunterstützung nach badischen Gesetzen zum Verbleiben in badischen
+                        Diensten nicht verbindet, so fühlte ich doch die moralische Verpflichtung,
+                        mich womöglich durch Dienstleistungen meinem Vaterlande dankbar zu erweisen.
+                        Ich habe daher, um eine meiner Befähigung entsprechende Verwendung zu
+                        erhalten, alle Schritte, selbst diejenigen gethan, zu welchen ich mich, ohne
+                        jene Verpflichtung niemals hätte entschließen können. Aber alles blieb
+                        erfolglos.<lb/>Wenn hohes Ministerium mir in <hi rend="ul">persönlicher</hi>
+                        Hinsicht gnädigst es gestattet, Namen von Männern anzuführen, welche
+                        zugleich auch von manchen der angeführten Thatsachen nähere Kenntnis zu
+                        nehmen die Güte hatten, so erlaube ich mir auf den k.k. Herrn Legationsrath
+                            <rs type="person" ref="#philippsberg-eugen">
+                            <hi rend="ul">von
+                            Philippsberg</hi>
+                        </rs>
+                        <rs type="place" subtype="place" ref="#place_2126faa64bfa66d02e06345d06e61a25">dahier</rs>, den großherzoglichen Herrn
+                        Obristen und Flügeladjutanten <rs type="person" ref="#krieg-von-hochfelden-georg-heinrich">
+                            <hi rend="ul">von
+                            Krieg</hi>
+                        </rs> in Frankfurt, den großherzoglichen Herrn Gesandten
+                        am kaiserlichen Hofe, <rs type="person" ref="#andlaw-birseck-franz-xaver">Freiherrn
+                                <hi rend="ul">von Andlaw</hi>
+                        </rs> in
+                            <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> sowie auf den Hochwürdigsten Herrn
+                        Fürstbischof <rs type="person" ref="#galura-bernhard">
+                            <hi rend="ul">Galura</hi>
+                        </rs> in <rs type="place" subtype="place" ref="#place_478686b5e2ebec6de738cf25710e7108">Brixen</rs>, welcher von
+                        zuverlässiger Seite her mich kennt, gehorsamst mich zu
+                        beziehen.<lb/>Hinsichtlich meiner <hi rend="ul">wissenschaftlichen</hi>
+                        Qualifcation glaube ich mich auf meinen frühern Lehrer, den Herrn <rs type="person" ref="#lejeune-dirichlet-peter-gustav">Prof. <hi rend="ul">Lejeune-Dirichlet</hi>
+                        </rs> in <rs type="org" ref="#org_0027">Berlin</rs>, berufen zu können.<lb/>Auch
+                        habe ich aufgrund meiner mathematischen Dissertation von der <rs type="org" ref="#org_0054">Kieler Hochschule</rs> in sehr ehrender
+                        Weise die Doctorwürde erlangt, und nehme ich mir die Freiheit einen Abdruck
+                        des Diploms gehorsamst beizuschließen.<note xml:id="note_2">Vgl. <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d129c_1">Abschrift des Diploms der Universität
+                            Berlin</tei:ref>
+                        </note> Von einer größern Abhandlung, welche demnächst im
+                        Drucke erscheint, werde ich hohem Ministerium ein Exemplar zu übersenden mir
+                        die Ehre nehmen.<lb/>Die einzelnen mathematischen Disciplinen, welche ich
+                        theils öffentlich, theils privatim bereits gelehrt habe, sind:<lb/>
+                        <hi rend="ul">Algebraische Analysis</hi> und höhere Gleichungen<lb/>
+                        <hi rend="ul">Differential- und Integralrechnung</hi>, Theorie der
+                        bestimmten Integrale, deren Anwendung auf die Wahrscheinlichkeitsrechnung
+                            etc.<lb/>
+                        <hi rend="ul">Analytische Geometrie</hi>, Sphärische
+                            Trigonometrie<lb/>
+                        <hi rend="ul">Statik und Mechanik</hi>
+                        <lb/>
+                        <hi rend="ul">Höhere Geodäsie</hi>
+                        <lb/>
+                        <hi rend="ul">Sphärische und
+                            theor[et]ische Astronomie</hi>
+                        <lb/>Mittellos und ausschließlich
+                        hingewiesen auf die Anwendung der mir erworbenen Kräfte, ist meine
+                        gegenwärtige Lage durch die meiner Gesinnungen wegen im eigenen Vaterlande
+                        erlittenen Zurücksetzungen eine sehr dringende geworden.<lb/>Ich empfehle
+                        mich daher vertrauensvoll der Gnade eines k.k. hohen Ministeriums zur
+                        hochgeneigten Berücksichtigung meiner gehorsamsten Bitte bei Besetzung von
+                        Lehrerstellen erwähnter Art und möge mir das Glück beschieden sein, recht
+                        bald ein Diener und Unterthan des Kaisers zu werden!<lb/>Eifrige
+                        Pflichterfüllung und treue Ergebenheit werden stets der Ausdruck meines
+                        unterthänigen Dankes sein.<lb/>In tiefster Ehrerbietung verharret</p>
+                    <p>eines k.k. hohen Ministeriums</p>
+                    <p>ganz gehorsamster<lb/>Dr. <hi rend="ul">Anton Winckler</hi>
+                        <lb/>Großh. bad.
+                        Ingnr. Praktik.</p>
+                    <p>Carlsruhe, 11. November 1851</p>
+                    <div type="enclosure" xml:id="D129c_1">
+                        <p>Abschrift</p>
+                        <p>Wir Rector und Senat der Königlichen <rs type="org" ref="#org_0027">Friedrich-Wilhelms-Universität zu Berlin</rs> bekunden durch
+                            dieses Abgangszeugnis, daß Herr <rs type="person" ref="#winkler-anton">Anton
+                                Winckler</rs> geboren zu <rs type="place" subtype="place" ref="#place_17873f60321986b78504c3e9bc5be2ba">Riegel</rs> im
+                            Großherzogthum <rs type="place" subtype="region" ref="#place_9a43e84f6e1d406076f2372205804f6d">Baden</rs>, Sohn des daselbst verstorbenen
+                            Landmanns Winckler bereits großjährig zu den akademischen Studien auf
+                            dem Gymnasium zu <rs type="place" subtype="place" ref="#place_2126faa64bfa66d02e06345d06e61a25">Carlsruhe</rs>
+                            vorbereitet, auf den Grund genügender Zeugnisse am 25. October 1845 bey
+                            uns immatrikulirt worden ist, sich seitdem bis zum Schluß des
+                            Sommersemesters 1847 als Studirender hier aufgehalten und sich der
+                            philosophischen Wissenschaften beflissen hat.<lb/>Während dieses
+                            Aufenthaltes hat derselbe bei unserer <rs type="org" ref="#org_0027">Universität</rs> nach den vorgelegten Zeugnissen die
+                            nachstehend verzeichneten Vorlesungen gehört:</p>
+                        <p>I. im Wintersemester 1845/46<lb/>1. Differential- und Integralrechnung
+                            beim Herrn Professor <rs type="person" ref="#jacobi-carl-gustav">Jacobi</rs> mit ausgezeichneten Fleiß und Eifer<lb/>2.
+                            Rechnende Astronomie bei Herrn Professor <rs type="person" ref="#encke-johann-franz">Encke</rs>, ausgezeichnet
+                            fleißig<lb/>3. Theorie des Fernrohrs bei Herrn Professor <rs type="person" ref="#encke-johann-franz">Encke</rs>, ausgezeichnet
+                            fleißig<lb/>4. Anwendung der Lehre von den bestimmten Integralen bei
+                            Herrn <rs type="person" ref="#lejeune-dirichlet-peter-gustav">Dirichlet</rs>, desgleichen<lb/>5. Integration der
+                            Differentialgleichung bei Herrn Prof. <rs type="person" ref="#dirksen-enne-heeren">Dirksen</rs>, mit dem ausgezeichsten
+                            [sic!] Fleiß<lb/>6. Kritische Einleitung in die gesammte Philosophie bei
+                            Herrn <rs type="person" ref="#beneke-friedrich-eduard">Beneke</rs>, mit
+                            rühmlichen Fleiß<lb/>7. Logik und Encyklopädie der philosophischen
+                            Wissenschaften bei Herrn <rs type="person" ref="#michelet-karl-ludwig">Michelet</rs>, ausgezeichnet fleißig<lb/>8. Allgemeine
+                            Geschichte der Physik bei Herrn <rs type="person" ref="#poggendorff-johann-christian">Poggendorf</rs>, sehr
+                            fleißig<lb/>9. Nationalökonomie bei Herrn <rs type="person" ref="#doenniges-wilhelm">Dönniges</rs>, mit ausgezeichnetem
+                            Fleiß und vorzüglicher Aufmerksamkeit<lb/>10. Geometrische Übungen bei
+                            Herrn <rs type="person" ref="#steiner-jakob">Steiner</rs>, sehr
+                            fleißig<lb/>11. Allgemeine Geographie bei Herrn <rs type="person" ref="#ritter-carl">C[arl] Ritter</rs>, desgleichen<lb/>12.
+                            Rhetorik bei Herrn Dr. <rs type="person" ref="#maercker-friedrich-adolph">Märker</rs>, mit rühmlichem Fleiß</p>
+                        <p>II. im Sommersemester 1846<lb/>1. Allgemeine Theorie der krummen
+                            Oberflächen und der Linien der doppelten Krümmungen bei Herrn Prof.
+                                <rs type="person" ref="#jacobi-carl-gustav">Jacobi</rs>, mit dem
+                            ausgezeichnetsten Fleiß und der eifrigsten Theilnahme<lb/>2. Integration
+                            der partiellen Differentgleichungen bei Herrn <rs type="person" ref="#lejeune-dirichlet-peter-gustav">Dirichlet</rs>,
+                            ausgezeichnet fleißig<lb/>3. Anwendung der bestimmten Integrale auf
+                            Wahrscheinlichkeitsbestimmungen bei Herrn <rs type="person" ref="#lejeune-dirichlet-peter-gustav">Dirichlet</rs>,
+                            ausgezeichnet fleißig<lb/>4. Summirung der unendlichen Reihen bei Herrn
+                                <rs type="person" ref="#dirksen-enne-heeren">Dirksen</rs>,
+                            desgleichen<lb/>5. Sphärische Astronomie bei Herrn <rs type="person" ref="#encke-johann-franz">Enke</rs>, desgleichen<lb/>6.
+                            Geschichte der Astronomie bei Herrn <rs type="person" ref="#encke-johann-franz">Enke</rs>, desgleichen</p>
+                        <p>III. im Wintersemester 1846/47<lb/>1. Allgemeine Theorie der anziehenden
+                            Kräfte bei Herrn <rs type="person" ref="#lejeune-dirichlet-peter-gustav">Dirichlet</rs>, desgleichen<lb/>2. Theorische Astronomie bei
+                            Herrn Prof. <rs type="person" ref="#encke-johann-franz">Enke</rs>, mit
+                            ausgezeichnetem Fleiß und Theilnahme<lb/>3. Theorie und Gebrauch der
+                            astronomischen Instrumente bei Herrn <rs type="person" ref="#dirksen-enne-heeren">Dirksen</rs>, mit ausgezeichnetem Fleiß und Theilnahme<lb/>4.
+                            Anwendung der Differentialrechnung auf die Geometrie bei Herrn <rs type="person" ref="#dirksen-enne-heeren">Dirksen</rs>, mit dem vorzüglichsten
+                            Fleiß<lb/>5. Encyklopädie der philosophischen Wissenschaften bei Herrn
+                            Dr. <rs type="person" ref="#georg">Georg</rs>, sehr fleißig</p>
+                        <p>IV. im Sommersemester 1847<lb/>Die nachstehenden Vorlesungen sind am 5.
+                            Juni angenommen worden<lb/>1. Geographie von Asien bei Herrn <rs type="person" ref="#ritter-carl">C[arl] Ritter</rs>, ausgezeichnet
+                            fleißig<lb/>2. Theorie der Zahlen bei Herrn <rs type="person" ref="#lejeune-dirichlet-peter-gustav">Dirichlet</rs>,
+                            desgleichen<lb/>3. Anwendung der Integralrechnung auf die Zahlenlehre
+                            bei Herrn <rs type="person" ref="#lejeune-dirichlet-peter-gustav">Dirichlet</rs>, desgleichen<lb/>4. die Eigenschaften des
+                            Maximums und Minimums bei Figuren in der Ebene und im Raume bei Herrn
+                                <rs type="person" ref="#steiner-jakob">Steiner</rs>, desgleichen<lb/>5.
+                            Sphärische Astronomie bei Herrn <rs type="person" ref="#encke-johann-franz">Encke</rs>, desgleichen<lb/>6. Physikalische Geographie bei
+                            Herrn <rs type="person" ref="#poggendorff-johann-christian">Poggendorff</rs>, sehr fleißig<lb/>7. Ethnographie von Asien
+                            bei Herrn <rs type="person" ref="#ritter-carl">C[arl] Ritter</rs>,
+                            ausgezeichnet fleißig<lb/>8. Über Transformation der Funktionen bei
+                            Herrn <rs type="person" ref="#dirksen-enne-heeren">Dirksen</rs>, mit dem
+                            vorzüglichsten Fleiß<lb/>9. Über die Theorie der elliptischen Funktionen
+                            bei Herrn Dr. <rs type="person" ref="#eisenstein-gotthold">Eisenstein</rs>,
+                            mit ganz ausgezeichneten Fleiß und nie ermüdender Theilnahme</p>
+                        <p>Hinsichtlich seines Verhaltens auf der <rs type="org" ref="#org_0027">hiesigen Universität</rs> ist in disziplinarischer und
+                            ökonomischer Rücksicht nichts Nachtheiliges vorgekommen.<lb/>Einer
+                            Theilnahme an verbotener Verbindung unter Studirenden auf der <rs type="org" ref="#org_0027">hiesigen Universität</rs> ist
+                            derselbe nicht beschuldigt worden.<lb/>Zu Urkund dessen ist dieses
+                            Zeugnis unter dem Insiegel der <rs type="org" ref="#org_0027">Universität</rs> ausgefertigt und von dem zeitigen Rektor und
+                            von dem Richter auch von dem gegenwärtigen Dekan der philosophischen
+                            Fakultät eigenhändig unterzeichnet worden.</p>
+                        <p>Berlin, den 10. August 1847</p>
+                        <p>
+                            <rs type="person" ref="#boeckh-august">Böckh</rs>
+                            <rs type="person" ref="#lehnert-hermann">Lehnert</rs>
+                            <rs type="person" ref="#lachmann-karl">Lachmann</rs>
+                            <lb/>(L. S.)</p>
+                        <p>Gesehen von dem Königlichen Regirungsbevollächtigten <rs type="person" ref="#ladenberg-adalbert">Ladenberg</rs>
+                        </p>
+                        <p>Die Übereinstimmung vorstehender Abschrift mit dem anhier vorgelegten und
+                            wieder zurückgegebenen Originale wird andurch öffentlich beglaubigt.</p>
+                        <p>Carlsruhe, den 31. October 1851</p>
+                        <p>Großherzoglicher Stadtamtsrevisorat<lb/>L. v. d. R. R.<lb/>[?]</p>
+                    </div>
+                    <div xml:id="D129c_2" type="enclosure">
+                        <p>Abschrift</p>
+                        <p>Ministerium des Innern<lb/>Carlsruhe, den 1. April 1845<lb/>Nr. 3594</p>
+                        <p>Der Ingenieurcandidat <rs type="person" ref="#winkler-anton">Anton
+                                Winkler</rs> von <rs type="place" subtype="place" ref="#place_17873f60321986b78504c3e9bc5be2ba">Riegel</rs> ist nach
+                            ordnungsmäßig erstandener Staatsprüfung unterm Heutigen mit der Note
+                            „sehr gut befähigt“ unter die Zahl der Ingenieurpraktikanten aufgenommen
+                            worden, was denselben durch gegenwärtige mit dem diesseitigen größern
+                            Insiegel versehene Fertigung beurkundet wird.</p>
+                        <p>L. v. d. R.<lb/>Der Ministerialdirektor<lb/>
+                            <rs type="person" ref="#rettig">Rettig</rs>
+                            <lb/>(L.S.)</p>
+                        <p>[?]<lb/>Die Übereinstimmung vorstehender Abschrift mit dem anhier
+                            vorgelegten und wieder zurückgegebenen Originale wird öffentlich
+                            beglaubigt.</p>
+                        <p>Carlsruhe, 31. October 1851</p>
+                        <p>Großherzoglicher Stadtamtsrevisorat<lb/>L. v. d. R. R.<lb/>[?]</p>
+                    </div>
+                </div>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

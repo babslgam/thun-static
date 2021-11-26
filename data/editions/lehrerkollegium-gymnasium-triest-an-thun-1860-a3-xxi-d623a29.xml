@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="lehrerkollegium-gymnasium-triest-an-thun-1860-a3-xxi-d623a29.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/lehrerkollegium-gymnasium-st-paul-an-thun-1860-11-13-a3-xxi-d623a31.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/lehrerkollegium-oberrealschule-innsbruck-an-thun-1860-11-15-a3-xxi-d623a32.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Das Lehrerkollegium des Gymnasiums in Triest an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_4fd4ef3f46418624bcfdb765d2881356">o. O. [Triest]</rs>,
+                        <date when="1860">o. D. [1860]</date>
+                </title>
+            <title type="label">Das Lehrerkollegium des Gymnasiums in Triest an Leo Thun, o. O. [Triest], o. D. [1860]</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DB53-1</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D623a</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Das Lehrerkollegium des k.k. Gymnasiums in Triest bedankt sich bei Thun
+                            für dessen Wirken. Das Kollegium ist überzeugt davon, dass Thun mit
+                            seinen Reformen die Gymnasien den Anforderungen der Zeit angepasst und
+                            die Verbindung zu Deutschland gestärkt hat.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Das Schreiben befindet sich im Nachlass gemeinsam mit 39 weiteren
+                            Dankadressen unter der Signatur A3 XXI D623a.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Ministerium für Kultus und Unterricht</term>
+                    <term>Entlassung Thuns</term>
+                </index>
+                <p>Euer Excellenz!</p>
+                <p>Geruhen Eure Excellenz den Ausdruck dankbarer Verehrung zu genehmigen, mit dem
+                    sich unsere Schule den andern Lehranstalten der Monarchie anschließt. Vom ersten
+                    zum letzten Augenblicke den klar gefaßten Gedanken fest haltend, haben Eure
+                    Excellenz den Unterricht mit der Forderung des Jahrhundertes in Übereinstimmung
+                    gebracht und zu einer Klammer zwischen Oesterreich und Deutschland gemacht.
+                    Diesem Werke wird der Segen des Himmels nicht fehlen.</p>
+                <p>k.k. Gymnasium in Triest<lb/>W. J. Menzel Director<lb/>Dr. Anton Elschnig<lb/>B.
+                    Fende<lb/>Dr. Barth. Malpaga<lb/>Robert Hamerling<lb/>Gustav Herr<lb/>Ferd.
+                    Staudacher<lb/>Dr. Wilhelm Braun<lb/>Franz Raab<lb/>Richard Heinzel<lb/>Peter
+                    Picciola<lb/>J. La Roche<lb/>Joseph Schiviz</p>
+                <p>Koren<lb/>k.k. Schulrath</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-bach-1856-03-23-ca942.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-bach-1854-05-03-ca940.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-bach-1859-07-08-ca941.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#bach-alexander" role="recipient">Alexander
+                        Bach</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_e3a1571b9091d6d78548ad3b4b159d11">Hetzendorf</rs>, <date when-iso="1856-03-23">Ostersonntag [23. März 1856]</date>
+                    <note xml:id="note_1">Die Datierung ergibt sich aus den im Brief erwähnten Abschluss von
+                        gesetzlichen Neuregelungen.</note>
+                </title>
+            <title type="label">Leo Thun an Alexander Bach, Hetzendorf, Ostersonntag [23. März 1856]</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA4D-A</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <msDesc>
+                        <msIdentifier>
+                            <institution>Österreichisches Staatsarchiv</institution>
+                            <repository>Allgemeines Verwaltungsarchiv</repository>
+                            <idno>Nachlass Bach, Karton 11</idno>
+                        </msIdentifier>
+                        <msContents>
+                            <p>Leo Thun teilt Alexander Bach mit, dass er sich mit Erzbischof
+                                Rauscher über die Ehegesetze besprochen hat. Rauscher hat einige
+                                Änderungen vorgeschlagen, die Thun akzeptabel scheinen. Bach soll,
+                                wenn er auch damit einverstanden ist, die Bekanntgabe der Gesetze in
+                                der Zeitung veranlassen. Thun bittet Bach außerdem ihm zwei
+                                ausgearbeitete Paragrafen für das Ehegesetz zu schicken, damit Thun
+                                diese für die abschließende Beratung vorbereiten kann.</p>
+                        </msContents>
+                    </msDesc>
+                </p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_e3a1571b9091d6d78548ad3b4b159d11">Hetzendorf</settlement>
+                    <date when-iso="1856-03-23">Ostersonntag [23. März 1856]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#bach-alexander">Alexander Bach</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                    <term>Konkordat</term>
+                    <term>Ehefrage</term>
+                </index>
+                <p>Ostersonntag</p>
+                <p>Verehrtester Kollega!</p>
+                <p>Ich habe den Zeitungsartikel dem <rs type="person" ref="#rauscher-joseph">Cardinal
+                        Erzbischof</rs> mitgetheilt, weil es sich dabei wesentlich auch darum
+                    handelt, so vorzugehen, daß der <rs type="person" ref="#viale-prela-michele">Pronuntius</rs> darin keine neue Kränkung sondern so viel als möglich
+                    eine Schonung seines Ansehens und Einflusses erblicke. Was der <rs type="person" ref="#rauscher-joseph">Card. Erzbischof</rs> vorschlägt wollen Sie aus
+                    der Beilage<note xml:id="note_2">Die Beilage ist im Nachlass von Bach nicht
+                        überliefert.</note> ersehen. Mir scheint es mit den geringen angedeuteten
+                    Änderungen entsprechend. Theilen Sie diese Ansicht, so bitte ich das Nöthige
+                    wegen der Einrückung in die Zeitung zu veranlassen, mir aber gleichzeitig eine
+                    Abschrift zu schicken, die ich doch noch vorläufig <rs type="person" ref="#franz-joseph">S. Maj.</rs> vorlegen müsste, nachdem der <rs type="person" ref="#franz-joseph">Kaiser</rs> sich neulich gegen eine
+                    Veröffentlichung meines Schreibens an die Bischöfe ausgesprochen hat. Nebstbei
+                    bitte ich Sie, sobald es sein kann, mir die Textierung zu schicken, die Sie den
+                    §§ 35 und 38 des Ehegesetzes zu geben wünschen, da ich damit beschäftigt bin,
+                    dasselbe für die letzte Berathung vorzubereiten. Das gewünschte Exemplar der
+                    Lithographie schließe ich bei<note xml:id="note_3">Auch diese Beilage ist nicht
+                        überliefert.</note>.</p>
+                <p>Hochachtungsvoll</p>
+                <p>Thun</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

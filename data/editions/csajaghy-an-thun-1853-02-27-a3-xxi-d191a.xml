@@ -1,0 +1,126 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="csajaghy-an-thun-1853-02-27-a3-xxi-d191a.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/csajaghy-an-thun-1853-02-27-a3-xxi-d191.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/csajaghy-an-thun-1856-01-27-a3-xxi-367.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#csajaghy-alexander" role="sender:kleriker">Alexander
+                        Csajághy</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_3b202c11c9eb9f8d289acdb678dbc975">Temeswar</rs>, <date when-iso="1853-02-27">27. Februar 1853</date>
+                </title>
+            <title type="label">Alexander Csajághy an Leo Thun, Temeswar, 27. Februar 1853</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DC8E-E</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D191</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Bischof von Csanad, Alexander Csajághy, teilt Leo Thun mit, dass er
+                            an der Ernennung Emerich Makras zum Kanonikus trotz der Bedenken des
+                            Ministeriums festhalten will. Er bittet Leo Thun daher, die Ernennung zu
+                            unterstützen. Der Grund für das Festhalten an Makra liegt insbesondere
+                            darin, dass der Bischof bisher noch keinen anderen geeigneten Kandidaten
+                            finden konnte. Als möglichen alternativen Kandidaten kann Csajághy
+                            derzeit nur den Schulinspektor Alexander Bonnaz benennen. Der Bischof
+                            weist jedoch darauf hin, dass der Gouverneur der Woiwodschaft Serbien
+                            und des Temescher Banats diesen nicht freigeben möchte. Und auch ihm
+                            selbst läge viel daran, so betont er, einen verlässlichen geistlichen
+                            Referenten wie Bonnaz beim Gubernium zu haben. Abschließend weist der
+                            Bischof auf die zahlreichen Probleme seiner Diözese sowie auf den Fall
+                            des Pfarrers Josef Wendeschu hin, der eine Auszeichnung vom Kaiser
+                            erhalten hatte, diese jedoch nicht verdiene.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Der Brief ist einem Schreiben von Alexander Csajághy an Leo Thun mit
+                            demselben Datum beigelegt, in dem der Bischof eine Anfrage des
+                            Ministeriums bezüglich der Nominierung von Emerich Makra
+                                beantwortet:<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/csajaghy-an-thun-1853-02-27-a3-xxi-d191.xml">Alexander Csajághy an Leo Thun. Temeswar, 27. Februar
+                            1853</ref>.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#csajaghy-alexander">Alexander Csajághy</rs>
+                    <settlement ref="#place_3b202c11c9eb9f8d289acdb678dbc975">Temeswar</settlement>
+                    <date when-iso="1853-02-27">27. Februar 1853</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                    <term>Personalfragen</term>
+                </index>
+                <p>Euer Excellenz,<lb/>Hochgeborener Herr Graf!</p>
+                <p>Als ich die hochverehrte Zuschrift Euer Excellenz vom 11. letzten Monats erhielt,
+                    verhehlte ich mir es nicht, daß ich <rs type="person" ref="#makra-emerich">Makras</rs> Ernennung werde aufgeben müssen und besprach mich in
+                    dieser muthmaßlichen Voraussetzung mit meinem Generalvikar, einen alten biederen
+                    Mann und gewissenhaften Priester, über die Wahl eines Ersatzmannes. Leider! und
+                    abermals leider! wagte er es nicht, jemanden mit Zuversicht in Vorschlag zu
+                    bringen aus allen Rekurrenten. Dieses mußte mich bestimmen, einstweilen
+                        <rs type="person" ref="#makra-emerich">Makra</rs> wenigstens in der Schwebe zu
+                    erhalten, bis ich für den Fall der Nothwendigkeit nähere Erkundigungen
+                    eingezogen haben werde. Leider habe ich aber bis zu diesem Augenblick wenig
+                    Aussicht einen a Latere Canonicus für mich zu finden. Der Schulinspektor
+                        <rs type="person" ref="#bonnaz-alexander">Bonnaz</rs> wäre der Einzige, aber
+                    den würden Seine Excellenz der Herr <rs type="person" ref="#coronini-cronberg-johann">Gouveneur</rs> sehr ungern verlieren, und selbst mir liegt daran,
+                    einen <hi rend="ul">geistlichen</hi> Referenten bei dem hohen Gubernium zu
+                    wissen, denn wenn ich wohl unterrichtet bin, hat der gegenwärtige Referent in
+                    Kirchenangelegenheiten einen <hi rend="ul">einzigen Katholiken</hi>, den jungen
+                        <rs type="person" ref="#kolowrat-krakowsky-heinrich">Grafen Collovrat</rs>, in
+                    seinem Bureau zugetheilt.<lb/>Wenn ich es mir daher erlauben darf Euer Excellenz
+                    mit einer unterthänigsten Bitte lästig zu fallen, so wage ich es, – selbst auf
+                    die Gefahr hin, daß <rs type="person" ref="#makra-emerich">Makra</rs> meinen
+                    Erwartungen vielleicht nicht entsprechen sollte, was für mich wohl sehr peinlich
+                    sein müßte –, die Huld Euer Excellenz für die hochgeneigte Bevorwortung meiner
+                    Candidation anzurufen. Ohnedies gilt der Bischof in dieser Diözese nicht viel
+                    mehr als ein Primus inter pares. Das Auktoritätsprinzip liegt hier <hi rend="ul">arg verwahrlost!</hi> und ich sehe die Zeit herannahen, wo <hi rend="ul">ein</hi> Bischof mit <hi rend="ul">sechs</hi> Domkapitularen zur kräftigen
+                    Leitung einer so sehr ausgedehnten Diözese inmitten 1.000.000 Andersgläubiger
+                    nicht mehr ausweichen dürfte.<lb/>Erlauben noch hochgeneigt diese Gelegenheit zu
+                    einer pflichtmäßigen Anzeige zu benützen.<lb/>Aus der Budapesti Hirlap Nr. 31
+                    habe ich ersehen, daß <rs type="person" ref="#franz-joseph">Seine k.k. Apostolische
+                        Majestät</rs> dem <rs type="place" subtype="place" ref="#place_8d081069e18381dec09b91115fd3e239">Neupanater</rs>
+                    Pfarrer <rs type="person" ref="#wendeschu-josef">Josef Wendeschu</rs> in
+                    allerhöchster Berücksichtigung seiner loyalen Gesinnung während der Revolution
+                    500 fl CM anzuweisen allergnädigst geruheten. Ich war sehr erfreut über diese
+                    einem Priester der <rs type="place" subtype="place" ref="#place_886905da5fa63f24df8274bffdfa3aca">Csanader</rs> Diözese zutheil
+                    gewordene allerhöchste Huld, aber in demselben Maße wurde ich betroffen, als es
+                    mir aus den Akten nachgewiesen wurde, daß <rs type="person" ref="#wendeschu-josef">Josef
+                        Wendeschu</rs> wegen unpriesterlichen Umgang schon von meinem
+                    Vorfahren bestraft wurde und im Herbste 1849 wegen Attentirung eines
+                    Ehebündnisses mit der Tochter seines Schullehrers – obwohl ohne Erfolg – in <hi rend="ul">Untersuchung</hi> gekommen war.<lb/>Genehmigen Euer Excellenz den
+                    Ausdruck meiner unbegränzten, innigsten Hochachtung, mit welcher ich die Ehre
+                    habe zu verharren</p>
+                <p>Euer Excellenz</p>
+                <p>ergebenster Diener</p>
+                <p>Alexander Csajághy<lb/>Bischof von Csanad</p>
+                <p>Temesvar, den 27. Februar 1853</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-bach-1853-01-11-ca939.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-bach-1851-04-27-ca946.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-bach-1854-05-03-ca940.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#bach-alexander" role="recipient">Alexander
+                        Bach</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">o. O. [Wien]</rs>, <date when-iso="1853-01-11">11. Januar 1853</date>
+                </title>
+            <title type="label">Leo Thun an Alexander Bach, o. O. [Wien], 11. Januar 1853</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA4F-8</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Österreichisches Staatsarchiv</institution>
+                        <repository>Allgemeines Verwaltungsarchiv</repository>
+                        <idno>Nachlass Bach, Karton 11</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun bittet im Namen von Bischof Joseph Othmar Rauscher, dass ihm
+                            Alexander Bach das Protokoll einer Sitzung über das Ehegesetz zukommen
+                            lasse. Rauscher möchte sich nämlich auf ein Treffen mit dem Nuntius
+                            vorbereiten.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">o. O. [Wien]</settlement>
+                    <date when-iso="1853-01-11">11. Januar 1853</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#bach-alexander">Alexander Bach</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                    <term>Konkordat</term>
+                </index>
+                <p>Verehrtester Herr Collega!</p>
+                <p>Der <rs type="person" ref="#rauscher-joseph">Fürstbischof von Seckau</rs> hat mich
+                    dringend gebethen, ihm das Protokoll der Commissionsberathungen über das
+                    Ehegesetz so bald als möglich zukommen zu lassen, da er dessen zum Zwecke seiner
+                    Vorberathungen mit dem <rs type="person" ref="#viale-prela-michele">Nunzius</rs>
+                    bedürfe. Ich erlaube mir Sie deshalb um dessen Rücksendung zu ersuchen.</p>
+                <p>Mit der Versicherung ausgezeichneter Hochachtung</p>
+                <p>Ihr<lb/>Ergebenster<lb/>Thun</p>
+                <p>den 11. Jänner 853</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

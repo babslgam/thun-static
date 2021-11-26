@@ -1,0 +1,186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="hoefler-an-thun-1857-04-12-a3-xxi-d413.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/hoefler-an-thun-1856-10-11-a3-xxi-d389.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/hoefler-an-thun-1857-06-05-a3-xxi-d418.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#hoefler-karl-adolf-constantin" role="sender:gelehrter">Constantin Höfler</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs>, <date when-iso="1857-04-12">12. April 1857</date>
+                </title>
+            <title type="label">Constantin Höfler an Leo Thun, Prag, 12. April 1857</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DBAB-E</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D413</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Historiker Constantin Höfler teilt dem Minister mit, dass er, wie vom
+                            Minister gewünscht, zwischen Pavel Šafařik und Vinzenz Kosteletzky
+                            vermittelt habe und eine Einigung zwischen den beiden erzielt werden
+                            konnte. Streitpunkt war die Einrichtung einer Botanischen Bibliothek.
+                            Anschließend geht er auf verschiedene Angelegenheiten ein, die ihn als
+                            Dekan und Direktor der Prüfungskommission betreffen. Er berichtet, dass
+                            nach wie vor zahlreiche Studenten der philosophischen Fakultät
+                            anstreben, in das Doktorenkollegium aufgenommen zu werden. Obschon
+                            zwischen dem Professorenkollegium und dem Doktorenkollegium der
+                            Philosophischen Fakultät weniger Reibungen bestünden als etwa bei den
+                            Juristen, glaubt Höfler, dass eine Änderung der Rigorosenordnung
+                            sinnvoll wäre. Er bittet Thun hierzu um seine Ansichten. Er nennt
+                            schließlich einige talentierte Studenten und berichtet über die
+                            Ergebnisse der Lehramtsprüfungen. Höfler erwähnt auch, dass sich in der
+                            Raumfrage für die Prüfungskommission für Lehramtskandidaten eine
+                            Verständigung mit der Kommission für die Juristen abzeichne. Höfler
+                            hatte in dieser Sache bereits an Ministerialrat Feil geschrieben. Ein
+                            weiterer Punkt, den Höfler anspricht, ist der Wunsch des Kollegiums, die
+                            Professoren Johann Heinrich Löwe und Georg Bippart zu ordentlichen
+                            Professoren zu befördern. Zuletzt berichtet er, dass der designierte
+                            Professor für deutsche Sprache, Johann Kelle, vor kurzem eingetroffen
+                            sei.</p>
+                    </msContents>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#hoefler-karl-adolf-constantin">Constantin Höfler</rs>
+                    <settlement ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</settlement>
+                    <date when-iso="1857-04-12">12. April 1857</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Universität Prag</term>
+                    <term>Personalfragen</term>
+                    <term>Doktorenkollegien</term>
+                    <term>Lehramtsprüfung</term>
+                    <term>Studenten</term>
+                </index>
+                <p>Euer Excellenz!<lb/>Hochgeborner Herr Graf!<lb/>Hochgebietender Herr
+                    Minister!</p>
+                <p>Ich glaube Euer Excellenz die angenehme Nachricht mittheilen zu müssen, daß es
+                    mir gelungen ist, eine Verständigung zwischen <rs type="person" ref="#safarik-pavel-josef">Herrn Šafařik</rs> und Herrn <rs type="person" ref="#kosteletzky-vinzenz">Kosteletzky</rs> in Betreff einer
+                    botanischen Gartenbibliothek zu Wege zu bringen. Die Berichte an das hohe
+                    Ministerium und die k.k. Statthalterei sind bereits fertig und die mir von Eurer
+                    Excellenz unter dem 27. Jänner ertheilte, mir am 23. März zugekommene Mission
+                    hat somit jenes Ziel erreicht, welches bei so verschiedenen Interessen,
+                    Persönlichkeiten und Anschauungen möglich war. Ich habe bereits zu verzweifeln
+                    begonnen, als es zuletzt doch gelang, beide Ehrenmänner in einem wesentlichen
+                    Punkte zu vereinigen, welcher dann die übrigen als natürliche Folgerungen von
+                    selbst ergab. Ich bitte nur Euer Excellenz, da mein Auftrag und meine Vollmacht
+                    erloschen sind, die Sache so rasch als möglich zu Ende zu führen, damit nicht
+                    neue Schwierigkeiten sich erheben, die herbeizuführen auf einer Seite Personen
+                    genug vorhanden sind. Ich wäre sehr gerne diese Ostern nach
+                        <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> gegangen lediglich, um Eurer Excellenz
+                    aufzuwarten und Hochdieselben mit einigen Verhältnissen, sowohl als Decan wie
+                    als Prüfungsdirector bekannt zu machen. Da ich aber das Eisen schmieden mußte,
+                    so lange es warm war, und ich erst heute morgens die Vereinbarung abschloß,
+                    komme ich leider wieder nicht nach <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>. Euer Excellenz
+                    erlauben mir daher wohl mich etwas ausführlicher zu ergehen. Zuerst wünschte ich
+                    Euer Excellenz zu melden, daß sich bei der philosophischen Facultät eine Anzahl
+                    junger Männer für Rigorosen und Promotion meldete, welche zu sehr schönen
+                    Hoffnungen berechtigen. Noch wird das Doctorat bei uns als Ehre gesucht und die
+                    Meinung derjenigen, welche die ihnen anvertrauten Studirenden, aus welchen
+                    Gründen immer, vom Doctorate abzuhalten suchen, steht daher nicht blos mit dem
+                    Gefühle der Studirenden im Widerspruche, sondern hat auch in der That mehr
+                    Gründe des Eigenwillens als der Wissenschaft für sich. Wohl läge mir aber
+                    unendlich daran die Meinung Eurer Excellenz über diesen Gegenstand kennen zu
+                    lernen. Da nicht ohne bedeutende Geldopfer eine Anzahl von Professoren dem
+                    philosophischen Doctorencollegium beitrat, so sind bei uns ganz andere
+                    Verhältnisse vorhanden als bei den Juristen, wo zwischen Doctoren und
+                    Professoren fast immer Spaltungen und Reibungen statt finden. Leicht ließe sich
+                    eine für nothwendig erachtete Änderung der Rigorosen, sobald sie angedeutet
+                    würde, durch das Collegium selbst, welches vom besten Geiste erfüllt ist,
+                    herbeiführen. Ich füge noch hinzu, daß Carl <rs type="person" ref="#holzinger-carl">Holzinger</rs>, Verfasser der Beiträge zur Erklärung des
+                        Demosthenes<note xml:id="note_1"> Vgl. Carl Holzinger, Beiträge zur
+                        Erklärung des Demosthenes. Dionysios oder Libanios? Zur ersten olynthischen
+                        Rede, Prag 1856.</note>, gegenwärtig die Rigorosen macht und noch in diesem
+                    Sommer unmittelbar nach der Promotion sich um die Habilitation als Privatdocent
+                    der Philologie bewerben wird. Gerne würde <rs type="person" ref="#novotny-eduard">Nowotný</rs>, welcher jüngst die Prüfung aus Philologie mit Vorzug
+                    bestanden hat und den Prof. <rs type="person" ref="#schleicher-august">Schleicher</rs> noch vor <rs type="person" ref="#kvicala-jan">Guicala</rs> [sic, richtig Kvíčala] setzte, gleichfalls promoviren,
+                    würden nicht auf ihn Einflüsse geltend gemacht, welche ich in keiner Beziehung
+                    billigen kann. Vergebens predige ich beständig, daß man, was an bestehenden
+                    Einrichtungen lebensfähig ist, hegen, aber nicht zerstören müsse. Das Gemüth der
+                    Niedersachsen ist jedoch, wie schon die alten Cechen meinten, härter als der
+                    Felsen (saxis durior). Hier würde es höchst ersprießlich sein, wollten Euer
+                    Excellenz geruhen sich für das Doctorat auszusprechen. Geschähe dieses so lange
+                    ich Decan bin, so kann ich ohne bedeutende Schwierigkeiten meine Collegen zu
+                    jenen Modificationen bringen, welche die Sache erfordert und mit den Intentionen
+                    Eurer Excellenz übereinstimmen würden. <lb/>Dieses ist der eine Punkt, welcher
+                    mir schwer am Herzen liegt und von dessen Lösung ich viel Günstiges für den
+                    geistigen Aufschwung erwarte; würde er anders aufgefaßt, dürfte mannigfaltige
+                    Entmuthigung und Störung der bisher glücklich erhaltenen Eintracht
+                    hervorgehen.<lb/>Der zweite Punkt betrifft die Prüfungen der Lehramtscandidaten.
+                    Diese sind im Ganzen recht günstig ausgefallen und zwar befinden sich zur
+                    Beschämung jener Prälaten, welche ihre Ordensgeistlichen von uns nicht
+                    examiniren lassen wollen, unter den ausgezeichneten <rs type="person" ref="#wach-alois">P. Wach</rs> und Tegl[?] (Pilsener Gymnasium). Ein vortreffliches
+                    Talent ist <rs type="person" ref="#bauer-andreas">Andreas Bauer</rs>, Mathematiker,
+                    auf welchen ich Euer Excellenz besonders aufmerksam zu machen mir erlaube.
+                    Merkwürdig war die Geläufigkeit und Sicherheit des Ausdruckes bei
+                    Naturhistorikern und Mathematikern, offenbar in höherem Grade als bei den
+                    Philologen. Unangenehm ist mir, daß Physik nur an der Tafel und nicht im
+                    Laboratorium geprüft wurde. Ich wollte dieses Mal nichts bemerken, weil ich mir
+                    dachte, daß es das letzte Mal sein dürfte, daß <rs type="person" ref="#wersin-carl">Prof.
+                        Wersin </rs>prüfe, der übrigens sehr strenge und genau prüft.<lb/>Die
+                    Angelegenheit des Lokales ist ins Reine gebracht. Euer Excellenz werden sich
+                    gnädigst erinnern, daß ich in meinem Schreiben an Herrn Ministerialsecretär
+                        <rs type="person" ref="#feil-joseph">Feil</rs> aufmerksam machte, welche
+                    schwierige Stellung ich als einfacher Professor haben würde und mir im Interesse
+                    der Sache, nicht meiner Person, ein bleibender Titel wünschenswerth sei. Zumal
+                    da es sich hiebei zuletzt nur um Anerkennung desjenigen handeln würde, welchen
+                    mir als Archivsvorstand die bairischen Behörden gegeben hatten. An der Spitze
+                    der juristischen Prüfungscommissionen stehen Gubernial- oder
+                    Oberlandesgerichtsräthe; kein Wunder, wenn solange als möglich der Aufnahme der
+                    Prüfungscommission für Lehramtscandidaten in die Localitäten der juristischen
+                    Prüfungscommission Schwierigkeiten entgegengestellt wurden, deren endliche
+                    Überwindung ich zum Theile dem guten alten Herrn <rs type="person" ref="#schnabel-georg-norbert">Schnabel</rs>, zum großen Theile dem
+                    Umstand verdanke, daß ich mich bereit erklärte persönlich mit der bisherigen
+                    Rumpelkammer der juristischen Commission Vorlieb zu nehmen.<lb/>Ein vierter
+                    Punkt ist die von dem ganzen Collegium gewünschte Beförderung der Professoren
+                        <rs type="person" ref="#loewe-johann-heinrich">Löwe</rs> und <rs type="person" ref="#bippart-georg">Bippart</rs> zu Ordinariis. Es thut mir namentlich
+                    in dieser Beziehung sehr leid, daß ich nicht das Glück haben kann, Eurer
+                    Excellenz persönlich aufzuwarten.<lb/>Prof. <rs type="person" ref="#kelle-johann">Kelle</rs> ist seit neun Tagen hier, jedoch unwohl, so daß er bis
+                    heute das Bett hüten muß. Ich werde kaum nöthig haben Eurer Excellenz zu
+                    versichern, daß ich, obwohl von so vielen Seiten angegangen, meine Collegien
+                    über deutsche Literaturgeschichte fortzusetzen, dieses aus demselben Grunde
+                    nicht thue, weshalb ich auch nicht über österreichische Geschichte lese, meiner
+                    Collegen wegen. Ich werde stets soweit mir nur immer möglich Frieden halten und
+                    Frieden fördern. Herr <rs type="person" ref="#safarik-pavel-josef">Šafařik</rs> hat
+                    mir heute gesagt, daß er bereits Eurer Excellenz ein Exemplar der glagolitischen
+                    Fragmente vorzulegen sich die Freiheit nahm. Er ist mir somit zuvorgekommen, wie
+                    ja auch ihm der Werth der Arbeit und ihr Verdienst zukommen. Die Sache hat
+                    übrigens ihre eigene nicht uninteressante Geschichte, da die Auffindung durch
+                    einen „Ausländer“ bei Vielen böses Blut erzeugte.<lb/>Geruhen Euer Excellenz mir
+                    gnädigst vergeben zu wollen, daß ich Ihre Geduld und Nachsicht so sehr
+                    mißbrauche. Ich habe die Ehre zu geharren in tiefster Ehrerbietung</p>
+                <p>Euer Excellenz unterthänigster Diener<lb/>Dr. C. Höfler</p>
+                <p>Prag, Ostersonntag 12. April 1857</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

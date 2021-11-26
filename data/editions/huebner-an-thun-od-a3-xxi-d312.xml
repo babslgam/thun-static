@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="huebner-an-thun-od-a3-xxi-d312.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/huebner-an-thun-1855-10-16-a3-xxi-d351.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/huldigungslied-fuer-thun-von-innsbrucker-studenten-1854-07-a3-xxi-d271.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#huebner-alexander" role="sender:beamter">Alexander
+                        Hübner</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, o. D.<note xml:id="note_1">Der Brief ist im Nachlass in das Jahr 1854 datiert.
+                        Allerdings erscheint es möglich, dass es sich bei dem im vorliegenden Brief
+                        erwähnten Schreiben von Constantin Tischendorf um den Brief <ref target="thun/thun-korrespondenz/tetschen/tischendorf-an-thun-1850-07-17-a3-xxi-d62.xml">Constantin Tischendorfs an Leo Thun. Leipzig, 17. Juli 1850</ref>,
+                        handelt. Daher erscheint eine Datierung in das Jahr 1850 als
+                    möglich.</note>
+                </title>
+            <title type="label">Alexander Hübner an Leo Thun, Wien, o. D.</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DBA3-6</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D312</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Alexander Hübner, österreichischer Gesandter in Paris, bedauert, dass er
+                            Leo Thun vor der Abreise an seinen Dienstort nicht mehr antreffen
+                            konnte. Er sichert dem Minister somit schriftlich seine Unterstützung
+                            zu. Außerdem weist er Thun auf ein Schreiben des evangelischen Theologen
+                            Constantin Tischendorf hin.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#huebner-alexander">Alexander Hübner</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date/>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Theologie</term>
+                </index>
+                <p>Hochgeborner Graf</p>
+                <p>Da ich nicht das Glück hatte Euer Exzellenz zu Hause zu treffen und meine Abreise
+                    nach <rs type="place" subtype="place" ref="#place_ccbee73cd81c7f42405e1920409247ec">Paris</rs> bevorsteht, so erlaube ich mir mich
+                    Hochderselben hiermit schriftlich zur Verfügung zu stellen, für alle Fälle, in
+                    denen ich in meiner dienstlichen Stellung von Nutzen sein sollte. Zugleich
+                    beehre ich mich, Euer Exzellenz beiliegendes Schreiben des rühmlich bekannten
+                    Gelehrten und Professors Theologiae (Protestant) zu Leipzig <rs type="person" ref="#tischendorf-constantin">Constantin Tischendorf</rs> zur Einsicht
+                    und den Gegenstand desselben zur geneigten Berücksichtigung zu empfehlen.
+                    Genehmigen Hochdieselben die Versicherung meiner ausgezeichneten Verehrung</p>
+                <p>Alexander Hübner<lb/>k.k. Gesandter</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

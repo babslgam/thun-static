@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="liechtenstein-an-thun-1851-10-03-a3-xxi-d124.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/leonhardi-an-thun-1855-04-05-a3-xxi-d338.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/liechtenstein-an-thun-o-d-a3-xxi-d479.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#liechtenstein-alois" role="sender">Alois
+                        Liechtenstein</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1851-10-03">3. Oktober 1851</date>
+                </title>
+            <title type="label">Alois Liechtenstein an Leo Thun, Wien, 3. Oktober 1851</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DB4D-9</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D124</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Fürst Alois Liechtenstein teilt Leo Thun mit, dass er den frei gewordenen
+                            Platz der herzoglich Savoyischen Stiftung in der Theresianischen
+                            Ritterakademie dem Sohn des Bezirkskommissärs von Eisenstadt verliehen
+                            hat.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#liechtenstein-alois">Alois Liechtenstein</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when-iso="1851-10-03">3. Oktober 1851</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Theresianische Ritterakademie</term>
+                </index>
+                <p>Euer Excellenz!</p>
+                <p>Da nach der erhaltenen Anzeige vom 20/26 vorigen Monats [September] Nr. 8917/1414
+                    durch den Austritt des <rs type="person" ref="#menshengen-ferdinand">Ferdinand Freyherr
+                        von Menshengen</rs> ein herzoglich Savoy‘scher Stiftungsplatz in der
+                    <rs type="org" ref="#org_0016">k.k. Theresianischen
+                        Academie</rs> in Erledigung kam, so beehre ich mich hiermit anzuzeigen,
+                    daß ich diesen erledigten Stiftungsplatz dem <rs type="person" ref="#tibolth-coloman">Coloman von Tibolth</rs>, Sohn des k.k. Bezirkscommissairs in
+                        <rs type="place" subtype="place" ref="#place_8d8850eb122df8685285743838fb6abf">Eisenstadt</rs>, Herrn <rs type="person" ref="#tibolth-carl">Carl
+                        von Tibolth</rs>, verliehen habe.<lb/>Von dieser Verleihung wurde der
+                    letztere mit dem Beifügen in Kenntnis gesetzt, daß er sich wegen Aufnahme seines
+                    Sohnes an die Direction der gedachten <rs type="org" ref="#org_0016">Acadmie</rs> zu verwenden und die
+                    hiezu erforderlichen Documente dort vorzulegen habe.<lb/>Ich verharre mit
+                    vollkommenster Hochachtung</p>
+                <p>Eurer Excellenz</p>
+                <p>dienstwilligst ergebner<lb/>Alois Fürst Liechtenstein</p>
+                <p>Wien, 3. Oktober 1851</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

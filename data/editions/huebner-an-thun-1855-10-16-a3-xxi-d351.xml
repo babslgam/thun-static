@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="huebner-an-thun-1855-10-16-a3-xxi-d351.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/huebner-an-thun-1849-12-12-a3-xxi-d18.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/huebner-an-thun-od-a3-xxi-d312.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#huebner-alexander" role="sender:beamter">Alexander
+                        Hübner</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_ccbee73cd81c7f42405e1920409247ec">Paris</rs>, <date when-iso="1855-10-16">16. Oktober 1855</date>
+                </title>
+            <title type="label">Alexander Hübner an Leo Thun, Paris, 16. Oktober 1855</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DBA4-5</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D351</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Alexander Hübner, österreichischer Gesandter in Paris, gratuliert Thun
+                            zum Abschluss des Konkordats und zu den Reformen im Bildungswesen. Aus
+                            seiner Sicht sind dies die beiden größten Erfolge dieser Regierung.
+                            Hübner glaubt auch, dass damit die Zeit politischen Argwohns und
+                            polizeilicher Überwachung beendet sei, die bisher die freie Entfaltung
+                            der geistigen Kräfte Österreichs verhindert hatten. Der verstorbene Karl
+                            Ernst von Jarcke hätte diese Entwicklung sehr begrüßt. Hübner versichert
+                            Thun dann, Eduard van der Nüll unterstützen zu wollen, allerdings müsse
+                            bedacht werden, dass Österreichs Kunst in Frankreich weniger angesehen
+                            sei als dessen Industrie. Zuletzt spricht Hübner seine Hoffnung aus,
+                            dass Thuns Bruder Friedrich bei seiner neuen Aufgabe in der Lombardei
+                            Erfolg haben wird.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#huebner-alexander">Alexander Hübner</rs>
+                    <settlement ref="#place_ccbee73cd81c7f42405e1920409247ec">Paris</settlement>
+                    <date when-iso="1855-10-16">16. Oktober 1855</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Konkordat</term>
+                    <term>Universität</term>
+                </index>
+                <p/>
+                <p>Geehrtester Herr Minister,</p>
+                <p>Erlauben Euer Excellenz einem Laien Ihnen zu dem großen Umschwunge, der unter
+                    Seiner Majestät Ägide und unter Ihrem unmittelbaren Einflusse heute auf dem
+                    Gebiete der kirchlichen Verhältnisse <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs> und auf dem des wissenschaftlichen Unterrichts
+                    vorgeht, seinen wärmsten Glückwunsch darzubringen. Eigentlich gelten diese
+                    Wünsche – die aufgehört haben fromme zu sein – dem großen Vaterland, welches
+                    nunmehr von den Banden befreit wird, mit welchen es politischer Unverstand,
+                    ängstlicher Argwohn nach allen Seiten hin, und die Meinung, mit der Polizei
+                    allein müsse regiert werden, durch beinahe zwei Menschenalter hindurch umfangen
+                    hielten. Von allen großen Dingen, welche unter unseres aller gnädigsten Herrn
+                    Regierung bisher geschehen sind, halte ich die Abschließung des Konkordats und
+                    die Reform unseres Studienwesens in Ihrem Sinne für die wichtigsten und
+                    weittragendsten Maßregeln. Der Staat, der bisher im Zwiespalte mit dem Gewissen
+                    und im Kampf mit den lebendigen Kräften des Geistes gelebt hatte, schließt mit
+                    beiden Frieden, beruhigt jene und gewinnt diese für sich.<lb/>Wie würde sich der
+                    arme <rs type="person" ref="#jarcke-karl-ernst">Jarcke</rs> freuen, könnte er die
+                    erläuternden Artikel der Wiener Zeitung lesen. Ihm hatte der Weg, den wir vor
+                    1848 gingen, das Herz gebrochen. Als die Wiedergeburt <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs> begann, siechte er bereits dem Grabe entgegen.
+                        <lb/>
+                    <rs type="person" ref="#nuell-van-der-eduard">Herr van der Nüll</rs>
+                    unterbricht mich hier, und durch ihn erhielt ich die geehrten Zeilen vom 10.
+                    dieses Monats. Euer Excellenz wollen überzeugt sein, daß ich ihn nach Kräften
+                    unterstützen werde. Ich fürchte aber, daß unseren Kunstleistungen, hier minder
+                    unvortheilig beurtheilt als unsere Industrie, ihr Recht nicht widerfahren wird,
+                    wenigstens nicht in vollem Maße. Ich habe hierüber an <rs type="person" ref="#morny-charles">Graf Morny</rs> geschrieben, und werde auch Graf
+                        <rs type="person" ref="#nieuwerkerke-alfred-emilien">Nuiverkerke</rs> günstig
+                    zu stimmen suchen.<lb/>Von Ihrem <rs type="person" ref="#thun-hohenstein-friedrich">Herrn
+                        Bruder</rs> habe ich einen langen und in heiterster Stimmung
+                    geschriebenen Brief aus <rs type="place" subtype="place" ref="#place_d32a635cff5dcc73a609d313801541d4">Verona</rs> vor wenigen Tagen
+                    erhalten.<lb/>Meine besten Wünsche begleiten ihn auf seinem Wege. Er ist gewiß
+                    der richtige. Ich fürchte aber, wenn er nicht außerordentlich kräftig
+                    unterstützt wird, daß er ihn schwieriger steiniger und beschwerlicher finden
+                    wird, als er zu glauben scheint. Aber die großen Dinge werden nur im Schweiße
+                    unseres Angesichts erreicht. Per aspera ad astra.<lb/>Verzeihen Sie,
+                    verehrtester Graf, diese Herzensergießung und empfangen Sie die Versicherung der
+                    ausgezeichneten Hochachtung und Verehrung, womit ich verharre</p>
+                <p>Euer Excellenz gehorsamer Diener<lb/>Hübner</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

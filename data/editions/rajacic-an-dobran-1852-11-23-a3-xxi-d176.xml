@@ -1,0 +1,118 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="rajacic-an-dobran-1852-11-23-a3-xxi-d176.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/radziwill-an-thun-1850-01-21-a3-xxi-d32.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/ranolder-an-thun-1855-12-16-a3-xxi-d358.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#phillips-george" role="sender:gelehrter">George
+                        Phillips</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1852-10-26">26. Oktober 1852</date>
+                </title>
+            <title type="label">George Phillips an Leo Thun, Wien, 26. Oktober 1852</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DACC-A</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D173</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Jurist George Phillips teilt Leo Thun die Informationen mit, die er
+                            über Karl Halm in Erfahrung bringen konnte. Er konnte über den Bischof
+                            von Regensburg, dessen Bruder ein Schwager von Halm ist, in Erfahrung
+                            bringen, dass Halm zwar keine kirchenfeindlichen Lehren verbreite, aber
+                            dennoch nicht als aufrichtiger Katholik angesehen werden könne. Phillips
+                            nützt dann auch die Gelegenheit, um Thun den Schweizer
+                            Rechtswissenschaftler Philipp Segesser zu empfehlen. Schließlich teilt
+                            er dem Minister mit, dass er von Karl Ludwig Arndts noch keine Nachricht
+                            in Hinblick auf dessen mögliche Berufung nach Wien erhalten habe.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#phillips-george">George Phillips</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when-iso="1852-10-26">26. Oktober 1852</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Personalvermittlung</term>
+                    <term>Klassische Philologie</term>
+                    <term>Rechtsgeschichte</term>
+                </index>
+                <p>Hochgeborner Herr Graf,<lb/>
+                </p>
+                <p>Euer Excellenz geruthen vor einiger Zeit mich in Betreff der katholischen
+                    Gesinnung des <rs type="person" ref="#halm-karl-felix">Professors Halm</rs> zu
+                    befragen, und ich befand mich nicht in der Lage hierüber eine nähere Auskunft zu
+                    geben als diejenige war, welche ich schon früher mit Hochdero Befehl mir
+                    verschafft hatte. Ich habe mich unterdessen an den mir persönlich befreundeten
+                    Herrn <rs type="person" ref="#riedel-valentin">Bischof von Regensburg</rs>
+                    gewendet, der infolge der Verheiratung <rs type="person" ref="#halm-karl-felix">Halms</rs> mit der Wittwe seines Bruders mit ihm verschwägert ist.
+                    Selbst bettlägrig hat der <rs type="person" ref="#riedel-valentin">Herr
+                        Bischof</rs> seinen Secretär beauftragt an mich zu schreiben, und es
+                    äußert sich derselbe in seinem Brief wie folgt:<lb/>„Seiner Bischöflichen Gnaden
+                    ist zwar nicht bekannt, daß <rs type="person" ref="#halm-karl-felix">Halm</rs> eine
+                    active Thätigkeit in der Verbreitung kirchenfeindlicher Lehren entwickelte –
+                    allein derselbe scheint im Herzen kein Katholik zu sein. Aus dem Munde seines
+                    Stiefsohnes hat Reverendissimus vernommen, daß <rs type="person" ref="#halm-karl-felix">H[alm]</rs> in <rs type="place" subtype="place" ref="#place_1729f2972f796c56cb9cc0ecd3c59e91">Hadamar</rs> an jenen Tagen, an
+                    welchen für den Herzog [?] katholischer Gottesdienst war, sich diesem entzog, um
+                    durch sein Beiwohnen nicht als Heuchler zu erscheinen. Seine Bischöflichen
+                    Gnaden müssen mit Schmerz auch anführen, daß die ganze häusliche Erziehung eine
+                    heidnische sei und daß weder Kind noch Frau einen Glauben zu haben scheinen.
+                    Reverendissimo ist <rs type="person" ref="#halm-karl-felix">Halm</rs> stets als ein
+                    hochmüthiger Schüler von <rs type="person" ref="#thiersch-friedrich-wilhelm">Herrn
+                        Hofrath Thiersch</rs> vorgekommen. <rs type="person" ref="#riedel-valentin">Herr Bischof</rs> trägt mir, als einem Schüler des <rs type="person" ref="#halm-karl-felix">Halm</rs> (am neuen Gymnasium in <rs type="place" subtype="place" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs>) zugleich die damalige Äußerung desselben
+                    vor allen Schülern mitzutheilen, auf: daß er (<rs type="person" ref="#halm-karl-felix">Halm</rs>), wenn er nämlich ex offo zur Aufsicht in die Kirche ging,
+                    am liebsten in einem griechischen Classiker – der Name ist mir entfallen – lese
+                    und sich daran mehr als an den Gebetbüchern erbaue. Ausfälle gegen die Kirche
+                    sind mir jedoch aus seinem Munde nicht bekannt.“<lb/>Bei dieser Gelegenheit
+                    erlaube ich mir Euer Excellenz noch eine andere Mittheilung zu machen. Vor
+                    kurzem ist ein sehr gutes Buch von <rs type="person" ref="#segesser-philipp-anton">Segesser</rs> über die „Staats- und Rechtsgeschichte von Luzern“
+                        erschienen.<note xml:id="note_1">Vgl. <ref target="http://www.bsb-muenchen-digital.de/~web/web1062/bsb10623681/images/index.html?digid=bsb10623681&amp;pimage=6&amp;v=pdf&amp;nav=0&amp;l=de">Philipp Anton Segesser, Staats-Rechtsgeschichte der Stadt und Republik
+                            Luzern, 1850–1858</ref>.</note> Ich habe in Betreff des talentvollen
+                    Verfassers nähere Erkundigung eingezogen und in Erfahrung gebracht, daß er
+                    überhaupt ein sehr tüchtiger Mann sei, sehr gut sprechen und sich aus der
+                        <rs type="place" subtype="country" ref="#place_4160709db9e1cdde5a7947ce6d71bb0d">Schweiz</rs> hinweg sehne. Der Fall der Berufung eines
+                    Schweizer Gelehrten in dem Fache der Rechtsgeschichte auf eine deutsche
+                    Universität ist schon vorgekommen, indem <rs type="person" ref="#bluntschli-johann-caspar">Bluntschli</rs>, Verfasser einer
+                    Züricher Rechtsgeschichte<note xml:id="note_2">Vgl. <ref target=" http://data.onb.ac.at/abo/%2bz16690680x">Johann Caspar
+                            Bluntschli, Staats- und Rechtsgeschichte der Stadt und Landschaft
+                            Zürich, Zürich 1838</ref>.</note>, an meiner Stelle in <rs type="org" ref="#org_0028">München</rs> die Professur des deutschen
+                    Rechtes erhielt. An <rs type="person" ref="#arndts-carl-ludwig">Prof. Arndts</rs>
+                    nach <rs type="place" subtype="place" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs> habe ich bereits Sonntag vor 8 Tagen
+                    geschrieben und erwarte täglich eine Antwort.<lb/>Genehmigen Hochdieselben den
+                    Ausdruck der größten Hochachtung und Verehrung, mit welcher ich mich zeichne
+                    als</p>
+                <p>Euer Excellenz</p>
+                <p>unterthäniger Diener<lb/>G. Phillips</p>
+                <p>Wien, 26. October 1852</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

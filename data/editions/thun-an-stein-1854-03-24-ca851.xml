@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-stein-1854-03-24-ca851.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-stein-05-29-ca853.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-tarnoczy-1860-11-21-ca844.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#stein-lorenz" role="recipient">Lorenz von
+                    Stein</rs>
+                    <lb/>o. O., <date when-iso="1854-03-24">24. März [1854]</date>
+                    <note xml:id="note_1">Die Datierung in das Jahr 1854 ergibt sich aus der im Brief
+                        angesprochenen Berufung Steins an die Wiener Universität.</note>
+                </title>
+            <title type="label">Leo Thun an Lorenz von Stein o. O., 24. März [1854]</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-D9EF-4</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Schleswig Holsteinische Landesbibliothek</institution>
+                        <idno>Cb102.4.02:05</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun teilt dem Nationalökonomen Lorenz Stein mit, dass der Kaiser ihn
+                            zum Professor an der Universität Wien ernannt hat.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <date when-iso="1854-03-24">24. März [1854]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#stein-lorenz">Lorenz von Stein</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Universität Wien</term>
+                </index>
+                <p>Werther Herr Professor!</p>
+                <p>Ich freue mich Ihnen vorläufig mittheilen zu können, daß <rs type="person" ref="#franz-joseph">Seine Majestät</rs> Sie zum Professor der
+                    politischen Ökonomie an der <rs type="org" ref="#org_0018">Wiener
+                        Universität</rs> ernannt hat.</p>
+                <p>Hochachtungsvoll<lb/>Thun</p>
+                <p>24/3</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

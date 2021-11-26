@@ -1,0 +1,195 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="linde-an-thun_1856-12-04_a3-xxi-d393.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#linde-justin" key="linde-justin" role="sender:beamter">Justin Linde</rs> an
+                        <rs type="person" ref="#thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_e9cd6cbbbc3248f7a69252439ba3d6e6">Frankfurt</rs>, <date when-iso="1856-12-04">4. Dezember 1856</date>
+                </title>
+            <title type="label">Justin Linde an Leo Thun, Frankfurt, 4. Dezember 1856</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p/>
+            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000D-F7EC-3</tei:idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D393</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Zurückkommend auf ein früheres Schreiben möchte der hessische Staatsrat
+                            Justin Linde dem Minister einen nicht näher genannten Kandidaten für
+                            einen Lehrstuhl der Deutschen Reichs- und Rechtsgeschichte vorschlagen.
+                            Linde hat diesen jungen Mann kürzlich persönlich kennengelernt. Er
+                            stammt aus einer adeligen Familie aus Westfalen, ist Katholik und hat
+                            seine Studien in Bonn und Berlin absolviert. Linde schreibt, dass diesem
+                            durch seine ausgezeichneten Studienergebnisse in Preußen alle Türen
+                            offen stünden, obschon er Katholik sei. Daher müsse man zwar rasch, aber
+                            im Verborgenen handeln. Linde glaubt, dass er keine unbescheidenen
+                            Ansprüche stellen werde, allerdings wohl nicht dazu zu bewegen sei, nach
+                            Krakau oder Pest zu gehen. Linde betont außerdem, dass der Abschluss des
+                            Konkordates den Wunsch des jungen Mannes, in Österreich eine Stelle zu
+                            erlangen, verstärkt habe. In einem beiliegenden Schreiben wird Emil
+                            Rösslers Verhalten in der Frankfurter Paulskirche geschildert. Der
+                            Schreiber geht dabei besonders auf dessen Verhalten bei der Kaiserwahl
+                            ein, von der sich Rössler – auch wenn öffentlich das Gegenteil
+                            verlautete – enthalten hatte. Die Gründe dafür kann der Schreiber nicht
+                            ermitteln. Ob Rössler Anhänger der Gothaer Partei sei, kann der
+                            Schreiber ebenfalls nicht sagen, allerdings pflege Rössler Umgang mit
+                            Anhängern dieser Gruppe. Über Rösslers wissenschaftliche Leistungen will
+                            er weitere Erkundigungen einziehen. </p>
+                    </msContents>
+                    <physDesc>
+                        <p>Beilage: <ref target="#D393_1">Bemerkungen über Emil Rössler von
+                                unbekannter Hand</ref>.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#linde-justin">Justin Linde</persName>
+                    <date when-iso="1856-12-04">4. Dezember 1856</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#thun-hohenstein-leo">Leo Thun</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Universität</term>
+                    <term>Rechtswissenschaften</term>
+                    <term>Rechtsgeschichte</term>
+                    <term>Konkordat</term>
+                </index>
+                <p>Frankfurt, den 4. Dezember 1856</p>
+                <p>Schon in einem früheren gehorsamsten Schreiben habe ich mir die Freiheit
+                    genommen, Eurer Excellenz vorzutragen, daß ich einige tüchtige junge Männer zu
+                    Professoren für deutsches Recht und deutsche Reichs- und Rechtsgeschichte, so
+                    wie für canonisches Recht vorzuschlagen im Stande sei. Wiewohl ich darauf ohne
+                    hohe Entschließung geblieben, so halte ich mich doch, durch das Schreiben<note>
+                        <ref target="thun/thun-korrespondenz/Oesterreichische-Nationalbibliothek/thun-an-rechberg_1855-12-26_CA910.xml">Vgl. Leo Thun an Bernhard Rechberg-Rothenlöwen, 26. Dezember 1855.
+                        </ref>
+                    </note> Eurer Excellenz an den Herrn <rs type="person" ref="#rechberg-rothenloewen-bernhard" key="rechberg-rothenloewen-bernhard">Grafen Rechberg</rs>,
+                    verpflichtet, darauf um so mehr zurückzukommen, als es sich ja nicht blos darum
+                    handeln kann, Bedenklichkeiten zu erregen, sondern auch Besseres
+                    vorzuschlagen.<lb/>Kürzlich hatte ich Gelegenheit, die nähere Bekanntschaft
+                    eines jungen Gelehrten zu machen, der, katholischer Religion, aus einer alten
+                    adlichen Familie <rs type="place" subtype="region" key="westfalen" ref="#place_2652fd27a2fa326711df5192229fd847">Westfalens</rs> stammend, die jetzt
+                    am Rheine lebt, und der in <rs type="place" subtype="country" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs>, <rs type="org" ref="#org_0040" key="universitaet-bonn">Bonn</rs> und <rs type="org" ref="#org_0027" key="universitaet-berlin">Berlin</rs> studirt und alle juristischen
+                    Examina und Vorbereitungen zum Staatsdienste mit Auszeichnung bestanden hat,
+                    eben im Begriffe steht, die Doctorwürde zu nehmen, um sich dann sofort dem
+                    Katheder zu widmen. Bei seinen gründlichen Kenntnissen, seinem sonst
+                    empfehlenden Äußern und vorzüglicher gesellschaftlicher Bildung, und da es ihm
+                    weder an vorzüglichem Vortrage noch an Empfehlungen fehlt, würde er in
+                        <rs type="place" subtype="country" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs>, trotz dessen, daß er ein sehr guter Katholik
+                    ist, schnell zum Ziele kommen; aber dann auch um so schwerer für einen
+                    auswärtigen Dienst zu acquiriren sein; weil ihn, der überhaupt ein ungewöhnlich
+                    honetter Mann ist, dann noch Pflichten der Dankbarkeit und Erwiederung des
+                    Vertrauens an den Beruf in seinem nächsten Vaterlande enger binden dürften.
+                    Dieser Herr wird etwa 28 Jahre alt sein, und ich kann dafür einstehen, daß er
+                    den Erwartungen ungefähr in derselben Weise, wie Professor <rs type="person" ref="#schulte-friedrich" key="schulte-friedrich">Schulte</rs> in <rs type="org" ref="#org_0017" key="universitaet-prag">Prag</rs> entsprechen dürfte. Dabei hat seine
+                    ganze äußere Erscheinung etwas sehr Edles. Seit in der österreichischen
+                    Monarchie durch das Concordat alle Augen auf das Kaiserreich gerichtet sind,
+                    leuchtet auch bei diesem Herrn der Wunsch durch, an einer österreichischen
+                    Universität einen Wirkungskreis angewiesen zu bekommen, und ich zweifle nicht
+                    daran, daß wenn ich ihm bestimmte Aussichten eröffnen könnte, er jetzt noch sie
+                    mit großem Danke annehmen würde. Um eine förmliche Bewerbung darf ich ihn nicht
+                    angehen, weil, wenn dieses verlautete, und er keine sicheren Aussichten in
+                        <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> hätte, schon der Versuch
+                    ihm demnächst in <rs type="place" subtype="country" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs> Mißtrauen und damit Hindernisse
+                    bereiten würde.<lb/>Da ich nun für diesen Herrn in jeder Hinsicht die ganze
+                    Bürgschaft dafür, daß er eine wahre Acquisition für den kaiserlichen Dienst sein
+                    wird, übernehmen kann, so bitte ich Eure Excellenz ganz gehorsamst, mir eröffnen
+                    zu wollen: ob und welche Aussichten und an welche Universität ich demselben
+                    eröffnen darf. Daß er keine unbescheidenen Ansprüche macht, davon bin ich im
+                    Voraus gewiß, nur zweifle ich, daß er auf eine Anstellung in <rs type="org" ref="#org_0008" key="universitaet-pest">Pesth</rs> oder <rs type="org" ref="#org_0023" key="universitaet-krakau">Krakau</rs> leicht eingehen würde.</p>
+                <p>Dr. Linde</p>
+                <p/>
+                <div type="enclosure" xml:id="D393_1">
+                    <p>Was Herrn <rs type="person" ref="#roessler-emil" key="roessler-emil">Dr. Rößler</rs> anbetrifft, so
+                        dürfte es auf einen Irrthum beruhen, daß derselbe für die Wahl des <rs type="person" ref="#friedrich-wilhelm-IV" key="friedrich-wilhelm-IV">Königs von Preußen</rs> zum deutschen
+                        Kaiser gestimmt habe. Dafür, daß die Kaiserwürde einem Fürstenhause erblich
+                        übertragen werden solle, hat <rs type="person" ref="#roessler-emil" key="roessler-emil">Dr.
+                            Rößler</rs> allerdings gestimmt; aber bei der Kaiserwahl selbst,
+                        hat er ausdrücklich erklärt, nicht zu wählen. Überhaupt hat er in der
+                        Nationalversammlung in <rs type="place" subtype="place" ref="#place_e9cd6cbbbc3248f7a69252439ba3d6e6">Frankfurt</rs> keine irgend
+                        bemerkbar gewordene active Thätigkeit an den Tag gelegt. Er kommt bei
+                        Gelegenheit der Verhandlung über die österreichische-slavische Frage in der
+                        29. Sitzung am 1. Juli 1848 als Redner auf der Tribüne vor, wo er nichts
+                        Gefährliches vorgebracht hat. Sodann war er Schriftführer der 9.
+                        Abtheilung.<lb/>Hiernach kann das Benehmen <rs type="person" ref="#roessler-emil" key="roessler-emil">Rößlers</rs> bei der Abstimmung über die Kaiserwahl nicht schwer
+                        gegen ihn in die Wagschale fallen, und es dürfte höchstens der Vermuthung
+                        Raum geben, daß er die politische Bedeutung der Frage: ob die
+                        Nationalversammlung berechtigt war, einen Kaiser zu wählen? nicht begriffen
+                        hat, weil er durch seine Abstimmung bis zur wirklichen Wahl mit den
+                        Kaisermachern allerdings gemeinschaftliche Sache machte und sich so gerirte,
+                        als wenn die Nationalversammlung berechtigt wäre zu wählen; aber gleichwohl
+                        bei der Wahl selbst ausdrücklich erklärte: ich wähle nicht. Aus welchem
+                        Grunde diese letztere, äußerlich ganz correkte Haltung von ihm eingehalten,
+                        bleibt freilich ungewiß, da er nicht, wie so viele andere, darüber eine
+                        ausdrückliche Erklärung in das Protokoll niedergelegt hat.<lb/>Davon
+                        verschieden ist nun aber der Punkt: ob der Kandidat aus der Gothaischen
+                        Partei, und ob er mit Bewußtsein in derselben gestanden habe; und dem
+                        Einfluße der wissenschaftlichen Männer dieser Parthei noch nicht entrückt
+                        sei? Wenn das der Fall wäre, dann würde eine Anstellung allerdings eine
+                        Wirksamkeit vermitteln, die das grade Gegentheil bewirkte und das Lehrfach
+                        der deutschen Reichs- und Rechtsgeschichte bietet dafür nach jeder Richtung
+                        die passendste und eindringlichste Gelegenheit. <lb/>Gab es im Frankfurter
+                        Parlamente auch dem Namen nach noch keine Gothaer Parthei, so bestanden doch
+                        die Grundsätze und die Vertreter, die man später so bezeichnete. Und da läßt
+                        sich nicht in Abrede stellen, daß der Candidat in seinen Abstimmungen bei
+                        Gelegenheit der Kaisermacherei sich zu jenen Grundsätzen geneigt hat; ob mit
+                        Bewußtsein oder aus Mangel an Einsicht oder Interesse; wer kann das
+                        wissen.<lb/>Die Übersiedlung nach <rs type="place" subtype="place" ref="#place_bb924613631a24955ccdde82d6af5cc2">Göttingen</rs>, in die
+                        Nähe des dortigen Publizisten <rs type="person" ref="#zachariae-heinrich-albert" key="zachariae-heinrich-albert">Zacharia</rs>, einem der entschiedensten Gothaer, der mehr wie
+                        irgend ein anderer die Ansichten dieser Parthei, wissenschaftlich zu
+                        vertreten und zu verbreiten bemüht gewesen ist, läßt nicht weniger als eine
+                        Empfehlung durch <rs type="person" ref="#savigny-friedrich-carl" key="savigny-friedrich-carl">Savigny</rs>
+                        vermuthen, daß die gothaische Parthei ihren Sauerteig einzumischen die
+                        unveränderte Absicht hat. Seitdem es einem Haupte der Partei, das bei seinem
+                        Ausscheiden aus dem Frankfurter Parlamente öffentlich vor ganz
+                            <rs type="place" subtype="country" ref="#place_162b390989a8678640067963acb65109">Deutschland</rs> zu Protokoll erklärte:<lb/>„Daß er zu
+                        seinem tiefen Schmerze erfahre, daß die Hoffnungen des deutschen Volkes,
+                        welche so nahe ihrer Erfüllung gewesen die mächtigste deutsche Krone
+                            (<rs type="place" subtype="country" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs>) unter Beistimmung von neunundzwanzig
+                        deutschen Regierungen an der Spitze des neuen deutschen Bundesstaates zu
+                        sehen, zu scheitern drohe; und daß er im Angesichte der höchsten Gefahren,
+                        aus der Versammlung austrete;“<lb/>gelungen ist, in <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs>, trotz solchen Erklärungen eine
+                        hervorragende Stelle als Ausländer und Gothaer des reinsten Wassers zu
+                        erlangen, sind die Gutgesinnten in <rs type="place" subtype="country" ref="#place_162b390989a8678640067963acb65109">Deutschland</rs> allerdings
+                        sehr stutzig geworden, und man kann es der gothaischen Parthei nicht
+                        verdenken, wenn sie mit neuen Hoffnungen auf Succeß belebt ist und ganz und
+                        gar Nichts darin findet, einen geborenen Österreicher jeder Gesinnung als
+                        acceptabel zu betrachten. Aber wer die Macht und Verantwortlichkeit hat und
+                        wen die Folgen belästigen, wie einen Kultusminister, der hat allen Grund nur
+                        doppelt vorsichtig zu sein und das Vertrauen der treuen Anhänger correcter
+                        Grundsätze stets solchen Erfahrungen gegenüber neuaufzurichten.<lb/>Über des
+                        fraglichen Kandidaten Wirksamkeit und Richtung ziehe ich übrigens noch
+                        genauere Notizen ein und werde, sobald ich sie erhalten, mich beeilen,
+                        solche nachzusenden. Diese vorstehenden Bemerkungen als allgemeine, wollte
+                        ich aber dadurch nicht in ihrer Mittheilung aufhalten.</p>
+                </div>
+            </div>
+        </body>
+    </text>
+
+</TEI>

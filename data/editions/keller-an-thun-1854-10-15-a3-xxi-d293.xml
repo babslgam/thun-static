@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="keller-an-thun-1854-10-15-a3-xxi-d293.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/keller-an-thun-1854-10-01-a3-xxi-d287.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/ketteler-an-thun-1860-01-17-a3-xxi-d550.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#keller-friedrich-ludwig" role="sender:gelehrter">Friedrich
+                        Ludwig Keller</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_d35a02eb49149450fb2fffc6e467eb37">Berlin</rs>,
+                        <date when-iso="1854-10-15">15. Oktober 1854</date>
+                </title>
+            <title type="label">Friedrich Ludwig Keller an Leo Thun, Berlin, 15. Oktober 1854</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DB80-D</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D293</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Jurist Friedrich Ludwig Keller übersendet, wie in seinem letzten
+                            Brief angekündigt, einige seiner Werke. Keller will dem Minister auch
+                            andere Werke schicken, falls dieser Interesse daran hat.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Verweis auf A3 XXI D287.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#keller-friedrich-ludwig">Friedrich Ludwig Keller</rs>
+                    <settlement ref="#place_d35a02eb49149450fb2fffc6e467eb37">Berlin</settlement>
+                    <date when-iso="1854-10-15">15. Oktober 1854</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Rechtswissenschaften</term>
+                </index>
+                <p>Euer Excellenz,</p>
+                <p>gestatte ich mir hierbei unter ehrerbietiger Bezugnahme auf mein gehorsamstes
+                        <ref target="thun/thun-korrespondenz/tetschen/keller-an-thun-1854-10-01-a3-xxi-d287.xml">vom 4. dieses Monats</ref> [sic!]<note xml:id="note_1">Vgl. Friedrich
+                        Ludwig Keller an Leo Thun. Berlin, 1. Oktober 1854.</note> ein Exemplar
+                    meiner Semestria ad M. Tullium Ciceronem<note xml:id="note_2">
+                        <ref target="http://books.google.at/books?id=tcmtaaaaqaaj&amp;dq=semestria+keller+tullian&amp;hl=de&amp;source=gbs-navlinks-s">Friedrich Ludwig Keller, Semestrium ad Tullium Ciceronem libri sex., 3
+                            Bände, Zürich 1842–1850</ref>.</note>, auch meines Römischen
+                        Civilprozesses<note xml:id="note_3">
+                        <ref target="http://books.google.at/books?id=bwzfaaaacaaj&amp;dq=ludwig+keller+civilprocess&amp;hl=de&amp;source=gbs-navlinks-s">Ludwig Friedrich Keller, Der römische Civilprocess und die Actionen in
+                            summarischer Darstellung zum Gebrauch bei Vorlesungen, Leipzig
+                            1852</ref>.</note>, endlich drei Exemplare des von Euer Excellenz
+                    erwähnten Grundrisses der Encyclopädie und Methodologie<note xml:id="note_4">
+                        <ref target="http://books.google.at/books?id=bvmuaaaaqaaj&amp;hl=de&amp;source=gbs-navlinks-s">Friedrich Ludwig Keller, Grundriss zu Vorlesungen über Encyclopädie und
+                            Methodologie der Rechtswissenschaft, Berlin 1853</ref>.</note>
+                    gehorsamst zu übersenden und bin ich von Herzen gerne bereit weitere Exemplare
+                    zumal des letzten, welches sich nicht im Buchhandel befindet, nachzusenden, wenn
+                    es für Euer Excellenz irgend welches Interesse haben sollte.</p>
+                <p>Euer Excellenz</p>
+                <p>ganz gehorsamster<lb/>Dr. F. L. Keller</p>
+                <p>Berlin, 15. October 1854</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

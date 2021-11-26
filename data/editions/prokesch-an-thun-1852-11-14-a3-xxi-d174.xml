@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="prokesch-an-thun-1852-11-14-a3-xxi-d174.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/professorenkollegium-wien-an-thun-1860-10-21-a3-xxi-d623a9.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/prokesch-osten-an-thun-1851-10-03-a3-xxi-d125.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#prokesch-osten-anton" role="sender:beamter">Anton
+                        Prokesch-Osten</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_d35a02eb49149450fb2fffc6e467eb37">Berlin</rs>,
+                        <date when-iso="1852-11-14">14. November 1852</date>
+                </title>
+            <title type="label">Anton Prokesch-Osten an Leo Thun, Berlin, 14. November 1852</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DAD5-F</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D174</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der österreichische Gesandte in Berlin, Anton Prokesch-Osten, übersendet
+                            Leo Thun eine Ausgabe des „Preußischen Wochenblatt zur Besprechung
+                            politischer Tagesfragen“ und weist besonders auf den Artikel "Einfluß
+                            der politischen Reaktion auf Staat und Kirche" hin. Darin wird die Frage
+                            des Verhältnisses von Kirche und Staat in Preußen in jüngerer
+                            Vergangenheit sowie das Projekt einer Union der reformierten und der
+                            lutherischen Kirche besprochen. Hierzu wird auch ein historischer Abriss
+                            dieses Vorhabens gegeben. Der Autor äußert sich außerdem kritisch dazu,
+                            dass die Union durch die unversöhnliche Haltung beider Gruppen nicht
+                            zustande kommen könne. Prokesch-Osten pflichtet in seinem beiliegenden
+                            Schreiben dem Autor bei und weist insbesondere darauf hin, dass man die
+                            politischen Absichten, die hinter der Schaffung einer Union stehen
+                            würden, beachten müsse.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Beilage: „Preußisches Wochenblatt zur Besprechung politischer
+                            Tagesfragen“, Nr. 50, Berlin 13. November 1852.<note xml:id="note_1">Der
+                                Zeitungsartikel wurde hier nicht transkribiert.</note>
+                        </p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#prokesch-osten-anton">Anton Prokesch-Osten</rs>
+                    <settlement ref="#place_d35a02eb49149450fb2fffc6e467eb37">Berlin</settlement>
+                    <date when-iso="1852-11-14">14. November 1852</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                    <term>Protestanten</term>
+                    <term>Preußen</term>
+                </index>
+                <p>Hochverehrter Graf,</p>
+                <p>in so ferne der heutige Zwiespalt und Krieg der mit der hiesigen kirchlichen
+                    Union dissentierenden Lutheraner und Reformirten ein interessantes Stück des
+                    Entwicklungsganges des Protestantismus überhaupt ist, verdient der anliegende
+                    Artikel Aufmerksamkeit.<lb/>Es ist thatsächlich wahr, denn so und nicht anders
+                    tritt die Sache in die Wirklichkeit. Der Dissensus allein ist im heutigen
+                    Oberkirchenrathe vertreten, nicht der Consensus, und diese aus der Natur des
+                    Protestantismus hervorgegangene Erscheinung wird ihr Recht behaupten. Die Union,
+                    an sich das Vernünftigere, Christlichere, ist eben auf dieser Basis eine
+                    Unmöglichkeit und könnte nur auf derjenigen des Indifferentismus fußen, wo sie
+                    dann wieder keinen Werth hätte. Bemerkenswerth ist übrigens noch der politische
+                    Gebrauch, den die Partei von der Union zu machen gedenkt und durch eine Stelle
+                    des Artikels andeutet.</p>
+                <p>Hochachtungsvoll</p>
+                <p>Prokesch</p>
+                <p>Berlin, 14. Nov. 1852</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

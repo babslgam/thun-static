@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-celakovsky-1851-07-30-ca1061.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-celakovsky-1850-11-16-ca1058.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-de-luca-02-01-ca642.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#celakovsky-frantisek-ladislav" role="recipient">Frantisek
+                        Ladislaus Čelakovšký</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1851-07-30">30. Juli 1851</date>
+                </title>
+            <title type="label">Leo Thun an Frantisek Ladislaus Čelakovšký, Wien, 30. Juli 1851</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA40-7</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Tschechisches Literaturarchiv [Literární archiv Památníku
+                            národního písemnictví]</institution>
+                        <repository>Nachlass Čelakovšký</repository>
+                        <idno>250/42</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun freut sich, dass der Slawist Frantisek Čelakovský den an ihn
+                            herangetragenen Auftrag zur Zusammenstellung eines Lesebuchs für die
+                            Gymnasien übernehmen wird. Thun zeigt sich überzeugt davon, dass
+                            Čelakovšký ein Werk schaffen werde, das den Bedürfnissen der
+                            tschecho-slowakischen Jugend vollkommen gerecht werde.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Tschechisch.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when-iso="1851-07-30">30. Juli 1851</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#celakovsky-frantisek-ladislav">Frantisek Ladislaus Čelakovšký</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Gymnasien</term>
+                    <term>Schulbücher</term>
+                    <term>Nationalismus</term>
+                </index>
+                <p>Eure Hochwürden!<lb/>Vážený Pane!</p>
+                <p>S potěšením vyrozuměl jsem z listu Vašeho ochotu, s níž jste se v úlohu skrze
+                    školního radu Venziga jménem mým na Vašnost vzloženou uvázati ráčili; i koje se
+                    pevnou důvěrou, že z rukou Vašich vyjde dílo, které dokonale vyhoví potřebám
+                    naší mládeže československé. Přeji Vašnosti všelikého k němu zdaru.<lb/>Ve Vídni
+                    dne 30. Července 1851.</p>
+                <p>Vašnosti<lb/>povolný<lb/>h. Leo Thun.</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

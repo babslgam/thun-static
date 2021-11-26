@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="lonyay-an-szogyeny-1860-04-17-a3-xxi-d573.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/lohmar-an-thun-1851-09-03-a3-xxi-d121.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/lorenz-an-thun-1860-01-07-a3-xxi-d546.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#lonyay-meinhardt" role="sender:beamter">Meinhardt
+                        Lónyay</rs> an <rs type="person" ref="#szoegyeny-marich-ladislaus" role="recipient:beamter">Ladislaus
+                        Szögyeny</rs>
+                    <lb/>
+                    <rs type="place" subtype="place">Pest</rs>, <date when-iso="1860-04-17">17. April 1860</date>
+                </title>
+            <title type="label">Meinhardt Lónyay an Ladislaus Szögyeny, Pest, 17. April 1860</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DB45-1</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D573</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Meinhardt Lónyay, Unterstaatssekretär im Finanzministerium, setzt sich
+                            für eine Verständigung zwischen der Regierung und den Protestanten in
+                            Ungarn ein. Er, Kolomon Tisza, Nikolaus Vay und andere sind überzeugt,
+                            dass ein Ausgleich nur zustande kommen könne, wenn eine
+                            Superintentendentialversammlung abgehalten werden dürfte. Jede
+                            Superintendenz sollte Mitglieder ernennen, die zu einem Generalkonvent
+                            zusammentreten könnten. Dies sei der einzige Weg, um die bestehenden
+                            Differenzen zu lösen, so Lónyay.<lb/>In den Depeschen wird über die
+                            mögliche Abhaltung der Superintendentialversammlungen und einzuholende
+                            Bewilligung durch den Ministerpräsidenten korrespondiert.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Eigenhändige Abschrift von Leo Thun.<lb/>Beilagen:<lb/>
+                            <ref target="#D573_1">Depeschenwechsel zwischen Meinhardt Lónyay und
+                                Ladislaus Szögyeny-Marich, 18. April 1860. Abschrift durch Leo
+                                Thun</ref>.<lb/>
+                            <ref target="#D573_2">Depesche von Meinhardt Lónyay
+                                an Ladislaus Szögeny-Marich, 19. April 1860</ref>.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                    <term>Protestanten</term>
+                </index>
+                <p>
+                    <rs type="person" ref="#lonyay-meinhardt">M[einhardt] v. Lónyay</rs> an <rs type="person" ref="#szoegyeny-marich-ladislaus">Szögyinyi</rs>. ohne Datum
+                    (<rs type="place" subtype="place" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pesth</rs> 17. (?) April 1860)</p>
+                <p>Heute kam hier <rs type="person" ref="#tisza-kolomon">Tisza</rs> an. Ich habe mich
+                    mit ihm berathen. Wir sind zur Überzeugung gelangt, daß der einzig mögliche Weg
+                    zur Schlichtung der bestehenden Differenzen dadurch angebahnt werden könnte,
+                    wenn wir in der am 20. dieses Monats in <rs type="place" subtype="place" ref="#place_ae8effcf53078ebe204e349a55546ca8">Debreczin</rs> abzuhaltenden Superintendentialversammlung die
+                    Proposition machen, jede Superintendenz möge Provisorische Mitglieder
+                    bezeichnen, die sobald die hohe Regierung eine Besprechung über die Art und
+                    Weise des möglichen Ausgleiches oder die Berathung wegen der abzuhaltenden
+                    Synode wünscht, - die Vertreter der Superintendenzen allsogleich zusammen kommen
+                    können.<lb/>Ich zweifle nicht, daß alle Superintendenzen unsere Proposition
+                    annehmen werden, und da bis Ende Mai alle Superintendenzen ihre Sitzungen
+                    abzuhalten willens sind, könnten schon, wenn gewünscht, die Vertreter im Juni
+                    zusammen kommen.<lb/>Dies ist der einzige Weg, auf dem nach unseren Begriffen
+                    die Schlichtung der Differenzen glücklich zu vollbringen wir im Stande wären.
+                    Daß <rs type="person" ref="#vay-nikolaus">V[ay] Miklos</rs> und andere maßgebende
+                    Persönlichkeiten so denken, davon bin ich überzeugt.<lb/>Kömmt auf diesem Wege
+                    eine Synode zu Stande, dann ist sicher, daß die Synode das allerhöchste Patent
+                    als eine hohe Resolution auf die Beschlüsse der <rs type="place" subtype="place" ref="#place_8fa012f3d7caecd67c332e0f803e0a5c">Ofner</rs> Synode in Berathung ziehen wird und dadurch eine dauernde
+                    Beruhigung erfolgt.<lb/>Da wir in der jetzt abzuhaltenden
+                    Superintendentialversammlung die Ernennung der Bevollmächtigten durchführen
+                    wollen, würde ich's sehr bedauern, wenn die Versammlung abzuhalten, mit Gewalt
+                    verhindert würde, da dadurch der einzige mögliche Weg des Ausgleichs
+                    abgeschnitten wäre. etc.</p>
+                <div type="enclosure" xml:id="D573_1">
+                    <p>
+                        <hi rend="ul">telegraphische Depesche von Szögyenyi an Lónyay, 18.
+                        April</hi>
+                    </p>
+                    <p>Ich bin ermächtigt zu erklären, daß wenn um die Erlaubnis zur Abhaltung des
+                        Superintendentialkonvents in <rs type="place" subtype="place" ref="#place_ae8effcf53078ebe204e349a55546ca8">Debreczin</rs>
+                        zu dem in deinem Briefe von gestern angedeuteten Zwecke in telegraphischem
+                        Weg beim <rs type="person" ref="#rechberg-rothenloewen-bernhard">Herrn
+                            Ministerpräsidenten</rs> angehalten würde, die Gestattung hiezu
+                        keinem Anstande unterliegen werde. Darin[?] von wem diese Bitten ausgingen
+                        und dürften keine Schwierigkeiten gefunden werden.</p>
+                    <p>
+                        <hi rend="ul">Antwort am selben Abend</hi>
+                        <lb/>Depesche erhalten. Morgen
+                        nachmittags um 6 Uhr werde jedenfalls telegraphieren. Ob um die Abhaltung
+                        angesucht wird, weiß ich nicht. Dafür aber stehe ich, daß die im Briefe
+                        geschriebene Motion gemacht wird. Morgen hoffe ich den günstigen Beschluß
+                        der Vorberathung telegraphisch mitzutheilen.</p>
+                </div>
+                <div xml:id="D573_2" type="enclosure">
+                    <p>Reichsrath Szögyeny Wien, Wollzeile, Federlhof.<lb/>Einzelne fühlen sich
+                        nicht berechtigt das Gesuch stellen. Morgen 3 weltliche und drei geistliche
+                        gewählt. <hi rend="ul">Motion</hi>
+                        <note xml:id="note_1">Anmerkung von fremder Hand: Ich hoffe, die Motion wird
+                            sich auf Stellung des Ansuchens beziehen.</note> macht <rs type="person" ref="#balogh-peter">Balogh</rs>. Ruhe und Ordnung gesicherte[sic!]
+                        brieflich Näheres</p>
+                    <p>Lonyay</p>
+                </div>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

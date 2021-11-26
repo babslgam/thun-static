@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-bach-od-ca936.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-bach-od-ca934.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-bach-od-ca937.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#bach-alexander" role="recipient">Alexander
+                        Bach</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">o. O. [Wien]</rs>, <date when="1851-04">[April 1851]</date>
+                    <note xml:id="note_1">Das Datum ist auf
+                        dem Blatt mit Bleistift verzeichnet, lässt sich aber nicht weiter
+                        verifizieren.</note>
+                </title>
+            <title type="label">Leo Thun an Alexander Bach, o. O. [Wien], [April 1851]</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA49-E</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Österreichisches Staatsarchiv</institution>
+                        <repository>Allgemeines Verwaltungsarchiv</repository>
+                        <idno>Nachlass Bach, Karton 11</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun lädt Alexander Bach zu einem gemeinsamen Treffen mit dem
+                            Justizminister Anton Schmerling ein.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">o. O. [Wien]</settlement>
+                    <date>[April 1851]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#bach-alexander">Alexander Bach</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Verwaltung</term>
+                    <term>Ministerkonferenz</term>
+                </index>
+                <p>Der <rs type="person" ref="#schmerling-anton">Justizminister</rs> erklärt sich
+                    morgen oder übermorgen zu jeder beliebigen Stunde zu einer Zusammentretung
+                    bereit. Auch ich bin mit jeder Stunde die Ihnen genehm ist einverstanden. Ich
+                    lade Sie demnach ein morgen um 1 Uhr mit uns bei dem <rs type="person" ref="#schmerling-anton">Justizminister</rs> zusammenzukommen, mit der
+                    Bitte, – wenn Ihnen diese Zeit nicht genehm sein sollte, eine andere zu
+                    bestimmen.</p>
+                <p>Aufrichtig der Ihrige<lb/>Thun</p>
+                <p>Samstag Mittag</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

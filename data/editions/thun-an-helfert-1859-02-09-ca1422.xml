@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-helfert-1859-02-09-ca1422.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1857-08-22-ca1425.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1859-09-19-ca1427.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#helfert-joseph-alexander" role="recipient">Joseph Alexander
+                        Helfert</rs>
+                    <lb/>o. O., <date when-iso="1859-02-08">8. Februar
+                    1859</date>
+                </title>
+            <title type="label">Leo Thun an Joseph Alexander Helfert o. O., 8. Februar 1859</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA14-9</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Mährisches Landesarchiv [Moravský zemský archiv v
+                            Brně]</institution>
+                        <repository>G 44, Nachlass Helfert</repository>
+                        <idno>Karton 26, Thun Lev</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun schickt Joseph Alexander Helfert einen Entwurf Andreas
+                            Meschutars für ein neues Statut der Kirche und des Kollegs Santa Maria
+                            dell'Anima in Rom. Thun glaubt, dass das Statut in dieser Form bewilligt
+                            werden könne. Er bittet Helfert jedoch, in einem Brief Alois Flirs aus
+                            Rom zu kontrollieren, ob dieser wünsche, dass ein deutscher Bischof als
+                            Visitator der Anima berufen werde.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <date when-iso="1859-02-08">8. Februar
+                    1859</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#helfert-joseph-alexander">Joseph Alexander Helfert</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Santa Maria dell'Anima</term>
+                    <term>Rom</term>
+                    <term>Kultus</term>
+                </index>
+                <p>beiliegend <rs type="person" ref="#meschutar-andreas">Meschutars</rs> Entwurf über
+                    die nun schon dringend gewordene Angelegenheit der <rs type="org" ref="#org_0062">Kirche dell'anima</rs>. Im Wesentlichen
+                    wird dagegen kein Anstand sein, und fällt es mit <rs type="person" ref="#flir-alois">Flirs</rs> Anträgen zusammen. Nur scheint mir, daß dieser in einem
+                    Brief den Wunsch ausdrückte, daß <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs>
+                    einen deutschen Bischof als Visitator schicke, worüber ich mir bei Ihnen
+                    Aufklärung erbitte. Die Geschichte ist schon dringend geworden.</p>
+                <p>Thun</p>
+                <p>8 2 / 9</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

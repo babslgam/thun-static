@@ -1,0 +1,114 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="clam-martinic-an-thun_1853-05-19_a3-xxi-d206.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#clam-martinic-heinrich-jaroslav" key="clam-martinic-heinrich-jaroslav" role="sender:verwandter">Heinrich Clam-Martinic</rs> an <rs type="person" ref="#thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>o. O., <date when-iso="1853-05-19">19.
+                        Mai [1853?]<note>Der Brief ist im Nachlass dem Jahr 1853
+                            zugeordnet.</note>
+                    </date>
+                </title>
+            <title type="label">Heinrich Clam-Martinic an Leo Thun o. O., 19. Mai [1853?]</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p/>
+            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000D-F7EE-1</tei:idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D206</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Heinrich Clam-Martinic berichtet Leo Thun über den Pfarrer von Mallowitz,
+                            der kommunistische und anarchistische Propaganda von der Kanzel herab
+                            verbreitete. Außerdem berichtet er von der Entlassung des
+                            Bezirksrichters in Schlan. Clam-Martinic nimmt diesen Fall dann zum
+                            Anlass, sich im Allgemeinen über mehrere Personalentscheidungen im
+                            Justizwesen zu beklagen und vermutet Vetternwirtschaft bzw. persönliche
+                            Feindschaften hinter diesen.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#clam-martinic-heinrich-jaroslav">Heinrich Clam-Martinic</persName>
+                    <date when-iso="1853-05-19">19.
+                        Mai [1853?] Der Brief ist im Nachlass dem Jahr 1853
+                            zugeordnet.</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#thun-hohenstein-leo">Leo Thun</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Verwaltung</term>
+                    <term>Kommunismus</term>
+                </index>
+                <p>19.5.[1853]</p>
+                <p>Lieber Leo,</p>
+                <p>besser spät als nie berichte ich Dir, daß bei der <rs type="place" subtype="place" key="prag" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prager</rs> Kreisregierung nur über den <rs type="place" subtype="place" key="mallowitz">Malkowitzer</rs> [Malovice] Pfarrer Verhandlungsakten
+                    vorkommen.<lb/>Im April <hi rend="ul">vorigen Jahres</hi> wurden sie an das
+                    Consistorium geleitet, ohne daß seither eine Antwort erfolgte. In der Zuschrift
+                    wird besonders auf seine anarchistischen und communistischen Ideen, mit denen er
+                    Propaganda zu machen versuchte, dann darauf hingewiesen, daß er <hi rend="ul">von der Kanzel</hi> die Insaßen, die sich dem Zuge nach
+                        <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs> nicht anschloßen (mit dem bekanntlich auch
+                    Erpressungen und Angriff auf mein Eigenthum verbunden waren), gerügt und ihnen
+                    gesagt hat, vereint wären sie stark genug gewesen etc. etc. Auch wurde
+                    hervorgehoben, daß das Strafgericht als Motiv des Urtheils, womit die Insaßen,
+                    die sich eines Theils seiner Grundstücke bemächtigen wollten, freigesprochen
+                    wurden, angeführt hat, daß er selbst durch die Verbreitung der communistischen
+                    Ideen und durch die Aneiferung zu gleichen Eingriffen in fremdes
+                    (herrschaftliches) Eigenthum zu jenem Beginnen Anlaß gegeben habe. Dies ist in
+                    nuce der Inhalt dieser Zuschrift an das Consistorium.<lb/>
+                    <rs type="person" ref="#clam-martinic-selina" key="clam-martinic-selina">Mama</rs> hat mich neulich über die
+                    Angelegenheit des Bezirksrichters <rs type="person" ref="#pfeiffer" key="pfeiffer">Pfeiffer</rs>
+                    in <rs type="place" subtype="place">Schlan</rs> [Slaný] befragt. Ich habe nun erfahren, daß er
+                    ein durchaus braver, rechtlicher und gutgesinnter Mann ist. Er wurde infolge
+                    einer Visitation durch <rs type="person" ref="#strohbach-anton" key="strohbach-anton">
+                        <hi rend="ul">Strohbach</hi>
+                    </rs> de plano suspendirt. Es sollen ihm Rückstände
+                    und formelle Gebrechen und der Umstand zur Last gelegt worden sein, daß er einen
+                    Gerichtsdiener, der sich Unterschleife erlaubt haben soll, nicht über die bloße
+                    Weisung Strohbachs entlassen habe. Dafür kann ich aber nicht einstehen.<lb/>Was
+                    ich aber über den Bezirksrichter gesagt habe ist verläßlich; so auch, daß
+                        <rs type="person" ref="#strohbach-anton" key="strohbach-anton">Strohbach</rs> in
+                        <rs type="place" subtype="place">Schlan</rs> viel mit dem Postmeister und einem zweiten
+                    Lumpen in <rs type="place" subtype="place">Schlan</rs> conferirte, und daß dem Bezirksrichter
+                    das ganze Bandel aufsäßig ist, um den bekannten <rs type="person" ref="#moeller" key="moeller">
+                        <hi rend="ul">Möller</hi>
+                    </rs>, der horribile dictu k.k.
+                    Bezirksgericht-Adjunct in <rs type="place" subtype="place">Lann</rs> ist, an seine Stelle zu
+                    bringen; was der für ein Unheil wäre, ist gar nicht zu beschreiben. Es gehen
+                    überhaupt in der Justiz, in Personalsachen, wunderbare Dinge zu und der Genannte
+                    beim Oberlandesgericht und dessen Verwandter K… in <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>
+                    scheinen sich erbaulich in die Hände zu arbeiten.<lb/>Ich kann mich heute wieder
+                    nicht in weitere Gossip einlassen; A. [?] wird morgen schreiben. Nur sage
+                        <rs type="person" ref="#clam-martinic-selina" key="clam-martinic-selina">Mama</rs>, daß circa 40–50 fr
+                    mein Preis für das Firmcadeaux sei; ich habe geglaubt, es schon geschrieben zu
+                    haben. Die Firmung wird glaube ich nächster Tage sein, quod videant consules.
+                    Allen das Herzlichste.</p>
+                <p>Herzlich der Deine</p>
+                <p>Wie steht es mit der bewußten Prinzipienfrage[?]??</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-laube-1857-10-29-ca818.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-karajan-03-12-ca59.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-laube-1858-09-22-ca820.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#laube-heinrich" role="recipient">Heinrich
+                        Laube</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1857-10-29">29. Oktober 1857</date>
+                </title>
+            <title type="label">Leo Thun an Heinrich Laube, Wien, 29. Oktober 1857</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA08-7</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Österreichische Nationalbibliothek</institution>
+                        <repository>Handschriftenabteilung</repository>
+                        <idno>Autogr. 165/73-2</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun bittet den Direktor des Burgtheaters, Heinrich Laube, um den
+                            Text eines Lustspiels. Seine Verwandten möchten sich nämlich auf dem
+                            Land mit dem Stück erheitern, Thun konnte den Text des gewünschten
+                            Stücks jedoch nicht finden.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when-iso="1857-10-29">29. Oktober 1857</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#laube-heinrich">Heinrich Laube</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term/>
+                </index>
+                <p>Wien, den 29. Oktober 1857</p>
+                <p>Werther Herr Direktor!</p>
+                <p>Verwandte von mir wollen sich auf dem Lande, wenn auch nicht mit dramatischer
+                    Kunst, so doch mit einer Dilettanten-Komödie unterhalten und haben mich deshalb
+                    gebethen, ihnen schleunigst "Er ist nicht eifersüchtig!"<note xml:id="note_1">Gemeint ist: <ref target="http://books.google.at/books?id=c3suaaaayaaj&amp;hl=de&amp;source=gbs-navlinks-s">Alexander Elz, Er ist nicht eifersüchtig.</ref>
+                    </note> zu verschaffen.
+                    Vergeblich habe ich mich deshalb an <rs type="person" ref="#wallishausser-johann-baptist">Wallishauser</rs> gewendet, und wage es deshalb abermals Ihre Güte
+                    mit der Bitte in Anspruch zu nehmen, ob Sie mir wohl dieses Lustspiel für einige
+                    Wochen aus Ihrem Archive leihen wollten. Könnten Sie etwa gar die
+                    ausgeschriebenen Rollen zugleich anvertrauen, so wäre ich Ihnen um so
+                    dankbarer.</p>
+                <p>Mit ausgezeichneter Hochachtung</p>
+                <p>Ihr<lb/>ergebener<lb/>Graf Leo Thun</p>
+                <p>Ich bitte aber nicht etwa die Rollen <hi rend="ul">erst abschreiben</hi> zu
+                    lassen, denn meine Sendung soll wo möglich morgen schon abgehen.</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

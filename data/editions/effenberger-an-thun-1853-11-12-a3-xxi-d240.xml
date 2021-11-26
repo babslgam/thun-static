@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="effenberger-an-thun-1853-11-12-a3-xxi-d240.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/dunajewski-an-thun-1852-11-21-a3-xxi-d175.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/eingabe-der-oesterreichischen-buchhandler-1860-10-16-a3-xxi-d614.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#effenberger-franz-ferdinand" role="sender:beamter">Franz
+                        Effenberger</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_547ed8b517d6aa2705f2fd3b8eeae874">Pilsen</rs>,
+                        <date when-iso="1853-11-12">12. November 1853</date>
+                </title>
+            <title type="label">Franz Effenberger an Leo Thun, Pilsen, 12. November 1853</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DC7A-5</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D240</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Schulrat Franz Effenberger informiert den Minister über die Ursachen
+                            für den Rücktritt Anton Walderts von der Supplentenstelle am Gymnasium
+                            in Eger. Für sein Ausscheiden gab es mehrere Gründe: Zunächst behagte
+                            ihm das Umfeld am Gymnasium wenig, auch die zugeteilten Fächer freuten
+                            ihn nicht besonders. Den Ausschlag gab jedoch Walderts Ansicht, dass das
+                            Lehramt am Gymnasium nicht mit seiner religiösen Einstellung und seinem
+                            Priesterberuf vereinbar sei. Unter diesen Umständen schien es das Beste,
+                            Waldert nicht zum Bleiben zu überreden. Im zweiten Teil des Briefes
+                            bittet Effenberger um Unterstützung des Supplenten Grus. Dieser hat sich
+                            um die Bibliothekarstelle am Joanneum in Graz beworben. Er wäre jedoch
+                            auch nicht abgeneigt, sich der Lehramtsprüfung für das Fach der
+                            deutschen Sprache und Literatur zu unterziehen und sich dem Lehramt zu
+                            widmen. Für die Vorbereitung darauf würde er allerdings ein Stipendium
+                            des Ministeriums benötigen. Effenberger beschreibt Grus als talentiert
+                            und fleißig.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Verweis auf A3 XXI D236.</p>
+                        <p>Verweis auf A3 XXI D243.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#effenberger-franz-ferdinand">Franz Effenberger</rs>
+                    <settlement ref="#place_547ed8b517d6aa2705f2fd3b8eeae874">Pilsen</settlement>
+                    <date when-iso="1853-11-12">12. November 1853</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Gymnasien</term>
+                </index>
+                <p>Euere Excellenz!</p>
+                <p>Die besondere Huld, mit welcher Euere Excellenz den Pater <rs type="person" ref="#waldert-anton">Waldert</rs> auszuzeichnen geruhten, verpflichtet
+                    den ehrfurchtsvollst Gefertigten folgendes zu hoher Kenntnis gehorsamst zu
+                    berichten.<lb/>Pater <rs type="person" ref="#waldert-anton">Waldert</rs> war am 6.
+                    des letzten Monats behufs des Antrittes der ihm überwiesenen Supplirung in
+                        <rs type="place" subtype="place" ref="#place_c0c864044f97c6e7d7af03ea5a182d70">Eger</rs> angelangt. Als Tags darauf der ehrfurchtsvollst
+                    Gefertigte dort gleichfalls ankam, fand er <rs type="person" ref="#waldert-anton">Waldert</rs> in großem Zwiespalt darüber, ob er die Supplirung
+                    antreten oder wieder in die Seelsorge zurückkehren solle. Er hatte die Aufnahme
+                    seitens des Lehrkörpers kalt gefunden und es hatte ihm geschienen, als halte man
+                    den Eintritt eines Geistlichen für den eines Spions. Es gelang nicht ganz, ihn
+                    deshalb vollkommen zu beruhigen. Er führte ferner an, man habe ihm Lehrfächer
+                    zugetheilt, welche vorzutragen er sich von vornherein nicht anheischig gemacht
+                    habe. Der ehrfurchtsvollst Gefertigte ordnete nun die Vertheilung so, daß
+                        <rs type="person" ref="#waldert-anton">Waldert</rs> sich damit ganz zufrieden
+                    erklärte. Nichtsdestoweniger gab er dem andern Lager die bestimmte Erklärung ab,
+                    daß er in <rs type="place" subtype="place" ref="#place_c0c864044f97c6e7d7af03ea5a182d70">Eger</rs> nicht bleiben könne und sich sofort wieder
+                    zurück nach <rs type="place" subtype="place" ref="#place_6f7cc055d11cf2cbbaa605d5449eb44c">Görgau</rs> begebe. Es beängstige
+                    ihn, gab er an, besonders der Umstand, daß sein Bischof, dem er doch ganz wie
+                    ein Werkzeug angehöre, seinen Eintritt in das Gymnasiallehramt entschieden
+                    mißbilligt habe; er finde ferner, der Boden am <rs type="place" subtype="place" ref="#place_c0c864044f97c6e7d7af03ea5a182d70">Egener</rs> Gymnasium, ja wahrscheinlich an sämtlichen Gymnasien,
+                    sey für kirchliche Zwecke und für die Thätigkeit des für sie allein betenden
+                    Priesters so wenig günstig, daß er es für seine Pflicht halte, seinen
+                    gleichgesinnten Freund, Pater <rs type="person" ref="#weber">Weber von Ludy</rs>,
+                    von jeder Bewerbung um ein Gymnasiallehramt abzuhalten. Hätte es befremden
+                    müssen, daß <rs type="person" ref="#waldert-anton">Waldert</rs> innerhalb weniger
+                    Stunden zu diesem Urtheile über <rs type="place" subtype="place" ref="#place_c0c864044f97c6e7d7af03ea5a182d70">Eger</rs> und die Gymnasien im
+                    Allgemeinen gekommen, wenn er nicht sichtlich in einer ungemein erregten und
+                    unklaren Stimmung gewesen wäre? So entging es doch andererseits nicht, daß er
+                    sich, ungeachtet einer bedeutenden höhern Bildung im theologischen und
+                    historischen Fache, der ihm am Gymnasium erwartenden Aufgabe nicht ganz
+                    gewachsen fühlen mochte. Auch äußerte er in dieser Richtung selbst Besorgnisse,
+                    die zu zerstreuen bei seiner großen Gewissenhaftigkeit nicht gelingen wollte.
+                    Unter diesen Umständen schien es dem ehrfurchtsvollst Gefertigten das
+                    Angemessenste <rs type="person" ref="#waldert-anton">Walderts</rs> Rücktritt durch
+                    Zureden nicht weiter zu behindern. Bei aller Anerkennung seiner Begabung, seines
+                    Charakters und der idealen Geistesrichtung, die das Höchste besonders auf dem
+                    kirchlichen Gebiete anstrebt, erschien er doch nicht als der für die Schule
+                    geeignete Mann, die eine sorgfältige Durchbildung in den Elementen der
+                    Wissenschaft, praktische Tüchtigkeit, ausdauernde sehr mühevolle Arbeit im
+                    scheinbar Kleinen erfordert und zugleich sich damit bescheidet, daß sie Geist
+                    und Herz des Knaben und Jünglings eben nur zur Aufnahme des Höhern
+                    befähigt.<lb/>Auf das besondere Ansuchen des Supplenten <rs type="person" ref="#grus">Grus</rs> in <rs type="place" subtype="place" ref="#place_c0c864044f97c6e7d7af03ea5a182d70">Eger</rs> wagt es der ehrfurchtsvollst
+                    Gefertigte anläßlich dieses gehorsamsten Pflichtschreibens eine unterthänigste
+                    Bitte zu unterbreiten. <rs type="person" ref="#grus">Grus</rs> ist Bewerber um die
+                    am Johanneum in <rs type="place" subtype="place" ref="#place_6e00929feb7fb02acaa548f47f67c61c">Graz</rs> erledigte Bibliothekarstelle. Er
+                    würde sich sehr glücklich schätzen, diesen Dienstposten zu erhalten. Noch mehr
+                    aber, wenn ihm ein Staatsstipendium es möglich machte, in der Hauptstadt für die
+                    Lehramtsprüfung aus der deutschen Sprache und Literatur sich so vorzubereiten,
+                    wie er es in <rs type="place" subtype="place" ref="#place_c0c864044f97c6e7d7af03ea5a182d70">Eger</rs> ohne literarische Hilfsmittel und bei
+                    den alle seine Kraft fordernden Schularbeiten nicht imstande zu seyn behauptet.
+                        <rs type="person" ref="#grus">Grus</rs> wäre nach Talent, Lehreifer und nach
+                    seiner sonstigen Bildung einer solchen Begünstigung umso würdiger, als der
+                    Mangel an tüchtigen Lehrern der deutschen Sprache ungemein groß, ja das Lehrfach
+                    durch Geprüfte eigentlich gar nicht vertreten ist. Und gern möchte man
+                        <rs type="place" subtype="place" ref="#place_c0c864044f97c6e7d7af03ea5a182d70">Eger</rs> in diesem Fache einen tüchtigen, energischen
+                    Lehrer, wie es <rs type="person" ref="#grus">Grus</rs> werden dürfte, wünschen,
+                    theils wegen der örtlichen Sprachverhältnisse, theils wegen des Verlustes, den
+                        <rs type="place" subtype="place" ref="#place_c0c864044f97c6e7d7af03ea5a182d70">Eger</rs> durch <rs type="person" ref="#kawka-matthias">Kawka</rs> und <rs type="person" ref="#mitteis-heinrich">Mitteis</rs>
+                    erlitten hat. Der Verlust ist von den Schülern selbst tief empfunden. Leider
+                    wird der Ersatz kein Äquivalent werden.<lb/>Geruhen Euere Excellenz den Ausdruck
+                    der tiefsten Ergebenheit gnädig entgegenzunehmen, unter welcher der
+                    ehrfurchtsvollst Gefertigte sich zu zeichnen wagt.</p>
+                <p>Euere Excellenz!</p>
+                <p>Hochdero</p>
+                <p>gehorsamst ergebenster Diener<lb/>Effenberger</p>
+                <p>Pilsen, den 12. November 1853</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="simor-an-thun-1859-11-21-a3-xxi-d528.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/simor-an-thun-1858-06-18-a3-xxi-d455.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/simor-an-thun-1860-04-16-a3-xxi-d571.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#simor-johann" role="sender:kleriker">János Simor</rs> an
+                        <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_aac36cfc2853efb1e6932ef241d56c8b">Kroisbach</rs>, <date when-iso="1859-11-21">21. November 1859</date>
+                </title>
+            <title type="label">János Simor an Leo Thun, Kroisbach, 21. November 1859</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA74-D</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D528</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Bischof von Györ, János Simor, informiert Leo Thun über den Stand der
+                            Verhandlungen zur Besetzung der Domherrenstelle in der Diözese Rosenau.
+                            Anschließend berichtet er, dass eine jüdische Mutter zwei ihrer Kinder in Raab
+                            ausgesetzt habe, die nun, da niemand für die Kinder sorgen wollte, von
+                            einem Domherrn und einem Pfarrer aufgenommen wurden. Die Presse habe
+                            daraus einen Skandal gemacht und eine Parallele zu dem Fall des Jungen
+                            Edgardo Mortara in Bologna hergestellt. Schließlich empfiehlt Simor Thun
+                            nochmals Joseph Mayer, der demnächst bei Thun vorstellig werden
+                            wird.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#simor-johann">János Simor</rs>
+                    <settlement ref="#place_aac36cfc2853efb1e6932ef241d56c8b">Kroisbach</settlement>
+                    <date when-iso="1859-11-21">21. November 1859</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                    <term>Personalfragen</term>
+                </index>
+                <p>Euere Excellenz!</p>
+                <p>Gegen den <rs type="place" subtype="place" ref="#place_94d458421577f333e584bb7fb0f47e91">Rosenauer</rs> Vorschlag läßt sich
+                    nichts erinnern: nach den mir zugekommenen Nachrichten unterliegen die in Antrag
+                    gebrachten Individuen keinem Anstande, nur kann meines Erachtens die
+                    Domherrnstelle nicht eher besetzt werden als die Domprobstei. Der Bischof hätte
+                    daher die Verleihung der letzteren abzuwarten und die Dompfarre inzwischen
+                    verwalten zu lassen.<lb/>Die Mortarageschichte zu <rs type="place" subtype="place" ref="#place_1cb537e833afd985097ccfaddffb2ef3">Raab</rs>
+                    ist beschaffen wie folgt. Eine durchreisende Jüdin hat böswillig zwei Kinder
+                    zurückgelassen. Sie wurden von einem Juden angenommen, der sie jedoch bald der
+                    jüdischen Gemeinde abtreten wollte, diese war aber auch nicht gesonnen und auch
+                    nicht zu bewegen, für die Erhaltung und Erziehung der armen Kinder Sorge zu
+                    tragen. Die Vorsteher besagter Gemeinde haben vielmehr die Kinder auf das
+                    Stadthaus gebracht und sie dort dem Stadthauptmannsamte übergeben, von diesem
+                    veranlaßt übernahm aus Barmherzigkeit das eine Kind ein Domherr und das andere
+                    ein Pfarrer, die fraglichen Judenkinder sind übrigens bisher noch nicht getauft
+                    worden. Die Schlechtigkeit der jüdischen Mutter wurde von den Zeitungsschreibern
+                    benützt, um daraus eine Mortarageschichte zu schmieden.<lb/>
+                    <rs type="person" ref="#mayer-joseph">Dr. Joseph Mayer</rs>, welchen ich die Ehre hatte
+                    Euerer Excellenz zu <rs type="place" subtype="place" ref="#place_cde856980f41b5362c96273d9c84431d">Gran</rs> zu empfehlen, wird sich in der
+                    künftigen Woche Euerer Excellenz vorstellen. Ich erlaube mir das Curriculum
+                    vitae des gedachten ehrlichen Mannes beizuschließen und ihm mit dem besten
+                    Wissen und Gewissen nochmals zu empfehlen.<lb/>Genehmigen Euere Excellenz den
+                    Ausdruck der tiefsten Verehrung, womit ich verharre zu</p>
+                <p>Kroisbach, den 21. November 1859</p>
+                <p>Euerer Excellenz</p>
+                <p>ergebenster Diener<lb/>Simor </p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

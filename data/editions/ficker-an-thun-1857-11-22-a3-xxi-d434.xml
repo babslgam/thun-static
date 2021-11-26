@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="ficker-an-thun-1857-11-22-a3-xxi-d434.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/ficker-an-thun-1856-09-19-a3-xxi-d387.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/ficker-an-thun-1858-06-15-a3-xxi-d453.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#ficker-julius" role="sender:gelehrter">Julius
+                        Ficker</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</rs>, <date when-iso="1857-11-22">22. November 1857</date>
+                </title>
+            <title type="label">Julius Ficker an Leo Thun, Innsbruck, 22. November 1857</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DC4A-B</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D434</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Historiker Julius Ficker berät Leo Thun in der Frage der Berufung
+                            eines Professors für Klassische Philologie an die Universität Innsbruck.
+                            Zunächst eröffnet er dem Minister, dass Johannes Vahlen den Ruf nach
+                            Innsbruck nicht annehmen werde. Ficker verweist Thun daher auf einige
+                            alternative Kandidaten für den Lehrstuhl, die Vahlen zusammen mit seiner
+                            Absage genannt hatte. Vahlen hatte sich hierfür auch bei seinem Lehrer
+                            in Bonn, Friedrich Wilhelm Ritschl, erkundigt. Dessen Antwort lag dem
+                            Brief Vahlens an Ficker bei und Ficker fasst diesen in der Folge
+                            zusammen. Ritschl betone darin, dass es schwierig sei, einen guten
+                            katholischen Philologen zu nennen, da alle etablierten Professoren
+                            bereits einen Lehrstuhl hätten. Anschließend empfehle Ritschl zwei
+                            seiner Schüler. Ritschl sei auch mit dem Vorschlag Vahlens
+                            einverstanden, den Gymnasiallehrer Eduard Goebel zu berufen, allerdings
+                            wäre dieser zumindest einem seiner Schüler, Franz Bücheler,
+                            nachzureihen. Ficker selbst betont, dass er bis auf Goebel keinen der
+                            Kandidaten kenne, Goebel ihm aber von Ritschl bereits im vorigen Jahr
+                            empfohlen worden war. Ritschl würde Goebel allerdings Bücheler
+                            nachreihen, was aus der Sicht von Ficker wohl darauf zurückzuführen ist,
+                            dass Goebel im Gegensatz zu Bücheler bereits eine Stelle innehabe.
+                            Schließlich äußert sich Ficker enttäuscht über das Verhalten von Vahlen,
+                            der die ernsthaften Bemühungen Thuns, ihn zu berufen, nur für
+                            persönliche Verbesserungen benützt habe. Zuletzt verweist Ficker noch
+                            darauf, dass Anton Goebel von Ritschl wohl nicht empfohlen wurde, weil
+                            dieser nicht der Bonner Schule angehört.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#ficker-julius">Julius Ficker</rs>
+                    <settlement ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</settlement>
+                    <date when-iso="1857-11-22">22. November 1857</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Universität Innsbruck</term>
+                    <term>Personalfragen</term>
+                    <term>Klassische Philologie</term>
+                </index>
+                <p>Eure Excellenz!</p>
+                <p>Nachdem ich vor wenig Tagen mir erlaubte anzudeuten, weshalb es mir unmöglich
+                    war, bezüglich der Berufung des Prof. <rs type="person" ref="#vahlen-johannes">Dr.
+                        Vahlen</rs> an die <rs type="org" ref="#org_0020">hiesige
+                        Hochschule</rs> Eurer Excellenz eine erledigende Mittheilung zukommen
+                    zu lassen, erhalte ich so eben auf meine frühern Zuschriften von ihm die
+                    Antwort, daß er in Folge einer Verbesserung seiner Stellung zu <rs type="org" ref="#org_0065">Breslau</rs> sich entschlossen habe, dort zu
+                    verbleiben.<lb/>Da ich, wenn mich auch das Schreiben darüber im Unklaren läßt,
+                    annehmen darf, daß Euer Excellenz davon unmittelbarer verständigt sein werden,
+                    so dürfte es vielleicht überflüssig scheinen, deshalb Eure Excellenz abermals
+                    durch eine Zuschrift zu belästigen; ich halte mich aber zu einer solchen
+                    verpflichtet bezüglich eines anderen Punctes, welchen er in seinem Schreiben
+                    vorzugsweise berührt, nämlich des Vorschlages anderweitiger Kandidaten für den
+                    Lehrstuhl der Philologie. Er hatte in dieser Beziehung an Herrn Prof. <rs type="person" ref="#ritschl-friedrich-wilhelm">Ritschl</rs> zu Bonn geschrieben und
+                    legt mir, wie ich Euer Excellenz mitzutheilen glaube keinen Anstand nehmen zu
+                    dürfen, den Brief <rs type="person" ref="#ritschl-friedrich-wilhelm">Ritschl‘s</rs>
+                    selbst vor, so daß das, was ich mitzutheilen mir erlaube, auf eigener Einsicht
+                    desselben beruht.<lb/>
+                    <rs type="person" ref="#ritschl-friedrich-wilhelm">Ritschl</rs> meint, daß es sehr schwer sei geeignete katholische
+                    Philologen vorzuschlagen, da solche, welche schon Namen hätten, wie <rs type="person" ref="#spengel-leonhard">Spengel</rs> und <rs type="person" ref="#halm-karl-felix">Halm</rs> in <rs type="place" subtype="place" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs>,
+                    <rs type="person" ref="#urlichs-karl-ludwig">Urlichs</rs> in <rs type="org" ref="#org_0064">Würzburg</rs> schwerlich geneigt sein
+                    würden, nach <rs type="org" ref="#org_0020">Innsbruck</rs> zu gehen.
+                    <lb/>Einer seiner vielversprechendsten Schüler sei ein junger Bonner, <rs type="person" ref="#reifferscheid-august">Reifferscheid</rs>, welcher so eben eine
+                    Preisfrage über <rs type="person" ref="#sueton">Sueton</rs> trefflich gelöst habe; doch sei
+                    derselbe erst mit seiner Promotion beschäftigt, könne daher jetzt noch nicht in
+                    Betracht kommen; doch sei er überzeugt, daß er in Kurzem für eine Berufung nach
+                    Oesterreich oder Baiern sehr geeignet sein werde.<lb/>Der <rs type="person" ref="#buecheler-franz">Dr. Bücheler</rs>, an welchen <rs type="person" ref="#vahlen-johannes">Vahlen</rs> primo loco gedacht habe, sei vor
+                    allen zu empfehlen. Er sei jetzt mit seiner Habilitation beschäftigt und werde
+                    wohl noch in diesem Semester lesen; daß es mit bestem Erfolge geschehen werde,
+                    davon sei bei seiner wirklichen Gelehrsamkeit, seinem feinen, scharfsinnigen,
+                    productiven Geiste, seiner gewandten und lebendigen Persönlichkeit gar nicht zu
+                    zweifeln; etwa zu Ostern als Extraordinarius berufen, würde er bald genug so gut
+                    einschlagen, daß man sich sicherlich zu seiner Erwerbung gratuliren würde. Es
+                    werde ihm aber wahrscheinlich im Wege stehen, daß er noch keine öffentliche
+                    Proben seiner Befähigung abgelegt habe und er begreife es, wenn eine Regierung
+                    auf eine bloße Empfehlung hin zögere, eine solche junge Kraft heranzuziehen. Er
+                    habe auch andere von katholischer Seite an ihn gelangte Anfragen nach einer
+                    philologischen Lehrkraft nach bestem Wissen und Gewissen nicht passender zu
+                    beantworten gewußt, als durch eine Hinweisung auf Bücheler.<lb/>Nicht übel sei
+                    aber auch der von <rs type="person" ref="#vahlen-johannes">Vahlen</rs> angeregte
+                    Gedanke an den <rs type="person" ref="#goebel-eduard">Dr. Ed[uard] Goebel</rs> zu
+                        <rs type="place" subtype="place" ref="#place_f2646aa02d03ac5a141ef404d919cd11">Salzburg</rs>; derselbe habe neuerdings in seiner
+                    Lucretianis ganz ehrenwerthe Proben erfreulichen Fortschreitens gegeben und es
+                    sei möglich, daß er sich noch so entwickle und emporarbeite, um dereinst im
+                    ersten Range zu zählen. Es ließe sich Manches dafür sagen; doch möchte er nicht
+                    in derselben Weise wie bei <rs type="person" ref="#vahlen-johannes">Vahlen</rs> und
+                        <rs type="person" ref="#buecheler-franz">Bücheler</rs> sein Wort dafür
+                    verpfänden, daß er unfehlbar einschlagen werde.<lb/>Nur bedauern könne er es,
+                    wenn man etwa auf den<rs type="person" ref="#pauly-franz"> Dr. Pauly</rs> verfiele,
+                    welcher sich angeblich jetzt zu <rs type="org" ref="#org_0017">Prag</rs>
+                    habilitiren wolle; er habe als Schulmann seine sehr guten Eigenschaften, aber
+                    als Professor der Philologie fungirend dürfe er ganz geeignet sein, den guten
+                    Ruf der Bonner Philologenschule zu kompromittiren.<lb/>So weit was ich glaubte
+                    Euer Excellenz aus der Äußerung des <rs type="person" ref="#ritschl-friedrich-wilhelm">Prof. Ritschl</rs> mittheilen zu sollen, insofern es möglich wäre,
+                    daß Hochdieselben jetzt oder später in der Lage wären, diese Urtheile zu
+                    berücksichtigen; ich füge noch hinzu, daß <rs type="person" ref="#vahlen-johannes">Prof.
+                        Vahlen</rs> selbst den <rs type="person" ref="#buecheler-franz">Dr. Bücheler
+                    </rs> sehr empfiehlt, weiter mich bittet, von den Äußerungen <rs type="person" ref="#ritschl-friedrich-wilhelm">Ritschl</rs>’s nur konfidentiellen
+                    Gebrauch zu machen, eine Gränze, welche ich durch jene Mittheilungen an Eure
+                    Excellenz nicht überschritten zu haben glaube.<lb/>Mir persönlich sind die
+                    genannten Kandidaten persönlich völlig unbekannt bis auf den <rs type="person" ref="#goebel-eduard">Dr. Ed[uard] Goebel</rs> zu
+                        <rs type="place" subtype="place" ref="#place_f2646aa02d03ac5a141ef404d919cd11">Salzburg</rs>. Was diesen insbesondere betrifft, so glaube
+                    ich hinzufügen zu sollen, daß vor einem Jahre Herr <rs type="person" ref="#ritschl-friedrich-wilhelm">Prof. Ritschl</rs> mit mir über ihn
+                    sprach, ihn nicht genug zu rühmen wußte und uns Glück wünschte, ihn gewonnen zu
+                    haben. Wenn er in dem vorliegenden Briefe sich allerdings auch sehr günstig über
+                    ihn ausspricht, dem <rs type="person" ref="#buecheler-franz">Dr. Bücheler</rs> aber
+                    doch den Vorrang zuerkennt, so bin ich, so weit ich Herrn <rs type="person" ref="#ritschl-friedrich-wilhelm">Prof. Ritschl</rs> irgend kenne, aufs
+                    bestimmteste überzeugt, daß das, was er über letztern sagt, aufs vollkommenste
+                    gegründet sein wird. Andererseits glaube ich, daß Eure Excellenz es mir nicht
+                    verübeln werden, wenn ich eine sich mir aufdrängende Bemerkung auszusprechen
+                    wage. <rs type="person" ref="#ritschl-friedrich-wilhelm">Prof. Ritschl</rs> ist,
+                    wie das gewiß in der Ordnung sein dürfte, eifrig bemüht, seinen tüchtigern
+                    Schülern angemessene Stellungen zu sichern: <rs type="person" ref="#goebel-eduard">Goebel</rs> wie <rs type="person" ref="#buecheler-franz">Bücheler</rs>
+                    sind seine Schüler; aber jener ist bereits versorgt, für diesen wäre ein Ruf
+                    nach <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> von größerer Wichtigkeit,
+                    als er ihm sicher eine Stellung in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> oder aber auch, was nicht gerade ferner liegen
+                    dürfte, in <rs type="place" subtype="country" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs> selbst verschaffen würde, und nach dem,
+                    was mir <rs type="person" ref="#ritschl-friedrich-wilhelm">Ritschl</rs> selbst
+                    früher über <rs type="person" ref="#goebel-eduard">Ed[uard] Goebel</rs> mittheilte,
+                    möchte ich fast glauben, daß er sich auch jetzt noch unumwundener günstig für
+                    ihn ausgesprochen hätte, wenn ihn nicht jener Umstand eine Berufung <rs type="person" ref="#buecheler-franz">Bücheler’s</rs> wünschenswerther erscheinen
+                    lassen müßte. Ich kann mich allerdings darin irren und füge hinzu, daß meine
+                    persönlichen Beziehungen zu <rs type="person" ref="#goebel-eduard">Ed[uard]
+                        Goebel</rs> ganz oberflächliche sind, nicht derart, daß sie etwa mir
+                    persönlich eine Berufung desselben besonders wünschenswerth machen würden; aber
+                    ich will nicht verhehlen, daß es mich unangenehm berührt hat, daß <rs type="person" ref="#vahlen-johannes">Prof. Vahlen</rs>, nachdem man sich vielfach
+                    bemüht hatte, ihm einen Ruf nach <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> und auch nach <rs type="org" ref="#org_0020">Innsbruck</rs> zu verschaffen, schließlich doch ausgeschlagen hat.
+                    <lb/>Euer Excellenz werden gewiß die geeignetsten Wege einschlagen, um dem von
+                    Tag zu Tag dringender hervortretenden Bedürfnisse einer Vertretung der
+                    Philologie an unserer Hochschule so tüchtig, wie sie sich eben möglich zeigt,
+                    abzuhelfen. Ob die gegebenen Notizen dazu von Werth sein können, weiß ich nicht
+                    zu beurtheilen; ich fühlte mich jedenfalls zu ihrer Mittheilung verpflichtet, da
+                    sie mir von einer Seite, auf deren Urtheil Eure Excellenz Gewicht zu legen
+                    geneigt sein dürften, offenbar zum Zwecke einer solchen Mittheilung zukamen.
+                    Sollte nun, was ich freilich nicht voraussetzen kann, bei der Frage nach
+                    Besetzung der hiesigen Stelle auch etwa noch der <rs type="person" ref="#goebel-anton">Dr. Anton Goebel</rs> zu <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> in
+                    Berücksichtigung kommen, so darf ich wohl darauf hindeuten, daß derselbe von
+                    dieser Seite allerdings auf eine Empfehlung nicht würde zu rechnen haben, da er
+                    der Bonner Philologenschule nicht angehörte.</p>
+                <p>Mit größter Hochachtung und Ehrerbietung<lb/>Eurer Excellenz ganz gehorsamster
+                    und ergebenster<lb/>Dr. Ficker</p>
+                <p>Innsbruck 1857 November 22.</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

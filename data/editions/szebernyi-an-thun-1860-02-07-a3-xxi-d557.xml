@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="szebernyi-an-thun-1860-02-07-a3-xxi-d557.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/szeberinyi-an-thun-1859-11-29-a3-xxi-d529.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/szlachtowski-an-thun-1849-11-01-a3-xxi-d13.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#szeberinyi-johann" role="sender:kleriker">Johann
+                        Szeberinyi</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_792be515410368f1ac3c6e58ea01814c">Schemnitz</rs>,
+                        <date when-iso="1860-02-07">7. Februar 1860</date>
+                </title>
+            <title type="label">Johann Szeberinyi an Leo Thun, Schemnitz, 7. Februar 1860</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA5D-8</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D557</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Pfarrer Johann Szeberinyi übermittelt Leo Thun ein an den Kaiser
+                            gerichtetes Schreiben, mit der Bitte, dieses – sollte Thun mit dem
+                            Inhalt einverstanden sein – dem Kaiser zu übergeben. Szeberinyi hofft,
+                            dass Österreich nach der Krise durch die Niederlagen im Krieg nun wieder
+                            Stärke zeige und die Reformen der evangelischen Kirchen umsetze.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Verweis auf A3 XXI D560.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#szeberinyi-johann">Johann Szeberinyi</rs>
+                    <settlement ref="#place_792be515410368f1ac3c6e58ea01814c">Schemnitz</settlement>
+                    <date when-iso="1860-02-07">7. Februar 1860</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                    <term>Protestanten</term>
+                    <term>Protestantenpatent</term>
+                    <term>Ungarn</term>
+                </index>
+                <p>Eure Exzellenz,<lb/>Hochzuverehrender Herr Minister! </p>
+                <p>Die Fluthen gehn hoch. In solchen Zeiten darf die Schüchternheit den Muth, das
+                    kindliche Vertrauen treuer Seelen nicht lähmen. Ich nehme mir die Freiheit an
+                        <rs type="person" ref="#franz-joseph">Seine k.k. apostolische Majestät</rs> und
+                    an Eure Exzellenz zu schreiben. Was will ich denn? Nützlich möcht' ich sein dem
+                    Staate. Ob mein an <rs type="person" ref="#franz-joseph">Seine Majestät</rs>
+                    gerichtetes Schreiben <note xml:id="note_1">Vgl. <ref target="thun/thun-korrespondenz/tetschen/nur-regesten/szeberinyi-an-franz-joseph-1860-02-08-a3-xxi-d560.xml">Abschrift des Schreibens von Johann Szeberinyi an Kaiser Franz Joseph, 8.
+                            Februar 1860. Das Schreiben wurde im Nachlass unter der Signatur A3 XXI
+                            D560 abgelegt.</ref>
+                    </note>Nutzen bringen kann oder nicht?, das können
+                    nur Eure Exzellenz beurtheilen, entscheiden. Daher stell‘ ich es ganz und gar
+                    Eurer Exzellenz anheim, ob die Huld, den Brief Allerhöchsten Ortes
+                    einzuhändigen, haben wollen oder nicht.<lb/>Erlauben Eure Exzellenz mit einigen
+                    Worten meinen im Schreiben an <rs type="person" ref="#franz-joseph">Seine k.k.
+                        apostolische Majestät</rs> eingenommenen Standpunkt zu beleuchten und
+                    den Thatbestand zu constatiren.<lb/>Niemand kann für das Ultimatissimum in der
+                    Willensrichtung <rs type="person" ref="#franz-joseph">Seiner Majestät</rs> haften –
+                    auch kann unter gewissen Umständen ein Villa Franka [Villafranca] seine
+                    Rechtfertigung finden. Nur darauf kömmt es dann an, dass die Abspannung des
+                    Gegners gehörig ausgebeutet, dass die theilweise Nachgiebigkeit und Wohlwollen
+                    mit unbeugsamer Energie gepaart werde.<lb/>Durch die Verordnung vom 10. Januar
+                        <note xml:id="note_2">Vgl. RGBl Nr. 23/1860.</note> ist nicht bloss die
+                    Würde der hohen Regierung, ins[be]onders die Autorität des <rs type="org" ref="#org_0005">hohen k.k.
+                        Cultusministeriums</rs> gewahrt worden, sondern auch die Opposition in
+                    einen Gemüthszustand versetzt worden, dem zu Folge sie <hi rend="ul">innerlich</hi> den Frieden, die Ausgleichung sehr wünschen muss. Beleg
+                    dafür nicht bloss meine Hingebung, sondern auch die letzten drei Nummern des
+                    "Egyházy [?]". Nach dem 10. Januar also, der den Ernst und Strenge des Vaters bewies,
+                    glaube ich einen milden Blick desselben Antlitzes nicht für gefährlich. Das
+                    Patent würde gleichsam durch die Synode <hi rend="ul">eingeführt</hi> werden.
+                    Immer wäre der Staat hiebei, der Reger, denn er trüge das Wesen, die schreienden
+                    Kinder die Form davon. Setze freilich die 4 Bedingungen voraus, die ich
+                        <rs type="person" ref="#franz-joseph">Seiner Majestät</rs> unterthänigst
+                    vorgelegt habe.<lb/>Nochmals ehrfurchtsvollst bittend, den Brief nur in dem
+                    Falle einhändigen geruhen zu wollen, wenn Eure Exzellenz seinen Inhalt
+                    genehmigen, hab‘ ich die Ehre mich zu zeichnen, mit unverbrüchlicher Ergebenheit
+                    und Dankbarkeit</p>
+                <p>Eurer Exzellenz</p>
+                <p>ergebenster Diener<lb/>Johann Szeberinyi<lb/>slav. ev. Pfarrer</p>
+                <p>Schemnitz, den 7.2.[1]860</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

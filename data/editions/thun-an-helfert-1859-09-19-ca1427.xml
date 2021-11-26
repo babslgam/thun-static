@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-helfert-1859-09-19-ca1427.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1859-02-09-ca1422.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-helfert-1860-02-14-ca1423.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#helfert-joseph-alexander" role="recipient">Joseph Alexander
+                        Helfert</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_da90eb3328276934d8dbcbbff3aba4ee">Tetschen</rs>, <date when-iso="1859-09-19">19. September 1859</date>
+                </title>
+            <title type="label">Leo Thun an Joseph Alexander Helfert, Tetschen, 19. September 1859</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA13-A</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Mährisches Landesarchiv [Moravský zemský archiv v
+                            Brně]</institution>
+                        <repository>G 44, Nachlass Helfert</repository>
+                        <idno>Karton 26, Thun Lev</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun gibt Unterstaatssekretär Joseph Alexander Helfert einige
+                            Instruktionen für die Zeit seiner Abwesenheit vom Ministerium. Zunächst
+                            spricht er sich für die Aufnahme eines Schülers ins Theresianum aus,
+                            wobei die Frage, wie dieser im Religionsunterricht behandelt werden
+                            solle, noch zu klären sein wird. Die Angelegenheiten von Anton Gindely
+                            und Carl Sykora will Thun bei seiner Rückkehr erledigen. Die
+                            Empfehlungsschreiben für Prof. Friedrich Maassen sollen inzwischen
+                            vorbereitet werden, er will diese bei seiner Rückkehr unterzeichnen.
+                            Schließlich dankt er Helfert für dessen offene Worte und ermuntert
+                            denselben, auch weiterhin freimütig seine Meinung zu äußern. Thun sagt,
+                            dass er dies sehr zu schätzen wisse. Zuletzt bedankt sich Thun bei
+                            Helfert außerdem dafür, dass dieser die Angelegenheit der Protestanten
+                            in die Hand genommen habe, die Thun stark belastet hatte.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_da90eb3328276934d8dbcbbff3aba4ee">Tetschen</settlement>
+                    <date when-iso="1859-09-19">19. September 1859</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#helfert-joseph-alexander">Joseph Alexander Helfert</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Ministerium für Kultus und Unterricht</term>
+                    <term>Rechtsgeschichte</term>
+                    <term>Geschichtswissenschaften</term>
+                    <term>Theresianische Ritterakademie</term>
+                </index>
+                <p>Tetschen den 19. September 1859</p>
+                <p>Verehrtester Freund!</p>
+                <p>Die Aufnahme des jungen <rs type="person" ref="#ghika-nikolaus">Ghika</rs> in das <rs type="org" ref="#org_0016">Theresianum</rs> muß allerdings
+                    bewilligt werden. Gut wäre es freilich wenn sich ein Modus finden ließe für ihn
+                    in Beziehung auf Religionsunterricht mehr zu thun, als ihn nur einem Popen zu
+                    überlassen. Doch darüber möge <rs type="person" ref="#demel-heinrich-johann">Demel</rs> nach meiner Rückkehr mit mir sprechen.<lb/>In Betreff
+                        <rs type="person" ref="#gindely-anton">Gindelys</rs> werde ich unmittelbar bei
+                        <rs type="person" ref="#franz-joseph">Seiner Majestät</rs> einen neuerlichen
+                    Versuch machen, sobald ich zurückkomme. Ich bitte inzwischen sein Gesuch
+                    exhibieren zu lassen, damit es nicht in Vorstoß gerathe und <rs type="person" ref="#altmann-adolf">Altmann</rs> soll mir's bei meiner Heimkehr
+                    übergeben.<lb/>Für diesen Zeitpunkt wolle mir <rs type="person" ref="#ehrhart-vincenz">Erhart</rs> die von <rs type="person" ref="#maassen-friedrich">Maaßen</rs> gewünschten Empfehlungsschreiben an unsere Gesandten in
+                        <rs type="place" subtype="place" ref="#place_7279949b987b1b373468947f87fe6753">Brüssel</rs>, <rs type="place" subtype="place" ref="#place_ccbee73cd81c7f42405e1920409247ec">Paris</rs> und
+                        <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs> entwerfen.<lb/>
+                    <rs type="person" ref="#altmann-adolf">Altmann</rs> wolle sich im <rs type="org" ref="#org_0046">Ministerium des Innern</rs> erkundigen, ob man schon weiß, wann
+                        <rs type="person" ref="#goluchowski-agenor">Goluchowski</rs> zurückerwartet
+                    wird, und mir darüber Nachricht geben. Wenn es angeht, so möchte ich bis zum
+                    letzten des Monats ausbleiben.<lb/>Die Angelegenheit des <rs type="person" ref="#sykora-carl">Sykora</rs> muß doch bis zu meiner Rückkehr warten,
+                    dann freilich muß sie einmal zur Entscheidung kommen. Seien Sie überzeugt, daß
+                    es meiner Natur völlig widerstreitet, eine aufrichtige und zumal aus einem
+                    Pflichtgefühl entspringende Meinungsäußerung jemals übel aufzunehmen; ich werde
+                    es Ihnen vielmehr immer danken, wenn Sie – und sei es auch in Fällen längerer
+                    Unschlüßigkeit mit einiger Gewalt – mir behülflich sind, zu thun, was Sie für
+                    recht und nothwendig halten. Sie wissen daß ich eben so aufrichtig
+                    spreche.<lb/>Schließlich meinen Dank, daß Sie die protestantische Sache flügge
+                    gemacht haben, wie es scheint, nicht ohne Beschwerde. Es hat wirklich mein
+                    Gewissen belastet, daran zu gehen, und Ihnen das aufzulegen. Ich bin begierig
+                    wenn ich heimkehre über den Verlauf und die nächsten Resultate in
+                        <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> näheres zu hören.</p>
+                <p>Aufrichtig der Ihrige<lb/>Leo Thun</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

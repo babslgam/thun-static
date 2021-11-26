@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="phillips-an-thun-1854-09-08-a3-xxi-d280.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/phillips-an-thun-1854-01-29-a3-xxi-d252.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/phillips-an-thun-1856-03-14-a3-xxi-d372.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#phillips-george" role="sender:gelehrter">George
+                        Phillips</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_b6ee3fa99572ecc6e1f16c5b18a3ebb6">Aigen bei
+                        Salzburg</rs>, <date when-iso="1854-09-08">8. September
+                    1854</date>
+                </title>
+            <title type="label">George Phillips an Leo Thun, Aigen bei Salzburg, 8. September 1854</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DAE5-D</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D280</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Jurist George Phillips bittet den Minister, ihn unter Beibehaltung
+                            seiner Bezüge von seiner Lehrtätigkeit an der Universität Wien zu
+                            entbinden. Als Grund hierfür gibt er an, dass er sich mit seiner Lehre
+                            in den fünf Jahren seiner Tätigkeit in Österreich bisher nicht
+                            durchsetzen konnte, obwohl er dies mit aller Kraft versucht habe.
+                            Phillips macht dafür unter anderem die ständigen Neuerungen im
+                            Studienplan und seine isolierte Stellung an der Universität Wien
+                            verantwortlich. Die Jugend sei, so schreibt Phillips weiter, zudem
+                            vollkommen desinteressiert an seinen Kollegien. Allerdings konnte er
+                            durch den bisher gewährten Urlaub die Arbeit an seinem Hauptwerk
+                            fortsetzen. Dieses wissenschaftliche Unternehmen möchte er nun
+                            abschließen, damit sein Streben nicht völlig umsonst war. Er erklärt
+                            sich auch dazu bereit, in der Akademie der Wissenschaften Vorträge zu
+                            halten.<lb/>Zuletzt schreibt Phillips, dass Georg Bippart bei ihm
+                            Interesse an der Professur für Klassische Philologie in Prag bekundet
+                            habe. Für Cornelius Peter Bock aus Brüssel gilt dies ebenfalls. Phillips
+                            verweist den Minister dazu an Johann Baptist Weiß aus Graz, der Auskunft
+                            über Bock geben könne.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#phillips-george">George Phillips</rs>
+                    <settlement ref="#place_b6ee3fa99572ecc6e1f16c5b18a3ebb6">Aigen bei Salzburg</settlement>
+                    <date when-iso="1854-09-08">8. September
+                    1854</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Universität Wien</term>
+                    <term>Universität Prag</term>
+                    <term>Rechtswissenschaften</term>
+                    <term>Personalfragen</term>
+                    <term>Klassische Philologie</term>
+                    <term>Geschichtswissenschaften</term>
+                </index>
+                <p>Hochgeborner Herr Graf,<lb/>Euer Excellenz!</p>
+                <p>Als ich vor einigen Tagen die Ehre hatte in Betreff des <rs type="person" ref="#maassen-friedrich">Dr. Maassen</rs> an Hochdieselben ein
+                    unterthäniges Schreiben zu richten, wollte ich mit dessen Angelegenheit nicht
+                    auch die meinige verbinden, obschon ich seit geraumer Zeit bereits die
+                    Überzeugung von der Nothwendigkeit in mir trage, mich noch einmal zu Euer
+                    Excellenz über dieselbe auszusprechen.<lb/>Binnen Kurzem läuft das fünfte Jahr
+                    ab, seitdem ich die Ehre hatte, in die Dienste Seiner k.k. apostolischen
+                    Majestät berufen zu werden. Blicke ich auf diesen Zeitraum zurück, so kann ich
+                    nicht umhin, in dankbarster Anerkennung[?] aller der unverdienten Gnaden zu
+                    gedenken, welche mir durch die huldreiche Vermittlung Euer Excellenz zu Theil
+                    geworden sind; Hochdieselben haben mich dadurch für meine Lebenszeit zu Ihrem
+                    Schuldner gemacht.<lb/>So günstig sich nun auch in dieser Hinsicht meine Lage in
+                    <rs type="org" ref="#org_0018">Wien</rs> gestaltet hat, so habe ich
+                    dennoch eine für mich sehr schwere Zeit durchlebt, da die dortigen Verhältnisse
+                    es durchaus nicht gestatten wollen, daß diejenige wissenschaftliche Richtung,
+                    welcher ich angehöre und um derentwillen ich nach <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs>
+                    berufen zu sein glaube, trotz der erdenklichsten Mühe, die ich mir gegeben, und
+                    trotz dem größten Fleiße, den ich auf meine Vorträge verwendet habe, auch nur im
+                    Mindesten eine Bahn brechen konnte. Der provisorische und von Jahr zu Jahr sich
+                    erneuernde Studienplan und die völlig heterogenen Elemente, welche sich mir in
+                    und neben denselben entgegenstellen, haben meine Wirksamkeit in Beziehung auf
+                    die Universität als solche völlig und meine literarische Thätigkeit in so weit
+                    paralysirt, als nicht die Gnade Euer Excellenz mir durch zeitweiligen Urlaub die
+                    Möglichkeit eröffnete, meine begonnene Arbeit über das Kirchenrecht
+                    fortzusetzen. Es hat zu meiner größten Freude gereicht, in dem vierten und in
+                    der ersten Abtheilung des fünften Bandes jenes Buches die Früchte, welche diese
+                    Gnade getragen, Hochdemselben überreichen zu können.<lb/>Euer Excellenz werden
+                    es mit mir fühlen, daß für einen Mann, der sein Leben einer hohen
+                    wissenschaftlichen Aufgabe gewidmet und für diese seit mehr als zwanzig Jahren
+                    auf zweien der berühmtesten Universitäten <rs type="place" subtype="country" ref="#place_162b390989a8678640067963acb65109">Deutschlands</rs> mit günstigem Erfolge gewirkt hat, nichts
+                    schmerzlicher sein kann, als wenn er, der mit Begeisterung und mit der Hoffnung
+                    eines erweiterten Wirkungskreises dem Rufe nach <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs>
+                    gefolgt ist, ganze Jahre ohne Einfluß auf die studirende Jugend verliren und
+                    dadurch den Werth der Sache, den er vertritt und seinen Beruf selbst sehr
+                    zweifelhaft machen mußte; darin allein, daß die Verhältnisse einmal so sind, wie
+                    sie sind, hat er keinen hinlänglichen Trost für diese Einbußen finden können.
+                    Gerade aus meiner Verbindung mit einer Anstalt, die in ihren Hauptbestandtheilen
+                    einer von der meinigen ganz verschiedenen und durch das Zusammenwirken der
+                    mannigfachsten Ursachen höchst begünstigten Richtung angehört, entspringt mir
+                    für meine wissenschaftliche Thätigkeit überhaupt und insbesondere für die zu
+                    jeder Arbeit nöthigen geistigen Frische ein so großes Hindernis, daß ich eben
+                    darum es wage, Euer Excellenz mit diesem Schreiben lästig zu fallen. Ich bringe
+                    dabei den Umstand, daß ich durch die obwaltenden Verhältnisse meinen
+                    wohlbegründeten Anspruch auf Collegiengelder einbüßte, nur deshalb in Anschlag,
+                    weil ich damit einen Bestandtheil meiner nachstehenden Bitte motiviren
+                    möchte.<lb/>Da ich nämlich ohne mein Verschulden nicht im Stande bin, die Macht
+                    der angedeuteten Verhältnisse zu überwinden, so geht meine unterthänige Bitte
+                    dahin, daß Euer Excellenz die Gnade haben wollen, mich unter Belassung meines
+                    Gehaltes und meiner Personalzulage von meiner Stellung zu der Universität resp.
+                    der juridischen Facultät zu entbinden und mir dadurch die Möglichkeit gewähren,
+                    wenigstens die eine Seite meiner wissenschaftlichen Wirksamkeit zu
+                    erhalten.<lb/>Hochdieselben werden überzeugt sein, daß wenn ein Kreis reiferer
+                    Männer sich für meine Vorträge finden sollte, ich in meiner Eigenschaft als
+                    Mitglied der kaiserlichen Akademie stets bereit sein werde, einem derartigen
+                    Verlangen nach Kräften zu entsprechen; von der Wiederholung der vielfach
+                    angestellten fruchtlosen und meine Stellung zu der Universität stets peinlicher
+                    machenden Versuche mit meinen Vorlesungen vor einer in ganz andere Richtungen
+                    hineingezogenen Jugend aufzutreten, bitte ich Euer Excellenz mich dispensiren zu
+                    wollen.<lb/>Bei dieser Gelegenheit muß ich mir zugleich die Freiheit nehmen,
+                    Hochdemselben wiederum über zwei an mich gelangte Briefe, welche durch die
+                    Erledigung der philologischen Professur zu <rs type="org" ref="#org_0017">Prag</rs> veranlaßt worden sind, Bericht zu erstatten. Der sehr
+                    bescheidene und anspruchslose Professor <rs type="person" ref="#bippart-georg">Bippart</rs> hofft auf eine gnädige Berücksichtigung, während zu
+                    gleicher Zeit ein aus <rs type="place" subtype="place" ref="#place_f1ef0ef1eaa60c0aeff7203df96508fd">Aachen</rs> gebürtiger Professor
+                    <rs type="person" ref="#bock-cornelius-peter">Bock</rs> zu <rs type="org" ref="#org_0074">Brüssel</rs> seine Augen auf eben jene
+                    Professur gerichtet hat. Derselbe ist mir von meinem früheren Aufenthalte in
+                        <rs type="place" subtype="place" ref="#place_d35a02eb49149450fb2fffc6e467eb37">Berlin</rs> als ein tüchtiger Philolog und als ein
+                    Katholik von fester Überzeugung bekannt. Nähere Auskünfte als ich weiß <rs type="person" ref="#weiss-johann-baptist">Prof. Weiß</rs> in <rs type="place" subtype="place" ref="#place_6e00929feb7fb02acaa548f47f67c61c">Graez</rs> [Graz] über ihn zu geben, zu dessen Werk über <rs type="person" ref="#alfred-der-grosse">Alfred den Großen</rs>
+                    <rs type="person" ref="#bock-cornelius-peter">Bock</rs> eine den
+                    <rs type="person" ref="#boethius">Boethius</rs> betreffende Abhandlung geschrieben
+                    hat.<lb/>Genehmigen Hochdieselben den Ausdruck meiner größten Verehrung und
+                    Hochachtung, mit welcher ich bestehe als</p>
+                <p>Euer Excellenz</p>
+                <p>unterthäniger Diener<lb/>G. Phillips</p>
+                <p>Aigen bei Salzburg, 8. September 1854</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

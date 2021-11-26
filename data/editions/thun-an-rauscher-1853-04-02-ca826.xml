@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-rauscher-1853-04-02-ca826.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-rauscher-05-24-ca783.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-rauscher-1853-04-21-ca782.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#rauscher-joseph" role="recipient:kleriker">Joseph Othmar
+                        Rauscher</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1853-04-02">2. April 1853</date>
+                </title>
+            <title type="label">Leo Thun an Joseph Othmar Rauscher, Wien, 2. April 1853</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-D9FC-5</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <msDesc>
+                        <msIdentifier>
+                            <institution>Diözesanarchiv Wien</institution>
+                            <idno>BA Rauscher, Seckauer Zeit</idno>
+                        </msIdentifier>
+                        <msContents>
+                            <p>Leo Thun bedankt sich bei Bischof Joseph Othmar Rauscher für die
+                                Auskunft über den Direktor des Marburger Gymnasiums, Johann Kurz.
+                                Der Minister teilt außerdem mit, dass die Berufung von Johann
+                                Baptist Weiß an die Universität Graz bereits erfolgt sei und Weiß
+                                durch Joseph Fessler von seiner Ernennung verständigt wurde. Zuletzt
+                                gratuliert der Minister Rauscher zu seiner Ernennung zum Erzbischof
+                                von Wien und wünscht ihm Kraft und Ausdauer für die bevorstehenden
+                                schwierigen Aufgaben.</p>
+                        </msContents>
+                    </msDesc>
+                </p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Personalvermittlung</term>
+                    <term>Universität Graz</term>
+                    <term>Geschichtswissenschaften</term>
+                    <term>Kultus</term>
+                </index>
+                <p>Wien den 2. April 1853</p>
+                <p>Hochwürdigster Herr Fürstbischof!</p>
+                <p>Für die mir über Direktor <rs type="person" ref="#kurz-johann">Kurz</rs>
+                    mitgetheilten Nachrichten, welche mir zu großer Befriedigung dienen, sage ich
+                    Euerer fürstlichen Gnaden meinen herzlichen Dank. <rs type="person" ref="#weiss-johann-baptist">Dr. Weiß</rs> ist bereits zum Professor der
+                    Geschichte ernannt; die offizielle Verständigung ist auch bereits auf
+                    diplomatischem Wege eingeleitet und ich habe ihm überdieß – da auf jenem Wege
+                    nicht sehr schnell gefahren werden kann – auch durch Vermittelung <rs type="person" ref="#fessler-joseph">Prof. Fesslers</rs> die Nachricht brieflich
+                    zukommen lassen. Nur die Kundmachung durch die Zeitung ist noch nicht geschehen,
+                    weil ich durch einige unangenehme Erfahrungen gewitzigt die Ernennung von
+                    Ausländern nie mehr veröffentlichen lasse, bevor sie auf ihrem Posten eingelangt
+                    sind. Nach allem was ich höre, hoffe ich, daß <rs type="person" ref="#weiss-johann-baptist">Dr. Weiß</rs> eine sehr gute Acquisizion
+                    sein wird.<lb/>Über die Veränderung, die sich in der Stellung Euerer fürstlichen
+                    Gnaden zugetragen hat, habe [ich] pflichtschuldig geschwiegen, bis ich in der
+                    Lage war, Euere fürstliche Gnaden hiervon offiziell zu benachrichtigen. Daß es
+                    so kommen werde, war längst meine Überzeugung. Gott wird Euerer fürstlichen
+                    Gnaden fernerhin seinen Segen schenken, wie Er es bisher gethan. Nicht Euerer
+                    fürstlichen Gnaden, sondern der Kirche und dem Vaterlande wünsche ich Glück zu
+                    der Erhebung Euerer fürstlichen Gnaden auf eine Stelle, die erwünschte
+                    Gelegenheit biethen wird, den großen Einfluß den Sie sich bereits zu erringen
+                    wußten, in noch erweitertem Maaße geltend zu machen. An schwierigen Aufgaben
+                    fehlte es allerdings nicht; indessen – es sind schon schwierigere vorgelegen –
+                    und Gott sei Dank! einer glücklichen Lösung entgegengeführt worden.<lb/>Mit dem
+                    wiederholten Ausdruck meiner aufrichtigen Hochachtung habe ich die Ehre zu
+                    verharren</p>
+                <p>Euerer fürstlichen Gnaden<lb/>ergebener Diener<lb/>Thun</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="entwurf-kaiserliche-verordnung-kultusreferate-statthaltereien-von-thun_od_a3-xxi-d315.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Eh. Entwurf von Leo Thun für eine kaiserliche Verordnung zur Einrichtung von
+                    Kultusreferaten bei den Statthaltereien<lb/>o. O., o. D.<date when="1854">[1854]</date>
+                    <note>Das Dokument wurde im Nachlass in das
+                        Jahr 1854 datiert. Die Angelegenheit wurde auch in der Ministerkonferenz vom
+                        30. Juni 1853 behandelt. Siehe Protokolle des Österreichischen Ministerrates
+                        1848–1867. Ministerium Buol-Schauenstein, Bd. 2, Wien 1979, S.
+                        179–181.</note>
+                </title>
+            <title type="label">Eh. Entwurf von Leo Thun für eine kaiserliche Verordnung zur Einrichtung von Kultusreferaten bei den Statthaltereien o. O., o. D.[1854]</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p/>
+            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000D-F7F6-7</tei:idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D315</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Mit dem Erlass soll denjenigen Statthaltereien und Länderstellen, bei
+                            welchen Angelegenheiten des katholischen Kultus in einem solchen Ausmaß
+                            vorkommen, dass ein Referat mit der Bearbeitung vollkommen ausgelastet
+                            ist, die Einrichtung von eigenen Kultusreferaten erlaubt werden. Dabei
+                            sind die Unterrichtsreferenten vom Minister für Kultus und Unterricht
+                            und dem Minister des Innern zu bestimmen. Geistliche dürfen ebenfalls zu
+                            Unterrichtsreferenten ernannt werden. Den Statthaltern und Länderchefs
+                            steht es frei, die Unterrichtsreferenten, wenn sie nicht vollkommen
+                            ausgelastet sind, auch anderweitig zu verwenden.</p>
+                    </msContents>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                    <term>Verwaltung</term>
+                    <term>Neoabsolutismus</term>
+                </index>
+                <p>In Erledigung der über die Ausführung und über die Bedeutung meiner Entscheidung
+                    vom ... § 7, dann entstandenen Zweifel und Meinungsverschiedenen finde ich
+                    anzuordenen:<lb/>Bei denjenigen Statthaltereien, bei welchen Angelegenheiten des
+                    katholischen Cultus in so großem Umfange zur Verhandlung kommen, daß mit deren
+                    Bearbeitung ein Referent in vollem Maaße beschäftiget ist, kann hierfür ein
+                    eigenes Departement gebildet und ein Statthaltereirath eigens ernannt werden.
+                    Die diesfälligen Vorschläge sind in Zukunft von dem Statthalter an Meinen
+                    Minister des Cultus und Unterrichts zu erstatten, welcher hierüber mit Meinem
+                    Minister des Innern Rücksprache zu pflegen und sodann Mir gemeinschaftlich
+                    diesen Vortrag zu erstatten hat.<lb/>Die Unterrichtsreferenten bei den
+                    Statthaltereien und Länderstellen sind entweder von Meinem <rs type="person" ref="#thun-hohenstein-leo" key="thun-hohenstein-leo">Minister des Cultus und Unterrichts</rs> im
+                    Einvernehmen mit Meinem <rs type="person" ref="#bach-alexander" key="bach-alexander">Minister des
+                        Innern</rs> aus der Zahl bereits ernannter Räthe des Gremiums zu
+                    bestimmen oder, wenn es sich darum handelt auf die erledigte Stelle jemanden zu
+                    ernennen, der dem Gremium noch nicht angehört, Mir von Meinem <rs type="person" ref="#thun-hohenstein-leo" key="thun-hohenstein-leo">Minister des Cultus und Unterrichts</rs> in
+                    den eben hinsichtlich eigenen Cultusreferate bezeichneten Wege in Vorschlag zu
+                    bringen. Von der Ernennung zu Referenten für Cultusangelegenheiten und für
+                    Unterrichtsangelegenheiten sind Geistliche nicht unbedingt ausgeschlossen. Die
+                    Ausfertigung der Ernennungsdekrete wird in einem wie in dem anderen Fall dem
+                        <rs type="person" ref="#bach-alexander" key="bach-alexander">Minister des Innern</rs> obliegen.
+                    Jedoch sind jene Cultus- und Unterrichtsreferenten bei den Statthaltereien und
+                    Länderstellen, welche lediglich für diese Geschäfte angestellt sind, dadurch
+                    nicht berufen an den Gremialberathungen über andere Gegenstände teilzunehmen, es
+                    steht aber den Statthaltern oder Landeschefs frei, sie ausnahmsweise den
+                    Berathungen beizuziehen, wenn sie es ihrer besonderen Einsicht und Sachkenntnis
+                    wegen für zweckmäßig erachten.<lb/>Wo die Cultusgeschäfte nicht so umfangreich
+                    sind, um ein Departement ausschließlich zu beschäftigen, da ist es dem
+                    Statthalter oder Landeschef unter seiner Verantwortung anheimgestellt, sie
+                    demjenigen seiner Räthe anzuvertrauen, den er dafür am geeignetsten hält, oder
+                    sie unter mehreren Räthen zu vertheilen; jedoch hat er von jeder in dieser
+                    Beziehung beabsichtigten Verfügung vorerst Meinem <rs type="person" ref="#thun-hohenstein-leo" key="thun-hohenstein-leo">Minister des Cultus und Unterrichts</rs>
+                    motivirte Anzeige zu erstatten und dessen Bemerkungen darüber
+                    abzuwarten.<lb/>Den Statthaltern und Länderchefs steht es ebenfalls zu, jenen
+                    Unterrichtsreferenten, welche durch die Geschäfte dieses Departements nicht ganz
+                    in Anspruch genommen sind, noch andere Geschäfte zur Bearbeitung
+                    zuzutheilen.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

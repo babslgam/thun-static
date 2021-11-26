@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-de-luca-02-01-ca642.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-celakovsky-1851-07-30-ca1061.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-de-luca-1858-02-03-ca641.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#luca-antonio-de" role="recipient">Antonio Saverio de
+                        Luca</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</rs>, <date when="--02-01">1.
+                        Februar</date>
+                </title>
+            <title type="label">Leo Thun an Antonio Saverio de Luca, o. O., 1. Februar</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA3F-A</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Vatikanisches Geheimarchiv</institution>
+                        <repository>Segreteria di Stato</repository>
+                        <idno>Spogli di Cardinali e Officiali di Curia, De Luca card. Antonio
+                            Saverio, 2A</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Thun bittet den Kardinal ein anliegendes Dokument zu lesen und ihm
+                            mitzuteilen, wann er ihn aufsuchen kann.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Französisch.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</settlement>
+                    <date>1.
+                        Februar</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#luca-antonio-de">Antonio Saverio de Luca</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                </index>
+                <p>Monseigneur !</p>
+                <p>J'ose prier Votre Excellence de bien vouloir lire le document ci-joint, et me
+                    faire indiquer à quelle heure je puis avoir l'honneur de me présenter chez
+                    vous.<lb/>Agréez Monseigneur l'expression de ma haute considération et de tous
+                    mes sentiments les plus distingués</p>
+                <p>le 1 fevrier</p>
+                <p>Comte Thun</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

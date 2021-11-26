@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="flir-an-thun-1855-11-03-a3-xxi-d352.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/flir-an-thun-1854-02-06-a3-xxi-d253.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/flir-an-thun-1858-07-29-a3-xxi-d462.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#flir-alois" role="sender:kleriker">Alois Flir</rs> an
+                        <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs>, <date when-iso="1855-11-03">3.
+                        November 1855</date>
+                </title>
+            <title type="label">Alois Flir an Leo Thun, Rom, 3. November 1855</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DC3C-B</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D352</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Rektor des Kollegs Santa Maria dell'Anima, Alois Flir, wendet sich
+                            mit der Bitte an Thun, er möge ein beiliegendes Gesuch dem Kaiser
+                            übergeben. Darin bittet der Koadjutor des Präfekten des Vatikanischen
+                            Geheimarchivs, Augustin Theiner, dem Kaiser sein jüngstes Werk, eine
+                            Prachtausgabe der Annalen des Baronius widmen zu dürfen. Die Herausgabe
+                            des Bandes wird durch eine päpstliche Kommission überwacht, so dass
+                            nichts Verfängliches darin erscheinen wird. Der erste Band dieses Werks
+                            war dem Heiligen Vater zugedacht, sollte der Kaiser die Widmung
+                            annehmen, wäre dadurch auch die durch das Konkordat besiegelte neue
+                            Verbindung zwischen Österreich und dem Vatikan symbolisch
+                            verdeutlicht.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#flir-alois">Alois Flir</rs>
+                    <settlement ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</settlement>
+                    <date when-iso="1855-11-03">3.
+                        November 1855</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Konkordat</term>
+                    <term>Geschichtswissenschaften</term>
+                </index>
+                <p>Euer Excellenz!<lb/>Hochgeborner Graf!</p>
+                <p>In dem unbegränzten Vertrauen auf die so Viele und auch mich beglückende Huld
+                    Euer Excellenz wagte ich es, eine Commission zu übernehmen, welche ich ohne
+                    jenen Beweggrund abgelehnt hätte.<lb/>Der gelehrte Oratorianer <rs type="person" ref="#theiner-augustin">Pater Theiner</rs> ersuchte mich nämlich, als
+                    sein Dolmetscher Euer Excellenz ehrfurchtsvoll um die Gnade zu bitten, mittelst
+                    des angeschlossenen Majestätsgesuches die allerhöchste Genehmigung, den II.
+                    Folienband der Prachtausgabe der Fortsetzung der Annalen des Baronius Seiner
+                    Apostolischen Majestät, unserem glorreichen Kaiser, dediciren zu dürfen,
+                    huldvoll vermitteln zu wollen.<lb/>Das ganze Werk geht vor der Drucklegung durch
+                    die sorgfältige Revision einer von Seiner Heiligkeit zusammengesetzten
+                    Commission, so daß nichts Verfängliches oder Ungeziemendes zu besorgen ist.
+                    <lb/>Der erste Band trägt bereits den Namen des heiligen Vaters auf dem
+                    Vorderblatte und <rs type="person" ref="#pius-IX">Pio IX</rs> äußerte selbst, es
+                    wäre schön, wenn der durch das Concordat und durch die erhabene Gesinnung
+                    überhaupt um die Kirche so hochverdiente Kaiser von Oesterreich die Dedication
+                    des II. Bandes anzunehmen geruhen würde.<lb/>Ich erlaube mir gleichzeitig einige
+                    Probeblätter unter Kreuzband einzusenden. Der II. Band ist beinahe vollständig
+                    druckfertig und möchte noch vor Weihnacht erscheinen.<lb/>Wenn von <rs type="person" ref="#pius-IX">Seiner Heiligkeit</rs> ein vorgestern ausgesprochenes
+                    Vorhaben nicht wieder aufgeschoben wird, so hält der <rs type="person" ref="#pius-IX">heilige Vater</rs> heute, und vielleicht in diesem Augenblicke, in
+                    dem geheimen Consistorium die freudenvolle Allocutio über das österreichische
+                    Concordat.<lb/>Wollen Euer Excellenz die Kühnheit meiner Bitte nachsichtsvoll
+                    entschuldigen und genehmigen, daß der ferneren Huld und Gnade sich von neuem
+                    empfiehlt</p>
+                <p>Euer Excellenz ehrfurchtsvoll gehorsamster Diener<lb/>Al. Flir, Rector
+                all‘Anima</p>
+                <p>Rom den 3. November 1855</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

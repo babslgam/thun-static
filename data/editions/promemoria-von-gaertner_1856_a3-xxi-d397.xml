@@ -1,0 +1,224 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="promemoria-von-gaertner_1856_a3-xxi-d397.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Auszug aus einem Promemoria von Prof. <rs type="person" ref="#gaertner-wilhelm" key="gaertner-wilhelm">Wilhelm Gärtner</rs>
+                    <lb/>
+                    <rs type="place" subtype="place">o. O.</rs>, <date when="1856">o. D. [1856]</date>
+                </title>
+            <title type="label">Auszug aus einem Promemoria von Prof. Wilhelm Gärtner, o. O., o. D. [1856]</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p/>
+            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000D-F7DF-2</tei:idno>
+            </publicationStmt>
+
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D397</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Priester und Philologe Wilhelm Gärtner schildert die Situation an der
+                            Pester Universität. Gärtner wurde im Jahr 1852 zum außerordentlichen
+                            Professor der deutschen Sprache und Literatur an dieser Universität
+                            bestellt. Die Studenten weigerten sich jedoch anfangs, seine Kollegien
+                            zu besuchen. Nur einige Schüler des Seminars besuchten auf Druck des
+                            Primas von Ungarn seine Vorlesungen. Gärtner war als Weltgeistlicher
+                            außerdem zum akademischen Prediger ernannt worden, allerdings mieden die
+                            Studenten auch seine deutschen Predigten, die nach einer längeren
+                            Krankheit durch lateinische bzw. ungarische ersetzt wurden. Gärtner
+                            führt diese Krankheit auch auf seine schwierige Situation in Ungarn
+                            zurück. Er sieht seine Aufgabe dort allerdings auch als Auftrag, die
+                            deutsche Sprache zu verbreiten. Daher hatte er beim Ministerium
+                            beantragt, seine Vorlesungen als obligate geschichtliche Kollegien für
+                            die Juristen anerkennen zu lassen. Das Ministerium hatte diesen Wunsch
+                            erfüllt. Seither hat er ein zahlreicheres Auditorium. Um seine Stellung
+                            und die der deutschen Sprache im Allgemeinen noch weiter zu stärken,
+                            bittet er darum, seine Professur in eine ordentliche umzuwandeln.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Abschrift eines Promemorias von Wilhelm Gärtner.<lb/>Die Anrede
+                            "kaiserliche Hoheit" am Beginn des Promemorias lässt es als möglich
+                            erscheinen, dass dieses an Erzherzog Albrecht, den Generalgouverneur von
+                            Ungarn, gerichtet war.<lb/>Als <ref target="#D397_1">Beilage</ref> ein
+                            anonymes Begleitschreiben.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Universität Pest</term>
+                    <term>Ungarn</term>
+                    <term>Nationalitätenkonflikt</term>
+                </index>
+                <p>Auszug aus einem Promemoria.</p>
+                <p>Mich in allertiefster Veneration fertigend, habe ich die Ehre Höchstdenenselben
+                    nachstehendes unterthänigstes Promemoriale tiefehrfürchtigst zu unterbreiten,
+                    und die huldvolle Aufmerksamkeit Kaiserlicher Hoheit auf das Interesse meiner
+                    Lehrkanzel für deutsche Sprachwissenschaft und Literaturgeschichte, sodann aber
+                    auch auf meine persönliche Existenz und Lebensaufgabe zu lenken.<lb/>Im Jahre
+                    1852 an vorbemerkte Lehrkanzel der Universität zu Pest berufen, brachte ich für
+                    meine wissenschaftliche und <hi rend="ul">deutsche</hi> Mission ein volles Maß
+                    von Liebe und Begeisterung mit, und wenn schon ich bald gewahrte, daß ich auf
+                    harte Kämpfe gefaßt sein müsse, schöpfte ich doch gern aus den sich darbietenden
+                    Bedingungen ganz besonders aber aus den herablassungsvollen, allergnädigsten
+                    Äußerungen Eurer Kaiserlichen Hoheit, als ich damals das Glück hatte, mich
+                    Höchstdenenselben vorzustellen, die Hoffnung auf ein fröhliches
+                    Gelingen.<lb/>Daß ich nicht ruhte und nicht rastete, bis das <hi rend="ul">Gelingen</hi> endlich in der Hauptsache sich einstellte, daß dasselbe aber
+                    kaum mehr ein fröhliches, sondern ein bitter errungenes war, und ich, ohne alle
+                    höhere Handreichung (die göttliche ausgenommen) schmerzlichster Verlassenheit
+                    preisgegeben blieb, dürfte aus Nachfolgendem hervorgehen:<lb/>Bei meinem
+                    Antritte hier sprachen mir sogar Wohlwollende die Hoffnung ab, meine Vorträge
+                    auch nur <hi rend="ul">eröffnen</hi> zu können; der Herr <rs type="person" ref="#reisinger-johann" key="reisinger-johann">Decan</rs> selbst wagte es nicht, mich in meine
+                    Zuhörerschaft einzuführen, aus Furcht, es werde überhaupt <hi rend="ul">gar
+                        keine</hi> solche da sein.<lb/>In der That eröffnete ich meine Vorträge in
+                    Gegenwart eines Redakteurs, eines Literaten, einiger Professoren und mehrerer
+                    mir <hi rend="ul">einstweilen</hi> zugesendeten Alumnen; <hi rend="ul">kein
+                        einziger</hi> Studierender der anderen drei Fakultäten war anwesend. Der
+                    hochwürdigste <rs type="person" ref="#scitovsky-jan" key="scitovsky-jan">Herr Fürsterzbischof und Primas zu
+                        Gran</rs> [Esztergom] hatte mir zugesagt, den Alumnen zu erlauben, ja sie
+                    aufzufordern, meine Vorträge zu besuchen; er sagte mir acht Tage später in
+                        <rs type="place" subtype="place" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pest</rs> über letztere Schmeichelhaftes, und äußerte mir,
+                    Anordnungen im Sinne jenes Versprechens gemacht zu haben. Seltsamerweise blieben
+                    am Tage seiner Rückreise nach <rs type="place" subtype="place" ref="#place_cde856980f41b5362c96273d9c84431d">Gran</rs> [Esztergom] zum ersten
+                    Male die Alumnen sammt und sonders aus meinem Kollegium weg. Sie waren mir,
+                    wiewohl sich deren 17 zu einem fortlaufenden Besuche meiner Vorträge enschlossen
+                    hatten, durch eine Maßnahme, die einem Verbote gleichkam, <hi rend="ul">entzogen</hi> worden.<lb/>Ohne Säumens eilte ich nach
+                        <rs type="place" subtype="place" ref="#place_cde856980f41b5362c96273d9c84431d">Gran</rs>, solchen Vorgang dort persönlich zu
+                    berichten. Ich fand den hochwürdigsten <rs type="person" ref="#scitovsky-jan" key="scitovsky-jan">Herrn
+                        Fürstprimas</rs> über solche Willkür indignirt. "Noch heute schreibe
+                    ich deshalb nach <rs type="place" subtype="place" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pest</rs>" rief er mir beim Weggehen zu. Ich
+                    habe nie daran gezweifelt, daß der arglose, des guten Willens volle Kirchenfürst
+                    Wort gehalten habe; aber ich merkte nichts davon. Vier Wochen später machte mir
+                    der Herr Seminarrektor etwas gepreßt die Mittheilung : es sei aus
+                        <rs type="place" subtype="place" ref="#place_cde856980f41b5362c96273d9c84431d">Gran</rs> [Esztergom] ein sehr nachdrückliches
+                    Primatialschreiben – in Folge höchster Anregungen kaiserlicher Hoheit –
+                    gekommen, das da wiederholt auf den Besuch meiner Vorträge von Seite des
+                    Centralseminars dringe; zugleich proponierte mir der genannte Herr Rektor als
+                    Ausweg (aus seiner angeblich peinlichen Verlegenheit) ob ich nicht wöchentlich
+                    ein oder zwei Male im <hi rend="ul">Seminar selbst</hi> für etwaige Alumnen
+                    deutschen Sprachunterricht <hi rend="ul">einzig</hi> und <hi rend="ul">allein</hi> ertheilen wolle? Ich wies mit Entrüstung diesen jämmerlichen
+                    Behelf tadelnswerther Renitenz zurück und bestand auf dem vollen Vollzuge hoher
+                    und höchster Anordnung. Nach einigen Wochen abermaliger Erfolglosigkeit
+                    erkrankte ich schwer und konnte erst nach halbjährigem Urlaub und gewonnener
+                    Genesung auf meinen <hi rend="ul">Missionsplatz</hi> zurückkehren.<lb/>Von einer
+                    Rückkehr der Seminaristen in meine Vorträge war nie mehr die
+                    Rede.<lb/>Kränkungen und Kämpfe von mancherlei Art hatten die vorbesagte
+                    Erkrankung herbeigeführt. Vom hochwürdigsten <rs type="person" ref="#scitovsky-jan" key="scitovsky-jan">Herrn
+                        Fürstprimas</rs> zum <hi rend="ul">deutschen</hi> akademischen
+                    Prediger ernannt, hatte ich als solcher mit der akademischen Jugend mich in
+                    Berührung gesetzt, und nicht nur ein Publikum in der Kirche, sondern auch ein
+                    kleines <hi rend="ul">inskribiertes</hi> für meine Kollegien gewonnen. Jenes
+                    Erkranken aber ward schnell benützt, um hinfort <hi rend="ul">nur
+                        magyarisch</hi> predigen zu lassen. Da diese Einseitigkeit späterhin auf
+                    Schwierigkeiten stieß, ward, zumal durch die Bemühungen des <rs type="person" ref="#simor-johann" key="simor-johann">damaligen Referenten</rs> im hohen <rs type="org" ref="#org_0005" key="ministerium-fuer-kultus-und-unterricht">Ministerium</rs> (jetzt
+                    Bischof in <rs type="place" subtype="place" ref="#place_1cb537e833afd985097ccfaddffb2ef3">Raab</rs> [Györ]) bestimmt, daß die akademische
+                    Predigt fortan ausschließlich in <hi rend="ul">lateinischer</hi> Sprache
+                    gehalten werde; und ich selber mußte es mitanhören, wie ein Bischof aus
+                        <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs> bei dem Angedeuteten für solche das <hi rend="ul">deutsche Idiom beseitigende</hi> Einrichtung "Deo Gratias!" ausrief.
+                    Nachdem dieser lateinische usus in kurzer Zeit alle Studenten bis auf <hi rend="ul">den letzten</hi> aus der Kirche hinausgetrieben hatte, ward für
+                    die Sonntage die<hi rend="ul"> ungarische Sprache</hi>, für die wenigen
+                    Feiertage der zehn Studienmonate, sofern an diesem oder jenem die Predigt nicht
+                    lieber unterblieb, die <hi rend="ul">deutsche</hi> bestimmt, dies alles in einem
+                    Zeitraume von nicht ganz 3 Jahren.<lb/>Der hochwürdigste Herr <rs type="person" ref="#scitovsky-jan" key="scitovsky-jan">Fürstprimas</rs> hatte, meinem bescheidenen,
+                    eingeholten Rathe zufolge, verordnet: daß der akademische Meßgesang in <hi rend="ul">lateinischen</hi> Liedern bestehen solle; Dieselben hatten <hi rend="ul">durch mich</hi> dem damaligen Herrn Spiritual N.g. im Seminar
+                    (später k.k. Hofkaplan, sodann Domherr geworden) den Befehl zugesandt, ein
+                    Büchlein solcher Lieder zusammenzustellen. Kurze Zeit darauf ward von diesem
+                    Priester an die Alumnen (die übrigens aus der <hi rend="ul">deutschen</hi>
+                    Predigt, mithin auch unausweichlich aus der magyarischen – unter scheinbar
+                    plausiblen Vorwande fortgeschickt wurden) während des akademischen
+                    Gottesdienstes in der That ein solches Büchlein vertheilt; wie erstaunte ich
+                    aber, als ich darin kein einziges lateinisches Meßlied, sondern nur eben lauter
+                    ungarische erblickte.<lb/>Genug der tiefergebensten Andeutungen über meine
+                    Stellung und Kämpfe.<lb/>Gleichwohl verlor ich nicht den Muth, und, in der That,
+                    ich zählte im 3. Jahre bereits ein <hi rend="ul">namhaftes</hi>
+                    <hi rend="ul">inskribiertes</hi> Kollegium, mit Einschluß der <hi rend="ul">Nichtinskribierten</hi> aber gar oft – zumal in meinen Vorträgen über
+                        <rs type="person" ref="#shakespeare-william" key="shakespeare-william">Shakespeare</rs>, <rs type="person" ref="#schiller-friedrich" key="schiller-friedrich">Schiller</rs>, <rs type="person" ref="#goethe-johann-wolfgang" key="goethe-johann-wolfgang">Göthe</rs>, den Fechter von Ravenna, etc.
+                    einen ganz vollen Hörsaal, von allerdings exzeptioneller Beschaffenheit; denn
+                    die Mehrheit bestand aus reifen, sogar ergrauten Männern aller Klassen und
+                    Branchen, den Beamten, Professoren, Künstler und Militair nicht
+                    ausgenommen.<lb/>Eine solche Versammlung war aber, zumeist und überhaupt noch
+                    immer eine nur prekäre, während es mir um einen festen und nicht blos auf meine
+                    individuellen, außerordentlichen Anstrengungen gegründeten Bestand der
+                    Lehrkanzel zu thun sein mußte. Da nahm ich 1855 die neue Studienorganisation
+                    wahr, um auf Grund derselben, nachdem ich zweimal schon ähnliche Bitten Einem
+                    hohen Ministerium unterbreitet hatte, diesmal die ehrerbietigste Bitte
+                    auszusprechen: Ein hohes Ministerium wolle verordnen, daß das Kollegium über
+                    deutsche Literaturgeschichte (das ja seiner Natur nach <hi rend="ul">vorzugsweise</hi> ein geschichtliches ist, weil es die Geschichte des
+                    deutschen Geistes und Fortschrittes behandelt) doch auch im Lektionskataloge der
+                    juridisch-politischen Hörer, welche zu <hi rend="ul">zwei</hi> geschichtlichen
+                    Kollegien verpflichtet sind, als ein <hi rend="ul">obligates</hi> gelte, d.h.
+                    daß es die Stelle des zweiten Kollegiums über Weltgeschichte vertreten
+                        könne.<lb/>
+                    <hi rend="ul">Ich hatte von der hohen Genehmigung dieser Bitte
+                        meine Rückkehr auf die Lehrkanzel nach Pest abhängig</hi> gemacht und fühlte
+                    mich für solchen Entsagungsmuth nicht wenig erfreut, als ich nach Verlauf von
+                    kaum 4 Tagen von der hohen Verordnung, die im Sinne meiner ehrfürchtigen Bitte
+                    erflossen war, Kunde erhielt. Seit solchem hohen Erlaß (vom 6. Oktober 1855) ist
+                    der Bestand jener – hier in <rs type="place" subtype="place" ref="#place_fc3a4fb327706ca2220500871d60b94b">Pest</rs> im Herzen
+                        <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarn</rs>s hochwichtigen Lehrkanzel ein gesicherter, und es
+                    würde einer ausgezeichneten Ungeschicklichkeit bedürfen, um selbe wieder auf
+                    jenen Stand zurückzuführen, in welchem ich sie bei meinem Antritte (sie bestand
+                    nur nominell) vorgefunden.<lb/>In dem Augenblicke, da ich das Glück habe, diese
+                    Worte Eurer Kaiserlichen Hoheit zu unterbreiten, sind für das eben begonnene
+                    Semester bei mir <hi rend="ul">inskribiert</hi>: für das Kollegium über neueste
+                    Geschichte deutscher Lyrik: 16 Zuhörer, wovon 15 juridisch-politische Zuhörer
+                    sind;<lb/>für das Kollegium über Geschichte des deutschen Drama: acht
+                    Zuhörer;<lb/>für das Kollegium über deutsche Sprachwissenschaft zehn
+                    Zuhörer.<lb/>An einigen Nachzüglern (mit Justifizierungszeugnissen) und vollends
+                    an <hi rend="ul">nicht inskribierten</hi> Besuchern (Gästen) wird es auch in <hi rend="ul">diesem</hi> Jahre kaum fehlen. Ein <hi rend="ul">Gelingen</hi> hat
+                    sich also doch wohl eingestellt, – aber – mit brennenden Schmerz im Herzen
+                    gestehe ich's: ich selber wäre darüber beinahe zu Grunde gegangen.<lb/>Von
+                    Anbeginn an mußte ich das Nachtheilige erfahren, welches meiner Lehrkanzel aus
+                    dem Umstande erwächst, daß sie eine "außerordentliche" ist. Man hat hier kein
+                    Verständnis für derlei, und wirft es in ein Fach mit Docentenstellen. Bei
+                    Abfassung des Lehrkatalogs muß der "außerordentliche" Professor mit den Stunden
+                    Vorlieb nehmen, welche die "ordentlichen" übrig lassen. Der magyarische Student
+                    springt über "außerordentliche" Kollegien in der Regel als über etwas ganz
+                    Müssiges hinweg. Der "außerordentliche" Professor kann nicht die Würde des
+                    Decano bekleiden, und jeder später ernannte, "ordentliche" Professor rückt an
+                    der Tafel des Professorenkollegiums über ihn hinauf. Seit ich die Ehre habe, der
+                    kaiserlich königlichen <rs type="org" ref="#org_0008" key="universitaet-pest">Pester
+                        Universität</rs> anzugehören, wurden für die philosophische Fakultät
+                    sechs "ordentliche" Professoren ernannt, darunter jugendliche Kräfte, und ich
+                    bin nachgerade bis an die Thüre zurückgerückt.<lb/>Ein Geistlicher muß ungleich
+                    Herberes verschmerzen können, aber bei dem Hinweis auf solchen Verhalt führt mir
+                    ja nicht <hi rend="ul">persönliches</hi> Interesse die Feder. Nein, ich hoffe zu
+                    Gott, meine Zeit auf dieser Lehrkanzel werde bald ihr Ende erreichen!<lb/>Im <hi rend="ul">Interesse dieser wichtigsten</hi> Lehrkanzel an der <rs type="org" ref="#org_0008" key="universitaet-pest">Pester Universität</rs> einzig und allein <hi rend="ul">wage ich es, der hohen und höchsten Einflußnahme Kaiserlicher
+                        Hoheit die Umwandlung dieses "außerordentlichen" Lehrstuhls in einen
+                        "ordentlichen" aufs devoteste und flehentlichste
+                    anzuempfehlen.</hi>
+                    <lb/>etc. etc. etc.</p>
+
+            </div>
+            <div type="enclosure" xml:id="D397_1">
+                <p>Gärtner ord. Prof. – Rector.<lb/>[?] ist gewesener Präses.<note>Eh. Notiz von Thun.</note>
+                </p>
+                <p>Nach einer Besprechung Seiner Exzellenz des Herr Minister <rs type="person" ref="#thun-hohenstein-leo" key="thun-hohenstein-leo">Grafen Thun</rs> mit dem <rs type="person" ref="#scitovsky-jan" key="scitovsky-jan">Primas</rs> über den Zustand des Pesther
+                    "Piaristen"-Gymnasiums schrieb der Letztere dem Stadtpfarrer <rs type="person" ref="#szantofy-anton" key="szantofy-anton">Szántoffy</rs> einen eigenhändigen lateinischen
+                    Brief, mit der Weisung denselben dem Ordens-Provinzial vorzuweisen und
+                    vorzulesen, dann aber dem <rs type="person" ref="#scitovsky-jan" key="scitovsky-jan">Primas</rs>
+                    zurückzusenden damit, wie es ausdrücklich heißt, ne me compromittas.<lb/>In
+                    diesem Schreiben wurde dem <rs type="person" ref="#nagy" key="nagy">Provinzial Nagy</rs> ans
+                    Herz gelegt, die Wahl, wenn sie abermals auf ihn fiele, nicht anzunehmen,
+                    mitgetheilt, daß das hohe Ministerium mit dem Orden unzufrieden sei, und dabei
+                    wörtlich aufgeführt, weil:<lb/>multum hungarisant,<lb/>parum
+                    germanisant<lb/>examina non faciunt,<lb/>regimini non dant ira[?].<lb/>Dieser
+                    Brief circulierte in mehreren Kreisen.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

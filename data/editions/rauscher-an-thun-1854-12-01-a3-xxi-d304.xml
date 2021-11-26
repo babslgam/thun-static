@@ -1,0 +1,126 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="rauscher-an-thun-1854-12-01-a3-xxi-d304.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/rauscher-an-thun-1854-11-09-a3-xxi-d298.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/rauscher-an-thun-1855-01-11-a3-xxi-d324.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#rauscher-joseph" role="sender:kleriker">Joseph Othmar
+                        Rauscher</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs>, <date when-iso="1854-12-01">1. Dezember 1854</date>
+                </title>
+            <title type="label">Joseph Othmar Rauscher an Leo Thun, Rom, 1. Dezember 1854</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DAC3-3</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D304</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Erzbischof von Wien, Joseph Othmar Rauscher, berichtet von den
+                            Konkordatsverhandlungen in Rom. Dabei kritisiert er zunächst das
+                            Verhalten von Kardinal Ján Scitovský, der einen Abschluss zu verhindern
+                            suche. Rauscher glaubt jedoch, dass der Widerstand sich allmählich auf
+                            allen Seiten lockere, so dass ein Erfolg wieder wahrscheinlicher werde.
+                            Zuletzt konnte Rauscher etwa bei den Verhandlungen über die Ehegesetze
+                            einen kleinen Durchbruch erzielen. Rauscher erklärt die Verzögerungen
+                            bei den Verhandlungen auch mit den zahlreichen Versammlungen zur
+                            Dogmatisierung der Immaculata, an denen die Kardinäle teilnehmen müssen,
+                            und mit der anstehenden Weihe von Sankt Paul vor den Mauern. Rauscher
+                            äußert schließlich den Wunsch, dass Österreich versuchen möge, seinen
+                            Einfluss in Rom zu vergrößern. Hierzu werde Rauscher bei seiner Rückkehr
+                            mündlich näheres berichten und seine Anliegen auch dem Kaiser vortragen.
+                            Zuletzt äußert sich Rauscher positiv über den neuen Rektor des Kollegs
+                            von Santa Maria dell'Anima, Alois Flir.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#rauscher-joseph">Joseph Othmar Rauscher</rs>
+                    <settlement ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</settlement>
+                    <date when-iso="1854-12-01">1. Dezember 1854</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Konkordat</term>
+                    <term>Santa Maria dell'Anima</term>
+                </index>
+                <p>Rom, am 1. Dezember 1854</p>
+                <p>Hochgeborner Graf!</p>
+                <p>Euer Excellenz Schreiben vom 4. November habe ich richtig erhalten und zweifle
+                    nicht, daß auch mein Brief richtig angekommen ist. Hinsichtlich der Maßregeln,
+                    welche die Reise des <rs type="person" ref="#danielik-johann">Domherrn
+                        Danielik</rs> verhindert hat, ist mir bis jetzt nichts zu Ohren
+                    gekommen. Übrigens fährt der <rs type="person" ref="#scitovsky-jan">Kardinal
+                        Scitovsky</rs> fort, einem Concordate, wie es in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> der Vortheil des Staates und der
+                    Kirche verlangt, nach Möglichkeit entgegenzuwirken. Bei Alledem fängt man
+                    allmählig an, eine nachgiebigere Sprache zu führen, und es scheint, daß über die
+                    Eheverbote auf dieselben Bedingungen, welche ich schon mehrmals angeboten, eine
+                    Verständigung nicht ferne ist. Aber Zusicherungen, welche man als bindend
+                    ansehen könnte, habe ich noch immer nicht erlangt und ich muß mich noch immer
+                    darauf gefaßt machen, daß auch in diesem Puncte die alten Schwierigkeiten wieder
+                    auftauchen.<lb/>Die äußerste Langsamkeit, womit die Sache bis jetzt
+                    einherschreitet, findet jedoch auch in äußeren Verhältnissen ihre Erklärung. Der
+                        <rs type="person" ref="#pius-IX">heilige Vater</rs> ist mit Audienzen und die
+                    einflußreichen Kardinäle sind mit Besuchen mehr als jemals überhäuft: denn noch
+                    immer kommen Bischöfe an; während der letzten acht Tage sind aus
+                        <rs type="place" subtype="country" ref="#place_72ac53f7b58ea996114e510e7d524fb9">Frankreich</rs> die <rs type="person" ref="#sibour-auguste">Erzbischöfe
+                        von Paris</rs>, <rs type="person" ref="#bonald-louis-jacques-maurice">Lyon</rs>, <rs type="person" ref="#darcimoles-pierre">Aix</rs> und
+                        <rs type="person" ref="#debelay-jean">Avignon</rs> sammt mehreren Bischöfen
+                    angelangt. Seit dem 31. October Nachmittag haben die capelle Pontificie und
+                    andere kirchliche Functionen, bei welchen die Kardinäle nicht fehlen können,
+                    fast nicht aufgehört und vermuthlich wird erst nach der Weihe der Paulskirche,
+                    welche vorläufig auf den 10. Dezember angesetzt ist, ein Stillstand eintreten.
+                    Auch ich kann mich nur hin und wieder davon dispensiren und die hiesigen
+                    schwerfälligen Wagen brauchen zu dem Wege vom Quirinale, wo ich wohne, bis zum
+                        <rs type="place" subtype="place" ref="#place_24722a1d2a82015c05b6e296a88203bb">Vatican</rs> fast eine halbe Stunde. Hiezu
+                    kommt noch die Frage über die unbefleckte Empfängnis. Es war zwar mein Wunsch
+                    und meine Absicht, mich passiv zu verhalten; aber die Verhältnisse haben sich so
+                    gestellt, daß mein Gewissen es mir nicht gestattet, und vierzehn Tage lang war
+                    meine Kraft und meine Zeit von dieser Angelegenheit fast gänzlich in Anspruch
+                    genommen. Seit gestern berathet der <rs type="person" ref="#pius-IX">Papst</rs> die
+                    Sache mit dem Cardinalcollegium, welches (ein sehr seltener Fall) beinahe
+                    vollzählig versammelt ist.<lb/>Wenn <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> zu <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs> den ihm gebührenden
+                    Einfluß gewinnen soll, so müssen seine Interessen in einer ganz anderen Weise
+                    vertreten werden, als bisher geschah. Da man über solche Dinge leichter spricht
+                    als schreibt, so erspare ich alles Einzelne bis zu meiner Rückkehr: um so mehr
+                    da Seine Majestät mir ohnehin befohlen haben, auf dem Grunde der Wahrnehmungen,
+                    welche ich hier machen würde, über die Mittel zu Hebung des österreichischen
+                    Einflusses seiner Zeit mein Gutachten zu geben. Nur Eines erlaube ich mir zu
+                    bemerken: der provisorische <rs type="person" ref="#flir-alois">Rector</rs> der
+                    Kirche <rs type="org" ref="#org_0062">dell’Anima</rs> ist ganz an
+                    seinem Platze und wenn Euere Excellenz ihm die Zusicherung erwirken würden, daß
+                    ihm bis zu Regulierung der die deutsche Kirche betreffenden Angelegenheiten sein
+                    Professorsgehalt vorbehalten bleiben werde, so würde er an seinem Platze
+                    ausharren und gewiß sehr nützliche Dienste leisten.<lb/>Übrigens hoffe ich, daß
+                    Euere Excellenz Sich rechtbefinden und verharre mit der vollkommensten
+                    Verehrung,</p>
+                <p>Euer Excellenz ergebenster Diener<lb/>J. O. v. Rauscher</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

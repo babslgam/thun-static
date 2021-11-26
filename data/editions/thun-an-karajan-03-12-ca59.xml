@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-karajan-03-12-ca59.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-juelg-1855-04-17-ca809.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-laube-1857-10-29-ca818.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#karajan-theodor" role="recipient">Theodor
+                        Karajan</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</rs>, <date when="--03-12">12. März o. J. [post 1851]</date>
+                    <note xml:id="note_1">Da die Wahl Theodor
+                        Karajans zum Vizepräsidenten der Akademie der Wissenschaften erst am 28.
+                        Juli 1851 vom Kaiser sanktioniert worden ist, ist dieses Datum wohl als
+                        Terminus post quem anzusehen.</note>
+                </title>
+            <title type="label">Leo Thun an Theodor Karajan, o. O., 12. März o. J. [post 1851]</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA09-6</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <msDesc>
+                        <msIdentifier>
+                            <institution>Österreichische Nationalbibliothek</institution>
+                            <repository>Handschriftenabteilung</repository>
+                            <idno>Autogr. 172/7-3 Han</idno>
+                        </msIdentifier>
+                        <msContents>
+                            <p>Leo Thun bedankt sich bei dem Literaturhistoriker Theodor Karajan für
+                                die Übersendung eines nicht näher bezeichneten Aufsatzes. Thun hat
+                                den Aufsatz dem Kaiser übergeben. Jener möchte allerdings nicht,
+                                dass der Aufsatz veröffentlicht werde. Thun hat dem nichts
+                                hinzuzufügen, bedauert aber die Entscheidung des Kaisers. Thun
+                                möchte dennoch gern eine Kopie des Aufsatzes behalten, um ihn
+                                ausgewählten Personen zugänglich zu machen. Zudem hofft er, dass der
+                                Aufsatz in der Zukunft als Teil einer umfassenden Arbeit erscheinen
+                                werde.</p>
+                        </msContents>
+                    </msDesc>
+                </p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</settlement>
+                    <date>12. März o. J. [post 1851]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#karajan-theodor">Theodor Karajan</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Geschichtswissenschaften</term>
+                    <term>Akademie der Wissenschaften</term>
+                    <term>Österreichische Geschichte</term>
+                </index>
+                <p>den 12. März</p>
+                <p>Geehrter Herr Vizepräsident!</p>
+                <p>Der <rs type="person" ref="#franz-joseph">Kaiser</rs> hat mir gestern Abend den
+                    beiligenden Aufsatz mit der einhändigen Bemerkung zurückgesendet; ‚Die
+                    Veröffentlichung dieses sehr interessanten Aufsatzes wird besser unterbleiben.'
+                    Somit ist nichts weiter zu sagen! ich kann nur beifügen, daß es mir
+                    außerordentlich leid ist! Mögen Sie einigen Trost darin finden können, daß eine
+                    Arbeit wenigstens nicht umsonst gemacht ist, wenn sie der <rs type="person" ref="#franz-joseph">Kaiser</rs> selbst gelesen hat, zumal sie gewiß für
+                    ihn selbst eine sehr lehrreiche Lecture war, deren Eindruck sich in seinem
+                    Geiste nicht verwischen wird. Ich bleibe Ihnen für die Mittheilung dieses
+                    überaus wichtigen Beitrages zur Geschichte eines der merkwürdigsten Momente der
+                    Entwicklung <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreichs</rs> zu großem Dank
+                    verpflichtet, und kann mich der Hoffnung nicht entschlagen, daß derselbe in
+                    nicht all zu ferner Zeit als Bestandteil einer umfassenderen geschichtlichen
+                    Arbeit keinen Anstand finden wird. Jedenfalls sorgen Sie angelegentlich dafür,
+                    daß Ihre Arbeit nicht in Verlust gerathen könne, sondern zu rechter Zeit wieder
+                    bei der Hand sei. Fast möchte ich Sie bitten, mir eine Abschrift zur
+                    Aufbewahrung anzuvertrauen. Daß ich jeden Mißbrauch fern zu halten, wohl aber
+                    dann und wann mit aller Vorsicht einzelnen Personen den Genuß bereiten würde,
+                    davon Kenntnis zu nehmen, versteht sich von selbst.</p>
+                <p>Mit aufrichtiger Hochachtung</p>
+                <p>Thun</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

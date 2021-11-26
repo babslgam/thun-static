@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="wessenberg-an-thun-1849-10-23-a3-xxi-d10.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/wenzig-an-thun-1857-07-05-a3-xxi-d426.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/wessenberg-an-thun-1855-04-02-a3-xxi-d337.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#wessenberg-johann-philipp" role="sender:beamter">Johann
+                        Philipp Wessenberg</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_11a4764afdf4fd27fe76a91244b49852">Karlsbad</rs>, <date when-iso="1849-10-23">23. Oktober 1849</date>
+                </title>
+            <title type="label">Johann Philipp Wessenberg an Leo Thun, Karlsbad, 23. Oktober 1849</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-D9A4-7</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D10</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Johann Philipp Wessenberg empfiehlt Leo Thun den Juristen Leopold August
+                            Warnkönig. Er habe nämlich erfahren, dass man zur Sicherstellung des
+                            Erfolgs der Universitätsreformen Professoren aus dem Ausland nach
+                            Österreich berufen möchte. Er empfiehlt Warnkönig, der derzeit in
+                            Tübingen lehrt, für eine Professur der Rechtsgeschichte oder des
+                            Römischen Rechts. Wessenberg ist überzeugt, dass Warnkönig an einer
+                            Berufung nach Wien interessiert sei. Er kann außerdem für Warnkönigs
+                            wissenschaftliche Fähigkeiten sowie für dessen tadellosen Ruf
+                            bürgen.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#wessenberg-johann-philipp">Johann Philipp
+                        Wessenberg</rs>
+                    <settlement ref="#place_11a4764afdf4fd27fe76a91244b49852">Karlsbad</settlement>
+                    <date when-iso="1849-10-23">23. Oktober 1849</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Personalvermittlung</term>
+                    <term>Universität Wien</term>
+                    <term>Rechtswissenschaften</term>
+                </index>
+                <p>Hochgebohrener Herr Graf</p>
+                <p>Mit großem Vergnügen habe ich vernommen, daß Ihnen daran liege, für Emporbringung
+                    unserer höheren Lehranstalten tüchtige Männer, erprobte Gelehrte aus dem
+                    Auslande zu gewinnen. In dieser Hinsicht darf ich wagen, Ihnen einen mir seit
+                    langer Zeit wohlbekannten Professor in juridischer Sache nahmhaft zu machen,
+                    welcher Ihren Wünschen und Absichten vollkommen entsprechen dürfte. Derselbe ist
+                    der dermalen an der Universität in <rs type="org" ref="#org_0044">Tübingen</rs>
+                    als Professor des römischen Rechts fungirende Hofrath <rs type="person" ref="#warnkoenig-leopold-august">Warnkönig</rs>. Sein litterarischer Ruf ist
+                    durch gediegene Werke begründet. Seine französische Staatsgeschichte<note xml:id="note_1"> Vgl. Leopold August Warnkönig, Französische Staats- und
+                        Rechtsgeschichte, 3 Bde., 1845–1848. </note> kann zum Muster für ähnliche
+                    Werke dienen. Er dozirte früher mit ausgezeichneten Beifall an der Universität
+                    in <rs type="org" ref="#org_0082">Gent</rs>; nach Ausbruch der belgischen
+                    Revolution erhielt er einen Ruf nach <rs type="org" ref="#org_0030">Freiburg</rs> später nach <rs type="org" ref="#org_0044">Tübingen</rs>. Ich
+                    halte ihn gleich befähigt für eine Kanzel des römischen Rechts wie für eine der
+                    Rechtsgeschichte. Er ist dabei noch ein Mann in den besten Jahren, hat etwas die
+                    Welt gesehen, hat mit vielen Gelehrten namentlich auch mit französischen
+                    Rechtsgelehrten Verbindung, ist Mitglied der historischen Gesellschaft in <rs type="place" subtype="place" ref="#place_ccbee73cd81c7f42405e1920409247ec">Paris</rs>, übrigens von rein monarchischen Grundsätzen. Mehr ist wohl
+                    nicht nöthig von ihm zu sagen, um ihn zu empfehlen. Ich habe Ursache zu glauben,
+                    daß er dermalen einem Rufe nach <rs type="org" ref="#org_0018">Wien</rs> nicht
+                    ungern folgen würde, indem ich weiß, daß er den dermaligen Zuständen in <rs type="place" subtype="region" ref="#place_7d4d75ba067efdf870f0f6629bf96bed">Süddeutschland</rs> sehr abhold ist. Auch als Publizist würde er gute
+                    Dienste leisten können. Erlauben Sie Herr Graf, daß ich diesen Anlaß benutze, um
+                    Sie in Ihrem neuen wichtigen Amt freundlichst zu begrüßen und die Versicherung
+                    der aufrichtigen Hochachtung zu erneuern, mit welcher ich verharre</p>
+                <p>Ihr gehorsam ergebenster</p>
+                <p>J. P. Wessenberg</p>
+                <p>Carlsbad, den 23. Okt. 1849</p>
+            </div>
+        </body>
+        
+    </text>
+</TEI>

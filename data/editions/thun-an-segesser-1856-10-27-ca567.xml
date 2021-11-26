@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-segesser-1856-10-27-ca567.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-schulte-09-29-ca504.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-stein-05-29-ca853.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#segesser-philipp-anton" role="recipient">Philipp Anton
+                        Segesser</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1856-10-27">27. Oktober 1856</date>
+                </title>
+            <title type="label">Leo Thun an Philipp Anton Segesser, Wien, 27. Oktober 1856</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>Abgedruckt bei: Viktor Conzemius, Briefwechsel Philipp Anton von Segesser
+                    (1817–1888). Bd. II. bearb. von Catherine Bosshart-Pfluger, Zürich 1986.<tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-D9F1-0</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatsarchiv Luzern</institution>
+                        <idno>PA 831/17359</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun bietet dem Juristen Philipp Anton Segesser einen Lehrstuhl an
+                            der Universität Graz an. Thun erklärt, dass er von Ministerialrat
+                            Bernhard Meyer erfahren habe, dass Segesser bereit wäre, einen Lehrstuhl
+                            an dieser Universität zu übernehmen. Thun unterbreitet ihm daher ein
+                            Angebot, das den regulären Gehaltssätzen der Universität Graz
+                            entspricht. Thun ist sich zwar bewusst, dass das Angebot nicht glänzend
+                            ist, hofft aber Segesser dennoch nach Österreich ziehen zu können.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when-iso="1856-10-27">27. Oktober 1856</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#segesser-philipp-anton">Philipp Anton Segesser</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Universität Graz</term>
+                    <term>Rechtswissenschaften</term>
+                    <term>Rechtsgeschichte</term>
+                </index>
+                <p>Wien am 27. Oktober 1856</p>
+                <p>Geehrter Herr Nazionalrath!</p>
+                <p>Aus dem vom Ministerialrathe Dr. <rs type="person" ref="#meyer-bernhard">Bernhard
+                        Meyer</rs> mir mitgetheilten Schreiben Eurer Wohlgeboren vom 19. des
+                    Monats habe ich ersehen, daß die Eröffnung, welche er Ihnen meinem Wunsch
+                    entsprechend, über ihre Berufung an die <rs type="org" ref="#org_0026">Universität Gratz</rs> [Graz] gemacht hat, nicht jene Aufschlüsse über
+                    die Ihnen angebotene Stellung enthielt, welche nothwendig gewesen wäre, um Sie
+                    zu einer definitiven Entschließung über die Annahme derselben zu vermögen. Ich
+                    sehe mich dadurch veranlasst, sie in Folgendem zu ertheilen:<lb/>Die Lehrkanzel,
+                    auf welche <rs type="person" ref="#franz-joseph">Seine Majestät der Kaiser</rs> sie
+                    zu berufen Willens, ist, ist jene der deutschen Reichs- und Rechtsgeschichte und
+                    des deutschen Privatrechtes, welche beiden Lehrfächer, wie ich nach der Richtung
+                    Ihrer bisherigen Studien und wissenschaftlichen Arbeiten voraussetzen darf,
+                    Ihrer Neigung entsprechen würden.<lb/>Die materiellen Vortheile, welche mit
+                    dieser Lehrkanzel verbunden sind, bestehen in dem fixen Gehalte von 1000 fl CM,
+                    und dem Vorrückungsrecht in die höheren Gehaltsstufen von 1200 fl Und 1400 fl
+                    CM, wobei Ihnen der Erlag jener Taxe, welche Sie nach den diesfalls bestehenden
+                    Normativen von dem ersten Jahresgehalte zu erlegen hätten, von <rs type="person" ref="#franz-joseph">Seiner Majestät</rs> nachgesehen würde. Ich
+                    verkenne nicht, daß diese Bedingungen keineswegs glänzend sind, und habe mich
+                    auch nur deßhalb veranlasst gefunden, Ihnen gleichwohl die in Rede stehende
+                    Stellung anzubieten, weil ich aus den Mittheilungen, welche mir der ehemalige
+                    Gesandte <rs type="person" ref="#kuebeck-von-kuebau-alois">Freiherr von Kübeck</rs>
+                    gemacht hat, entnehmen zu sollen glaubte, es werde Ihnen erwünscht sein, Ihre
+                    gegenwärtigen Verhältnisse mit einem Wirkungskreise in
+                        <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> zu vertauschen, ohne Rücksicht auf den
+                    Umstand, ob damit Vortheile in materieller Beziehung verbunden seien. Eure
+                    Wohlgeboren wollen demnach in diesem Anerbieten lediglich einen Beweis meines
+                    aufrichtigen Bestrebens sehen, dem vermeintlichen Wunsche Eurer Wohlgeboren in
+                    so weit als möglich war entgegenzukommen, wobei es mir sehr erfreulich wäre,
+                    dadurch für Oesterreich wieder einen der hervorragenden Vorkämpfer des Rechtes
+                    und der Ordnung in der <rs type="place" subtype="country" ref="#place_4160709db9e1cdde5a7947ce6d71bb0d">Schweiz</rs> zu gewinnen. So sehr ich
+                    bedauern müsste, diese Hoffnung nicht erfüllt zu sehen, so erübrigt mir doch
+                    nichts, als es Eurer Wohlgeboren anheimzustellen, nun mehr zu entscheiden, ob
+                    die angebotene Stellung Ihnen annehmbar erscheine, und zu ersuchen, mir die
+                    definitive Entscheidung hierüber mit möglichster Beschleunigung zukommen zu
+                    lassen.</p>
+                <p>Mit ausgezeichneter Hochachtung<lb/>Eurer Wohlgeboren<lb/>Ergebener<lb/>Graf Leo
+                    Thun</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

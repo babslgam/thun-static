@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="moy-an-thun-1854-07-19-a3-xxi-d270.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1853-07-21-a3-xxi-d219.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1854-12-08-a3-xxi-d308.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#moy-de-sons-ernst" role="sender:gelehrter">Ernst Moy de
+                        Sons</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</rs>, <date when-iso="1854-07-19">19. Juli 1854</date>
+                </title>
+            <title type="label">Ernst Moy de Sons an Leo Thun, Innsbruck, 19. Juli 1854</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DB17-5</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D270</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Jurist Ernst von Moy de Sons berät den Minister bezüglich der
+                            Berufung eines Professors für Römisches Recht an die Universität Wien.
+                            Dieser Professor soll, so der Wunsch Thuns, eine Koryphäe in seinem Fach
+                            sein und das Studium des Römischen Rechts in Österreich etablieren. Thun
+                            wäre daher nötigenfalls auch bereit, einen Protestanten zu berufen. Moy
+                            hingegen empfiehlt die Berufung von Carl Ludwig Arndts, der ein
+                            hervorragender Romanist und zudem ein aufrichtiger Katholik sei. Arndts,
+                            so Moy, sei zwar nicht frei von politischer Schwärmerei und dem Streben
+                            nach materiellen Gütern, doch einem Protestanten wäre er immer noch
+                            vorzuziehen. Im Folgenden betont Moy die zentrale Rolle des Studiums des
+                            Römischen Rechts für einen Aufschwung der Rechtswissenschaften in
+                            Österreich. Daher müsse das Römische Recht auch in die Reihe der
+                            Prüfungsfächer aufgenommen werden. Außerdem empfiehlt Moy die Errichtung
+                            einer Kanzel für vergleichende Rechtswissenschaft als Bindeglied
+                            zwischen dem Römischen Recht und dem österreichischen Privatrecht. In
+                            Verbindung mit der Rechtsgeschichte könnte man so die gemeinsamen
+                            historischen Ursprünge des Rechts aufspüren und damit auch das
+                            Naturrecht endgültig beseitigen. Seine eigene Rechtsphilosophie könnte
+                            dazu eine erste Maßnahme sein. Ein derartig gestaltetes Rechtsstudium
+                            würde aus der Sicht von Moy auch anziehend für deutsche Studenten sein
+                            und Österreichs wissenschaftlichen Stellenwert in Deutschland heben.
+                            Abschließend bittet Moy um die Erhöhung seines Gehaltes, da er derzeit
+                            nicht seiner Stellung entsprechend leben könne.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#moy-de-sons-ernst">Ernst Moy de Sons</rs>
+                    <settlement ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</settlement>
+                    <date when-iso="1854-07-19">19. Juli 1854</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Universität Wien</term>
+                    <term>Personalfragen</term>
+                    <term>Römisches Recht</term>
+                    <term>Rechtswissenschaften</term>
+                    <term>Gehaltsfragen</term>
+                </index>
+                <p>Hochgeborener Herr Graf!</p>
+                <p>Euer Exzellenz haben mich zur Äußerung aufgefordert, bezüglich der Berufung eines
+                    Romanisten nach <rs type="org" ref="#org_0018">Wien</rs> und nach dem,
+                    was Euer Exzellenz mir zu sagen die Güte hatten, begreife ich, daß es vor allem
+                    ein Mann seyn muß, der durch seinen wohl begründeten Ruf in seinem Fache das
+                    Studium des römischen Rechtes in Schwung zu bringen vermöge; daß daher
+                    nöthigenfalls ein Protestant berufen werden müßte, wenn unter den katholischen
+                    Gelehrten in <rs type="place" subtype="country" ref="#place_162b390989a8678640067963acb65109">Deutschland</rs> kein Mann von solchem Rufe sich
+                    fände. Da ich nun außer <rs type="person" ref="#arndts-carl-ludwig">Arndts</rs> in
+                    <rs type="org" ref="#org_0028">München</rs> keinen solchen kenne,
+                    so reducirt sich für mich die Frage auf die Alternative, ob es besser sey
+                        <rs type="person" ref="#arndts-carl-ludwig">Arndts</rs> oder einen Protestanten
+                    nach <rs type="org" ref="#org_0018">Wien</rs> zu berufen. In dieser
+                    Alternative kann meine Entscheidung nicht schwanken.<lb/>Was man auch gegen
+                        <rs type="person" ref="#arndts-carl-ludwig">Arndts</rs> sagen möge, als
+                    Romanist hält er jedem anderen die Wagschale und als Katholik verdient er meiner
+                    Überzeugung nach vor jedem anderen den Vorzug; denn daß er ein aufrichtiger
+                    Katholik sey, steht mir außer Zweifel. Er hat nicht jene Festigkeit des
+                    Charakters, jene Freiheit von aller weltlichen Absichtlichkeit und jene
+                    Geradheit und Entschiedenheit des Wesens, die man ihm wünschen möchte, und hat
+                    demzufolge auch seinerzeit in <rs type="place" subtype="place" ref="#place_e9cd6cbbbc3248f7a69252439ba3d6e6">Frankfurt</rs> beim sogenannten
+                    Reichstag nicht jene Selbständigkeit und politische Klarheit bewiesen, die ein
+                    unbedingtes Vertrauen rechtfertigen würden; aber er gehört doch nicht zu jenen
+                    Katholiken, denen ein ehrenhafter Protestant stets und überall vorzuziehen ist.
+                    Er ist religiös, aufrichtig katholisch und im Wesentlichen ein braver Mann. Da
+                    gilt meiner Überzeugung nach für den vorliegenden Fall ganz und gar der
+                    französische Grundsatz: le mieux est l’ennemi du bien. Ich würde also unbedingt
+                    und um jeden Preis für die Berufung des <rs type="person" ref="#arndts-carl-ludwig">Prof.
+                        Arndts</rs> mich entscheiden.<lb/>Ich sage um jeden Preis, weil ich
+                    das römische Recht als den Cardinalpunkt bezüglich der Begründung eines tieferen,
+                    wahrhaft wissenschaftlichen Rechtsstudiums in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs>
+                    betrachte und die Erweckung dieses Studiums als ein dringendes Bedürfnis ansehe,
+                    dessen Befriedigung nicht auf den Zeitpunkt verschoben werden darf, wo etwa ins
+                    Ausland gesendete junge Leute jenes Studium nach <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs>
+                    zu verpflanzen imstande waren. Übrigens wird auch die Berufung eines wie immer
+                    ausgezeichneten Romanisten nach <rs type="org" ref="#org_0018">Wien</rs>
+                    nicht genügen, dem gedachten Studium bei den jungen Leuten Eingang zu
+                    verschaffen, wenn nicht gleichzeitig das römische Recht unter die
+                    Prüfungsgegenstände bei der Staatsprüfung aufgenommen wird. Diese Maaßregel
+                    möchte ich also neben der Berufung von <rs type="person" ref="#arndts-carl-ludwig">Arndts</rs> angelegentlichst empfehlen.<lb/>Auf unserem gegenwärtigen
+                    Standpunkte in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> scheint mir aber
+                    noch eine dritte Maaßregel unbedingt nöthig, und das ist die Errichtung einer
+                    Kanzel für vergleichendes Rechtsstudium als Vermittlungsglied zwischen den
+                    Vorträgen über römisches und über österreichisches Privatrecht. Es müßte dieses
+                    ein Vortrag seyn, bei welchem die Darstellung der Rechtsverhältnisse die
+                    Grundlage, die Darstellung aber der Auffassung, welche diese Verhältnisse im
+                    römischen und im germanischen Rechte gefunden, den Leitfaden der Entwicklung
+                    bildete, um dann mit Hilfe des historisch zu behandelnden sogenannten
+                    Naturrechts etc. in den bestehenden Gesetzbüchern die Elemente aufzuweisen, aus
+                    welchen sie hervorgegangen sind, und die Seiten, von welchen aus sie einer
+                    Fortbildung fähig oder bedürftig sind. Schon der selige <rs type="person" ref="#jarcke-karl-ernst">Jarcke</rs> hatte einen Vortrag derart,
+                    ähnlich dem, was er für das Criminalrecht zu leisten unternommen, im Sinne und
+                    ich muß ihm ganz beipflichten, indem ich denselben als ein nothwendiges
+                    Ergänzungsglied in unserem Studienplan und als das einzige Mittel erkenne das
+                    sogenannte Naturrecht von seiner insurgirten Bedeutung zu entkleiden. Als eine
+                    Vorbereitung dazu möchte ich meine Rechtsphilosophie bezeichnen.<lb/>Es wäre
+                    zugleich ein Anziehungsmittel für die deutschen Studenten, ja es wäre ein
+                    Fortschritt der österreichischen Universitäten vor den deutschen. Und um
+                        <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</rs> und <rs type="place" subtype="country" ref="#place_162b390989a8678640067963acb65109">Deutschlands</rs> willen wünschte ich, das gestehe
+                    ich, daß die Bande der Gemeinschaft auch auf dem wissenschaftlichen Gebiete, und
+                    gerade da, möglichst innig geknüpft würden. Ich wünschte es aber noch mehr im
+                    Interesse der Wahrheit und sohin des katholischen Glaubens, dessen Sache nach
+                    meiner Überzeugung mit der Sache <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</rs> und mit <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</rs> Geltung in <rs type="place" subtype="country" ref="#place_162b390989a8678640067963acb65109">Deutschland</rs>
+                    unzertrennlich verbunden ist.<lb/>Euer Exzellenz glaube ich diese meine Ansicht
+                    nicht erst weiter ausholend begründen zu müssen; denn, wenn ich mich nicht ganz
+                    getäuscht habe, so sind Euer Exzellenz ohnehin auch derselben
+                    Überzeugung.<lb/>Ich erlaube mir daher, auf das gnädige Wohlwollen bauend, das
+                    Euer Exzellenz mir hier neuerdings bezeugt haben, zu meinem anderen Punkte
+                    überzugehen, und das ist Frage meiner Existenz hier. Obgleich besser besoldet
+                    als alle anderen hiesigen Professoren, kann ich dennoch nicht leben. Ich habe
+                    eine zahlreiche Familie, wie keiner, und Bedürfnisse, geistige und körperliche,
+                    welche die Folge schwächlicher Gesundheit, vorgeschrittenen Alters, des Ganges
+                    meiner Studien sind und sich nicht willkürlich beschränken lassen. Auf
+                    irgendeine Weise muß ich Euer Exzellenz dringend bitten zu helfen. Der <rs type="person" ref="#bissingen-cajetan">Herr Statthalter</rs> hat, glaube ich, im
+                    Sinne mich in das Referat für Kirchen- und Schulsachen in Vorschlag zu bringen
+                    und diese Stellung wäre mir an und für sich sehr willkommen; allein, um
+                    finanziell für mich haltbar zu seyn, müßte sie mit irgendeiner lucrativen
+                    Nebenfunction an der Universität oder sonst verbunden werden. Doch ich stelle
+                    das vertrauensvollst dem weisen Ermessen Euer Exzellenz anheim. Genug, daß Euer
+                    Exzellenz wissen, ich bedarf der Hilfe und bedarf ihrer dringend. Mich ihrer
+                    würdig zu erweisen, wird stets mein Bestreben seyn.<lb/>In tiefster Verehrung
+                    empfehle ich mich<lb/>Euer Exzellenz unterthänigster Diener</p>
+                <p>Freiherr von Moy</p>
+                <p>Innsbruck, den 19. Juli 1854</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="mischler-an-thun-1855-02-25-a3-xxi-d330.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/ministerialerlass-staatspruefungen-1854-09-13-a3-xxi-d282.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/mitterndorfer-an-thun-1852-04-15-a3-xxi-d163.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#mischler-peter" role="sender:gelehrter">Peter
+                        Mischler</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs>, <date when-iso="1855-02-25">25. Februar 1855</date>
+                </title>
+            <title type="label">Peter Mischler an Leo Thun, Prag, 25. Februar 1855</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DB20-A</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D330</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Professor für politische Ökonomie Peter Mischler bittet Leo Thun um
+                            die Erlaubnis, die Weltausstellung in Paris besuchen zu dürfen. Die
+                            Erlaubnis zur Reise vorausgesetzt, bittet er außerdem um ein
+                            Reisestipendium. Mischler betont die Wichtigkeit seines Vorhabens und
+                            erklärt, dass er von einem Besuch der Weltausstellung enorm für sein
+                            Fach – die politische Ökonomie – profitieren könne. Auf seinen
+                            zahlreichen Reisen habe er stets mehr gelernt als durch umfangreiches
+                            Studium alter Bücher. Zudem wäre es auf der Weltausstellung möglich,
+                            mehrere Nationen und deren ökonomische Entwicklung zu vergleichen. Das
+                            Wissen, das er sich in Paris aneignen könnte, würde er an seine
+                            Studenten weitergeben und in Büchern verbreiten, und damit auch den
+                            Wohlstand in Österreich mehren. Seine Bitte um ein Reisestipendium
+                            untermauert er außerdem durch den Hinweis, dass auch andere europäische
+                            Regierungen Emissäre und Wissenschaftler zur Weltausstellung
+                            schickten.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#mischler-peter">Peter Mischler</rs>
+                    <settlement ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</settlement>
+                    <date when-iso="1855-02-25">25. Februar 1855</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Weltausstellung</term>
+                    <term>Politische Ökonomie</term>
+                </index>
+                <p>Excellenz!</p>
+                <p>Das Interesse der Wissenschaft, die mir über Alles gehende Rücksicht auf die
+                    möglichst vollständige Erfüllung meiner Lehrpflichten, aber auch die Liebe zu
+                    dem Lande meiner Wirksamkeit ist es, was mich bewegt, Euer Excellenz meine
+                    un[ter]thänigste Bitte ehrfurchtvollst vorzutragen.<lb/>Die demnächst in
+                        <rs type="place" subtype="place" ref="#place_ccbee73cd81c7f42405e1920409247ec">Paris</rs> zur Eröffnung kommende
+                    Industrieausstellung bietet dem Forscher im Fache der politischen Öconomie ein
+                    überaus fruchtbares Feld für Anschauungen, Ideen, Erfahrungen, eine Fundgrube
+                    von wichtigen Thatsachen und Belehrungen, wie sie in Büchern kaum geboten wird.
+                    Zugleich öffnet sie dem Lehrer des Faches der politischen Öconomie, der zu
+                    beobachten und zu sammeln weiß, ein überaus reiches Feld für Erfahrungen, die in
+                    den academischen Vortrag eingewoben, eben sowohl zur Erläuterung der
+                    theoretischen Sätze, als zur Anregung und Aneiferung zum weiteren Nachdenken bei
+                    dem fleißigen Hörer, als auch zum Selbstbeobachten führen. Was sich durch
+                    mühevolle Reisen in die verschiedenen Industriebezirke verschiedener Länder nur
+                    nach und nach abstrahiren, beobachten und combiniren läßt, das findet der
+                    Forscher und Lehrer im Fache der politischen Öconomie in der lehrreichsten
+                    Nebeneinanderstellung zu Paris.<lb/>Das Studium der öconomischen Verhältnisse
+                    des <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Kaiserstaates</rs>, der in seinen
+                    verschiedenen Gliedern ein höchst zusammengesetztes Gemälde von
+                    wirthschaftlichen Entwicklungsstufen darbietet, ist ferner dem beobachtenden
+                    Lehrer der politischen Öconomie nicht leicht. Drei große Reisen in der Monarchie
+                    haben meine Sachkenntnis rascher gefördert, als langes Studium älterer und
+                    neuerer Werke, mich aber auch in die Lage gesetzt, dem academischen Vortrage
+                    immer zuerst belehrende Beispiele aus den Verhältnissen des Kaiserstaates
+                    einzuflechten, und an diese dann Parallelbeispiele aus den öconomischen
+                    Zuständen des Zollvereins <rs type="place" subtype="country" ref="#place_361e734b7e9d674efb5e3ac441e2c149">Belgiens</rs>, <rs type="place" subtype="country" ref="#place_64f607906be7598a02d75dbc1e979662">Englands</rs> usw., die ich zu beobachten Gelegenheit
+                    hatte,  anzuschließen. Aber – Excellenz – es ist sehr schwer,
+                    <rs type="place" subtype="country" ref="#place_aac7c6b9ed1b68ed0a91e7786ba11716">Oesterreich</rs> und seinen Gewerbfleiß, seine natürlichen
+                    Reichthumsquellen, seine großen Vorzüge in vielen Industriezweigen und die
+                    Ausdehnungsfähigkeit vieler seiner Erwerbszweige durch Beobachtungen und Studien
+                    auf Reisen und durch sorgfältiges Studium einschlagender Werke so scharf und
+                    tief kennen zu lernen, wie es auf einer Ausstellung von Gewerbserzeugnissen
+                    geschehen kann, die jedenfalls weitaus bedeutender wird, als die Münchener
+                    Industrieausstellung. Ich bin nach <rs type="place" subtype="place" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs>
+                    geeilt, aus Liebe zur Wissenschaft und zum Lande meiner Wirksamkeit, viel – sehr
+                    viel – Euer Excellenz – habe ich gelernt. Ja, was in keinem Buche zu finden war,
+                    die Entwicklung der Weberei, Spinnerei, der Seidenindustrie, der
+                    Porcellanmanufacturen usw. usw. hat die Welt in München gesehen, habe auch ich
+                    in <rs type="place" subtype="place" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs> bewiesen gefunden. <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> wurde in diesen Industriezweigen,
+                    wie in so manchen andern nicht allein nicht übertroffen, nein, nicht erreicht.
+                    Die Früchte dieser Anschauungen kommen meinem unvergleichlich fleißigen
+                    Zuhörerkreise zu Gute, werden aber auch in einem Werke über
+                    Wohlstandswissenschaft, das mich beschäftigt, angewendet. Noch mehr, wie in
+                        <rs type="place" subtype="place" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs>, wird der Gewerbfleiß unseres schönen Landes
+                    in <rs type="place" subtype="place" ref="#place_ccbee73cd81c7f42405e1920409247ec">Paris</rs> umfassend studirt werden können, schon deßwegen,
+                    weil <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> in größerer Manchfaltigkeit seiner
+                    Erzeugnisse repräsentirt sein wird. Diese günstige Gelegenheit, weitreichende
+                    und tiefgehende Studien zu machen, darf ich nicht versäumen, ich bin es meiner
+                    Pflicht als Professor, den Anforderungen der Wissenschaft, den Erwartungen der
+                    erleuchteten Regierung schuldig, die wissenschaftlichen Geist überall weckt und
+                    belohnt, ich bin es dem Lande meiner Wirksamkeit und meinem erhabenen Monarchen
+                    schuldig.<lb/>Excellenz wollen geruhen anzuhören, daß das Studium der Londoner
+                    Industrieausstellung (1851) mich in meinen wissenschaftlichen Streben
+                    außerordentlich gefördert. In <rs type="place" subtype="place" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs> habe ich viele
+                    Beobachtungen gemacht und sie auf meine Reise über
+                        <rs type="place" subtype="place" ref="#place_f2646aa02d03ac5a141ef404d919cd11">Salzburg</rs> usw., besonders aber auf einer
+                    volkswirthschaftlichen Durchforschung <rs type="place" subtype="region" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mährens</rs> und
+                        <rs type="place" subtype="region" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmens</rs> berichtigt, erweitert und
+                    fortgesetzt.<lb/>In meiner früheren Stellung als Privatdocent der politischen
+                    Öconomie in <rs type="org" ref="#org_0030">Freiburg</rs> bot mir die
+                    Großherzogliche Badische Regierung bereitwillig die Mittel, damit ich die
+                    Londoner Industrieausstellung zum Zwecke der Wissenschaft besuchen konnte.
+                    Jetzt, bin ich nicht in der Lage, die Reise nach <rs type="place" subtype="place" ref="#place_ccbee73cd81c7f42405e1920409247ec">Paris</rs>
+                    vorzunehmen und die Kosten des Aufenthaltes zu bestreiten. Die Reise nach
+                        <rs type="place" subtype="place" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs> hat meine Zahlmittel gänzlich erschöpft. Ohne
+                    eine Reiseunterstützung von Seiten der k.k. hohen Regierung werde ich nicht in
+                    der Lage sein, die Pariser Industrieausstellung zum Zwecke der Wissenschaft zu
+                    besuchen.<lb/>Eine ausführliche Arbeit über die Ursache der Preissteigerung der
+                    Nahrungsmittel in <rs type="place" subtype="region" ref="#place_867b530d8072e0e4d907aa82937d3e01">Böhmen</rs>, die ich im Auftrage Seiner Excellenz
+                    des <rs type="person" ref="#mecsery-von-tsoor-karl">Herrn Statthalters von
+                        Böhmen</rs> im Laufe dieses Winters auszuführen hatte, führte mich
+                    nicht allein in das Innerste des böhmischen Volkslebens, sondern gab mir auch
+                    eine Reihenfolge von Problemen, die ich als Gegenstand meiner Reise nach
+                        <rs type="place" subtype="country" ref="#place_72ac53f7b58ea996114e510e7d524fb9">Frankreich</rs> aufsparen werde, um sie durch sorgfältige
+                    Beobachtungen ihrer Lösung näher zu bringen. Dies, Euer Excellenz, veranlaßt
+                    mich zu der unterthänigsten Bitte, Euer Excellenz wollen geruhen, mir für den
+                    Besuch der Pariser Industrieausstellung zu wissenschaftlichen Zwecken eine
+                    Reiseunterstützung gnädigst bestimmen zu wollen.<lb/>Gewiß wird die k.k.
+                    Regierung in Anbetracht der Wichtigkeit der Pariser Ausstellung dem Professor
+                    der politischen Öconomie, den so gewichtige Rücksichten zur wissenschaftlichen
+                    Ausbreitung der Ausstellung veranlassen, Mittel zuwenden, um ihn in die Lage zu
+                    setzen, seine Studien zu machen. Besäße ich, Euer Excellenz, die Mittel, nimmer
+                    hätte ich um eine Reiseunterstützung gebeten. Gewiß wird auch die französische
+                    Regierung den in den Provinzen wirkenden Nationalöconomen Reisemittel bieten,
+                    wie sie es 1851 gethan, in welchem Jahre auch viele Professoren an deutschen
+                    Universitäten in die Lage gesetzt wurden, <rs type="place" subtype="place" ref="#place_bc180dbc583491c00f8a1cd134f7517b">London</rs> zu besuchen. Auch in <rs type="place" subtype="place" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs> waren viele Professoren als Commissaire ihrer
+                    Regierungen thätig.<lb/>Genehmigen Euer Excellenz die Versicherung allerhöchster
+                    Ehrfurcht und Ergebenheit</p>
+                <p>Euer Excellenz allerunterthänigster<lb/>Dr. Mischler<lb/>k.k. Prof. der
+                    politischen Öconomie</p>
+                <p>Prag, 25. Februar 1855</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

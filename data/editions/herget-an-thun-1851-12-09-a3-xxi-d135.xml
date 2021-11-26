@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="herget-an-thun-1851-12-09-a3-xxi-d135.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/henniger-an-thun-1851-04-26-a3-xxi-d115.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/heufler-an-thun-1850-04-13-a3-xxi-d44.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#herget-josef" role="sender:beamter">Josef Herget</rs> an
+                        <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_c0c864044f97c6e7d7af03ea5a182d70">Eger</rs>, <date when-iso="1851-12-09">9.
+                        Dezember 1851</date>
+                </title>
+            <title type="label">Josef Herget an Leo Thun, Eger, 9. Dezember 1851</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DBC0-5</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D135</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Bezirkshauptmann von Eger, Josef Herget, wendet sich mit der Bitte an
+                            Leo Thun, er möge sein an das Ministerium des Innern gerichtetes Gesuch,
+                            um Gewährung einer Teuerungszulage für die Beamten in Eger unterstützen.
+                            Er bittet Thun um eine persönliche Intervention beim Minister des Innern
+                            in dieser Angelegenheit. Das bisherige Wohlwollen Thuns hat den
+                            Bezirkshauptmann veranlasst, sich in dieser Sache an ihn zu wenden.
+                            Gleichzeitig nützt Herget die Gelegenheit, um dem Unterrichtsminister
+                            für die Unterstützung seiner bisherigen Anträge in Kultus- und
+                            Unterrichtssachen zu danken.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#herget-josef">Josef Herget</rs>
+                    <settlement ref="#place_c0c864044f97c6e7d7af03ea5a182d70">Eger</settlement>
+                    <date when-iso="1851-12-09">9.
+                        Dezember 1851</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Neoabsolutismus</term>
+                    <term>Verwaltung</term>
+                </index>
+                <p>Hochgeborner Graf,<lb/>Eure Excellenz.</p>
+                <p>Mehrfache Beweise eines beglückenden Wohlwollens, die mir von Eurer Excellenz
+                    schon früher sowohl in meinen Studienjahren als auch während meiner
+                    Dienstleistung im ehemaligen <rs type="place" subtype="place" ref="#place_a808e5c57f7af6870dafa78db5ce4321">Leitmeritzer</rs> Kreise zu Theil wurden, geben mir den Muth, mich
+                    auch in Ihrer jetzigen hohen Stellung mit der ehrfurchtsvollen Bitte an Eure
+                    Excellenz zu wenden, einer an sich zwar unbedeutenden, für mich und meine
+                    Mitbeamten aber wichtigen Angelegenheit Ihre mächtige Fürsprache nicht versagen
+                    zu wollen.<lb/>Die sämmtlichen Beamten der <rs type="place" subtype="place" ref="#place_c0c864044f97c6e7d7af03ea5a182d70">Egerer</rs> Bezirkshauptmannschaft, der ich vorzustehen die Ehre
+                    habe, sind – gedrängt durch die ganz außergewöhnliche Theuerung in
+                    <rs type="place" subtype="place" ref="#place_c0c864044f97c6e7d7af03ea5a182d70">Eger</rs> – bei dem <rs type="org" ref="#org_0046">hohen Ministerium des Innern</rs> um eine Theuerungszulage
+                    eingeschritten.<lb/>Das Einschreiten ist thatsächlich begründet und dürfte bei
+                    aufmerksamer Würdigung der wahrheitsgetreu dargestellten Verhältnisse einer
+                    günstigen Erledigung gewiß sein.<lb/>Meine unterthänige Bitte geht nun dahin,
+                    Eure Excellenz mögen sich gnädig geneigt finden dem Herrn <rs type="person" ref="#bach-alexander">Minister des Innern</rs>, dem ich leider nicht
+                    persönlich bekannt bin, diese Angelegenheit <hi rend="ul">persönlich</hi> zu
+                    empfehlen.<lb/>Ich fühle es, daß ich durch diese Bitte in den Augen Eurer
+                    Excellenz unbescheiden erscheinen dürfte; aber ich weiß, daß gerade in ähnlichen
+                    Fällen ein Wort aus dem Munde eines so hoch gestellten, einflußreichen Mannes
+                    weit mehr zu bewirken vermag als der längste und schönste Bericht, und ich kenne
+                    außer Eurer Excellenz niemand in der Residenz, an den ich mich mit jenem
+                    Vertrauen zu wenden vermöchte, das nur die Folge tiefgefühlter persönlicher
+                    Verehrung und der auf eigener Erfahrung gegründeten Überzeugung ist, daß Eure
+                    Excellenz Ihren Landsleuten nützlich zu sein in allen Fällen stets gern bereit
+                    waren.<lb/>Ich benütze zugleich diesen Anlaß, um Eurer Excellenz für die
+                    Unterstützung, die meine Anträge in Cultus- und Unterrichtsangelegenheiten –
+                    namentlich in Betreff der Kirchen- und Schulregulirung des protestantischen
+                    <rs type="place" subtype="place" ref="#place_8def000e2ab55e425e72e0e530eb43a9">Ascher</rs> Gebietes – bei dem <rs type="org" ref="#org_0046">hohen Ministerium</rs>
+                    bisher gefunden, meinen ehrfurchtsvollen Dank auszusprechen und bitte, den
+                    ungeheuchelten Ausdruck jener unbegrenzten Verehrung genehmigen zu wollen, mit
+                    welcher geharrt</p>
+                <p>Eurer Excellenz</p>
+                <p>unterthänigster Diener<lb/>Herget<lb/>Bezirkshauptmann</p>
+                <p>Eger, am 9. Dezember 1851</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

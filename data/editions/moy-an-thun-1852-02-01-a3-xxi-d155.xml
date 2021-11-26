@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="moy-an-thun-1852-02-01-a3-xxi-d155.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1851-11-09-a3-xxi-d128.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1852-04-05-a3-xxi-d161.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#moy-de-sons-ernst" role="sender:gelehrter">Ernst Moy de
+                        Sons</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</rs>, <date when-iso="1852-02-01">1. Februar 1852</date>
+                </title>
+            <title type="label">Ernst Moy de Sons an Leo Thun, Innsbruck, 1. Februar 1852</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DB1A-2</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D155</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Jurist Ernst von Moy de Sons nennt – von Leo Thun aufgefordert –
+                            mehrere Kandidaten für die Professur der Allgemeinen Geschichte an der
+                            Universität Innsbruck. Insbesondere empfiehlt er den Orientalisten
+                            Gottfried Muys sowie die beiden Historiker von der Bonner Universität
+                            Joseph Aschbach und Julius Ficker. Er empfiehlt aber auch drei junge
+                            Geistliche aus der näheren Umgebung, und zwar Johann Zwerger, Franz Bole
+                            und Joseph Wolf. Bei den beiden ersten Kandidaten stützt sich Moy auf
+                            das Urteil von Joseph Fessler, den er für sehr zuverlässig hält. Er
+                            nennt als vierten Kandidaten den Görres-Schüler Michael Strodl, den er
+                            jedoch auf Grund seines hitzigen Wesens nicht uneingeschränkt empfehlen
+                            könne. Sollte die Wahl nicht auf Muys fallen, so würde Moy einem der
+                            Geistlichen den Vorzug geben. Schließlich spricht Moy neuerlich den
+                            schlechten Zustand der Innsbrucker Universitätsbibliothek an. Er glaubt,
+                            dass die dürftig ausgestattete Bibliothek ein wesentliches Hindernis
+                            sei, die wissenschaftliche Qualität an der Universität Innsbruck zu
+                            steigern, und hofft auf eine Verbesserung in naher Zukunft.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Mit eigenhändigen Anmerkungen Thuns.</p>
+                        <p>Verweis auf A3 XXI D162.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#moy-de-sons-ernst">Ernst Moy de Sons</rs>
+                    <settlement ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</settlement>
+                    <date when-iso="1852-02-01">1. Februar 1852</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Universität Innsbruck</term>
+                    <term>Personalfragen</term>
+                    <term>Personalvermittlung</term>
+                    <term>Geschichtswissenschaften</term>
+                    <term>Universitätsbibliothek</term>
+                </index>
+                <p>Euer Exzellenz</p>
+                <p>haben mich vor einiger Zeit durch <rs type="person" ref="#heufler-von-hohenbuehel-ludwig">Herrn von Heufler</rs> auffordern lassen, für die Professur der
+                    Geschichte an <rs type="org" ref="#org_0020">hiesiger
+                        Universität</rs> einen Vorschlag zu machen. So sehr ich das mir dadurch
+                    bewiesene Vertrauen zu schätzen weiß, eben so sehr fühle ich die Schwierigkeit,
+                    demselben würdig zu entsprechen. Ich habe daher erst von verschiedenen Seiten
+                    Erkundigungen einziehen wollen, bevor ich es wagte, an Euer Exzellenz über
+                    diesen Gegenstand zu schreiben. Mein erstes Augenmerk war natürlich dahin
+                    gerichtet, ob es nicht möglich wäre, einen schon erprobten Historiker von
+                    anerkanntem Rufe für unsere Hochschule zu gewinnen. Da bieten sich nun drei
+                    Namen dar, die mehr oder minder unsere Anstalt zieren würden, das sind:
+                    Professor <rs type="person" ref="#aschbach-joseph">Aschbach</rs> in <rs type="org" ref="#org_0040">Bonn</rs>, bekannt durch seine Geschichte der
+                    Westgothen, der Grafen von Wertheim, des Kaisers Sigismund etc.; dann
+                    Privatdocent <rs type="person" ref="#ficker-julius">Dr. Ficker</rs> in <rs type="org" ref="#org_0040">Bonn</rs>, der über Erzbischof Reinhold von
+                    Köln, Kaiser Heinrich VI., die Münstersche Chronik geschrieben hat und schon für
+                    <rs type="org" ref="#org_0026">Gratz</rs> im Vorschlag gewesen seyn
+                    soll; endlich Dr. Meis [sic!, richtig <rs type="person" ref="#muys-gottfried">Muys</rs>]<note xml:id="note_1">Hier dürfte es sich um einen
+                        Schreibfehler von Moy de Sons handeln. Mehrere Hinweise sprechen dafür, dass
+                        es sich hierbei um Gottfried Muys handelt. Muys war Mitarbeiter von Oskar
+                        Redwitz. Außerdem befasste sich Muys mit der Geschichte antiker
+                        Völker.</note>, ein Freund <rs type="person" ref="#redwitz-oskar">Oscars von
+                        Redwitz</rs>, Verfasser einer Preisschrift über altassyrische
+                    Geschichte, die ebenso viel Talent als Gelehrsamkeit, besonders auch in den
+                    orientalischen Sprachen beurkundet. <rs type="person" ref="#muys-gottfried">Dr.
+                        Meis</rs> dürfte an Gabe geistreicher Auffassung die beiden
+                    Vorgenannten übertreffen, die sich mehr als fleißige Sammler empfehlen, und
+                    daher den Vorzug verdienen. Er befindet sich, so viel ich gehört, gegenwärtig in
+                        <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> bei <rs type="person" ref="#redwitz-oskar">Baron
+                        Redwitz</rs>, und Euer Exzellenz können sich daher leicht selbst
+                    überzeugen, ob er für den fraglichen Posten passend und zu gewinnen
+                    wäre.<lb/>Sollte eine derlei Acquisition für <rs type="org" ref="#org_0020">Innsbruck</rs> nicht zu realisiren seyn,
+                    so müßte ein Talent im Lande gesucht und herangebildet werden. In diesem Falle
+                    dürften folgende drei Individuen der Aufmerksamkeit Eurer Exzellenz besonders zu
+                    empfehlen seyn:<lb/>1) <rs type="person" ref="#zwerger-johann">N. Zwerger</rs>, ein
+                    junger Priester der <rs type="place" subtype="place" ref="#place_8f37567814d3a88b7c487c48699476fa">Trientiner</rs> Diöcese, der
+                    jetzt in <rs type="place" subtype="place" ref="#place_8f37567814d3a88b7c487c48699476fa">Trient</rs> das 4. Jahr Theologie studirt und in
+                        <rs type="place" subtype="place" ref="#place_478686b5e2ebec6de738cf25710e7108">Brixen</rs>, wo er früher 2 Jahre zubrachte, schöne
+                    Elaborate über Kirchengeschichte geliefert hat. Er empfiehlt sich durch einen
+                    ruhigen, besonnenen Charakter, Zuverlässigkeit und eine verständige, echt
+                    katholische Auffassung.<lb/>2) <rs type="person" ref="#bole-franz">Professor
+                        Bole</rs> in <rs type="place" subtype="place" ref="#place_fef029496b06aa0f5a4468390461f12c">Feldkirch</rs>, geweiht 1848, als
+                    Geschichtslehrer approbirt 1851, von dem <rs type="person" ref="#fessler-joseph">Professor Feßler</rs> in <rs type="place" subtype="place" ref="#place_478686b5e2ebec6de738cf25710e7108">Brixen</rs> mir schreibt,
+                    daß sein Talent zwar bedeutend sey, er (<rs type="person" ref="#fessler-joseph">Feßler</rs>) aber in ihn nicht so viel Zutrauen wie in <rs type="person" ref="#zwerger-johann">Zwerger</rs> setzen würde. Ich halte <rs type="person" ref="#fessler-joseph">Feßlers</rs> Urtheil für verlässig, sowohl seines
+                    Verstandes als seiner Redlichkeit und kirchlichen Gesinnung wegen.<lb/>3)
+                        <rs type="person" ref="#wolf-franz-joseph">Joseph Wolf</rs>, jetzt Kaplan,
+                    vielmehr Pfarrvicar in <rs type="place" subtype="place" ref="#place_a28c4827072a33cc684a6f36d714c8f7">Löffingen</rs> im
+                    Schwarzwald, von <rs type="person" ref="#galura-bernhard">unserem Fürstbischof</rs>
+                    dahin abgegeben auf Ersuchen des <rs type="person" ref="#vicari-hermann">Erzbischofs von
+                        Freiburg</rs>, Verfasser der Artikel über Josephinismus, ein junger
+                    Mann, der einen regen Forschungstrieb mit einem glücklichen Darstellungstalent
+                    und vortrefflicher Gesinnung verbindet, aber ein etwas schroffes und hitziges
+                    Wesen hat, das ihm unter dem Klerus viele Gegner bereitet.<lb/>Außer den
+                    Genannten hat sich mir noch einer dargeboten, der durch Talent, Kenntnisse und
+                    kirchliche Gesinnung Empfehlung verdient. <rs type="person" ref="#strodl-michael">Dr.
+                        Strodl</rs> aus <rs type="place" subtype="place" ref="#place_629fcb51dff180b0ea65e6dc70684f02">Mittenwald</rs> in
+                        <rs type="place" subtype="country" ref="#place_5afc76bc69955ce317651a3dc1dbb0d6">Bayern</rs>, Priester, ein eifriger Schüler von <rs type="person" ref="#goerres-johann">Görres</rs>; allein ich nehme Anstand ihn zu
+                    empfehlen, weil er durch sein krankhaft hitziges Wesen oft in seinen Ausdrücken
+                    über die Schranken der Mäßigung und selbst des Anstands hinausgerissen wird.
+                    Übrigens compromittire ich in dieser Beziehung auch das Urtheil meines Freundes
+                        <rs type="person" ref="#phillips-george">Phillips</rs>. Sollte auf einen
+                    jüngeren Mann die Wahl fallen und nicht <rs type="person" ref="#muys-gottfried">Dr.
+                        Meis</rs> genommen werden können, so schiene mir Herr <rs type="person" ref="#zwerger-johann">Zwerger</rs> den Vorzug zu verdienen, obwohl ich
+                    dem talentvollen <rs type="person" ref="#wolf-franz-joseph">Wolf</rs> eine
+                    Verwendung im Lehrfache wohl wünschen möchte. <rs type="person" ref="#zwerger-johann">Zwerger</rs> könnte vorläufig als Supplent gebraucht werden.<lb/>Das
+                    Schlimme bei der Ergreifung eines solchen Auskunftsmittels ist aber, daß einem
+                    jungen Historiker außer den Quellen der Landesgeschichte hier gar keine
+                    Hilfsmittel zur Ausbildung in seinem Fache zu Gebote stehen. Hiemit komme ich
+                    auf meine alte Klage über die hiesige sogenannte Bibliothek zurück. So lange
+                    diese in ihrem dermaligen Zustande verbleibt, ist aus <rs type="org" ref="#org_0020">Innsbruck</rs> eine wissenschaftliche
+                    Anstalt zu machen rein unmöglich. Es ist dieses unläugbar sehr niederschlagend,
+                    zumal wenn man nicht reich genug ist, um sich selber zu helfen. Selbst für die
+                    Ausarbeitung meiner Rechtsphilosophie finde ich hier so gut wie gar kein
+                    Material und werde mir wohl auch einmal einen Urlaub nach <rs type="place" subtype="place" ref="#place_f1ead991a0ca32b465653b3071c5ea3e">München</rs> erbitten müssen, ohne übrigens wie
+                        <rs type="person" ref="#phillips-george">Phillips</rs> meinen Gehalt daran
+                    geben zu können. Umso mehr werden es, hoffe ich, Euer Exzellenz entschuldigen,
+                    daß ich mich nicht entschließen kann, neben <rs type="person" ref="#schuler-johannes">Schuler</rs> und <rs type="person" ref="#schenach-georg">Schennach</rs>
+                    [sic!] als dritter Docent der Rechtsphilosophie aufzutreten.<lb/>Es ist übrigens
+                    schade, daß es hier an den wissenschaftlichen Hilfsmitteln so sehr gebricht;
+                    denn größere Empfänglichkeit habe ich bei der Jugend noch nirgend
+                    gefunden.<lb/>Genehmigen Euer Exzellenz den Ausdruck der tiefsten Verehrung,
+                    womit ich verharre</p>
+                <p>Hochdero</p>
+                <p>unterthänigster Diener<lb/>Moy</p>
+                <p>Innsbruck, 1. Februar 1852</p>
+                <p/>
+                <p>&lt;<hi rend="ul">Geschichte</hi>:<lb/>
+                    <rs type="person" ref="#ficker-julius">
+                        <hi rend="ul">Ficker</hi>
+                    </rs>, die Abhandlung über Erzbischof
+                    Reinhold ist nach <rs type="person" ref="#phillips-george">Phillipps</rs> [sic!]
+                    Urtheil wirklich ausgezeichnet.<lb/>
+                    <rs type="person" ref="#muys-gottfried">
+                        <hi rend="ul">Dr. Meis</hi>
+                    </rs>, erst 22 Jahre alt, nach <rs type="person" ref="#phillips-george">Ph[illips]</rs> Äußerung, der ihn hier
+                    kennenzulernen Gelegenheit hatte, allerdings ungewöhnlich unterrichtet, hat aber
+                    eine außerordentliche Meinung von sich und ist ein unumgänglicher Mensch. Muß
+                    sich jedenfalls erst auswachsen.<lb/>
+                    <rs type="person" ref="#strodl-michael">
+                        <hi rend="ul">Dr. Strodl</hi>
+                    </rs>, <rs type="person" ref="#phillips-george">Ph[illips]</rs> könnte zu ihm nicht rathen, ebenso wenig zu den
+                    Tyrolern, die ohne alle Schule sind.<lb/>dazu <rs type="person" ref="#hennes-johann-heinrich">
+                        <hi rend="ul">Hennes</hi>
+                    </rs>,
+                    Gymnasiallehrer in <rs type="place" subtype="place" ref="#place_3496da6c1db0a5223edb1fb4c415a154">Mainz</rs>&gt;<note xml:id="note_2">Eh.
+                        Anmerkung Thuns zu den Vorschlägen Moys.</note>
+                </p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="lehrerkollegium-gymnasium-capodistria_1860-12-02_a3-xxi-d623a36.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Das Lehrerkollegium des Gymnasiums in Capodistria an <rs type="person" ref="#thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo
+                    Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_6c5974dc4512c3b5c3952a1fe3162fba">Capodistria</rs>, <date when-iso="1860-12-02">2. Dezember 1860</date>
+                </title>
+            <title type="label">Das Lehrerkollegium des Gymnasiums in Capodistria an Leo Thun, Capodistria, 2. Dezember 1860</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p/>
+            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000D-F7E7-8</tei:idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D623a</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Das Lehrerkollegium des Gymnasiums in Capodistria bedauert die Abberufung
+                            Leo Thuns von seinem Posten und bedankt sich für dessen Tätigkeit.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Das Schreiben befindet sich im Nachlass gemeinsam mit 39 weiteren
+                            Dankadressen unter der Signatur A3 XXI D623a.<lb/>Italienisch.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Ministerium für Kultus und Unterricht</term>
+                    <term>Entlassung Thuns</term>
+                </index>
+                <p>Eccellenza!</p>
+                <p>Nel momento che, chiamata ad altri destini, l’Eccellenza Vostra cessa di dirigere
+                    immediatamente le sorti della pubblica istruzione sentono gli umilissimi
+                    sottoscritti di quanta gratitudine essi Le sono e restano perpetuamente debitori
+                    tante per le loro persone quanto per questo istituto nato e cresciuto unicamente
+                    solto gli auspici dell’Eccellenza Vostra, quanto finalmente per l’istruzione in
+                    generale.<lb/>Accetti quindi coll’innata Sua bontà la protesta d’indelebile
+                    gratitudine, che con filiale affetto Le professano i sottoscritti. E si
+                    propongono essi di manifestarla vie più coll’effettuare quanto appresero si
+                    distintamente sotto il ministero di V[ostra] E[ccellenza] che postava
+                    l’istruzione all’esigenza del tempo informandola agli eterni principi della
+                    Religione e della Morale: impresa cui non sarà mancare la benedizione del
+                    cielo.</p>
+                <p>Johann Loser<lb/>Dr. Giov. de Favento<lb/>Dr. Gius. Accurti<lb/>Fr.
+                    Spitaler<lb/>A. Perko<lb/>N. Vlacovich<lb/>P. Rajakovic<lb/>Dr. Zupelli<lb/>N.
+                    P. Gregor<lb/>R. Marco dottore Cardella<lb/>Angelo Monfalcon</p>
+                <p>Capodistria, 2. Dicembre 1860</p>
+            </div>
+        </body>
+    </text>
+</TEI>

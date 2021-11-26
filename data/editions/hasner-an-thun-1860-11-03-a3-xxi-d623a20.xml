@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="hasner-an-thun-1860-11-03-a3-xxi-d623a20.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/hasner-an-thun-1858-07-11-a3-xxi-d460.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/hasner-an-thun-o-d-a3-xxi-d81.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#hasner-von-artha-leopold" role="sender:gelehrter">Leopold
+                        Hasner von Artha</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs>, <date when-iso="1860-11-03">3. November 1860</date>
+                </title>
+            <title type="label">Leopold Hasner von Artha an Leo Thun, Prag, 3. November 1860</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DBCE-7</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D623a</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Jurist Leopold Hasner dankt Leo Thun für dessen Unterstützung. Da er
+                            so oft und in so hohem Maße von Thuns Förderung profitiert hat, war er
+                            auch der Meinung, dass es nicht genüge, bloß die Dankadresse der Prager
+                            Universität an den Minister zu unterzeichnen.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Das Schreiben befindet sich im Nachlass gemeinsam mit 39 weiteren
+                            Dankadressen unter der Signatur A3 XXI D623a.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#hasner-von-artha-leopold">Leopold Hasner von Artha</rs>
+                    <settlement ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</settlement>
+                    <date when-iso="1860-11-03">3. November 1860</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Ministerium für Kultus und Unterricht</term>
+                    <term>Entlassung Thuns</term>
+                    <term>Universität Prag</term>
+                </index>
+                <p>Euere Excellenz!</p>
+                <p>Es kann mir nicht genügen, als Mitunterzeichner einer Addresse unter den
+                    dankbaren Verehrern Euer Excellenz zu erscheinen und Antheil zu nehmen an dem
+                    Ausdrucke tiefen Bedauerns über Hochdero Abtreten von dem Posten eines
+                    österreich‘schen Ministers des Unterrichtes. Ich glaube mehr als mancher Andre
+                    der Gnade Euer Excellenz zu danken und zu mancher Zeit haben mich Hochdieselben
+                    eines besonderen Vertrauens zu würdigen geruht. Gleichwol sind es nicht so sehr
+                    Gründe der Reflexion, welche mich bestimmen; es ist diesmal vor allem das Gefühl
+                    unbedingter Pietät, mit welchem ich an Euer Excellenz in allen Wechselfällen
+                    subjektiver und objektiver Verhältnisse stets und unwandelbar gehangen habe,
+                    einer Verehrung für Euer Excellenz ganze erhabene Persönlichkeit, die nie in mir
+                    erlöschen wird und die auszusprechen mir nie doppeltes Bedürfnis war in einem
+                    Momente, wo jene Beziehungen aufhören, in welchen ich und wol die meisten
+                    Lehrmänner Euer Excellenz für immer als unersetzlich ansehen.<lb/>Möge Euer
+                    Excellenz das Bewußtsein seltener Verehrung und Liebe derjenigen, welche
+                    Hochdenselben bisher zu unterstehen das Glück hatten, einige Befriedigung in
+                    einer vielfach trüben Zeit gewähren und auch mir der Trost gegönnt sein, daß
+                    Euer Excellenz auch in Zukunft sich nicht ganz ohne Wohlwollen erinnern</p>
+                <p>Euer Excellenz<lb/>hochachtungsvoll ergebenen Dieners<lb/>Hasner</p>
+                <p>Prag, am 3. November 1860</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

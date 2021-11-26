@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="chlumecky-an-thun-1860-06-12-a3-xxi-d590.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/chlumecky-an-thun-1855-02-08-a3-xxi-d328.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/colloredo-an-thun-1856-07-02-a3-xxi-d382.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#chlumecky-peter" role="sender:gelehrter">Peter
+                        Chlumecký</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>o. O., <date when-iso="1860-06-12">12. Juni
+                    1860</date>
+                </title>
+            <title type="label">Peter Chlumecký an Leo Thun o. O., 12. Juni 1860</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DC92-8</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D590</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Peter Chlumecký, Rat bei der mährischen Statthalterei,
+                            bittet Leo Thun, sein Gesuch um definitive Anstellung als
+                            Statthaltereirat zu unterstützen. Eine solche definitive Anstellung wäre
+                            möglich, da der bisherige Rat nach Ofen versetzt wurde.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#chlumecky-peter">Peter Chlumecký</rs>
+                    <date when-iso="1860-06-12">12. Juni
+                    1860</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Mähren</term>
+                    <term>Verwaltung</term>
+                </index>
+                <p>Euer Excellenz!</p>
+                <p>Tiefe Besorgnisse über die Erhaltung meiner durch die hohe Gnade Euer Excellenz
+                    mir gegebenen Stellung als provisorischer Statthaltereirath haben mir vor
+                    einigen Monathen den Muth gegeben, mich an Euer Excellenz ehrfurchtsvollst zu
+                    wenden und die gehorsamste Bitte zu wagen, Euer Excellenz geruhen sich meiner
+                    huldreich zu erinnern und für den Fall, die Reorganisirung <rs type="place" subtype="country" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Ungarns</rs> einen Statthaltereirath ungarischer Nationalität
+                        (<rs type="person" ref="#papay-stephan">von Papay</rs>) nach
+                        <rs type="place" subtype="place" ref="#place_8fa012f3d7caecd67c332e0f803e0a5c">Ofen</rs> berufen würde, die gnädige Veranlassung zu
+                    treffen, damit ich bei einer derartigen Erledigung einer definitiven
+                    Statthaltereirathsstelle in das Definitivum einrücke. Dieser Fall hat sich vor
+                    einigen Tagen wirklich ereignet, indem Statthaltereirath <rs type="person" ref="#papay-stephan">von Papay</rs> nach <rs type="place" subtype="place" ref="#place_8fa012f3d7caecd67c332e0f803e0a5c">Ofen</rs>
+                    übersetzt wurde. Ich wage es demnach gestützt auf das gnädige Wohlwollen Euer
+                    Excellenz die ehrfurchtsvollste Bitte zu erneuern, Hochdieselben geruhen mir den
+                    hohen Schutz angedeihen zu lassen und auf meine Einrückung in das Definitivum
+                    einen hochgeneigten Einfluß nehmen zu wollen. Die Vereinigung des Referats für
+                    geistliche und Unterrichtsangelegenheiten mit einer definitiven
+                    Statthaltereirathsstelle dürfte um so angemessener erscheinen, als dieses
+                    Referat durch die administrative Vereinigung <rs type="place" subtype="region" ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesiens</rs> mit <rs type="place" subtype="region" ref="#place_fc9c3a7e02f8a9d5ed9033b572285243">Mähren</rs> noch an
+                    Umfang und Bedeutung gewinnen wird; jetzt schon ist dasselbe das bei weitem
+                    größte der mährischen Statthalterei.<lb/>Ich bitte Euer Excellenz den Ausdruck
+                    meiner innigsten Hochverehrung und ehrfurchtsvollsten Ergebenheit huldreich zu
+                    genehmigen.</p>
+                <p>Euer Excellenz</p>
+                <p>gehorsamst unterthänigster Diener<lb/>Ritter Chlumecký</p>
+                <p>den 12. Juny 1860</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

@@ -1,0 +1,200 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="foerster-an-thun_1854-08-17_a3-xxi-d276.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#foerster-heinrich" key="foerster-heinrich" role="sender:kleriker">Heinrich
+                        Förster</rs> an <rs type="person" ref="#thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_8b000b8c3ddd9700b95cdddd2ef491bc">Schloß Johannesberg</rs>, <date when-iso="1854-08-17">17. August 1854</date>
+                </title>
+            <title type="label">Heinrich Förster an Leo Thun, Schloß Johannesberg, 17. August 1854</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p/>
+            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000D-F7EF-0</tei:idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D276</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Fürstbischof Heinrich Förster teilt Leo Thun einige Informationen mit,
+                            die sich dieser erbeten hatte. Zunächst berichtet er über Prof. Ludwig
+                            Gitzler: Dieser sei ein aufrechter Katholik und ein fleißiger Jurist,
+                            jedoch mehr ein Sammler als ein Wissenschaftler. Außerdem besitze er
+                            keinen fließenden Vortrag. Daher würde dieser zwar ein guter Professor
+                            sein, aber herausragende Leistungen dürfe man von ihm nicht erwarten.
+                            Anschließend äußert er sich zum Privatdozenten Johann Schirmer. Dieser
+                            ist Protestant und stammt aus Greifswald. Er gilt als talentiert, doch
+                            hat er in den vergangenen Jahren wenig geleistet. Kurz berichtet Förster
+                            danach über die wissenschaftlichen Fähigkeiten von anderen Professoren,
+                            er erwähnt dabei Alois Brinz, Ernst Adolf Pagenstecher und Robert Römer.
+                            Von diesen kann er jedoch nicht sagen, ob sie Katholiken oder
+                            Protestanten sind. An deutschen Universitäten gäbe es im Übrigen nur
+                            sehr wenige katholische Professoren, da nur wenige Katholiken Aussicht
+                            auf eine Karriere an einer Universität hätten. Professoren für Römisches
+                            Recht gäbe es aus der Sicht von Förster zudem nur wenige, da durch die
+                            Hegelsche Philosophie die historischen Rechtsstudien in den Hintergrund
+                            gedrängt wurden.<lb/>Schließlich geht er noch auf die Angelegenheit der
+                            Franziskaner aus Warendorf ein, die für einige Diskussionen in
+                            Deutschland gesorgt hatten. Diese hatten sich nämlich über die laxe
+                            Moral in ihrem Orden beschwert und in Rom eine strengere Regel für die
+                            eigene Gemeinschaft erwirkt. Bei ihrer Rückkehr aus Rom kamen sie nach
+                            Breslau, wo Bischof Melchior Diepenbrock, sie angesiedelt hatte. Jener
+                            hatte dies allerdings schon bald bereut, da die Franziskaner im
+                            Bewusstsein ihrer eigenen Strenge gegen die Weltgeistlichen hetzten.
+                            Förster hatte sich daher zunächst in Rom beschwert und ihnen später die
+                            Beichtjurisdiktion entzogen. Darauf reagierten die Mönche mit einigen
+                            skandalösen Zeitungsartikeln. In der Zwischenzeit hatte sie jedoch der
+                            Bischof von Olmütz in seiner Diözese aufgenommen.<lb/>Abschließend
+                            berichtet Förster noch davon, dass er die Schulen in der Nähe seiner
+                            Residenz besucht und in zahlreichen Dekanaten Kinder gefirmt habe.</p>
+                    </msContents>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#foerster-heinrich">Heinrich Förster</persName>
+                    <date when-iso="1854-08-17">17. August 1854</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#thun-hohenstein-leo">Leo Thun</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Rechtswissenschaften</term>
+                    <term>Römisches Recht</term>
+                    <term>Kultus</term>
+                    <term>Franziskaner</term>
+                </index>
+                <p>Hochgebietender Herr Minister,<lb/>Hochgeborener Herr Graf!</p>
+                <p>Eine nothwendige Erkundigung über den Privatdocenten <rs type="person" ref="#schirmer-johann-theodor" key="schirmer-johann-theodor">Schirmer</rs>, der mir nicht bekannt
+                    genug war, hat bewirkt, daß ich erst jetzt imstande bin, Euer Excellenz geehrtes
+                    Schreiben vom 11. August zu beantworten.<lb/>Professor <rs type="person" ref="#gitzler-ludwig" key="gitzler-ludwig">Gitzler</rs> ist Katholik, nicht nur dem Namen,
+                    sondern seinem Herzen und Leben nach; auch auf die Gefahr hin in dem
+                    protestantischen <rs type="place" subtype="country" key="preussen" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs> mißfällig zu werden,
+                    hat er sich stets mit weisem Eifer der Kirche angenommen. Dabei ist er ein
+                    fleißiger Jurist, der seine Zeit nach dem Maße seiner Kraft wohl angewendet hat
+                    und noch anwendet und sich schöne Kenntnisse erworben. Doch besteht seine
+                    Wissenschaftlichkeit mehr in Ansammeln von dem Vorhandenen als in
+                    selbstständiger Verarbeitung des in sich Aufgenommenen, auch ist sein Vortrag
+                    weder fließend noch ansprechend, doch deutlich. <rs type="person" ref="#gitzler-ludwig" key="gitzler-ludwig">Gitzler</rs> wird an jeder Universität ein wackerer Professor sein,
+                    der seine Stelle wohl ausfüllt, aber hervorragendes wird er nicht leisten. Seine
+                    Stellung in <rs type="place" subtype="place" ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</rs> ist gut, denn obschon er nur 5 oder
+                    600 Thaler Gehalt bezieht, bringen ihm die Collegien und der Privatunterricht
+                    wohl 1000 Thaler.<lb/>Privatdocent <rs type="person" ref="#schirmer-johann-theodor" key="schirmer-johann-theodor">Schirmer</rs> ist Protestant und eines Pastors Sohn aus
+                        <rs type="place" subtype="place">Greifswalde</rs>. Er soll etwas Tüchtiges gelernt haben,
+                    bringt jedoch seit den 3 Jahren, da er bei der <rs type="org" ref="#org_0065" key="universitaet-breslau">Breslauer Universität</rs> ist, selten ein
+                    Collegium zustande, denn sein Vortrag ist sehr nachläßig und seine Leistungen
+                    gehen nicht über das Gewöhnliche hinaus, daher verschwindet er in <rs type="org" ref="#org_0065" key="universitaet-breslau">Breslau</rs> neben Professor <rs type="person" ref="#huschke-philipp-eduard" key="huschke-philipp-eduard">Huschke</rs>.<lb/>Ob Professor
+                    Extraordinarius <rs type="person" ref="#brinz-alois" key="brinz-alois">Alois Brinz</rs> zu <rs type="org" ref="#org_0033" key="universitaet-erlangen">Erlangen</rs>, ob ferner Privatdocent
+                        <rs type="person" ref="#pagenstecher-ernst-adolf" key="pagenstecher-ernst-adolf">Pagenstecher</rs> in <rs type="org" ref="#org_0025" key="universitaet-heidelberg">Heidelberg</rs>; ob endlich <rs type="person" ref="#roemer-robert" key="roemer-robert">R. Römer</rs>, der früher in <rs type="org" ref="#org_0028" key="universitaet-muenchen">München</rs> habilitirt war und jetzt
+                    wahrscheinlich in <rs type="org" ref="#org_0044" key="universitaet-tuebingen">Tübingen</rs> ist,
+                    ob diese Männer Katholiken sind, weiß ich nicht. Der erstere soll ein tüchtiger
+                    Professor und im römischen Rechte ausgezeichnet sein. Es kann übrigens nicht
+                    befremden, daß sich in <rs type="place" subtype="country" ref="#place_162b390989a8678640067963acb65109">Deutschland</rs> so wenige Katholiken dem
+                    höheren Lehrfache widmen, da sie bisher so wenig Aussichten gehabt. Haben wir
+                    doch in <rs type="place" subtype="country" ref="#place_162b390989a8678640067963acb65109">Deutschland</rs> nur <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, wo die
+                    Universität den katholischen Charakter bewahrt hat, während <rs type="org" ref="#org_0027" key="universitaet-berlin">Berlin</rs>, <rs type="org" ref="#org_0042" key="universitaet-halle">Halle</rs>, <rs type="org" ref="#org_0029" key="universitaet-jena">Jena</rs>, <rs type="org" ref="#org_0039" key="universitaet-goettingen">Göttingen</rs>,
+                    <rs type="org" ref="#org_0053" key="universitaet-greifswald">Greifswalde</rs>, <rs type="org" ref="#org_0038" key="universitaet-koenigsberg">Königsberg</rs> keinen Katholiken
+                    zulassen. Es kann ebenso wenig befremden, wenn das römische Recht keine
+                    hervorragenden Lehrer, auch unter Protestanten hat, seitdem so viele
+                    Regierungen, die preußische an der Spitze, der Hegelschen Philosophie auch in
+                    den Rechtswissenschaften allen Vorschub geleistet, wodurch natürlich die
+                    historischen Rechtsstudien in den Hintergrund gedrängt wurden. Sicher hat
+                        <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Ostreich</rs> die meiste Veranlassung sich
+                    der römischen Rechtsstudien anzunehmen, da sein Gesetzbuch mehr als alle anderen
+                    an das römische Recht sich anschließt.<lb/>Euer Excellenz interessiren sich in
+                    dem geehrten Schreiben vom 11. dieses Monats auch für die Franziskaner
+                    Angelegenheit, die allerdings anfängt in ganz <rs type="place" subtype="country" ref="#place_162b390989a8678640067963acb65109">Deutschland</rs>
+                    Aufsehen zu machen, sie ist in Kürze dargestellt folgende: die in Rede stehenden
+                    Franziskaner sind aus <rs type="place" subtype="place">Warendorf</rs> in <rs type="place" subtype="region" key="westfalen" ref="#place_2652fd27a2fa326711df5192229fd847">Westphalen</rs>, wo sie sich bereits angeblich wegen zu
+                    großer Laxität im Orden wider ihre Oberen und selbst wider den Bischof
+                    auflehnten und endlich ohne alle Erlaubniß nach <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs>
+                    gingen, um die strenge Regel des heiligen <rs type="person" ref="#peter-von-alcantara" key="peter-von-alcantara">Peter von Alkantara</rs> unter sich einzuführen. Sie erreichten in
+                        <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs>, was sie suchten, gewannen durch ihre Erscheinung
+                    den heiligen Vater und andere hochstehende Prälaten für sich und kamen so nach
+                        <rs type="place" subtype="country" key="deutschland" ref="#place_162b390989a8678640067963acb65109">Deutschland</rs> zurück. Ihr Weg führte sie
+                    durch <rs type="place" subtype="place" ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</rs>, wo sie mein <rs type="person" ref="#diepenbrock-melchior" key="diepenbrock-melchior">Vorfahr</rs> sah, lieb gewann und in
+                        <rs type="place" subtype="region" ref="#place_033ae4ddfe8d381fa5ee82ab6aae2833">Schlesien</rs> behielt. Nur zu bald zeigte sich, daß hinter der
+                    äußeren leiblichen Strenge der Teufel des ungemeßensten Hochmuthes und zugleich
+                    eine Überspannung sich barg, die zu den tollsten Extravaganzen führte. <rs type="person" ref="#diepenbrock-melchior" key="diepenbrock-melchior">Diepenbrock</rs> hatte noch auf seinem
+                    Sterbebette die Aufnahme dieser Mönche zu bereuen. Noch unerträglicher trat ihr
+                    Übermuth hervor nach Diepenbrocks Tode. Sie verhetzten das Volk gegen die
+                    Weltgeistlichen, die ihnen viele Wohlthtaten erwiesen hatten, legten sich auf
+                    eine Mystik, in der sie Männer, wie den <rs type="person" ref="#franz-von-assisi" key="franz-von-assisi">heiligen Franziskus</rs>, den<rs type="person" ref="#bonaventura" key="bonaventura"> heiligen
+                        Bonaventura</rs>, aufnehmen wollen, ohne diese Männer zu begreifen und
+                    wurden so zur Carrikatur; beunruhigten im Beichtstuhle die Seelen, verwirrten
+                    die Gemüther, fingen an zu prophezeihen und dergleichen Dinge zu treiben – bis
+                    die ärgsten Klagen bei mir eingingen. Meine Mahnungen blieben fruchtlos, wurden
+                    wohl gar mit Grobheiten erwidert, da sich die Mönche auf Immunitäten beriefen,
+                    die mir nie waren mitgetheilt worden, weder von <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs> noch
+                    durch sie selbst; und da endlich gar Erscheinungen hervortraten, die an eine Art
+                    Muckerei erinnerten, war ich im Gewissen gebunden einzuschreiten. Ich berichtete
+                    nach <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs> und bat um Einschreiten gegen diese Mönche,
+                    stattdessen mußte ich erfahren, daß sie ausgezeichnet und vier von ihnen zu
+                    apostolischen Missionären ernannt wurden. Da übrigte mir nichts mehr als zu
+                    thun, was <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs> nicht gethan, ich nahm den Mönchen die
+                    Beichtjurisdiktion in meiner Diöcese. Darauf erfolgte der bisher unerhörte
+                    Zeitungsskandal, in dem diese Mönche in einem radikalen Blatte, der Oderzeitung,
+                    zur Freude und dem Hohn der Protestanten gegen ihren Bischof mit lügenhaften
+                    Artikeln auftraten und mir öffentlich mit dem Galgen des <rs type="person" ref="#mardochaeus" key="mardochaeus">Mardochäus</rs> droheten. Während das alles sich
+                    begeben – haben Seine Fürsterzbischöflichen Gnaden, der <rs type="person" ref="#fuerstenberg-friedrich-egon" key="fuerstenberg-friedrich-egon">Herr Erzbischof von Olmütz</rs>,
+                    diese Mönche in seiner Diöcese schadlos gehalten und zu Missionen berufen, was
+                    mir umso auffallender sein mußte, da ich den <rs type="person" ref="#fuerstenberg-friedrich-egon" key="fuerstenberg-friedrich-egon">Herrn Erzbischof</rs> bei meinem
+                    letzten Zusammentreffen mit ihm in <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> mit der
+                    Beschaffenheit dieser Mönche vertraulich und genau bekannt gemacht hatte. Auch
+                    als ich vor kurzem nach <rs type="place" subtype="place" ref="#place_c0ce3216e3cb050a80363757086a42f0">Olmütz</rs> geschrieben und dem
+                        <rs type="person" ref="#fuerstenberg-friedrich-egon" key="fuerstenberg-friedrich-egon">Herrn Erzbischof</rs>
+                    bedeutet, daß er durch ein solches Verfahren mir und meinem nothwendigen
+                    Einschreiten gegen die Franziskaner geradehin entgegen trete und daß ich sehr
+                    gern bereit sei, ihm diese Mönche ganz abzutreten – hat dies keine Folge gehabt.
+                    Dafür haben der <rs type="person" ref="#fuerstenberg-friedrich-egon" key="fuerstenberg-friedrich-egon">Herr
+                        Erzbischof</rs> auch die Satisfaktion gehabt, daß bei der zweiten oder
+                    dritten Mission ein Prediger, der Pater Caspar, zum Entsetzen der ganzen
+                    versammelten Gemeinde von der Kanzel herab drei Teufel sah und durch sein
+                    Geschrei die ganze Kirche in Verwirrung brachte, bis durch herbeigebrachtes
+                    Weihwasser die Dämonen glücklich zum Weichen gebracht wurden. Gewiß ein
+                    effektvolles Intermetzo bei einer solchen Missionsandacht. Ich will dem
+                        <rs type="person" ref="#fuerstenberg-friedrich-egon" key="fuerstenberg-friedrich-egon">Herrn Erzbischof</rs> von
+                    Herzen wünschen, daß meine unseligen Franziskaner nicht nur alle Teufel in
+                    seiner Diöcese sehen, sondern auch hinaustreiben, was aber mit Weihwasser allein
+                    nicht wird erreicht werden können. Vergeben mir Euer Excellenz diese vielleicht
+                    ungehörigen Expektorationen aber difficile est in hac re satyram non
+                    scribere.<lb/>Seit ich in <rs type="place" subtype="place" ref="#place_8b000b8c3ddd9700b95cdddd2ef491bc">Johannesberg</rs> bin, habe ich mit
+                    bemüht Kirchen und Schulen in meiner nächsten Umgebung genauer kennenzulernen
+                    und schulde Euer Excellenz die Versicherung, daß ich in den Schulen doch vieles
+                    besser gefunden habe, als ich erwartet. Besonders gilt das von der
+                    Piaristenschule in <rs type="place" subtype="place" key="weissensee">Weissensee</rs> [Białe
+                    Błoto]. Auch zu firmen denke ich noch in den Archipresbyteraten <rs type="place" subtype="place" key="weidenau">Weidenau</rs> [Vidnava], <rs type="place" subtype="place" key="freiwaldau" ref="#place_47bd78cdef6baa3a99c18903c828e623">Freiwaldau</rs> [Jeseník] und <rs type="place" subtype="place" key="zuckmantel" ref="#place_163fb009e68a04dc0ef1d258ab53c4e3">Zuckmantel</rs> [Zlaté Hory], nachdem ich in <rs type="place" subtype="place" key="jauernick">Jauernick</rs> [Jaworów] bereits gefirmt
+                    habe.<lb/>Indem ich Gott bitte, daß Er Ew. Excellenz in seinem Allerheiligsten
+                    Schutze erhalte und bewahre, freue ich mich der Veranlassung, den Ausdruck meiner
+                    größten Verehrung erneuern zu können, mit welcher ich die Ehre habe zu
+                    verharren<lb/>Ew. Excellenz</p>
+                <p>gehorsamster Diener<lb/>Heinrich</p>
+                <p>Schloß Johannesberg, den 17. August 1854</p>
+            </div>
+        </body>
+    </text>
+</TEI>

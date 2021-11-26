@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-safarik-1850-07-05-ca982.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-rechberg-1860-02-13-a3-xxi-d562.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-safarik-1852-08-26-ca986.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#safarik-pavel-josef" role="recipient">Pavel Josef
+                        Šafařik</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1850-07-05">5. Juli 1850</date>
+                </title>
+            <title type="label">Leo Thun an Pavel Josef Šafařik, Wien, 5. Juli 1850</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-D9F4-D</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Tschechisches Literaturarchiv [Literární archiv Památníku
+                            národního písemnictví]</institution>
+                        <repository>Nachlass Šafařik</repository>
+                        <idno>I 14 35</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun bittet den Slawisten und Bibliothekar Pavel Josef Šafařik um
+                            Auskunft über Theodor Pavlović und Peter Joannović. Er möchte einen der
+                            beiden zum Schulinspektor in der Woiwodschaft Serbien und dem Temeser
+                            Banat ernennen. Da die Angelegenheit eilt, bittet Thun um eine rasche
+                            Antwort.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when-iso="1850-07-05">5. Juli 1850</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#safarik-pavel-josef">Pavel Josef Šafařik</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Schulinspektoren</term>
+                </index>
+                <p>Wohlgeborner Herr!</p>
+                <p>Aus Anlaß der dringend nothwendigen Ernennung eines Inspektors für die serbischen
+                    Volks- und Mittelschulen in der <rs type="place" subtype="region" ref="#place_35d1161cc45f7c1d2b14ff99f1d259a3">Woiwodschaft Serbien und dem
+                        temescher Banat</rs> sind der als Zeitungsredakteur bekannte <rs type="person" ref="#pavlovic-theodor">Theodor Pawlowicz</rs> und der frühere
+                    Professor in <rs type="place" subtype="place" ref="#place_52d08ce39e6c067f42a0366f2239f7c8">Neusatz</rs> [Novi Sad] <rs type="person" ref="#joannovic-peter">Dr. Peter Ioanowicz</rs> (Ivanowicz?) zur
+                    Sprache gekommen. Nachdem beide Männer Euerer Wohlgeboren bekannt sein sollen,
+                    so ersuche ich Euere Wohlgeboren mir mit gefälliger Beschleunigung Ihre
+                    Ansichten über ihre Eignung für den erwähnten Posten bekannt zu geben, und mir
+                    auch Ihre Meinung mitzutheilen, welchem von beiden Sie den Vorzug geben, oder
+                    wen Sie etwa beiden vorzuziehen finden würden, wobei ich bemerke, daß mir
+                    neulich <rs type="person" ref="#georgievic-moses">Moses Giorgiewicz</rs> in
+                        <rs type="place" subtype="place" ref="#place_7674e1c4e5c96d0fcb290e9fa130e6ed">Esseg</rs> [<rs type="place" subtype="place" ref="#place_7674e1c4e5c96d0fcb290e9fa130e6ed">Osijek</rs>] als ein weit
+                    mehr als die beiden Genannten geeigneter Mann bezeichnet worden ist.</p>
+                <p>Mit aller Achtung<lb/>Euer Wohlgeboren<lb/>Ergebener Thun</p>
+                <p>Wien, am 5. Juli 1850</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

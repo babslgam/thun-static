@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="bemerkungen-von-thun-ueber-zuruecksetzung-1859-a3-xxi-d523.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/bemerkungen-ueber-lateinunterricht-von-schenkl-o-d-a3-xxi-d481.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/bemerkungen-zu-gesetzentwurf-ueber-kirchliche-gebaude-1854-05-a3-xxi-d261.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Eigenhändige Notizen Leo Thuns<lb/>o. O., <date when="1859">Herbst
+                        1859</date>
+                </title>
+            <title type="label">Eigenhändige Notizen Leo Thuns o. O., Herbst 1859</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DCBF-7</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D523</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Einige Notizen Leo Thuns hinsichtlich der Umgestaltung der Regierung und
+                            der politischen Neuordnung in Ungarn. Außerdem kritisiert er seinen
+                            Ausschluss von Beratungen, in denen Entscheidungen getroffen werden.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Eigenhändige Notiz Thuns.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Neoabsolutismus</term>
+                    <term>Krise</term>
+                </index>
+                <p>Herbst [1]859</p>
+                <p>Weisung wegen Gemeindeordnung[?] ist erlassen, daher nochmalige freie Diskussion
+                    in der Conferenz</p>
+                <p>Antwort auf meine Frage, ob der <rs type="person" ref="#franz-joseph">Kaiser</rs>
+                    wieder einen öffentlichen Rechtszustand anzustreben für seine Regentenpflicht
+                    hält oder der <rs type="person" ref="#albrecht-erzherzog">Erzherzog</rs>
+                    Ferdinand[?] sagen darf, es ist ein erobertes Land, und ich kann mit unbedingter
+                    Willkühr vorgehen.</p>
+                <p>Bewilligung <rs type="person" ref="#szoegyeny-marich-ladislaus">Szogyenyi</rs> und
+                    [?] von einem Standpunkte zu sprechen.</p>
+                <p>Ich muß glauben, Sie wollen den liberalen <rs type="person" ref="#bruck-karl-ludwig">Bruck</rs> und den Büraukraten <rs type="person" ref="#goluchowski-agenor">Gol[uchowski]</rs> den Sieg über mich verschaffen.<lb/>Dann schicken
+                    Sie mich lieber gleich nach Hause.</p>
+                <p>
+                    <rs type="person" ref="#ferdinand-II">Ferdinand II.</rs> hat blutiges Gericht
+                    gehalten und dem Landtag [?] Rechte abgesprochen<lb/>aber nicht das Land als
+                    tabula rasa behandelt – vielmehr die Ordnung[?], [?] seine Entwicklung, selbst
+                    die Zusammensetzung des Landtags unberührt gelassen;<lb/>hätte er Alles über den
+                    Haufen geworfen, das Land mit fremden Beamten überschwemmt, es
+                    auseinandergerissen – ich zweifle, ob <rs type="person" ref="#martinic-jaroslav-borsita">Martinic</rs> und <rs type="person" ref="#slavata-wilhelm">Slavata</rs>
+                    dazu ihre Hand gebothen hätten.</p>
+                <p>
+                    <rs type="person" ref="#franz-joseph">Euer Majestät</rs> können Berathungen halten,
+                    mit wem Sie wollen – aber der <rs type="person" ref="#rechberg-rothenloewen-bernhard">Ministerpräsident</rs> hat kein Recht mich von jenen Berathungen, aus
+                    denen Entschlüsse hervorwachsen, auszuschließen.</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

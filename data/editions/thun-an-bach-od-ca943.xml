@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-bach-od-ca943.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-bach-od-ca938.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-bach-od-ca947.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#bach-alexander" role="recipient">Alexander
+                        Bach</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</rs>, <date>o. D.</date>
+                </title>
+            <title type="label">Leo Thun an Alexander Bach, o. O., o. D.</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA46-1</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Österreichisches Staatsarchiv</institution>
+                        <repository>Allgemeines Verwaltungsarchiv</repository>
+                        <idno>Nachlass Bach, Karton 11</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun informiert Alexander Bach, dass die Zeitung "Die Waage" in Prag
+                            seit einiger Zeit die lithografische Korrespondenz nicht mehr erhalte.
+                            Thun als ehemaliger Mitarbeiter und jetziger Förderer der Zeitung bittet
+                            Bach, dass er diese Maßnahme rückgängig mache.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_4510d4e4afdfe71771afea781bc55d46">o. O.</settlement>
+                    <date>o. D.</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#bach-alexander">Alexander Bach</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Presse</term>
+                </index>
+                <p>Die Redakzion der „Waage“ in <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs> – bekanntlich ein
+                    kleines Blatt von entschieden – konservativer Richtung, welches das
+                    unbestreitbare Verdienst hat, zuerst Muth gezeigt zu haben – ist sehr
+                    schmerzlich von dem Umstand berührt, daß ihr seit einiger Zeit die
+                    lithographische Korrespondenz nicht mehr zukomme. Sie bittet, daß ihre diese
+                    Gunst wieder zu Theil werde, und hat sich deshalb um meine Vermittlung
+                    verwendet, weil ich eine Zeit lang Protektor und Mitarbeiter des Blattes
+                    war.</p>
+                <p>Ich bitte also meinen werthen Herrn Collega meiner Protekzion gütigst Rechnung zu
+                    tragen.</p>
+                <p>Thun</p>
+                <p>&lt;Die Sache kann nur auf einem Missverständnis ruhen und werde mich darüber
+                    sogleich erkundigen.&gt;<note xml:id="note_1">Anmerkung Bachs auf dem
+                    Brief.</note>
+                </p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

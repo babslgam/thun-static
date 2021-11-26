@@ -1,0 +1,133 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="stumpf-an-thun-1858-09-19-a3-xxi-d470.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/strossmayer-an-thun-1854-09-17-a3-xxi-d268.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/stumpf-an-thun-1860-10-24-a3-xxi-d623a10.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#stumpf-brentano-karl-friedrich" role="sender:gelehrter">Karl
+                        Friedrich Stumpf</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_bb924613631a24955ccdde82d6af5cc2">Göttingen</rs>, <date when-iso="1858-09-19">19. September
+                    1858</date>
+                </title>
+            <title type="label">Karl Friedrich Stumpf an Leo Thun, Göttingen, 19. September 1858</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA64-F</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D470</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Historiker Karl Friedrich Stumpf-Brentano berichtet Leo Thun von
+                            seinen Recherchen in verschiedenen deutschen Archiven und Bibliotheken.
+                            Außerdem schildert er die gescheiterten Verhandlungen zwischen Johann
+                            Friedrich Böhmer und Georg Heinrich Pertz wegen der Herausgabe
+                            des "Codex diplomaticus imperii". Stumpf-Brentano hofft dennoch, dass
+                            das Werk vollendet werden wird. Er teil Thun außerdem mit, dass Böhmer
+                            im Herbst nach Wien kommen wird und Thun persönlich seine Aufwartungen
+                            machen möchte. Stumpf-Brentano hofft, dass ihm Thun auch weiterhin sein
+                            Vertrauen schenkt.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#stumpf-brentano-karl-friedrich">Karl Friedrich Stumpf</rs>
+                    <settlement ref="#place_bb924613631a24955ccdde82d6af5cc2">Göttingen</settlement>
+                    <date when-iso="1858-09-19">19. September
+                    1858</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Geschichtswissenschaften</term>
+                </index>
+                <p>Euer Excellenz!</p>
+                <p>Ich hätte längst gewagt, wie es auch meine Pflicht gewesen wäre, ein
+                    Lebenszeichen zu geben, hätte sich nicht mein Aufenthalt in den sächsischen,
+                    thüringischen und fränkischen Archiven durch unerwartet reiche Ausbeute länger
+                    hinausgezogen, als ich zur Zeit meiner Abreise aus <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>
+                    vermuthen konnte. Ich kam erst Ende Augusts nach <rs type="place" subtype="place" ref="#place_e9cd6cbbbc3248f7a69252439ba3d6e6">Frankfurt a. M.</rs>, wo ich leider unsern trefflichen <rs type="person" ref="#boehmer-johann-friedrich">Böhmer</rs> nicht so vollauf in der
+                    alten rüstigen Stimmung fand, wie ich ihn verlassen habe. Er mußte auch bald in
+                    ein Bad eilen. Soviel konnte ich übrigens erschließen und theilweise erfahren,
+                    daß eine Einigung über die Herausgabe des „Codex diplomaticus imperii“ mit
+                        <rs type="person" ref="#pertz-georg-heinrich">Pertz</rs> wenigstens für jetzt
+                    nicht erzielt worden ist und eine Aufforderung an mich mußte schon darum
+                    selbstverständlich unterbleiben. Da aber die ganze Angelegenheit gleichsam nur
+                    privatim zwischen <rs type="person" ref="#boehmer-johann-friedrich">Böhmer</rs> und
+                        <rs type="person" ref="#pertz-georg-heinrich">Pertz</rs> verhandelt wurde, ist
+                    zugleich mir jede weitere Besprechung wie auch jeder Antrag zur bereitwilligsten
+                    Mitwirkung benommen. Das Scheitern dieses Lieblingsplanes mag indes zum Theil
+                    auch die Ursache von <rs type="person" ref="#boehmer-johann-friedrich">Böhmers</rs>
+                    Verstimmung sein. Es freut mich übrigens, daß Euer Excellenz wahrscheinlich
+                    Gelegenheit haben den Mann, der mir seit Jahren ein Leitstern meines ganzen
+                    Strebens ist und seines Gleichen in <rs type="place" subtype="country" ref="#place_162b390989a8678640067963acb65109">Deutschland</rs> wahrlich
+                    nicht hat, persönlich kennen zu lernen. Noch beim Abschied sagte er mir, daß er
+                    die Absicht hege, Anfangs Octobers in <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> einzutreffen,
+                    wo er dann jedenfalls um die Auszeichnung einer Audienz bei Euer Excellenz
+                    ansuchen wird. So sehr es mir leid thut, nicht jetzt gleich zu einem großen
+                    Nationalwerke mit schwachen Kräften mein Weniges beitragen zu können, so leb'
+                    ich doch immer noch in der Hoffnung, daß <rs type="person" ref="#boehmer-johann-friedrich">Böhmer</rs> diesen seinen Lebensplan
+                    trotz aller Hindernisse früher oder später, wie es ihm auch gebührt und er vor
+                    allen der Mann dazu ist, zur Ausführung bringen wird und die Bemerkung im
+                    Allgemeinen, daß Euer Excellenz, falls er mich zu Arbeiten unter seiner Leitung
+                    zu gebrauchen dachte, geneigt wären mich ihm abzutreten, dürfte ihm vielleicht
+                    deshalb willkommen sein. Die Initiative ergreifen, wo jetzt auch die
+                    unmittelbare Veranlassung fehlt, würde er wohl kaum wagen.<lb/>In meinen
+                    Arbeiten bin ich übrigens nicht im Geringsten gestört; sie sind zum Theil
+                    nothwendige Vorstudien zu jenen großen Unternehmen und ich schmeichle mir sogar,
+                    daß ich mit ihrer Vollendung vielleicht Veranlassung zur schnelleren Erreichung
+                    desselben werde geben können. Eine schönere Belohnung könnte ich mir freilich
+                    kaum denken.<lb/>Gestern hab' ich in der hiesigen Bibliothek, der letzten
+                    bedeutenden <rs type="place" subtype="country" ref="#place_162b390989a8678640067963acb65109">Deutschlands</rs>, die ich noch zu
+                    besuchen hatte, Gottlob mit dem wirklich mühevollen und ermüdenden Sammeln
+                    geschlossen und athme völlig freier auf. Jetzt kann ich endlich zur
+                    Schlußredaction schreiten. Nur noch einen Sprung in die Archive zu
+                        <rs type="place" subtype="place" ref="#place_c27539167ff9723b32673ddab9dcbe09">Hannover</rs>, <rs type="place" subtype="place" ref="#place_1de5209cd5fde478bf4ba12efabce761">Wolfenbüttel</rs>, <rs type="place" subtype="place" ref="#place_f1ea98282c878579d86d8a656f0c1c93">Goslar</rs>, dann
+                        <rs type="place" subtype="place" ref="#place_2126faa64bfa66d02e06345d06e61a25">Karlsruhe</rs> und <rs type="place" subtype="place" ref="#place_a330ac6c48198545d4d2f9ff2cb0fc05">Stuttgart</rs> und
+                    ich bin fertig und hoffe dann bestimmt mein gegebenes Wort zur erstrebten
+                    Zufriedenheit lösen zu können. Ich habe nur die eine Bitte, daß Euer Excellenz
+                    das Vertrauen, womit Sie mich bisher gehoben haben, mir auch ferner, soweit ich
+                    es rechtfertige, gnädigst schenken mögen und lege meine ganze Zukunft unverzagt
+                    in Ihre Hände. Wie sich diese für den Professor in partibus gestalten werde,
+                    wage ich freilich kaum zu errathen, lebe aber noch immer in der süßen Hoffnung,
+                    daß mir die von Euer Excellenz huldreichst bewilligte freie Zeit unverkürzt
+                    belassen bleibe. Ich werde sie redlich und gewißenhaft verwenden, damit mir
+                    später eine sichre und erfolgreiche Wirksamkeit in der geliebten Heimat umso
+                    gewißer werde. Den Entschluß Euer Excellenz bitte ich mir vielleicht durch
+                    meinen alten Freund <rs type="person" ref="#tomaschek-karl">Karl Tomaschek</rs>
+                    oder im Wege der hohen k.k. Bundesgesandtschaft kundgeben zu lassen, damit ich
+                    dann sofort die nöthigen Schritte zu meiner Legitimation im Auslande thun
+                    könne.<lb/>Mit dem innigsten Danke für das unverdiente Wohlwollen Euer Excellenz
+                    und der Entschuldigung für die Belästigung mit diesen Zeilen, zeichne ich mich
+                    in tiefer Ehrfurcht</p>
+                <p>Euer Excellenz</p>
+                <p>aufrichtigst ergebenster<lb/>Karl Friedrich Stumpf</p>
+                <p>Göttingen, den 19. September 1858</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

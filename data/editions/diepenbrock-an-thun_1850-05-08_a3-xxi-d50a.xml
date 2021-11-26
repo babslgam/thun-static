@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="diepenbrock-an-thun_1850-05-08_a3-xxi-d50a.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#diepenbrock-melchior" key="diepenbrock-melchior" role="sender:kleriker">Melchior
+                        Diepenbrock</rs> an <rs type="person" ref="#thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</rs>, <date when-iso="1850-05-08">8. Mai
+                    1850</date>
+                </title>
+            <title type="label">Melchior Diepenbrock an Leo Thun, Breslau, 8. Mai 1850</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p/>
+            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000D-F7FB-2</tei:idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D50</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Melchior Diepenbrock übersendet Leo Thun einen Korrekturabzug des vor
+                            wenigen Tagen zugesandten Hirtenbriefes. Dieser Entwurf kann zur
+                            Veröffentlichung in Zeitungen verwendet werden, sofern Thun keine
+                            ernsthaften Bedenken dagegen einzuwenden hat. Bezüglich der von Thun
+                            gewünschten Hinweise zu einer nicht näher genannten Person hat der
+                            Fürstbischof erste Nachforschungen eingeleitet, deren Ergebnis er Thun –
+                            sobald bekannt – mitteilen wird.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Der Brief ist im Nachlass unter der Signatur<ref target="thun/thun-korrespondenz/tetschen/diepenbrock-an-thun_1850-05-06_A3-XXI-D50.xml">A3 XXI D50</ref> abgelegt. Allerdings handelt es sich bei dem
+                            vorliegenden Schreiben nicht um eine Beilage, sondern um einen
+                            eigenständigen Brief. Er schließt inhaltlich an den Vorhergehenden an,
+                            daher wurden die Briefe bei deren Ordnung wohl unter einer Signatur
+                            zusammengefasst. Hier wurden die Briefe wieder einzeln
+                            aufgenommen.<lb/>Beilage: Gedruckter Korrekturabzug eines Hirtenbriefs
+                            von Diepenbrock. Der handschriftliche Entwurf für diesen Druck findet
+                            sich als Beilage zum Brief, <ref target="thun/thun-korrespondenz/tetschen/diepenbrock-an-thun_1850-05-06_A3-XXI-D50.xml">Melchior Diepenbrock, Breslau, 5. Mai 1850, Sign. A3 XXI D50.</ref>
+                            Der Druck wurde hier nicht transkribiert, da er weitgehend mit dem
+                            Entwurf übereinstimmt.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#diepenbrock-melchior">Melchior Diepenbrock</persName>
+                    <date when-iso="1850-05-08">8. Mai
+                    1850</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#thun-hohenstein-leo">Leo Thun</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                    <term>Bischofsversammlung</term>
+                    <term>Katholische Kirche</term>
+                    <term>Personalfragen</term>
+                </index>
+                <p>Eurer Excellenz</p>
+                <p>beehre ich mich, nachträglich zu meinem vorgestrigen ergebensten Schreiben
+                    anliegend einen Correcturabdruck des Hirtenbriefes zu übersenden, wonach der
+                    Abdruck in Ihren dortigen Blättern erfolgen könnte, falls nicht Hochdieselben
+                        <hi rend="ul">ernstliche</hi> Bedenken gegen die Zweckmäßigkeit seines
+                    Inhaltes und seine Angemessenheit für den Augenblick gefunden haben, worüber ich
+                    Ihrer Mittheilung heute oder morgen entgegensehe. Ich lasse ihn hier inzwischen
+                    noch nicht reindrucken und ausgeben, sondern warte damit auf diese
+                    Mittheilung.<lb/>Wegen der gewünschten Personalnotizen habe ich geeignete
+                    Erkundigungen eingeleitet und hoffe recht bald das Ergebnis mittheilen zu
+                    können.<lb/>Mit aufrichtigster dankbarster Verehrung</p>
+                <p>Eurer Excellenz<lb/>gehorsamst ergebenster<lb/>Melchior Fürstbischof</p>
+                <p>Breslau, den 8. Mai 1850</p>
+                <p>P.S. Ich habe am Schlusse noch eine zeitgemäße Einschaltung angebracht.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

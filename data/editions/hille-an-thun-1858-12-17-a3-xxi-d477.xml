@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="hille-an-thun-1858-12-17-a3-xxi-d477.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/hille-an-thun-1857-11-02-a3-xxi-d433.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/hingenau-an-thun-1860-05-11-a3-xxi-d583.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#hille-augustin" role="sender:kleriker">Augustin
+                        Hille</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_a808e5c57f7af6870dafa78db5ce4321">Leitmeritz</rs>, <date when-iso="1858-12-17">17. Dezember 1858</date>
+                </title>
+            <title type="label">Augustin Hille an Leo Thun, Leitmeritz, 17. Dezember 1858</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DBB8-F</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D477</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Bischof von Leitmeritz, Augustin Hille, teilt Leo Thun mit, dass
+                            seinem Vater Franz Thun-Hohenstein der päpstliche St. Georgsorden
+                            verliehen wird. Hille hatte dies beim Papst erwirkt, um das segensreiche
+                            Wirken Franz Thuns für die Kirche zu würdigen. Gleichzeitig schlägt
+                            Hille vor, dass Leo Thun den Orden sowie das päpstliche Breve seinem
+                            Vater überreichen sollte. Außerdem bittet er, dass Thun beim Kaiser die
+                            Vollmacht zur Annahme des Ordens erwirken möge.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#hille-augustin">Augustin Hille</rs>
+                    <settlement ref="#place_a808e5c57f7af6870dafa78db5ce4321">Leitmeritz</settlement>
+                    <date when-iso="1858-12-17">17. Dezember 1858</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                    <term>Familie Thun-Hohenstein</term>
+                </index>
+                <p>Eure Excellenz,<lb/>Hochgeborner Herr Graf!</p>
+                <p>Aus Anlaß der fünfzigjährigen Gedächtnisfeier <rs type="person" ref="#thun-hohenstein-franz-anton-vater">Hochihres gräflichen Herrn Vaters
+                        Excellenz</rs> betreffend den Antritt, die Übernahme der
+                    hochgräflichen Domainen, welche seltene Feier am 14. Oktober letzten Jahres zu
+                        <rs type="place" subtype="place" ref="#place_da90eb3328276934d8dbcbbff3aba4ee">Tetschen</rs> begangen wurde, fand ich mich als Bischof
+                    der Kirche in Christus dem Herrn veranlaßt und bewogen, ja verpflichtet, in
+                    dankbarer Anerkennung der großen Verdienste, welche sich <rs type="person" ref="#thun-hohenstein-franz-anton-vater">Hochihr gnädiger Herr
+                        Vater</rs> durch einen so langen Zeitraum durch eben so zahlreiche als
+                    großmüthige fortgesetzte Opfer für die hl. Zwecke des Reiches Gottes auf Erden
+                    in frommer erbaulicher christlicher Liebe erworben hat, mich im Wege der
+                    Apostolischen Nuntiatur in <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> bei <rs type="person" ref="#pius-IX">Seiner Heiligkeit</rs> in <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs> um
+                    gnädigste Verleihung eines kirchlichen Ordens als Anerkennung für solche
+                    kirchliche Verdienste in einem demüthigen Bittgesuche zu
+                        verwenden.<lb/>
+                    <rs type="person" ref="#pius-IX">Seine päpstliche
+                        Heiligkeit</rs> haben diese demüthige Bitte wahrhaft väterlich
+                    gewürdiget und <rs type="person" ref="#thun-hohenstein-franz-anton-vater">Hochihrem
+                        würdigen, hochverdientem Herrn Vater Excellenz</rs> „das Großkreuz des
+                    päpstlichen Sankt Gregorius Ordens, unter zugleicher Einreihung in die Zahl der
+                    Ritter dieses päpstlichen Ordens allergnädigst zu verleihen geruht“, worüber ich
+                    die Verständigung durch die päpstliche Nuntiatur zu <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>
+                    am 16. dieses Monats erhielt, die mein Herz mit hoher, inniger Freude erfüllte,
+                    und ich trage die Überzeugung in mir, daß auch das Herz des hochverdienten,
+                    kirchenfreundlichen, hochgestellten Sohnes, Eurer Excellenz nämlich, mit hoher,
+                    theilnehmender Freude werde erfüllt werden.<lb/>In diesem Vertrauen erlaube ich
+                    mir daher auch eine herzliche Bitte, die das <hi rend="ul">Herz</hi> Eurer
+                    Excellenz sicher nicht verweigern wird: „Möge das päpstliche Ernennungsbreve
+                    sammt der Ordenszeichnung nicht durch meine Hände, sondern durch die Hände des
+                    gräflichen Herrn <hi rend="ul">Sohnes</hi> Excellenz, in die Hände <rs type="person" ref="#thun-hohenstein-franz-anton-vater">Seiner Excellenz des gräflichen
+                        Herrn <hi rend="ul">Vaters</hi>
+                    </rs> übergeben werden.“<lb/>Im guten
+                    Vertrauen auf huldvolle Gewährung lege ich daher auch bei das Breve sammt
+                    Beilage und bitte zugleich, die allerhöchste Vollmacht zur Annahme des Ordens
+                    bei <rs type="person" ref="#franz-joseph">Seiner k.k. Apostolischen Majestät</rs>
+                    gütigst erwirken zu wollen.<lb/>Mich dem frommen und wohlwollenden Andenken
+                    angelegentlich empfehlend bitte ich den Ausdruck der innigsten Hochachtung und
+                    Verehrung huldreichst genehmigen zu wollen, mit welcher ich die Ehre habe zu
+                    seyn</p>
+                <p>Eurer Excellenz und Gräflichen Gnaden</p>
+                <p>im Herrn ergebenster Diener<lb/>Augustin B. Hille<lb/>Bischof </p>
+                <p>Leitmeritz, am 17. Dezember 1858</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

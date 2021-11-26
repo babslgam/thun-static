@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="attems-an-thun-1859-07-19-a3-xxi-d513.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/attems-an-thun-1855-08-10-a3-xxi-d347e.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/aufsatz-thun-polen-od-a3-xxi-d637.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#attems-ottokar-maria" role="sender:kleriker">Ottokar
+                        Attems</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_6e00929feb7fb02acaa548f47f67c61c">Graz</rs>, <date when-iso="1859-07-19">19. Juli 1859</date>
+                </title>
+            <title type="label">Ottokar Attems an Leo Thun, Graz, 19. Juli 1859</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DC13-8</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D513</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Fürstbischof Ottokar Maria Attems empfiehlt den provisorischen Direktor
+                            und Katecheten der Hauptschule Hallein, Albin Mauß, für den
+                            Direktorposten an der Normalhauptschule in Salzburg. Mauß sei
+                            fortwährend bemüht, sich weiterzubilden und besitze umfangreiche
+                            Kenntnisse des Schulwesens. Der Fürstbischof kennt Mauß persönlich,
+                            weshalb er überzeugt ist, dass dieser die Stelle zur vollsten
+                            Zufriedenheit ausfüllen werde.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#attems-ottokar-maria">Ottokar Attems</rs>
+                    <settlement ref="#place_6e00929feb7fb02acaa548f47f67c61c">Graz</settlement>
+                    <date when-iso="1859-07-19">19. Juli 1859</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Lehrerausbildung</term>
+                    <term>Personalfragen</term>
+                    <term>Personalvermittlung</term>
+                </index>
+                <p>Hochgeborner Graf!</p>
+                <p>Unter den Competenten für die Direktorstelle an der k.k. Normalhauptschule zu
+                        <rs type="place" subtype="place" ref="#place_f2646aa02d03ac5a141ef404d919cd11">Salzburg</rs> befindet sich auch der provisorische
+                    Direktor und Katechet der k.k. Hauptschule zu <rs type="place" subtype="place" ref="#place_f7688f95685985f806fab40e78596fe8">Hallein</rs>
+                    <rs type="person" ref="#mauss-albin">Albin Mauß</rs>. Derselbe war, als ich
+                    Dompfarrer und Stadtdechant in <rs type="place" subtype="place" ref="#place_f2646aa02d03ac5a141ef404d919cd11">Salzburg</rs> war, mein
+                    Cooperator und ich hatte da um so bessere Gelegenheit, seine gediegenen
+                    Schulkenntnisse, seine besondere Vorliebe für das Schulfach und sein fruchtbares
+                    Einwirken auf Herz und Verstand der Kinder kennen zu lernen. Seit 5 Jahren ist
+                    er nun mit der Leitung und dem Katechetenamte an der <rs type="place" subtype="place" ref="#place_f7688f95685985f806fab40e78596fe8">Halleiner</rs> Hauptschule betraut, er versieht dieses Amt ohne
+                    irgend einem Gehalte oder einer Remuneration und ist fortwährend bemüht, sich im
+                    Schulfache theoretisch und praktisch immer mehr auszubilden. Über seine
+                    Leistungen dürfte er sich mit den besten Anerkennungszeugnissen ausweisen
+                    können.<lb/>Erlauben Euer Excellenz nun, daß ich diesen Competenten
+                    Hochdenenselben für die <rs type="place" subtype="place" ref="#place_f2646aa02d03ac5a141ef404d919cd11">Salzburger</rs>
+                    Normalschuldirektorsstelle bestens empfehle. Ich bin überzeugt, daß diese Stelle
+                    durch <rs type="person" ref="#mauss-albin">Albin Mauß</rs> vollkommen zur
+                    allseitigen Zufriedenheit ausgefüllt werden würde.<lb/>Genehmigen Hochdieselben
+                    bei dieser Gelegenheit den erneuerten Ausdruck meiner ausgezeichnetsten
+                    Hochachtung und besonderen Verehrung, womit ich geharre</p>
+                <p>Eurer Excellenz</p>
+                <p>gehorsamster Diener<lb/>Ottokar Maria<lb/>Fürstbischof</p>
+                <p>Gratz, den 19. Juli 1859</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

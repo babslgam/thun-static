@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="radziwill-an-thun-1850-01-21-a3-xxi-d32.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/radziwill-an-thun-1849-11-24-a3-xxi-d17.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/rajacic-an-dobran-1852-11-23-a3-xxi-d176.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#radziwill-friedrich-wilhelm" role="sender:beamter">Friedrich
+                        Wilhelm Radziwiłł</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_d35a02eb49149450fb2fffc6e467eb37">Berlin</rs>,
+                        <date when-iso="1850-01-21">21. Januar 1850</date>
+                </title>
+            <title type="label">Friedrich Wilhelm Radziwiłł an Leo Thun, Berlin, 21. Januar 1850</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DACD-9</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <msDesc>
+                        <msIdentifier>
+                            <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                                Tetschen-Bodenbach</institution>
+                            <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                                Thun</repository>
+                            <idno>A3 XXI D32</idno>
+                        </msIdentifier>
+                        <msContents>
+                            <p>Fürst Friedrich Wilhlem Radziwill teilt Leo Thun die gewünschten
+                                Informationen darüber mit, ob die Professoren Hipolit Cegielski und
+                                Jakub Prabucki bereit seien, in den österreichischen Staatsdienst
+                                einzutreten. Ersterer würde unter bestimmten Bedinungen eine Stelle
+                                annehmen, die er selbst in einem beigelegten Schreiben genauer
+                                ausführt. Prabucki wäre ebenfalls bereit, will jedoch nicht an einem
+                                Gymnasium unterrichten. Anschließend berichtet Radziwill, dass man
+                                in Paris derzeit heftig das Verhältnis von Kirche und Staat in
+                                Bildungsfragen debattiere. Er freut sich sehr, dass Thun seine
+                                Ansicht teilt, man könne Schule und Kirche nicht von einander
+                                trennen. Radziwill ist zwar damit einverstanden, dass Protestanten
+                                an österreichische Universitäten berufen werden können, nicht
+                                angebracht erscheint es ihm jedoch, die Leitung des Philologischen
+                                Seminars dem Protestanten Hermann Bonitz zu übertragen, zumal dieses
+                                insbesondere der Ausbildung von künftigen Gymnasiallehrern diene.
+                                Zuletzt erwähnt Radziwill, dass die Ernennung von Vincent Pol in
+                                konservativen Kreisen freudig aufgenommen worden ist.<lb/>In der
+                                Beilage äußert Hipolit Cegielski sein Interesse an einer Professur
+                                an der Universität Krakau oder an einer Stelle als
+                                Gymnasialdirektor. Eine definitive Zusage könne er jedoch nur dann
+                                geben, wenn ihm ein Angebot mit Garantien und entsprechenden
+                                Konzessionen gemacht werde.</p>
+                        </msContents>
+                        <physDesc>
+                            <p>
+                                <tei:ref xmlns:tei="http://www.tei-c.org/ns/1.0" target="#d32_1">Beilage:  an
+                                    Unbekannt. ,
+                                    5. Januar 1850
+                                </tei:ref>.</p>
+                        </physDesc>
+                    </msDesc>
+                </p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#radziwill-friedrich-wilhelm">Friedrich Wilhelm Radziwiłł</rs>
+                    <settlement ref="#place_d35a02eb49149450fb2fffc6e467eb37">Berlin</settlement>
+                    <date when-iso="1850-01-21">21. Januar 1850</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Personalvermittlung</term>
+                    <term>Klassische Philologie</term>
+                    <term>Seminar</term>
+                </index>
+                <p>Berlin, den 21. Jänner 1850</p>
+                <p>Theuerster Graf,</p>
+                <p>wenngleich ich unmittelbar nach Empfang Ihres Briefes vom 30. November vorigen
+                    Jahres Schritte gethan, um die von Ihnen gewünschte Auskunft zu erhalten, bin
+                    ich erst jetzt im Stande gesetzt worden, sie Ihnen zu ertheilen; kommt sie, wie
+                    es mir wahrscheinlich, zu spät, so schreiben Sie es nicht Mangel an guten Willen
+                    meinerseits zu.<lb/>Einliegender Brief des Dr. <rs type="person" ref="#cegielski-hipolit">Ciegielski [Cegielski]</rs> an meinen Gewährsmann wird Ihnen zeigen,
+                    daß er nur unter bestimmten Garantien, bei welchen er eine Initiative erwartet,
+                    in Dienste Ihres Kaiserhauses treten will. <rs type="person" ref="#prabucki-jakub">Prabudzki [Prabucki]</rs> ist fest entschlossen nicht mehr in das
+                    Gymnasialfach zurückzutreten: dagegen würde er einer Anstellung bei der <rs type="org" ref="#org_0023">Krakauer Universität</rs> anzunehmen geneigt
+                    sein, ist ein sehr tüchtiger Philolog und würde sich für einen Lehrstuhl in
+                    diesem Fache und in der katholischen Theologie durchaus eignen.<lb/>Die
+                    Unterrichtsfrage ist jetzt Gegenstand interessanter Debatten in
+                        <rs type="place" subtype="place" ref="#place_ccbee73cd81c7f42405e1920409247ec">Paris</rs>: man scheint sich dort, in diesem Pandaemonium
+                    modern constitutioneller Doktrinen noch gerade von der praktischen Unhaltbarkeit
+                    so mancher in denselben als Axiome aufgestellter Behauptungen zu überzeugen,
+                    unter andern von der Unmöglichkeit Schule und Kirche von einander zu trennen.
+                    Ich freue mich aus Ihrem Briefe zu sehen, daß auch Sie der Ansicht sind, und
+                    habe ich auch ein anderes nicht von Ihrer Gesinnung erwartet. Daß auf den
+                    Universitäten bei Ihnen auch Protestanten angestellt werden, ist gewiß im
+                    Prinzipe richtig, man hatte mir indes gesagt, Professor <rs type="person" ref="#bonitz-hermann">Bonitz</rs> sei an der Spitze des philologischen
+                    Seminar’s gestellt, das zur Bildung der künftigen Gymnasiallehrer bestimmt ist,
+                    und diese Anstellung war mir in Bezug auf das Prinzip einer vorherrschend
+                    confessionellen Richtung dieser Lehranstalten bedenklich vorgekommen.<lb/>Ihre
+                    Anstellung <rs type="person" ref="#pol-vincent">Vincent Pol’s</rs> hat in der
+                    conservativen Parthei im <rs type="place" subtype="place" ref="#place_d55199956d521bfae14b87d631fe8ae8">Posen’schen</rs> einen
+                    guten Eindruck gemacht, ich habe kein Urtheil über ihn.</p>
+                <p>In alter Freundschaft und Hochachtung Ihnen herzlich ergeben.</p>
+                <p>F. Radziwill</p>
+                <div type="enclosure" xml:id="D32_1">
+                    <p>Hochwohlgeborner Herr Regierungs- und Schulrath! </p>
+                    <p>Auf Euer Hochwohlgeboren gefällige, vom Herrn Ministerialrath Dr. <rs type="person" ref="#brueggemann-theodor">Brüggemann</rs> geneigtest veranlaßte
+                        Anfrage, ob ich gesonnen wäre meine Kräfte wiederum der Wissenschaft zu
+                        widmen, und eventuell eine Professur an der <rs type="org" ref="#org_0023">Universität zu Krakau</rs> oder eine
+                        Gymnasialdirektorstelle anzunehmen, beehre ich mich heute, nachdem ich mit
+                        mir selbst zu Rathe gegangen, folgendes ergebenst zu antworten.<lb/>Was
+                        zunächst die Wissenschaft überhaupt betrifft, so galt mir diese stets mehr,
+                        als die materiellen Vortheile irgendeines Berufes; auch wenn ich während der
+                        letzten drei Jahre meine Kräfte mehr dem materiellen Erwerb als der
+                        geistigen Beschäftigung zuwandte, so gab ich hierin mehr dem äußern
+                        Bedürfnis, als meinem innern Drange nach. Ich glaube auch während dieser
+                        Periode Beweise gegeben zu haben, daß das Höhere und Edlere nicht aufgehört
+                        hat die Hauptaufgabe meines Lebens zu sein.<lb/>Ob ich nun eine der beiden
+                        angeführten Stellen annehmen würde, diese Frage könnte ich nur dann
+                        definitiv beantworten, wenn mir ein bestimmter Antrag unter bestimmten
+                        Verhältnissen, Bedingungen und Garantien gemacht werden würde. Mein Gewissen
+                        würde mir nicht gestatten mich Pflichten unter unbekannten Verhältnissen zu
+                        unterziehen, und bin ich es andererseits mir und meiner Familie schuldig
+                        meine jetzige Stellung nicht eher aufzugeben, als bis mir etwas Positives
+                        und Sicheres gegeben ist. Nur dies noch möchte ich hinzufügen, daß ich meine
+                        Stellung nur dann aufzugeben im Stande wäre, wenn ich in einem anderen
+                        Wirkungskreise auf wirklich ersprießliche Folgen und sichere materielle
+                        Garantien rechnen könnte.<lb/>Diesen meinen Entschluß wollen Euer
+                        Hochwohlgeboren dem Herrn Ministerialrath Dr. <rs type="person" ref="#brueggemann-theodor">Brüggemann</rs> gefälligst mittheilen,
+                        und demselben bei dieser Gelegenheit meinen herzlichen Dank für das große
+                        persönliche Wohlwollen aussprechen.</p>
+                    <p>Mit der größten Hochachtung<lb/>Euer Hochwohlgeboren ergebenster<lb/>Dr.
+                        Cegielsky</p>
+                    <p>Posen, den 5. Januar 1850</p>
+                </div>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

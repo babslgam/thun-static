@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-linde-1854-05-24-ca1127.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-laube-1858-09-22-ca820.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-linde-1855-09-11-ca1128.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#linde-justin" role="recipient:gelehrter">Justin
+                        Linde</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1854-05-24">24. Mai 1854</date>
+                </title>
+            <title type="label">Leo Thun an Justin Linde, Wien, 24. Mai 1854</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA06-9</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Bundesarchiv Koblenz</institution>
+                        <idno>N 1759, 51</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun bedankt sich bei Justin Linde für die Vermittlung von Johann
+                            Friedrich Schulte, der ein Neffe des Staatsrates ist. Er hofft, dass er
+                            Schulte so bald als möglich eine Stelle als Kanonist an einer
+                            österreichischen Universität verschaffen kann. Thun möchte sowohl das
+                            kanonische als auch das römische Recht stärker fördern und dazu ist es
+                            nötig, Professoren aus Deutschland nach Österreich zu berufen. Thun
+                            bittet daher auch um eine Auskunft über einen gewissen Heinrich Fick,
+                            der sich um eine Stelle in Österreich beworben hatte und sich dabei auf
+                            ein Zeugnis des Bischofs von Fulda berief.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when-iso="1854-05-24">24. Mai 1854</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#linde-justin">Justin Linde</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Kirchenrecht</term>
+                    <term>Römisches Recht</term>
+                    <term>Universität Prag</term>
+                </index>
+                <p>Wien den 24. Mai 1854</p>
+                <p>Werther Herr Staatsrath!</p>
+                <p>Ich bin Ihnen herzlich dankbar, mir die persönliche Bekanntschaft des <rs type="person" ref="#schulte-friedrich">Dr. Schulte</rs> verschafft zu haben. Mein
+                    Wunsch wäre es ihn für eine Lehrkanzel des kanonischen Rechtes zu gewinnen; noch
+                    bin ich aber nicht in der Lage mich über die Ausführbarkeit mit Bestimmtheit
+                    aussprechen zu können.<lb/>Ich benütze diesen Anlaß um in einer anderen
+                    Angelegenheit Ihre mir so freundlich gebothene Vermittlung in Anspruch zu
+                    nehmen. Ein <rs type="person" ref="#fick-heinrich">Dr. Fick</rs>, ehemals
+                    Privatdozent in <rs type="org" ref="#org_0041">Marburg</rs>, bewirbt
+                    sich um eine Lehrkanzel des römischen Rechtes in <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs>. Wir brauchen allerdings einige tüchtige Romanisten.
+                    Er ist Protestant, der Zeit a.o. Professor in <rs type="org" ref="#org_0031">Zürich</rs>, wird mir aber als ein ganz
+                    konservativ gesinnter Mann geschildert und beruft sich selbst auf das Zeugnis
+                    des <rs type="person" ref="#koett-christoph-florentinus">Bischofs von Fulda</rs>.
+                    Ich wäre Ihnen sehr verbunden, wenn Sie die Güte haben wollten, mir über seine
+                    wissenschaftliche Tüchtigkeit wie über seine Gesinnung verlässliche Auskunft zu
+                    verschaffen, und insbesondere auch sicher zu stellen, ob wirklich der <rs type="person" ref="#koett-christoph-florentinus">Bischof von Fulda</rs> sich um den
+                    jungen Mann interessiert. Sollten Sie in der Lage sein, mich etwa noch auf
+                    andere hervorragende, oder wenigstens unzweifelhaft hoffnungsvolle Romanisten,
+                    die für unsere Verhältnisse passen dürften, wo möglich Katholiken aufmerksam zu
+                    machen, so wäre ich Ihnen zu um so größerem Dank verpflichtet. Ich hoffe bald
+                    Anordnungen durchzusetzen, die die bisher bei uns vernachlässigte Stellung des
+                    Studiums des römischen Rechts überhaupt die historische Seite des Rechtsstudiums
+                    zu heben geeignet sind; dann müssen wir aber einige Lehrkräfte dafür von
+                        <rs type="place" subtype="country" ref="#place_162b390989a8678640067963acb65109">Deutschland</rs> hereinziehen.<lb/>Mit der Versicherung
+                    aufrichtiger Hochachtung verharre ich, werthester Herr Staatsrath.</p>
+                <p>Ihr<lb/>ergebener Diener<lb/>Thun</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

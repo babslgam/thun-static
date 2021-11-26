@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="lorenz-an-thun-1860-01-07-a3-xxi-d546.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/lonyay-an-szogyeny-1860-04-17-a3-xxi-d573.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/maassen-an-thun-1857-01-12-a3-xxi-d404.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#lorenz-ottokar" role="sender:gelehrter">Ottokar
+                        Lorenz</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1860-01-01">1. Januar 1860</date>
+                </title>
+            <title type="label">Ottokar Lorenz an Leo Thun, Wien, 1. Januar 1860</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DB44-2</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D546</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Historiker Ottokar Lorenz überreicht dem Minister zwei seiner
+                            jüngsten Arbeiten als Dank für dessen Unterstützung und Förderung seiner
+                            historischen Studien. Besonders hebt Lorenz eine Arbeit über das 13.
+                            Jahrhundert hervor, welche auf neuen Quellen beruht.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#lorenz-ottokar">Ottokar Lorenz</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when-iso="1860-01-01">1. Januar 1860</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Geschichtswissenschaften</term>
+                    <term>Österreichische Geschichte</term>
+                </index>
+                <p>Euer Excellenz!</p>
+                <p>Wenn ich mir erlaube Euer Excellenz zwei von mir eben erschienene historische
+                    Abhandlungen ehrfurchtsvoll zu überreichen, so geschieht dies in dem
+                    aufrichtigen Gefühle wahrer Dankbarkeit für die huldvolle Unterstützung und
+                    Förderung meiner Studien, die Euer Excellenz mir dereinst haben zu Theil werden
+                    lassen. Möchten Euer Excellenz dieselben als ein geringfügiges Zeichen dieser
+                    Gesinnung entgegennehmen.<lb/>Der Vortrag über Leopold III.<note xml:id="note_1">Vgl. Ottokar Lorenz, Leopold III. und die Schweizer Bünde. Vortrag gehalten
+                        im Ständehause am 21. März 1860, Wien 1860.</note> hat seiner ursprünglichen
+                    Bestimmung nach zwar vorherrschend bereits Bekanntes zu verarbeiten gehabt, aber
+                    aus den beigefügten Akten und Excursen werden Euer Excellenz ersehen, daß eine
+                    Anzahl nicht unwichtiger bisher unbeachteter Punkte in selbständiger Weise
+                    behandelt worden sind und ich habe die Freude gehabt schon jetzt Zustimmung
+                    competenter Fachmänner hierin zu erfahren.<lb/>Die andere Abhandlung ist
+                    unmittelbar aus meinen Arbeiten über das 13. Jahrhundert hervorgegangen und es
+                    gereicht mir zu einer gewissen Genugthuung hiemit eine durchaus neue auf
+                    handschriftlichen Quellen zumeist beruhende Arbeit publicirt zu haben. Denn, da
+                    ich in der Überzeugung von dem Werthe, den historische Verständigung in weitern
+                    Kreisen haben kann, mich in verschiedenen Sphären schriftstellerisch versuche,
+                    so konnte es leicht den Anschein gewinnen, als ob ich durch eine mehr
+                    popularisierende Richtung oder vielleicht durch journalistische Geschäftigkeit
+                    meine Kräfte zersplittere und von tieferem Quellenstudium mich abziehn lasse.
+                    Euer Excellenz würden nun, wenn Sie die vorliegende Schrift eines Blickes würdig
+                    halten sollten, sich leicht überzeugen, daß das hier Gelieferte in der Auswahl,
+                    wie es gegeben ist, umfangreichere Vorarbeiten voraussetzt. Publikationen aus
+                    denselben gehen aber nicht rasch von Statten, da ich mich eines bloßen
+                    Wiedergebens von Documenten, wie ich Seite 44 Note 1 offen erklären zu müssen
+                    glaubte, grundsätzlich enthalte.<lb/>Gestatten Euer Excellenz mir den Ausdruck
+                    meiner Dankbarkeit für die ehemals erwiesene Huld hier zu wiederholen.</p>
+                <p>Euer Excellenz</p>
+                <p>tiefergebener<lb/>Ottokar Lorenz</p>
+                <p>Wien, den 7. Juni 1860</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

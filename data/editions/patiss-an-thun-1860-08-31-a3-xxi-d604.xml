@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="patiss-an-thun-1860-08-31-a3-xxi-d604.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/padlesak-an-thun-1860-03-31-a3-xxi-d565.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/pauli-an-ministerium-fuer-kultus-und-unterricht-1851-04-05-a3-xxi-d111.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#patiss-georg" role="sender:kleriker">Georg Patiß</rs> SJ
+                    an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_8d28dba374ae2ec899b64efb21f18dfa">Kalksburg</rs>, <date when-iso="1860-08-31">31. August 1860</date>
+                </title>
+            <title type="label">Georg Patiß SJ an Leo Thun, Kalksburg, 31. August 1860</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DAF4-C</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D604</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Provinzial der österreichischen Ordensprovinz der Gesellschaft Jesu,
+                            Georg Patiß SJ, übersendet dem Minister eine von ihm verfasste
+                            Erklärung, die im Österreichischen Volksfreund erschienen ist. Dabei
+                            handelt es sich um eine Erwiderung auf einige Zeitungsartikel, in denen
+                            insbesondere der Jesuitenorden und dessen Leistungen in der Seelsorge
+                            sowie im Lehramt und in der Erziehung angegriffen werden.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Beilage: Georg Patiß, Erklärung, in: Österreichischer Volksfreund, Nr.
+                            192, 21. August 1860.<note xml:id="note_1">Die Beilage wurde hier nicht
+                                transkribiert.</note>
+                        </p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#patiss-georg">Georg Patiß</rs>
+                    <settlement ref="#place_8d28dba374ae2ec899b64efb21f18dfa">Kalksburg</settlement>
+                    <date when-iso="1860-08-31">31. August 1860</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                    <term>Gesellschaft Jesu</term>
+                </index>
+                <p>Excellenz!</p>
+                <p>Hiemit beehre mich ein Exemplar meiner „Erklärung“ zu übersenden<note xml:id="note_2">Vgl. Diese liegt dem Brief bei und ist im Österreichischen
+                        Volksfreund am 21. August 1860 erschienen.</note>, zu welcher mich
+                    fortwährende Angriffe auf uns und auf alle unsere Leistungen in der Seelsorge,
+                    im Lehr- und Erziehungswesen, die ungehindert aus dem Auslande hereingeschickt
+                    wurden und im Innlande geschrieben waren, genöthiget und Männer des geistlichen
+                    und weltlichen Standes aufgefordert haben.<lb/>Diese Erklärung hat allenthalben
+                    den besten Anklang gefunden und die Gegner scheinen nicht zu wissen, wie sie ihr
+                    zusetzen sollen und bestätigen sie durch jeden neuen Angriff.<lb/>Genehmigen
+                    Euer Excellenz die Versicherung meiner tiefsten Ehrfurcht und innigsten
+                    Dankbarkeit.</p>
+                <p>Euer Excellenz</p>
+                <p>unterthänigster Diener<lb/>Georg Patiß</p>
+                <p>Kalksburg, 31. Aug. 1860</p>
+            </div>
+        </body>
+        
+    </text>
+</TEI>

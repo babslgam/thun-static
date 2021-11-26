@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-bach-1850-07-ca932.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-bach-09-06-ca944.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-bach-1851-04-27-ca946.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#bach-alexander" role="recipient">Alexander
+                        Bach</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">[Wien]</rs>, <date when="1850-07">o.
+                        D. [Juli 1850]</date>
+                    <note xml:id="note_1">Das Datum ist mit Bleistift auf
+                        dem Blatt vermerkt.</note>
+                </title>
+            <title type="label">Leo Thun an Alexander Bach, [Wien], o. D. [Juli 1850]</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA51-4</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Österreichisches Staatsarchiv</institution>
+                        <repository>Allgemeines Verwaltungsarchiv</repository>
+                        <idno>Nachlass Bach, Karton 11</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun schlägt Bach einen Termin für eine Besprechung vor.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">[Wien]</settlement>
+                    <date>o.
+                        D. [Juli 1850]</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#bach-alexander">Alexander Bach</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Verwaltung</term>
+                </index>
+                <p>Lieber Bach!</p>
+                <p>Eben erhalte ich die Einladung zum heutigen Diner in <rs type="place" subtype="place" ref="#place_42ab28f20850d0a6784eb688c875d846">Schönbrunn</rs>. Könnten wir da nicht heute nach Tische zu der
+                    Besprechung bei Ihnen zusammenkommen, statt morgen wieder hinaus zu fahren!</p>
+                <p>Herzlich der Ihrige</p>
+                <p>Thun</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

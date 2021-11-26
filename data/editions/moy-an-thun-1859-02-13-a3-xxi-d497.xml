@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="moy-an-thun-1859-02-13-a3-xxi-d497.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1859-01-07-a3-xxi-d491.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/moy-an-thun-1860-01-02-a3-xxi-d544.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#moy-de-sons-ernst" role="sender:gelehrter">Ernst Moy de
+                        Sons</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</rs>, <date when-iso="1859-02-13">13. Februar 1859</date>
+                </title>
+            <title type="label">Ernst Moy de Sons an Leo Thun, Innsbruck, 13. Februar 1859</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DB12-A</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D497</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Jurist Ernst Moy de Sons bittet Leo Thun um Unterstützung in
+                            verschiedenen Angelegenheiten. Zunächst macht Moy den Minister auf einen
+                            jungen Juristen aus Vorarlberg aufmerksam, der um ein Reisestipendium
+                            angesucht hat. Moy bittet, das Stipendium für diesen, trotz des
+                            Sparzwanges, zu bewilligen. Dann empfiehlt er zwei junge Juristen für
+                            Lehrkanzeln in Österreich. Anschließend wendet sich Moy erneut der Frage
+                            der Überwachung und Leitung des Lehrkörpers zu: Moy wiederholt dabei,
+                            dass er die Wiedereinführung von Studiendirektoren ablehne. Stattdessen
+                            sollten die Kompetenzen bestehender Leitungsorgane ausgebaut werden. Dem
+                            Wunsche Kardinal Rauschers, das Kanzleramt wieder einzurichten, steht
+                            Moy hingegen offen gegenüber und betont, dass ein solches Amt – anders
+                            als das der Studiendirektoren – in Innsbruck ohne Widerstand eingeführt
+                            werden könnte.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#moy-de-sons-ernst">Ernst Moy de Sons</rs>
+                    <settlement ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</settlement>
+                    <date when-iso="1859-02-13">13. Februar 1859</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Universität Innsbruck</term>
+                    <term>Personalfragen</term>
+                    <term>Rechtswissenschaften</term>
+                    <term>Studiendirektoren</term>
+                </index>
+                <p>Euer Exzellenz</p>
+                <p>dürften sich billig wundern, daß ich mit schreiben so zudringlich bin, trotz dem,
+                    daß ich nicht weiß, ob ich damit Euer Exzellenz nicht recht unangenehm werde.
+                    Allein ich glaube eben eine Pflicht zu erfüllen, indem ich importune et
+                    opportune für das einstehe, was ich für wahr und gut halte.<lb/>Ganz nutzlos ist
+                    mein Streben für das Beste der <rs type="org" ref="#org_0020">hiesigen
+                        Universität</rs> doch nicht gewesen und Euer Exzellenz werden es nicht
+                    bereuen, die Männer, die ich empfohlen, angestellt zu haben. So wie
+                    Hochdieselben sich nachgerade überzeugt haben dürften, daß manches, wogegen ich
+                    Einwendungen erhoben, nicht die besten Früchte getragen hat.<lb/>Da ich nun die
+                    Nachbildung eines tüchtigen Lehrerstandes für eine der wichtigsten
+                    Angelegenheiten nicht nur <rs type="org" ref="#org_0020">unserer
+                        Universität</rs>, sondern der ganzen Monarchie halte, so glaube ich
+                    Euer Exzellenz besonders aufmerksam machen zu sollen auf den jungen Juristen
+                        <rs type="person" ref="#fetz-andreas">Fetz</rs> aus
+                    <rs type="place" subtype="region" ref="#place_6c26d83c5622aa697d39a9ca0aaff52b">Vorarlberg</rs>, der um ein Reisestipendium eingekommen. Er ist
+                    einer der begabtesten jungen Männer, die mir je vorgekommen, und ich halte ihn
+                    in hohem Grade der Gnade würdig, um die er gebeten. Freilich steht jetzt die
+                    gebotene Sparsamkeit seinem Gesuche entgegen, allein solche Menschen stehen
+                    einem nicht alle Tage zu Gebot und wie man im Frieden auf den Krieg, so muß man
+                    auch im Kriege auf den Frieden bedacht seyn. Wäre also auch oder käme gewiß
+                    Krieg, so dürfte man doch die Gelegenheit einer solchen Aquisition um einer an
+                    sich so unbedeutenden Ersparnis willen nicht unbenützt lassen.<lb/>Bei diesem
+                    Anlaß erlaube ich mir im Vorbeigehen zu bemerken, daß <rs type="person" ref="#tewes-heinrich-august">Dr. Tewes</rs> aus <rs type="place" subtype="place" ref="#place_bb924613631a24955ccdde82d6af5cc2">Göttingen</rs>, der hier als Privatdocent
+                    aufzutreten wünscht, mir ein in jeder Hinsicht achtungs- und empfehlungswürdiger
+                    Mensch scheint. Auch kann ich nicht umhin den Dr. <rs type="person" ref="#rossbach-johann">Roßbach</rs> in <rs type="place" subtype="place" ref="#place_fede0dd40011fa6b3771ab6c7055e1eb">Würzburg</rs> nochmals zu erwähnen, der so gerne in
+                        <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreich</rs> eine Lehrkanzel erhalten möchte, nachdem
+                        <rs type="person" ref="#lasaulx-ernst">Lasaulx’s</rs> Bemühungen, ihm in
+                    <rs type="org" ref="#org_0028">München</rs> eine zu verschaffen,
+                    gescheitert.<lb/>Eine andere Angelegenheit, die mir nicht minder wichtig als die
+                    Heranziehung tüchtiger Lehrer scheint, ist die noch in der Schwebe befindliche
+                    Frage einer zweckmäßigen Überwachung und Leitung der Lehrkörper.<lb/>Euer
+                    Exzellenz haben mir selbst Ihre Abneigung gegen das Institut der
+                    Studiendirectoren ausgesprochen. Ich gestehe, daß es mir wie ein innerer
+                    Widerspruch vorkommt, die Anstalten, die wesentlich die Förderung der
+                    Wissenschaft zum Zwecke haben, unter die Direction von praktischen Beamten zu
+                    stellen, die in der Regel in ihrer gelehrten Bildung mindestens stehen bleiben,
+                    wenn sie nicht vollends rückwärts gehen. Es liegt darin eine Geringschätzung des
+                    wissenschaftlichen Fortschrittes, die auf Lehrer und Studirende die
+                    nachtheiligsten Folgen äußert. Thatsächlich werden dadurch die Universitäten als
+                    bloße Abrichtungsanstalten für den praktischen Staatsdienst erklärt und nichts
+                    könnte dem Aufschwung des wissenschaftlichen Geistes mehr entgegen seyn. Aber
+                    ich weiß, daß man eine unmittelbare Überwachung der Lehrkörper für unerläßlich
+                    hält, weil den aus deren Mitte durch Wahl hervorgehenden Vorstehern theils nicht
+                    der Willen, theils nicht die Kraft und das Ansehen zugetraut wird, die Studien
+                    und die Disciplin in gehöriger Weise zu überwachen und zu leiten.<lb/>Ich möchte
+                    über diesen Punkt nicht rechten, obwohl ich glaube, daß sich Abhilfe treffen
+                    ließe und daß diese gerade darin läge, daß man die Universitätsämter höher
+                    stellte und ihnen mit angemessener Verantwortlichkeit mehr Gewalt und Ansehen
+                    gäbe, anstatt sie immer mehr herabzudrücken. Aber mich dünkt durch die
+                    Wiederherstellung des Canzleramtes in seiner früheren Bedeutung und so, wie es
+                    durch das Schreiben Seiner Eminenz des Cardinals <rs type="person" ref="#rauscher-joseph">Rauscher</rs> vom 18. August 1855 in Aussicht gestellt ist, ließe
+                    sich eben so wohl den Wünschen des einen Theiles genügen, wie den Besorgnissen
+                    der anderen begegnen.<lb/>Die theologische Wissenschaft erscheint heut zu Tage
+                    so sehr wieder als die Centralwissenschaft, daß der Bischof, als ihr von Gott
+                    gesetzter Vertreter und Wächter, wohl überall als der Würdigste sich darstellt,
+                    dem man die Überwachung und Leitung der zur Pflege der Gesammtwissenschaft
+                    bestehenden Anstalten anvertrauen könne und sein mehr auf geistige als
+                    materielle Gewalt gegründetes Ansehen setzt ihn in den Stand, dieses Amt mit
+                    allem Nachdruck zu handhaben, ohne der zum wissenschaftlichen Aufschwung
+                    unerläßlichen Freiheit zu nahe zu treten.<lb/>Soll überhaupt jene Verheißung des
+                    Cardinal <rs type="person" ref="#rauscher-joseph">Rauscher</rs> in Erfüllung gehen,
+                    so ist gewiß die <rs type="org" ref="#org_0028">hiesige
+                        Universität</rs> diejenige, wo es am leichtesten geschehen kann und wo
+                    die Sache sogar von den entgegengesetztesten Standpunkten aus Billigung finden
+                    würde. Unter den Canzler wird sich hier die Mehrzahl zwar fügen, unter einen
+                    Studiendirector keiner, am wenigsten ich, das gesteh' ich.<lb/>Entschuldigen
+                    Euer Exzellenz meinen Freimuth und genehmigen Hochdieselben den Ausdruck der
+                    tiefen Verehrung, womit ich verharre</p>
+                <p>Euer Exzellenz</p>
+                <p>unterthäniger Diener<lb/>Frhr. v. Moy</p>
+                <p>Innsbruck, den 13. Februar 1859</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

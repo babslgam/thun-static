@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="wilhelm-an-thun-1855-09-15-a3-xxi-d348a.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/wilhelm-an-kink-1855-09-15-a3-xxi-d348b.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/winaricky-an-thun-1860-07-08-a3-xxi-d596.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#wilhelm-andreas" role="sender:beamter">Andreas
+                        Wilhelm</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_4ff55ec41ee84a7b7a80b0b7734e5a6b">Krakau</rs>, <date when-iso="1855-09-15">15. September 1855</date>
+                </title>
+            <title type="label">Andreas Wilhelm an Leo Thun, Krakau, 15. September 1855</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-D9A0-B</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D348</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Schulrat Andreas Wilhelm berichtet Leo Thun, dass die in einem anonymen
+                            Schreiben dargestellte Situation am Teschener Gymnasium großteils der
+                            Realität entspreche. Viele der angeprangerten Taten seien zudem
+                            Stadtgespräch und blieben daher auch den Schülern nicht verborgen, so
+                            dass der moralische Einfluss der Lehrer auf die Schüler ein
+                            zweifelhafter sein müsse. Der verstorbene Fürstbischof Diepenbrock hatte
+                            zudem einige der Vergehen untersuchen lassen, ohne dass jedoch die
+                            Missstände behoben werden konnten. Ausführlicher geht Wilhelm auf die
+                            Affären des geistlichen Schuldirektors Philipp Gabriel und die
+                            schlechten Eigenschaften des bischöflichen Kommissärs Joseph Paduch ein.
+                            Wilhelm empfiehlt, den Direktor der Schule ehest möglich zu versetzen.
+                            Er will die Lage an der Schule weiter beobachten und Thun darüber
+                            informieren.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Der Brief ist gemeinsam mit weiteren Briefen, die dieselbe Thematik
+                            betreffen, abgelegt:<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/foerster-an-thun-1855-09-15-a3-xxi-d348.xml">Heinrich Förster an Leo Thun. Schloss Johannesberg, 10. September
+                                1855</ref>.<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/wilhelm-an-kink-1855-09-15-a3-xxi-d348b.xml">Andreas Wilhelm an Rudolph Kink. Krakau, 15. September 1855
+                                </ref>.<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/foerster-an-thun-1855-10-11-a3-xxi-d348c.xml">Heinrich Förster an Leo Thun. Schloss Johannesberg, 11. Oktober
+                                1855</ref>.<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/foerster-an-thun-1855-11-04-a3-xxi-d348d.xml">Heinrich Förster an Leo Thun. Breslau, 4. November 1855</ref>.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#wilhelm-andreas">Andreas Wilhelm</rs>
+                    <settlement ref="#place_4ff55ec41ee84a7b7a80b0b7734e5a6b">Krakau</settlement>
+                    <date when-iso="1855-09-15">15. September 1855</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Gymnasien</term>
+                    <term>Schulräte</term>
+                </index>
+                <p>Eure Excellenz!</p>
+                <p>Dem durch den Herrn Ministerialsecretär <rs type="person" ref="#kink-rudolph">Rudolf
+                        Kink</rs> erhaltenen hohen Auftrage entsprechend habe ich über das die
+                    sittlichen Verhältnisse in Teschen betreffende anonyme Schreiben<note xml:id="note_1">Das anonyme Schreiben findet sich als Beilage zum Brief von
+                            <ref target="thun/thun-korrespondenz/tetschen/wilhelm-an-kink-1855-09-15-a3-xxi-d348b.xml">Andreas Wilhelm an Rudolph Kink. Krakau, 15. September 1855
+                        </ref>.</note>, das ich gleichzeitig an den Herrn Ministerialsecretär
+                    zurückstelle, nachstehendes in Gehorsam zu berichten.<lb/>Alle Angaben in dem
+                    Schreiben sind mir teils als wahr teils als Stadtgerede bekannt.<lb/>Was über
+                        <rs type="person" ref="#janota-eugeniusz">Janota</rs> angeführt wird, ist
+                    richtig. In <rs type="place" subtype="place" ref="#place_4ff55ec41ee84a7b7a80b0b7734e5a6b">Krakau</rs> ist mir über ihn bisher nichts
+                    nachteiliges bekannt geworden.<lb/>Das Gerede über <rs type="person" ref="#danel-franz">Danel</rs> scheint auf einen geringen Kreis beschränkt geblieben zu
+                    sein; nach seiner Aufnahme in das philologische Seminar und seit seiner Rückkehr
+                    war nichts mehr zu hören.<lb/>Daß der Vorfall mit <rs type="person" ref="#bitta-josef">Bitta</rs> sich zugetragen habe, wurde vor ungefähr 2 ½ Jahren nicht
+                    nur in <rs type="place" subtype="place" ref="#place_a711b0a299433d08b5b1118edfa2808a">Teschen</rs> offen und mit allgemeiner Entrüstung,
+                    sondern selbst in <rs type="place" subtype="place" ref="#place_d4ec090cfd48a471d8eadbce16f43c0c">Troppau</rs> erzählt. Es hieß auch, der
+                        <rs type="person" ref="#diepenbrock-melchior">selige Cardinal</rs> habe eine
+                    Untersuchung deswegen angeordnet; aber man habe die Sache zu begleichen gewußt.
+                    Seitdem verlautete nichts über <rs type="person" ref="#bitta-josef">Bitta</rs>;
+                    aber vergessen ist das Geschehene noch nicht; denn die Erinnerung daran, so wie
+                    an ähnliche Vorfälle oder Beschuldigungen in betreff anderer Personen, die sich
+                    nicht rein zu erhalten wußten, wird bei gewissen Anläßen wieder wach gerufen.
+                    Solche Anläße ergaben sich im Schuljahre 1855, da der bischöfliche Commissär
+                        <rs type="person" ref="#paduch-joseph">Josef Paduch</rs>, so viel mir zu Gehör
+                    kam, zweimal in die Lage versetzt wurde, in der von dem Schreiben bezeichneten
+                    Richtung drohende Klagen durch Geld beschwichtigen zu müssen.<lb/>
+                    <rs type="person" ref="#gabriel-philipp">Gabriel</rs> hatte der Person, von der man in
+                        <rs type="place" subtype="place" ref="#place_a711b0a299433d08b5b1118edfa2808a">Teschen</rs> so spricht, wie das Schreiben andeutet,
+                    anfangs ihre Wohnung neben der seinigen im ersten Stocke angewiesen. Man
+                    erzählte mir, er habe in ihrer Begleitung in den besseren Häusern Besuche
+                    gemacht und sich dann übel darüber geäußert, daß ihm die Besuche nur von den
+                    Männern, nicht auch von den Frauen derselben erwidert wurden. Auch habe sie sich
+                    an einigen Orten Frau Directorin titulieren lassen. Seit ungefähr 3 Jahren wohnt
+                    sie im Erdgeschoße; man sagt, Gabriel habe ihr dort ihre Wohnung deswegen
+                    angewiesen, weil ihm zu Gehör gekommen sei, daß die Bürger von Teschen über sein
+                    nahes Verhältnis mit ihr misliebige Äußerungen hätten laut werden lassen. Vor
+                    mir erwähnte er nur einmal so viel, daß er eine weibliche Person zur Führung der
+                    Hauswirtschaft nicht entbehren könne, so gern er jeden Schein vermeiden möchte,
+                    der Misdeutung zulasse.<lb/>Daß das Gerede über alle genannten Personen seinen
+                    Grund habe, davon bin ich bei mir selbst überzeugt; beweisen aber könnte ich es
+                    nicht.<lb/>Der Jugend können die offenkundigen Erscheinungen natürlich nicht
+                    verborgen bleiben; ja sie kennt die Verhältnisse viel genauer als das Gerede
+                    dieselben bezeichnet, und man darf sicher sein, daß moralische Gebrechen ihrer
+                    Lehrer, wenn auch geheim gehalten, ihr selten entgehen. Man will einige Male die
+                    Namen <rs type="person" ref="#gabriel-philipp">Gabriel</rs> und Sniehota neben einander an den Wänden im
+                    Schulgebäude geschrieben gefunden haben.<lb/>In dem äußeren Verhalten der Jugend
+                    ist nichts tadelnswertes wahrzunehmen; ob aber echt religiöser Sinn unter
+                    solchen Verhältnissen sich rein und unverdorben erhalten könne, und dem äußeren
+                    Verhalten überall das Innere entspricht, möchte wol zu bezweifeln sein.<lb/>Von
+                    dem Dechant <rs type="person" ref="#paduch-joseph">Paduch</rs> ist es gewiß, daß
+                    sein Ruf ihn für das ihm in Bezug auf das Gymnasium übertragene Amt nicht
+                    geeignet erscheinen läßt. Auch heißt es, er komme in das Gymnasium nur, um zu
+                    schlafen; wie er denn auch einmal in der Mädchenschule neben mir auf seinem
+                    Stuhle eingeschlafen war.<lb/>An dem bisherigen Einfluße der Geistlichkeit auf
+                    das katholische Gymnasium in Teschen ist überhaupt so viel bekannt: daß sie sich
+                    auf denselben viel zu gute thut, ihre Thätigkeit bei dem Herrn Bischofe
+                    möglichst in das beste Licht setzt und dabei nicht versäumt, auch die
+                    Notwendigkeit der Besetzung des ganzen Gymnasiums mit geistlichen Lehrern aus
+                    religiösen Rücksichten hinzuweisen; daß aber ihre Thätigkeit meist auf äußeren
+                    Schein abzielt.<lb/>Wenn ich nun auch in Betreff der nächsten Zukunft des
+                    Gymnasiums meine Ansicht aussprechen darf, so wäre es diese: daß ich meine,
+                        <rs type="person" ref="#gabriel-philipp">Gabriel</rs> wäre bei Gelegenheit an
+                    ein anderes Gymnasium zu versetzen, auch deswegen, weil er unter den
+                    Verhältnissen in <rs type="place" subtype="place" ref="#place_a711b0a299433d08b5b1118edfa2808a">Teschen</rs> kaum je der Versuchung wird
+                    widerstehen können, für seine persönlichen Zwecke bei dem <rs type="person" ref="#foerster-heinrich">Herrn Bischofe</rs> und dessen <rs type="person" ref="#helm-anton">Generalvicar</rs> in einer Weise thätig zu sein,
+                    welche für das Gymnasium nicht heilsam ist. Im Laufe des Schuljahres 1856 würde
+                    sich vielleicht, zugleich mit Rücksicht auf die Oberleitung des Chelesta’schen
+                    Convictes, ein Nachfolger für ihn finden lassen.<lb/>Ob auch <rs type="person" ref="#bitta-josef">Bitta</rs> zu versetzen wäre, wage ich nicht zu
+                    sagen. Sein Ruf hat jedenfalls gelitten; ich werde mir bei der nächsten
+                    Visitation vorsichtige Nachforschung angelegen sein lassen, und Eurer Excellenz
+                    das Resultat zu berichten nicht verabsäumen; so wie ich bei meiner nächsten
+                    Anwesenheit in <rs type="place" subtype="place" ref="#place_d4ec090cfd48a471d8eadbce16f43c0c">Troppau</rs> dem <rs type="person" ref="#halbhuber-von-festwill-anton">Herrn Landespräsidenten</rs> den
+                    Wunsch Eurer Excellenz in Betreff von seiner Seite zu machender Mitteilungen
+                    kund zu thun nicht unterlassen werde.<lb/>Ich geharre mit dem Ausdrucke der
+                    tiefsten Verehrung</p>
+                <p>Eurer Excellenz unterthänigster Diener<lb/>Andreas Wilhelm</p>
+                <p>Krakau 15. September 1855</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

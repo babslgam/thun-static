@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="schmidt-an-thun-1859-04-04-a3-xxi-d501.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/schmarda-an-thun-1854-12-15-a3-xxi-d309.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/schmidt-an-thun-1860-11-01-a3-xxi-d623a22.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#schmidt-oscar" role="sender:gelehrter">Oscar
+                        Schmidt</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_6e00929feb7fb02acaa548f47f67c61c">Graz</rs>, <date when-iso="1859-04-04">4. April 1859</date>
+                </title>
+            <title type="label">Oscar Schmidt an Leo Thun, Graz, 4. April 1859</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA98-4</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D501</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Oscar Schmidt, Professor für Zoologie und vergleichende Anatomie, ersucht
+                            Leo Thun, die Abgabe von Präparaten aus dem Museum für vergleichende
+                            Anatomie in Wien an die Universität Graz zu bewilligen. Schmidt erklärt,
+                            dass er im kommenden Semester eine Vorlesung zur vergleichenden Anatomie
+                            plane und hierzu eine anatomische Sammlung, welche an der Universität
+                            Graz nicht vorhanden sei, benötige. Daher hatte er sich an Josef Hyrtl
+                            in Wien gewandt, der die Abgabe von Präparat-Dubletten aus seinem Museum
+                            zugesichert habe. Schmidt bittet daher den Minister, diesen Plan zu
+                            genehmigen. Außerdem beantragt er ein Reisestipendium, um in Wien die
+                            geeigneten Präparate auswählen zu können.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#schmidt-oscar">Oscar Schmidt</rs>
+                    <settlement ref="#place_6e00929feb7fb02acaa548f47f67c61c">Graz</settlement>
+                    <date when-iso="1859-04-04">4. April 1859</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Universität Graz</term>
+                    <term>Medizin</term>
+                    <term>Anatomie</term>
+                </index>
+                <p>Hochgeborner Herr Graf.<lb/>Euer Excellenz.</p>
+                <p>Euer Excellenz habe ich folgendes unterthänige Gesuch, die Vorlesungen über
+                    vergleichende Anatomie und die hier zu nothwendigen Sammlungen an der <rs type="org" ref="#org_0026">Gratzer Universität</rs> betreffend,
+                    ehrerbietigst vorzutragen.<lb/>Nachdem ich für das nächste Sommersemester
+                    Vorlesungen über vergleichende Anatomie an <rs type="org" ref="#org_0026">hiesiger Universität</rs> angekündigt, und sich schon vorläufig eine,
+                    wenn auch geringe Anzahl von Zuhörern dazu gemeldet hat, bei den bisherigen
+                    Anschaffungen aber auf diese Disciplin die Fürsorge noch nicht hat gerichtet
+                    werden können, habe ich meinen Freund, Herrn Professor und Regierungsrath
+                        <rs type="person" ref="#hyrtl-josef">Hyrtl</rs>, gefragt, ob er aus dem
+                    Doublettenvorrathe der <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wiener</rs>
+                    vergleichend-anatomischen Sammlung geeignete Präparate abgeben könne.<lb/>Herr
+                    Professor <rs type="person" ref="#hyrtl-josef">Hyrtl</rs> hat sogleich seine
+                    Bereitwilligkeit dazu gegen mich brieflich ausgesprochen und mich aufgefordert,
+                    das <rs type="org" ref="#org_0005">Hohe k.k.
+                        Ministerium</rs> darum anzugehen, ihm die Ermächtigung zu ertheilen,
+                    den hiesigen Bedürfnissen nach Möglichkeit abzuhelfen.<lb/>Euer Excellenz
+                    ersuche ich demnach unterthänigst, <hi rend="ul">dem Herrn Regierungsrathe Dr.
+                            <rs type="person" ref="#hyrtl-josef">Hyrtl</rs> die Ermächtigung zu
+                        ertheilen, Doubletten des vergleichend-anatomischen Museums zu
+                            <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> zu Unterrichtszwecken an das zoologische
+                        Museum der <rs type="org" ref="#org_0026">Universität zu Gratz</rs>
+                        in meine Hände abzugeben</hi>.<lb/>Zur Verständigung über die Auswahl der
+                    Doubletten, so wie um für die Verpackung Sorge zu tragen, dürfte eine mehrtägige
+                    Anwesenheit des gehorsamst Unterzeichneten in <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>
+                    unumgänglich nöthig sein. Hierzu ersuche ich Euer Excellenz, mir die Reisespesen
+                    nebst Diäten auf fünf Tage oder ein Pauschale von etwa sechzig Gulden zu
+                    gewähren.</p>
+                <p>Gratz, am 4. April 1859</p>
+                <p>Dr. Oscar Schmidt<lb/>k.k. Professor der Zoologie und vergleichenden Anatomie</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

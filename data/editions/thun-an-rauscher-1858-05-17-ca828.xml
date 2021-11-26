@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-rauscher-1858-05-17-ca828.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-rauscher-1853-05-16-ca781.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-rechberg-1855-12-26-ca910.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#rauscher-joseph" role="recipient:kleriker">Joseph Othmar
+                        Rauscher</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1858-05-17">17. Mai 1858</date>
+                </title>
+            <title type="label">Leo Thun an Joseph Othmar Rauscher, Wien, 17. Mai 1858</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-D9F9-8</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Diözesanarchiv Wien</institution>
+                        <idno>Präsidialia, Fasz. H5, Theologische Studien, Professur der Theologie
+                            1848–1886</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Leo Thun bittet Kardinal Joseph Othmar Rauscher um eine Stellungnahme zur
+                            Besetzung der Lehrkanzel für Kirchengeschichte an der Universität Wien.
+                            Die Lehrkanzel ist durch die Berufung von Joseph Fessler auf die
+                            Lehrkanzel des Kirchenrechts derzeit nicht besetzt. Thun hat derzeit
+                            einen Kandidaten im Auge, nämlich Joseph Floß. Dieser lehrt an der
+                            Universität Bonn und erfreut sich eines hervorragenden Rufs. Leo Thun
+                            möchte vor der Ernennung eines Kandidaten jedoch die Zustimmung von
+                            Kardinal Rauscher einholen.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Der Brief ist kein Autograph von Leo Thun.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when-iso="1858-05-17">17. Mai 1858</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#rauscher-joseph">Joseph Othmar Rauscher</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Konkordat</term>
+                    <term>Universität Wien</term>
+                    <term>Kirchengeschichte</term>
+                </index>
+                <p>623/CUM</p>
+                <p>Hochwürdigster Cardinal und Fürsterzbischof!</p>
+                <p>Durch die Bestellung des k.k. Hofkaplans und Studiendirektors im höheren <rs type="org" ref="#org_0090">Priesterbildungs-Institute zum hl. Augustin</rs>,
+                        <rs type="person" ref="#fessler-joseph">Dr. Josef Feßler</rs> zum ordentlichen
+                    Professor des Kirchenrechtes an der hierortigen theologischen Fakultät, ist bei
+                    dieser Fakultät die Lehrkanzel der Kirchengeschichte in Erledigung gekommen.
+                    Behufs der Wiederbesetzung dieser Lehrkanzel, welche für den Unterricht der
+                    Priesterstands-Kandidaten in dem erwähnten Lehrzweige bestimmt ist, muß ich mich
+                    im Sinne der mit Allerhöchster Entschließung vom 8. März 1858 genehmigten
+                    Verordnung vom 29. März 1858 vor Allem darüber in’s Klare setzen, ob Eure
+                    Eminenz die Berufung eines Mannes wünschen, welcher seine Befähigung bereits
+                    durch Leistungen im Lehrfache oder als Schriftsteller hinreichend bewährt hat.
+                    Ohne der erleuchteten diesfälligen Wahl Eurer Eminenz vorgreifen zu wollen, kann
+                    ich doch nicht unbemerkt lassen, daß meine Aufmerksamkeit auf den an der
+                    <rs type="org" ref="#org_0040">Universität zu Bonn</rs> in Verwendung
+                    stehenden Professor der Kirchengeschichte, <rs type="person" ref="#floss-joseph">Dr.
+                        Floß</rs> gelenkt worden ist, welcher durch mehrere von ihm
+                    veröffentlichte Druckschriften in der literarischen Welt eines vortheilhaften
+                    Rufes sich erfreut und mir als ein Mann empfohlen wird, der ein reichliches Maß
+                    kirchengeschichtlicher Kenntnisse besitzt und zugleich sich eignen dürfte, das
+                    Fach der Kirchengeschichte mit Erfolg von jenem Standpunkte zu behandeln,
+                    welcher diesem Gegenstand durch den von der bischöflichen Versammlung des Jahres
+                    1856 festgestellten Lehrplan angewiesen erscheint. Sollten Eure Eminenz sich für
+                    die Besetzung der hierortigen Lehrkanzel der Kirchengeschichte im Wege der
+                    Berufung entscheiden, und zu diesem Ende den genannten Bonn’er
+                    Universitätsprofessor berücksichtigt wünschen, so wolle es gefällig sein, mir
+                    hierüber nach Anhörung des theologischen Lehrkörpers die Mittheilung zu machen
+                    und mich dadurch in die Lage zu setzen, das diesfalls weiter Erforderliche
+                    einzuleiten.<lb/>Ich habe die Ehre mit ausgezeichnetster Hochachtung zu
+                    verharren</p>
+                <p>Eurer Eminenz<lb/>ergebenster Diener<lb/>Thun</p>
+                <p>Wien am 17. Mai 1858</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

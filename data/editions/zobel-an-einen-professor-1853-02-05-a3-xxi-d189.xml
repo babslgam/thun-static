@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="zobel-an-einen-professor-1853-02-05-a3-xxi-d189.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/zirkular-thuns-an-referenten-und-vorsteher-der-hilfsaemter-unterrichtsministerium-1852-02-12-a3-xxi-d179.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/zusammenstellung-rechtstexte-sprachenfrage-ungarn-od-a3-xxi-d625g.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#zobel-johann" role="sender:gelehrter">Johann Baptist
+                        Zobel</rs> an einen Professor<lb/>
+                    <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs>, <date when-iso="1853-02-05">5. Februar 1853</date>
+                </title>
+            <title type="label">Johann Baptist Zobel an einen Professor, Prag, 5. Februar 1853</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-D985-A</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D189</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Botaniker Johann Zobel wendet sich mit der Bitte an einen
+                            befreundeten, nicht näher genannten Professor, dieser möge ihn bei Leo
+                            Thun empfehlen. Zobel hat sich nämlich für die Lehrkanzel der
+                            Naturwissenschaften am akademischen Gymnasium in Wien beworben. Da er
+                            bereits im vorigen Jahr mehrfach mit seinen Bewerbungen für eine Stelle
+                            als Professor der Vorbereitungswissenschaften gescheitert war, möchte er
+                            es nun auf diesem Weg versuchen. Zobel betont, dass er den Minister
+                            bereits mehrfach getroffen habe, er vermutet aber, dass Thun sich nicht
+                            mehr an ihn erinnern werde. Im zweiten Teil des Briefes schreibt Zobel,
+                            dass er vor kurzem den Nachlass des Botanikers Karl Presl schätzen
+                            musste, welcher zahlreiche botanische Schätze berge. Schließlich
+                            berichtet er von der schwierigen Situation an der Universität Prag, wo
+                            derzeit ein Streit zwischen der medizinischen und der philosophischen
+                            Fakultät herrsche, welche der beiden Fakultäten die
+                            naturwissenschaftlichen Vorlesungen anbieten solle. Am Ende teilt er dem
+                            Professor mit, dass seine Mutter an einer Lungenentzündung gestorben
+                            ist.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#zobel-johann">Johann Baptist Zobel</rs>
+                    <settlement ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</settlement>
+                    <date when-iso="1853-02-05">5. Februar 1853</date>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Personalvermittlung</term>
+                    <term>Gymnasien</term>
+                    <term>Naturwissenschaften</term>
+                    <term>Botanik</term>
+                    <term>Universität Prag</term>
+                    <term>Philosophische Fakultät</term>
+                    <term>Medizinische Fakultät</term>
+                </index>
+                <p>Verehrtester Herr Professor!</p>
+                <p>Daß ich Sie mit einem Schreiben belästige, geschieht aus rein – egoistischen
+                    Absichten. Sie werden denken: Nun! Der Anfang klingt schön! Wohl! Was hälfe es
+                    aber auch, wenn ich meine Tendenz mehr verblümt vorbringen wollte, Sie würden
+                    und müßten denn doch endlich hinter der langen Rede kurzen Sinn kommen. Also:
+                    Ich bin vorige Woche bei den niederöstreichischen Landesschulbehörden um die am
+                    <rs type="org" ref="#org_0078">k.k. akademischen
+                        Gymnasium</rs> erledigte Lehrkanzel der Naturwissenschaften
+                    eingeschritten; da mir die medicinische Praxis täglich mehr zuwider wird, und
+                    ich sie deshalb ganz bei Seite legen und mich wieder con amore der Scientia
+                    amabilis et Compagnie hingeben will.<lb/>Im Vertrauen auf Ihre mir oft bewiesene
+                    freundschaftliche Zuneigung wage ich deshalb an Sie die gewaltige Bitte – wenn
+                    Sie natürlich in der Lage seyn sollten, es thun zu können – für mich bei Seiner
+                    Excellenz dem <rs type="person" ref="#thun-hohenstein-leo">Herrn
+                        Unterrichtsminister</rs> in dieser Beziehung ein empfehlendes Wort zu
+                    verlieren oder vielmehr nicht zu verlieren, sondern anzubringen. Ich sehe mich
+                    zwar außerstande, Ihnen einen Gegendienst anzubiethen, doch kann ich mich si
+                    parva licet componere magnis mit dem englischen Finanzministerium trösten, das
+                    auch Schulden auf Schulden häuft, ohne doch die Hoffnung zu verlieren, sie
+                    einstens bezahlen zu können. <rs type="person" ref="#thun-hohenstein-leo">Seine
+                        Excellenz</rs> hatten mich wohl in <rs type="place" subtype="place" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prag</rs>
+                    persönlich gekannt, war auch früher selbst mehrmals bei mir, um sich mit mir
+                    wegen einer irrsinnig gewordenen Gouvernante, die der Pflege der Barmherzigen
+                    Schwestern anvertraut werden sollte, zu berathen – doch kann ich jetzt wohl
+                    nicht mehr vermuthen, daß der <rs type="person" ref="#thun-hohenstein-leo">Herr
+                        Graf</rs> sich meiner noch erinnern dürfte. Ich bin vorigen Jahres um
+                    eine der erledigten Lehrkanzeln der chirurgischen Vorbereitungswissenschaften –
+                        <rs type="place" subtype="place" ref="#place_6e00929feb7fb02acaa548f47f67c61c">Graz</rs>, <rs type="place" subtype="place" ref="#place_f2646aa02d03ac5a141ef404d919cd11">Salzburg</rs>,
+                        <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> – eingeschritten, ohne Erfolg! Ich bescheide
+                    mich gerne, daß meine Fähigkeiten dafür zu ungenügend seyen, aber für ein
+                    Gymnasium glaube ich denn doch, wenn mich nicht alles täuscht, nicht ganz und
+                    gar zu unwissend zu seyn. ??<lb/>In der Hoffnung, daß mein Anliegen Ihre heitere
+                    Laune nicht trübe, breche ich dann ab, um Ihnen ein paar naturhistorische
+                    Curiosa mitzutheilen:<lb/>Erstens: bin ich jetzt an <rs type="person" ref="#presl-jan-swatopluk">Johann S[watopluk] Presls</rs> Stelle,
+                    beeideter Sachverständiger im naturhistorischen Fache und hatte als solcher auch
+                    schon bei der Abschätzung des Nachlasses von <rs type="person" ref="#presl-karl-boriwog">Karl B[oriwog] Presl</rs> zu fungiren. Da dessen Herbar kaum zur
+                    Hälfte geordnet und gar nicht katalogisirt war, so mußte ich mir die Mühe
+                    nehmen, es genauer durchzusehen, als sonst wohl nöthig gewesen wäre, und somit
+                    bin ich denn der 1. Europäer, der eine Einsicht und noch dazu eine ämtliche, in
+                    diese Mysterien nehmen durfte.<lb/>Das Ganze wäre fürs <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wiener</rs> Museum keine üble Acquisition, die Farnenkräuter –
+                    geordnet – bilden den Glanzpunkt! Circa 2.900 Species!<lb/>Zweitens: Sind die
+                    Naturwissenschaften jetzt zu einem Zankapfel unserer medicinischen und
+                    philosophischen Facultäten geworden! Ein Streit, der mir zwar ganz fremd, doch
+                    zu einem unliebsamen Dilemma für mich führt: die medizinische Facultät hält
+                    nämlich <hi rend="ul">ganzjährige</hi> Vorträge über <hi rend="ul">jeden
+                        Zweig</hi> der Naturwissenschaften für Mediciner für zu ausgedehnt, umso
+                    mehr, da die Anatomie selbst von jeher durch ein ganzes Jahr vorgetragen wurde
+                    und der Mediciner also in einem Jahre 4 zweisemestrige Vorlesungen hören müßte.
+                    Die philosophische Facultät will ½-jährige Vorträge zwar für Mediciner geben,
+                    aber sie zugleich geradezu als "unwissenschaftliche" ankündigen. Die
+                    medicinische Facultät will nun den Philosophen Schach biethend, sich auf einen
+                    Ministerialerlaß stützend, diese Vorträge aus eigener Mitte bestreiten!
+                        <rs type="person" ref="#bochaldek-vincent">Prof. Bochdalek</rs> soll Zoologie,
+                    ich Botanik und solange sich niemand sonst findet auch Mineralogie für Mediziner
+                    vortragen!<lb/>An und für sich ist diese Zumuthung für mich zwar ehrenvoll, aber
+                    da bei den Herrn Philosophen die <hi rend="ul">Collegiengelder</hi> mit im
+                    Spiele sind, so dürfte, obwohl ich diese Collegien „<hi rend="ul">unentgeldlich</hi>“ beantragen werde, denn doch daraus leicht ein
+                    Zerwürfnis des freundschaftlichen Verhältnisses zwischen mir und <rs type="person" ref="#reuss-august">Reuß</rs> oder <rs type="person" ref="#kosteletzky-vinzenz">Kosteletzky</rs> angebahnt werden.<lb/>Daß Sie selbst, Verehrter,
+                    wohl auf sind, hat mir Freund <rs type="person" ref="#reuss-august">Reuß</rs>
+                    überbracht, auf Hämorrhoidalschwindel werden Sie wohl ebenso wenig Gewicht legen
+                    wie auf alle anderen Schwindeleyen. Ich hoffe auch, daß die gnädige Frau und
+                    Ihre Familie sich wohl befinden, und wünsche, daß Ihnen allen das neue Jahr
+                    angenehmer und glücklicher verlaufe, als es uns vom Geschicke bestimmt
+                    war!<lb/>Unsere liebe Mutter starb an einer wiederholten Lungenentzündung am 11.
+                    Jänner! Ein Verlust, der mich gewaltig erschütterte. Sie war freilich schon im
+                    75. Jahre, aber bei ihrer Constitution und bei dem Umstande, daß sie schon
+                    vorigen Jahres eine Lungenentzündung glücklich überstanden hatte, hoffte ich sie
+                    auch diesmal, wo die Lungenentzündung epidemisch herrschte, zu retten und noch
+                    auf einige Jahre zu erhalten! Aber Freund <rs type="person" ref="#jaksch-anton">Jakschs</rs> und <rs type="person" ref="#loeschner-josef">Loschners</rs>
+                    Bemühungen waren fruchtlos! Über den Sternen war es anders beschlossen! Und so
+                    sind denn jetzt die Häupter meiner Lieben bald gezählt!<lb/>Meinen Handkuß an
+                    die gnädige Frau und meine Empfehlung an Ihre werthe Familie</p>
+                <p>Ihr alter<lb/>J. Zobel</p>
+                <p>P[rag], 5.2.[18]53</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

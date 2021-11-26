@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="strobach-an-thun-1860-10-24-a3-xxi-d623a11.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/stlaukal-an-thun-1853-04-16-a3-xxi-d200.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/strossmayer-an-thun-1854-09-17-a3-xxi-d268.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#strobach-friedrich" role="sender:beamter">Friedrich
+                        Strobach</rs>, <rs type="person" ref="#stifter-adalbert" role="sender:beamter">Adalbert Stifter</rs> und <rs type="person" ref="#kurz-johann" role="sender:beamter">Johann Kurz</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_907e6aad95b11593946e28f6e29860aa">Linz</rs>, <date when-iso="1860-10-24">24. Oktober 1860</date>
+                </title>
+            <title type="label">Friedrich Strobach, Adalbert Stifter und Johann Kurz an Leo Thun, Linz, 24. Oktober 1860</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA66-D</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D623a</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Die Schulräte Adalbert Stifter und Johann Kurz sowie der Studienreferent
+                            Friedrich Strobach bedanken sich bei Leo Thun für dessen Wirken als
+                            Unterrichtsminister. Sie bedauern dessen Rücktritt sehr, zumal während
+                            Thuns Amtszeit bedeutendes für das Unterrichtswesen in Österreich
+                            geleistet worden sei. Sie hoffen, dass das Erreichte die bevorstehenden
+                            turbulenten Zeiten überstehen wird.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Das Schreiben befindet sich im Nachlass gemeinsam mit 39 weiteren
+                            Dankadressen unter der Signatur A3 XXI D623a.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#strobach-friedrich">Friedrich Strobach</rs>
+                    <rs type="person" ref="#stifter-adalbert">Adalbert Stifter</rs>
+                    <rs type="person" ref="#kurz-johann">Johann Kurz</rs>
+                    <settlement ref="#place_907e6aad95b11593946e28f6e29860aa">Linz</settlement>
+                    <date when-iso="1860-10-24">24. Oktober 1860</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Ministerium für Kultus und Unterricht</term>
+                    <term>Entlassung Thuns</term>
+                </index>
+                <p>Linz, den 24. Oktober 1860</p>
+                <p>Euere Excellenz!</p>
+                <p>In dem Augenblicke, wo Euere Excellenz von der in der Geschichte des
+                    Unterrichtswesens <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</rs> Epoche
+                    machenden Leitung des <rs type="org" ref="#org_0005">Unterrichtsministeriums</rs> abtreten, drängt es die Gefertigten, den
+                    tiefgefühlten Dank für die Huld auszusprechen, welche Euere Excellenz ihnen seit
+                    einer Reihe von Jahren ununterbrochen zu widmen die Gnade hatten, und wofür die
+                    Gefertigten keine andere Erwiderung fanden, als die gewissenhafte Erfüllung der
+                    von Euerer Excellenz ihnen klar vorgezeichneten Pflichten und die treue
+                    Anhänglichkeit an die verehrte Person Euerer Excellenz. Wenn sich mit dem Danke,
+                    den wir hier niederzulegen uns erlauben, ein Gefühl lebhaften Schmerzes und der
+                    Trauer mischt, so gilt dies Gefühl dem Scheiden eines Mannes, der dem
+                    Unterrichtswesen <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Oesterreichs</rs> zu seinem
+                    jetzigen hohen Standpunkte verholfen, der seinen Untergebenen stets ein
+                    leuchtendes Beispiel redlichen Eifers und ehrenhafter Gesinnung war. Möge das
+                    von Euerer Excellenz geschaffene, mit Erfolg gekrönte Unterrichtssystem auch die
+                    jetzige, so bewegte Zeit überdauern, und möge Euerer Excellenz für Ihr ganzes
+                    Leben die Genugthuung gewährt sein, sich an dessen Früchten zu erfreuen.<lb/>Den
+                    Gefertigten gestatten aber Euere Excellenz die Versicherung unbegrenzter
+                    dankbarer Verehrung und nie verlöschender persönlicher Anhänglichkeit, mit
+                    welcher sie zeichnen als Euer Hochgeboren</p>
+                <p>treuergebene Diener<lb/>Friedr. Strobach<lb/>Adalbert Stifter<lb/>Johann
+                    Kurz<lb/>
+                </p>
+            </div>
+        </body>
+        
+    </text>
+</TEI>

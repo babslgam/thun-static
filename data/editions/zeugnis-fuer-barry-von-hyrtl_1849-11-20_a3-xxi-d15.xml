@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="zeugnis-fuer-barry-von-hyrtl_1849-11-20_a3-xxi-d15.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Zeugnis für <rs type="person" ref="#barry-martin" key="barry-martin">Martin Barry</rs> ausgestellt
+                    von <rs type="person" ref="#hyrtl-josef" key="hyrtl-josef">Josef
+                        Hyrtl</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1849-11-20">20. November 1849</date>
+                </title>
+            <title type="label">Zeugnis für Martin Barry ausgestellt von Josef Hyrtl, Wien, 20. November 1849</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p/>
+            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000D-F7EB-4</tei:idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D15</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Arzt und Professor Josef Hyrtl bestätigt in dem Zeugnis die
+                            wissenschaftlichen Leistungen des Mediziners Martin Barry. Hyrtl betont,
+                            dass die Forschungen Barrys auf dem Gebiet der Mikroskopie ausgezeichnet
+                            und für die Entwicklung der Wissenschaft äußerst wertvoll seien. Hyrtl
+                            schließt sich damit der allgemeinen Meinung der Physiologen Deutschlands
+                            an. Hyrtl würde es begrüßen, wenn Barry einen physiologischen Lehrstühl
+                            erhielte.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Druck.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Medizin</term>
+                    <term>Physiologie</term>
+                </index>
+                <p>
+                    <hi rend="italic">Dieser Druck wurde nicht transkribiert.</hi>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

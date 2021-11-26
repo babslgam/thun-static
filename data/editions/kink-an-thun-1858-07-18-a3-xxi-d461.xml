@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="kink-an-thun-1858-07-18-a3-xxi-d461.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/kink-an-thun-1857-03-25-a3-xxi-d408.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/kink-an-thun-1860-10-23-a3-xxi-d623a12.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#kink-rudolph" role="sender:beamter">Rudolf Kink</rs> an
+                        <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_4fd4ef3f46418624bcfdb765d2881356">Triest</rs>, <date when-iso="1858-07-18">18. Juli 1858</date>
+                </title>
+            <title type="label">Rudolf Kink an Leo Thun, Triest, 18. Juli 1858</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DB77-9</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D461</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Beamte und Historiker Rudolf Kink informiert den Minister, dass er
+                            eine Versetzung nach Venedig anstrebt. Der Statthalter in Venedig, Graf
+                            Bissingen, hat ihm die dortige Stelle des Unterrichtsreferenten
+                            angeboten. Kink gesteht allerdings, dass er lieber nach Wien in das
+                            Unterrichtsministerium zurückkehren möchte, jedoch sei sein vorrangiger
+                            Wunsch, Triest zu verlassen. Kink bittet Thun daher, seine Versetzung
+                            nach Venedig bzw. eine eventuelle spätere Rückkehr nach Wien zu
+                            unterstützen.</p>
+                    </msContents>
+                    <physDesc/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#kink-rudolph">Rudolf Kink</rs>
+                    <settlement ref="#place_4fd4ef3f46418624bcfdb765d2881356">Triest</settlement>
+                    <date when-iso="1858-07-18">18. Juli 1858</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Ministerium für Kultus und Unterricht</term>
+                    <term>Unterrichtsreferenten</term>
+                </index>
+                <p>Euere Exzellenz!</p>
+                <p>Bei meiner Rückkehr nach <rs type="place" subtype="place" ref="#place_4fd4ef3f46418624bcfdb765d2881356">Triest</rs> wurde ich auf der
+                    Durchreise durch <rs type="place" subtype="place" ref="#place_80c239e539544aa459dc13996638cb2f">Venedig</rs> von dem Herrn
+                    Statthalter <rs type="person" ref="#bissingen-cajetan">Grafen von Bissingen</rs>
+                    aufgefordert, mich zu erklären, ob ich die Unterrichtsreferentenstelle in <rs type="place" subtype="place" ref="#place_80c239e539544aa459dc13996638cb2f">Venedig</rs> an <rs type="person" ref="#martelli-johann">Martelli</rs>’s
+                    statt übernehmen wolle.<lb/>Obgleich nun mein Wunsch nicht nach <rs type="place" subtype="place" ref="#place_80c239e539544aa459dc13996638cb2f">Venedig</rs>
+                    und überhaupt nach <rs type="place" subtype="country" ref="#place_19cb29505c294db5ca9190ea93447e98">Italien</rs>, sondern wie Euer
+                    Exzellenz wohl bekannt ist, auf die baldmögliche Rückkehr nach <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>
+                    gerichtet ist und obgleich ich wohl weiß, daß mit dieser Stelle, welche eine
+                    genaue Personalkenntnis und ein taktvolles Vorgehen erheischt, mancherlei
+                    Schwierigkeiten, besonders für den Anfang, verknüpft sind, so überwog doch die
+                    Betrachtung, daß mein Wirkungskreis in <rs type="place" subtype="place" ref="#place_4fd4ef3f46418624bcfdb765d2881356">Triest</rs> mir je länger je
+                    weniger zusagen kann. Das Volksschulwesen ist in den Händen des Schulrathes <rs type="person" ref="#laukotsky-vinzenz">Laukotsky</rs> sehr gut aufgehoben;
+                    die Gymnasien geben, einzelne Ausnahmen abgerechnet, den Referenten wenig zu
+                    schaffen. Auch die nautische Akademie ist, wie ich mich täglich mehr überzeuge,
+                    bei <rs type="person" ref="#littrow-heinrich">Littrow</rs> – einzelne
+                    Übereilungen und Ausschreitungen abgerechnet – in sehr guten Händen; sie wird
+                    gewiß in Kurzem überraschende Forstschritte zeigen. Ich bin <rs type="person" ref="#littrow-heinrich">Herrn von Littrow</rs> das Zeugnis schuldig. Daß
+                    diese Fortschritte kommen, dazu kann ebenfalls wieder der Referent nur sehr
+                    mäßig beitragen. In wissenschaftlicher Hinsicht kann ich hier nicht nur selbst
+                    nichts thun, sondern auch nicht einmal irgendwo oder auf irgend Jemand Einfluß
+                    nehmen. Beides, hoffe ich, kann sich in Venedig günstiger gestalten.<lb/>Ich gab
+                    daher dem Herrn Statthalter meine Einwilligung und erhielt die Nachricht, daß
+                    sein Vorschlag sogleich und ohne die Genehmigung der von <rs type="person" ref="#martelli-johann">Martelli</rs> eingereichten Pensionirung erst
+                    abzuwarten, schon ablief.<lb/>Da ich nun bei meinem letzten Aufenthalte in <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> Eurer Exzellenz die Bitte um die Übersetzung zur
+                    niederösterreichischen Statthalterei vorbrachte, so halte ich mich verpflichtet,
+                    von dem obigen Vorgange die Anzeige zu machen, damit es nicht den Anschein habe,
+                    als ob ich bei zweierlei Thüren zugleich habe anklopfen wollen. Dies ist
+                    wahrlich nicht der Fall, ich kann vielmehr beifügen, daß, wenn die Übersetzung
+                    nach <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs> möglich wäre, ich
+                    dieselbe jedenfalls jener nach <rs type="place" subtype="place" ref="#place_80c239e539544aa459dc13996638cb2f">Venedig</rs> vorziehen würde.
+                    Überdies hatten Eure Exzellenz selbst einmal den Wunsch, nach <rs type="place" subtype="place" ref="#place_80c239e539544aa459dc13996638cb2f">Venedig</rs>
+                    überzutreten, rücksichtlich meiner ausgesprochen.<lb/>Ich darf mir daher wohl
+                    erlauben, auch für diesen Fall um Euer Exzellenz gnädige Unterstützung zu bitten
+                    und hiebei auch die schon einmal gestellte Bitte zu wiederholen, daß Eure
+                    Exzellenz mich nicht für immer in <rs type="place" subtype="country" ref="#place_19cb29505c294db5ca9190ea93447e98">Italien</rs> lassen und dort
+                    vergessen mögen.</p>
+                <p>In tiefer Verehrung<lb/>Eurer Exzellenz<lb/>gehorsamster Diener<lb/>Rudolf
+                    Kink</p>
+                <p>Triest, 18. Juli 1858</p>
+            </div>
+        </body>
+        
+    </text>
+</TEI>

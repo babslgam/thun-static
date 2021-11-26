@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="ficker-an-thun-1855-03-08-a3-xxi-d332.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/ficker-an-thun-1854-11-02-a3-xxi-d313.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/ficker-an-thun-1855-03-25-ca1153.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#ficker-julius" role="sender:gelehrter">Julius
+                        Ficker</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</rs>, <date when-iso="1855-03-08">8. März 1855</date>
+                </title>
+            <title type="label">Julius Ficker an Leo Thun, Innsbruck, 8. März 1855</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DC4D-8</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D332</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Der Historiker Julius Ficker beantwortet einen Brief Leo Thuns, in dem
+                            der Minister um Empfehlung von fähigen Kandidaten für das Lehramt an
+                            österreichischen Gymnasien gebeten hatte. Ficker glaubt, dass sich in
+                            seiner Heimat Westfalen gewiss einige Kandidaten finden ließen.
+                            Allerdings hätten katholische Gymnasiallehrer nicht dieselben
+                            Schwierigkeiten, eine Anstellung in Preußen zu finden wie
+                            Universitätsdozenten. Ein Anreiz könnte jedoch das höhere
+                            Einstiegsgehalt in Österreich sein. Ficker will daher sofort an Bekannte
+                            in Bonn und Münster schreiben und sich bei diesen erkundigen.
+                            Anschließend erteilt Ficker Auskunft in einer zweiten von Thun
+                            angesprochenen Angelegenheit, nämlich über die angeblichen
+                            Ungereimtheiten bei der Lehramtsprüfung des Benediktinerpaters Raas.
+                            Ficker versichert jedoch, dass Raas die Prüfung allein deshalb nicht
+                            bestanden hatte, weil seine Kenntnisse hierzu nicht ausreichend waren
+                            und nicht, wie kolportiert, ein Vorurteil Prof. Georg Schenachs
+                            gegenüber Raas der entscheidende Grund gewesen sei. Zum Beweis fügt
+                            Ficker einige Notizen über die betreffende Sitzung der
+                            Prüfungskommission bei. Aus diesen gehe hervor, dass bereits die Frage
+                            der Zulassung zur mündlichen Prüfung wegen formaler Fehler kontrovers
+                            diskutiert worden war und er selbst damals für eine Nichtzulassung
+                            plädierte. Nach der mündlichen Prüfung sprach sich der zuständige
+                            Fachprüfer Prof. Malecki gegen eine Approbation aus, was von der
+                            Mehrheit der Prüfer gebilligt wurde. Ficker versichert dem Minister
+                            zudem, dass sich Prof. Schenach bei Prüfungen niemals von persönlichen
+                            Leidenschaften habe leiten lassen.</p>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#ficker-julius">Julius Ficker</rs>
+                    <settlement ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</settlement>
+                    <date when-iso="1855-03-08">8. März 1855</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Gymnasien</term>
+                    <term>Universität Innsbruck</term>
+                    <term>Lehramtsprüfung</term>
+                </index>
+                <p>Innsbruck, 8. März 1855</p>
+                <p>Euer Excellenz!</p>
+                <p>In dem gnädigen Schreiben vom 4. dieses [sic!] Monats <note xml:id="note_1">Vgl.
+                            <ref target="thun/thun-korrespondenz/thun-an-ficker-1855-02-04-ca180.xml">Leo
+                            Thun an Julius Ficker. Wien, 4. Februar 1855.</ref>
+                    </note> geruhten Euer
+                    Excellenz mir die Anfrage zu stellen, ob ich glaube, daß sich in
+                        <rs type="place" subtype="region" ref="#place_0e0c04ad68e11b3fe684cd74597a50cc">Rheinland</rs> und <rs type="place" subtype="region" ref="#place_2652fd27a2fa326711df5192229fd847">Westfalen</rs> katholische
+                    Kandidaten der Philologie finden würden, die befähigt und bereit seien, unter
+                    angegebenen Bedingungen eine Stelle an einem österreichischen Gymnasium
+                    anzunehmen.<lb/>Ich glaube diese Frage wohl bejahen zu dürfen. Allerdings finden
+                    in <rs type="place" subtype="country" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs> die katholischen Kandidaten des
+                    Lehramts für die Gymnasien nicht dieselben Schwierigkeiten, die sich der
+                    Anstellung katholischer Dozenten an den Universitäten entgegenstellen; ihre Zahl
+                    ist nicht gar zu groß und sie können im allgemeinen auf baldige Anstellung nach
+                    bestandenem Examen rechnen. Da jedoch ein Gehalt von 800 Gulden denjenigen
+                    übersteigt, auf den sie für die erste Zeit in <rs type="place" subtype="country" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs> zu hoffen haben, andererseits meine Landsleute den
+                    Aufenthalt an den Gymnasien der Provinzen <rs type="place" subtype="country" ref="#place_4427d8d4fd794c37826d3259a6a9ff53">Preußen</rs> und <rs type="place" subtype="region" ref="#place_d55199956d521bfae14b87d631fe8ae8">Posen</rs>, wo insbesondere viele
+                    Westfalen angestellt werden, kaum einer Anstellung an einem österreichischen
+                    Landgymnasium oder in einer entlegenern Stadt der Monarchie vorziehen würden, so
+                    bezweifle ich kaum, daß es gelingen würde, auch befähigtere Kandidaten für eine
+                    solche Stellung zu gewinnen. Ich glaube nun den Absichten Euer Excellenz am
+                    besten zu entsprechen, wenn ich noch heute an verläßliche und urtheilsfähige mir
+                    befreundete Professoren zu <rs type="place" subtype="place" ref="#place_6c1def5820cdde63de0c38dd673de4d6">Bonn</rs> und zu
+                        <rs type="place" subtype="place" ref="#place_610dc3a15bda751de4d4c52373b2620f">Münster</rs> schreibe, die mit den dortigen Verhältnissen
+                    und Aussichten völlig vertraut genügende Auskunft werden geben können, ob
+                    überhaupt auf eine Annahme dieser Bedingungen durch befähigte junge Philologen
+                    zu rechnen sei, und vielleicht auch in der Lage wären, vorläufig auf den einen
+                    oder andern aufmerksam machen zu können. Ich werde dann nicht verfehlen, Euer
+                    Excellenz baldmöglichst vom Resultate dieser vorläufigen Anfragen in Kenntnis zu
+                    setzen und werde mit Vergnügen alles thuen, was irgend dazu dienen kann, die
+                    Absichten Euer Excellenz zu verwirklichen.<lb/>Daß ich die weitere Anfrage, die
+                    Euer Excellenz mir zu stellen geruhten, mit gewissenhaftester Aufrichtigkeit
+                    beantworten werde, darf ich wohl kaum versichern, da eine Unaufrichtigkeit in
+                    diesem Falle nicht blos eine Verletzung meiner Pflicht als Staatsbeamter,
+                    sondern auch ein Mißbrauch des gnädigen Vertrauens Euer Excellenz sein würde.
+                    <lb/>Ob Professor <rs type="person" ref="#schenach-georg">Schenach</rs> oder irgend
+                    ein anderes Mitglied der Kommission persönlich gegen den Herrn <rs type="person" ref="#raas-chrysostomos">Pater Raas</rs> eingenommen war, kann ich
+                    nicht beurtheilen, wohl aber versichern, daß weder in den Kommissionssitzungen
+                    etwas vorgefallen ist, was darauf hätte schließen lassen, noch mir anderweitig
+                    etwas darüber bekannt geworden ist, weßhalb mich die Anfrage Euer Excellenz
+                    höchlich überraschte. Das Einzige, was etwa, abgesehen von anderen mir
+                    unbekannten Gründen, zu einer solchen Annahme hätte Anlaß geben können, wäre
+                    meines Erachtens Folgendes:<lb/>Zugleich mit dem Herrn <rs type="person" ref="#raas-chrysostomos">Pater Raas</rs> machte der <rs type="person" ref="#orgler-flavian">Pater Orgler</rs> aus dem Orden des Heiligen
+                    Franziskus die Prüfung für Geschichte und Geographie und bestand dieselbe zur
+                    allgemeinsten Zufriedenheit. Bei dieser Gelegenheit wurden nun nebenbei vom
+                        <rs type="person" ref="#schenach-georg">Prof. Schenach</rs> und andern
+                    Mitgliedern in der Sitzung darüber gesprochen, daß abermals der Pater
+                    Franziskaner eine sehr gute Prüfung bestanden habe, während Kandidaten von
+                    <rs type="org" ref="#org_0049">Marienberg</rs> sich auch schon früher
+                    nicht ausgezeichnet hätten, und der Grund doch nicht lediglich darin gesucht
+                    werden könne, daß dieselben nicht Gelegenheit zu Universitätsstudien gehabt
+                    hätten, da die Franziskaner sich in derselben Lage befänden. Ich habe das für
+                    eine durchaus gelegentliche Bemerkung gehalten; sollte man sie aber wirklich in
+                    Folge anderer mir unbekannter Gründe als Ausfluß einer gehässigen Gesinnung
+                    auffassen wollen, so glaube ich wenigstens versichern zu dürfen, daß die
+                    Reprobazion des Herrn <rs type="person" ref="#raas-chrysostomos">Pater Raas</rs>
+                    durch ein etwa vorhanden gewesenes Vorurtheil weder herbeigeführt wurde noch
+                    herbeigeführt werden konnte, und erlaube mir zur Begründung einige Notizen über
+                    die betreffenden Kommissionssitzungen hinzuzufügen.<lb/>Als es sich darum
+                    handelte, ob der Herr Pater <rs type="person" ref="#raas-chrysostomos">Raas</rs>
+                    auf Grund der schriftlichen Arbeiten zur mündlichen Prüfung zuzulassen sei,
+                    erklärte der Fachexaminator <rs type="person" ref="#kopetzky-karl">Prof.
+                        Kopetzky</rs>, daß der Inhalt der Antworten ihm allenfalls genüge, die
+                    Zulassung zu beantragen, daß aber ein formeller Mangel vorliege, da die Fragen
+                    angeblich aus Mangel an Zeit nicht vollständig beantwortet seien, und die
+                    Kommission zu entscheiden habe, ob die Zulassung dennoch statthaft sei. Da die
+                    Meinungen getheilt waren, schlug der gehorsamst Gefertigte vor, die
+                    Klausurarbeiten wegen des formellen Defektes für ungültig zu erklären, aber auf
+                    Grund neuer Klausurarbeiten über die Zulassung zu entschieden. Da sich dieses
+                    nach dem Gesetze als unstatthaft erwies, trat er der auch von <rs type="person" ref="#schenach-georg">Prof. Schenach</rs> getheilten Meinung bei, daß
+                    aus formellen Gründen die Zulassung nicht statthaft sei, weil Gefahr sei, daß,
+                    wenn einmal angenommen werde, die vollständige Beantwortung der gestellten
+                    Fragen in der festgesetzten Zeit sei nicht unumgänglich nöthig, künftig mit
+                    Absicht die Kandidaten solche Fragen, die ihnen Schwierigkeiten böten, durch
+                    desto ausführlichere Behandlung der anderen beseitigen würden. Bei der
+                    Abstimmung wurde jedoch mit einer Stimme Majorität die Zulassung ausgesprochen.
+                    <lb/>Was dann die schließliche Entscheidung nach abgelegter mündlicher Prüfung
+                    betrifft, so hing diese damals, wie gewöhnlich, wesentlich vom Gutachten des
+                    Fachexaminator ab, da es wohl in der Natur der Sache liegt, daß andere
+                    Mitglieder der Ansicht desselben, so weit diese die wissenschaftliche Befähigung
+                    betrifft, wohl füglich nur ausnahmsweise entgegentreten können. Nach diesem
+                    Gutachten, und nachdem auch der Professor <rs type="person" ref="#malecki-antoni">Malecky</rs> mit Rücksicht auf die Leistungen des Herrn <rs type="person" ref="#raas-chrysostomos">Pater Raas</rs> bei der früher mit Erfolg
+                    bestandenen Prüfung seine Meinung dahin ausgesprochen hatte, daß er ihn für das
+                    Untergymnasium, nicht aber für das Obergymnasium auch im Lateinischen befähigt
+                    halte, während sich Niemand für die Befähigung aussprach, – wurde, wenn ich mich
+                    recht erinnere, mit Einhelligkeit, jedenfalls mit weit überwiegender Majorität
+                    beschlossen, die Befähigung für das Obergymnasium nicht zu ertheilen; die
+                    Befähigung für das Untergymnasium auszusprechen war nach dem Gesetze nicht
+                    statthaft, es wurde aber, wenn ich nicht irre, beschlossen oder wenigstens
+                    besprochen und stillschweigend genehmigt, dem Kandidaten in irgend einer Form zu
+                    bedeuten, daß ihm die Befähigung für das Untergymnasium nicht verweigert worden
+                    wäre, wenn von derselben überhaupt Rede gewesen wäre. Bei diesem ganzen Vorgange
+                    konnte füglich kein Mitglied der Kommission auf die Reprobation entscheidend
+                    einwirken, als der Fachexaminator; daß dieser keinerlei Vorurtheil hatte, bin
+                    ich überzeugt, da er sowohl in der Kommission wie in Privatunterredungen große
+                    Theilnahme für den Kandidaten zeigte.<lb/>Was die Schlußfrage Euer Excellenz
+                    betrifft, ob ich es überhaupt für glaublich halte, daß <rs type="person" ref="#schenach-georg">Prof. Schenach</rs> sich bei Leitung der
+                    Prüfungen durch Leidenschaftlichkeit bestimmen lasse, so glaube ich mit bestem
+                    Gewissen darauf entschieden verneinend antworten zu dürfen; sein Vorgehen bei
+                    den Prüfungen hat mir immer nur den Eindruck der strengsten Unparteilichkeit
+                    gemacht und eine solche Annahme würde überhaupt mit der Besonnenheit, Offenheit
+                    und Ehrenhaftigkeit seines Characters, die hier wohl allgemein anerkannt wird
+                    und von der ich durch nähern Umgang mich zu überzeugen Gelegenheit hatte, schwer
+                    vereinbar erscheinen.<lb/>Mit aufrichtigstem Danke für das gnädigst geschenkte
+                    Zutrauen verbleibe ich</p>
+                <p>Euer Excellenz ganz gehorsamster und ergebenster<lb/>Dr. Ficker</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

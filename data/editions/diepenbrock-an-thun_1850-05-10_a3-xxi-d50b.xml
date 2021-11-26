@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="diepenbrock-an-thun_1850-05-10_a3-xxi-d50b.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#diepenbrock-melchior" key="diepenbrock-melchior" role="sender:kleriker">Melchior
+                        Diepenbrock</rs> an <rs type="person" ref="#thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_60960432acfa4972c8f13dd89a872920">Breslau</rs>, <date when-iso="1850-05-10">10. Mai
+                    1850</date>
+                </title>
+            <title type="label">Melchior Diepenbrock an Leo Thun, Breslau, 10. Mai 1850</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p/>
+            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000D-F803-8</tei:idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D50</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>Fürstbischof Melchior Diepenbrock übersendet einige Exemplare seines
+                            Hirtenbriefes zur Erläuterung der Neuordnung der katholischen Kirche in
+                            Österreich. Da Diepenbrock kurz vor der Abreise zu einer längeren
+                            Pastoralreise steht, hatte er den Hirtenbrief drucken lassen, noch bevor
+                            Thuns jüngster Brief in Breslau eingetroffen war. Da der Minister aber
+                            schon zuvor seine grundsätzliche Zustimmung zum Hirtenbrief geäußert
+                            hatte, fand Diepenbrock es gerechtfertigt, den Hirtenbrief in Druck zu
+                            geben. Die letzten Änderungsvorschläge Thuns konnten so jedoch nicht
+                            mehr eingearbeitet werden. Der Bischof glaubt aber, dass allfällige
+                            Ergänzungen und Erläuterungen auch durch seine Mitbrüder, Kardinal
+                            Schwarzenberg und Bischof Rauscher, erfolgen könnten. Abschließend geht
+                            Diepenbrock auf die in den letzten Briefen behandelten Personalfragen
+                            ein und berichtet, dass er bereits einige Informationen einholen konnte.
+                            Einen vollständigen Bericht möchte er aber erst nach seiner Rückkehr
+                            übermitteln. Einstweilen empfiehlt er Franz Schmölders für eine
+                            Professur der orientalischen Sprachen, jener wäre für eine katholische
+                            Universität ein wahrer Gewinn.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Der Brief ist im Nachlass unter der Signatur<ref target="thun/thun-korrespondenz/tetschen/diepenbrock-an-thun_1850-05-06_A3-XXI-D50.xml">A3 XXI D50</ref> abgelegt. Allerdings handelt es sich bei dem
+                            vorliegenden Schreiben nicht um eine Beilage, sondern um einen
+                            eigenständigen Brief. Er schließt inhaltlich an den Vorhergehenden an,
+                            daher wurden die Briefe bei deren Ordnung wohl unter einer Signatur
+                            zusammengefasst. Hier wurden die Briefe wieder einzeln aufgenommen.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#diepenbrock-melchior">Melchior Diepenbrock</persName>
+                    <date when-iso="1850-05-10">10. Mai
+                    1850</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#thun-hohenstein-leo">Leo Thun</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Kultus</term>
+                    <term>Bischofsversammlung</term>
+                    <term>Katholische Kirche</term>
+                    <term>Personalfragen</term>
+                    <term>Orientalistik</term>
+                </index>
+                <p>Eurer Excellenz</p>
+                <p>geehrtes Schreiben vom 7. ist mir erst heute Morgen zugekommen und hat sich daher
+                    mit dem meinigen vom 8. gekreuzt. Da Hochdieselben in meinem Hirtenbriefe nicht
+                    gerade etwas Unpassendes, den obwaltenden seltsamen Verhältnissen nicht
+                    Angemessenes, vielmehr Manches darin geeignet gefunden haben, den beabsichtigten
+                    beruhigenden und berichtigenden Eindruck hervorzubringen – (und gerade daß das
+                    Urtheil hierüber mir Fernstehenden erschwert war, veranlaßte mich, das Ganze
+                    vertrauensvoll Ihrer Beurtheilung vorzulegen) – so habe ich hier sogleich den
+                    Abdruck mit den vorgestern angedeuteten geringen Abänderungen vor sich gehen
+                    lassen, und beehre mich, anliegend einige Exemplare davon zu übermachen. Zu
+                    einer Umarbeitung in der von Eurer Excellenz angedeuteten Weise, der ich
+                    übrigens meinen vollen Beifall zolle, fand ich leider nicht mehr Zeit, da ich im
+                    Begriffe stehe, eine Pastoralreise in die Lausitz anzutreten, und vorher noch
+                    die dringendsten und wichtigsten Geschäfte, von denen ich hier leider alltäglich
+                    überschüttet bin, abzumachen habe. Ich darf wohl hoffen, daß meine
+                    österreichischen HH. Amtsbrüder dasjenige, was in meinem Hirtenbriefe etwa noch
+                    vermißt wird oder zu kurz angedeutet ist, ergänzen und ausführlicher hervorheben
+                    werden, und zähle in dieser Hinsicht namentlich auf Seine Eminenz den <rs type="person" ref="#schwarzenberg-friedrich" key="schwarzenberg-friedrich">Cardinal Fürsten Schwarzenberg</rs> und
+                    auf den trefflichen Herrn <rs type="person" ref="#rauscher-joseph" key="rauscher-joseph">Fürstbischof von
+                        Seckau</rs>. Beide kennen das Terrain ungleich besser als ich. Dem
+                    Herrn <rs type="person" ref="#viale-prela-michele" key="viale-prela-michele">Nuntius</rs>, der gleichfalls,
+                    wie er mir schreibt, über die unbegreifliche Aufregung eines so unwissenden als
+                    verkehrten Publikums sehr betroffen ist, habe ich vorgestern auch einen
+                    Correcturbogen meines Hirtenbriefes zur Beurtheilung gesendet. Ich kenne ihn als
+                    einen eben so einsichtigen wie vertrauenswerthen Mann.<lb/>Ich habe mir erlaubt
+                    und es für eine Art Pflicht der Dankbarkeit gehalten, <rs type="person" ref="#franz-joseph" key="franz-joseph">Seiner Majestät dem Kaiser</rs> einen Abdruck des
+                    Hirtenbriefes mit einem kurzen Dankschreiben zu übersenden, und bitte Eure
+                    Excellenz ergebenst um dessen gütige Beförderung, falls Ihnen sonst dieser
+                    Schritt nicht unpassend erscheint.<lb/>Noch erlaube ich mir eine ergebenste
+                    Bitte. Ich habe vor einiger Zeit meinem jenseitigen Generalvicariat in
+                        <rs type="place" subtype="place">Bielitz</rs> von Amtswegen eine Anzahl Exemplare der auf
+                    Veranlassung der Wiener Episkopalversammlung verfaßten und in
+                        <rs type="place" subtype="place" ref="#place_aaf49a1292fa1004fcffc4eebe9bdaa0">Innsbruck</rs> gedruckten trefflichen kleinen Schrift:
+                    Über Provincial- und Diözesansynoden von dem verdienstvollen Constistorialrath
+                    und <rs type="person" ref="#fessler-joseph" key="fessler-joseph">Prof. Dr. Fessler</rs> in
+                        <rs type="place" subtype="place" ref="#place_478686b5e2ebec6de738cf25710e7108">Brixen</rs>, und zugleich eine neue correcte und wohlfeile
+                    Ausgabe der sonntäglichen Evangelien und Episteln für den jenseitigen Klerus
+                    übersendet. Diese Sendung erleidet aber, wie die frühere des – obgleich damals
+                    staatlich censurirten – neu aufgelegten Diözesanrituals, welches ein ganzes Jahr
+                    auf dem Gränzbüreau liegen blieb – bei dem kaiserlichen Mauthamte in
+                        <rs type="place" subtype="place">Bielitz</rs> die störendsten Schwierigkeiten, welche zu
+                    heben das amtliche Einschreiten des Generalvicars <rs type="person" ref="#oppolsky-mathias" key="oppolsky-mathias">Oppolsky</rs> in <rs type="place" subtype="place">Bielitz</rs>
+                    bisher nicht vermocht hat. Darf ich wohl um baldige geneigte Abhülfe
+                    bitten?<lb/>Die gewünschten Personalnotizen über Professoren gehen mir allmälig
+                    zu, und hoffe ich, bei meiner Rückkehr in den nächsten Pfingsttagen im Stande zu
+                    seyn, sie Eurer Excellenz in nothwendiger Verlässigkeit zu übermachen.
+                    Einstweilen erlaube ich mir hier schon auf einen hiesigen mir persönlich genau
+                    bekannten (er ist mein Landsmann) Gelehrten für eine Professur der
+                    orientalischen Sprachen aufmerksam zu machen, den ich mit vollestem Bewußtseyn
+                    auch als einen ganz zuverlässigen, sittlich, religiös und politisch correcten
+                    Charakter empfehlen kann. Es ist der <rs type="person" ref="#schmoelders-franz-august" key="schmoelders-franz-august">Dr. Schmölders</rs>, Prof. extraord. der orientalischen Sprachen an
+                        <rs type="org" ref="#org_0065" key="universitaet-breslau">hiesiger Universität</rs>, und
+                    zugleich Lehrer der französischen, englischen und deutschen Sprache am hiesigen
+                    katholischen Gymnasium. Er hat mit Auszeichnung 6 Jahre an der <rs type="org" ref="#org_0040" key="universitaet-bonn">Universität Bonn</rs>, dann 4 Jahre in
+                        <rs type="place" subtype="place" ref="#place_ccbee73cd81c7f42405e1920409247ec">Paris</rs> Orientalia studirt und dann 3 Jahre an der
+                        <rs type="org" ref="#org_0027" key="universitaet-berlin">Universität Berlin</rs> als
+                    Privatdocent gelehrt. Außer mehreren trefflichen Abhandlungen in den früheren
+                    Jahrbüchern für wissenschaftliche Kritik hat er durch seine „Documenta
+                    philosophiae Arabum, Bonnae 1836“ und seinen „Essai sur les écoles philosphiques
+                    chez les Arabes, Paris 1842“, seine wissenschaftliche Tüchtigkeit rühmlich
+                    bewährt und ist auch dem <rs type="person" ref="#hammer-purgstall-joseph" key="hammer-purgstall-joseph">Herrn von
+                        Hammer-Purgstall</rs> durch literarische Berührung bekannt. Er ist
+                    1809 geboren, also im besten Mannesalter. Daß er <hi rend="ul">Katholik</hi>
+                    ist, hindert ihn hier am verdienten Vorwärtskommen. Für eine orientalische
+                    Professur an einer katholischen Hochschule wäre er ein wahrer Gewinn und eine
+                    Zierde, und ich kann ihn Eurer Excellenz aufs Allerbeste empfehlen. Er sagte mir
+                    unlängst, daß jetzt in <rs type="org" key="universitaet-wien" ref="#org_0018">Wien</rs> ein Jude
+                    für’s Hebräische angestellt sey, der sich durch die schmählichsten Plagiate
+                    berüchtigt gemacht. Bei einem solchen Lehrer könnten katholische Theologen dem
+                    Hebräischen freilich keinen Geschmack abgewinnen.<lb/>Um Vergebung bittend wegen
+                    des langen Schreibens schließe ich mit der erneuerten Versicherung und
+                    gezeichnetster Hochachtung</p>
+                <p>Eurer Excellenz</p>
+                <p>ganz ergebenster Diener<lb/>Melchior Fürstbischof</p>
+                <p>Breslau, den 10. Mai 1850</p>
+            </div>
+        </body>
+    </text>
+</TEI>

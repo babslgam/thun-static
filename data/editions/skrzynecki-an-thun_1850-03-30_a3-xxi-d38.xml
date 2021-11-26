@@ -1,0 +1,125 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="skrzynecki-an-thun_1850-03-30_a3-xxi-d38.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#skrzynecki-jan" key="skrzynecki-jan" role="sender:beamter">Jan
+                        Skrzynecki</rs> an <rs type="person" ref="#thun-hohenstein-leo" key="thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" key="bruessel" ref="#place_7279949b987b1b373468947f87fe6753">Brüssel</rs>, <date when-iso="1850-03-30">30. März 1850</date>
+                </title>
+            <title type="label">Jan Skrzynecki an Leo Thun, Brüssel, 30. März 1850</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p/>
+            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000D-F7E5-A</tei:idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D38</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>General Jan Skrzynecki bittet Leo Thun, die Ausstellung eines Passes für
+                            ihn zu beschleunigen. Zunächst beruft er sich auf ihre Freundschaft aus
+                            der gemeinsamen Prager Zeit. Aufgrund der Amnestie für Emigranten hatte
+                            er die Erlaubnis zur Rückkehr nach Galizien beantragt und auch erhalten.
+                            Wegen der Unruhen in Galizien verschob er aber seine Abreise dorthin.
+                            Nun bittet Skrzynecki den Minister, sich für ihn beim Fürsten
+                            Schwarzenberg einzusetzen, damit seine Familie ausreisen könne. Er
+                            selbst würde bleiben und auf einen günstigeren Moment warten. Skrzynecki
+                            insistiert, dass das Schicksal seiner Familie auf dem Spiel stehe, da
+                            sein Einkommen in Galizien sehr reduziert sei. Da die Verwaltung seines
+                            Vermögens ab Mai seine Anwesenheit erfordere, bittet er Thun darum, sein
+                            Möglichstes zu tun, dass der Pass so bald wie möglich ausgestellt
+                            werde.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Französisch.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#skrzynecki-jan">Jan Skrzynecki</persName>
+                    <date when-iso="1850-03-30">30. März 1850</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#thun-hohenstein-leo">Leo Thun</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Polen</term>
+                    <term>Galizien</term>
+                </index>
+                <p>Brusselles, 30. Mars 1850</p>
+                <p>Monsieur le Comte</p>
+                <p>Permettez monsieur le Comte que je me rappelle à votre souvenir, comme un ancien
+                    ami de <rs type="place" subtype="place" key="prag" ref="#place_e575530bd7a9cc03829dde0b8657f108">Prague</rs> et comme vous m'avez montré
+                    toujours beaucoup de bienveillance j'ose m'adresser à vous dans une grave
+                    circonstance de ma vie: avant de vous exposer ma demande, je vous prie de
+                    vouloir lire les motifs qui m'y déterminent. A la suite des changemen[t]s
+                    politiques en <rs type="place" subtype="country" key="oesterreich" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Autriche</rs> et de l'amnistie qui
+                    a été accordée aux émigrés de la <rs type="place" subtype="region" key="galizien" ref="#place_4ec4d4015169a4209797da17b240c7c3">Gallicie</rs>, j'ai
+                    sollicité de son altesse Imp. l'archiduc [?] l'autorisation de rentrer dans le
+                    pays; cette permission m'ayant été accordé, je fus obligé de retarder mon départ
+                    à cause des agitations excitées dans la <rs type="place" subtype="region" key="galizien" ref="#place_4ec4d4015169a4209797da17b240c7c3">Gallicie</rs>
+                    et j'exposai les motifs de ce délai Mr. le <rs type="person" ref="#woyna-eduard" key="woyna-eduard">Comte
+                        Woyna</rs>, alors Ministre de S. Majesté en <rs type="place" subtype="country" key="belgien" ref="#place_361e734b7e9d674efb5e3ac441e2c149">Belgique</rs>. Lorsque au mois d'octobre de l'année passée les
+                    circonstances me paraissaient plus favorables j'ai redemandé mon passeport, mais
+                    à la suite d'un changement de Ministère le <rs type="person" ref="#woyna-eduard" key="woyna-eduard">Comte
+                        Woyna</rs> me dit qu'il devait réclamer une nouvelle autorisation. La
+                    réponse était arrivée, <rs type="person" ref="#woyna-eduard" key="woyna-eduard">Mr le Cte Woyna</rs> me la
+                    fit connaitre: elle portait que j'avais un droit incontestable de retourner dans
+                    le pays, cependant vu les circonstances de la guerre en <rs type="place" subtype="country" key="ungarn" ref="#place_601df943a89d2ac73e0e43a5d37fc228">Hongrie</rs> on me conseillait de n'en faire usure, que lorsqu'elle
+                    serait terminée. Je me suis soumis entièrement à ce conseil, mais quand à ma
+                    Femme et à mes enfants, la Légation ne trouvant aucun motif d'ajournement, le
+                    passeport lui fut remis. Mais au moment de son départ arriva l'intervention
+                    russe qui força ma Famille à attendre, c'eut pourquoi j'ai déposé le dit
+                    passeport à la Chancellerie de la Légation, pour le reprendre quand les
+                    événements seraient plus complices. Lorsque au mois de Février de l'année
+                    courante je l'ai réclamé avec un nouveau visa, il m'a été refusé par Mr. le
+                        <rs type="person" ref="#neumann-philipp" key="neumann-philipp">Baron Neuman</rs> actuellement
+                    Ministre de Sa Majesté Impériale d'Autriche en <rs type="place" subtype="country" key="belgien" ref="#place_361e734b7e9d674efb5e3ac441e2c149">Belgique</rs> que le dit passeport ne se trouvant plus dans les
+                    archives de la Légation, il avait écrit pour avoir l'autorisation d'en délivrer
+                    un nouveau. Il y a déjà dix semaines et la réponse n'arrivant pas, je suis
+                    forcée Monsieur le Comte de m'adresser à vous, en vous prirant [priant] de
+                    vouloir intercéder en ma faveur auprès de S. Altesse le <rs type="person" ref="#schwarzenberg-felix" key="schwarzenberg-felix">Prince de Schwartzenberg</rs>, pour que ma
+                    Femme et mes enfants et sa suite composée de deux Femmes de chambre et d'un
+                    domestique puissent partir. Quand[t] à moi je vais me soumettre entièrement, et
+                    j'attendrai patiemment jusqu'au moment opportun. Je suis obligé de vous prier
+                    mon cher Comte avec la plus vive instance d'obtenir une décision favorable,
+                    puisque de cela dépend le sort de ma Famille. Je vous le dit mon cher Comte en
+                    toute franchise que telle est notre position. Je suis mis ici à la pension de
+                    retraite, mes revenus en <rs type="place" subtype="region" key="galizien" ref="#place_4ec4d4015169a4209797da17b240c7c3">Gallicie</rs> ont parsuite
+                    des circonstances ont diminués presque de moitié et une nouvelle administration
+                    de nos biens qui doit commencer avec le mois de Mai exige absolument la présence
+                    du propriétaire et l'emploi etc. tous nos moyens pendant peut être quelques
+                    années, pour subvenir aux frais de l'exploitation. Je vous avance sans aucune
+                    réticence, que si on nous refuse pour je ne sais quels motifs ce passeport pour
+                    ma Femme, sa fortune et celle de nos enfants tombera en ruine. Je vous conjure
+                    donc Monsieur le Comte de vous rappeler l'amitié que vous m'avez témoigné et de
+                    faire votre possible pour que ce passeport soit expédié au plutôt.<lb/>Agréez
+                    Monsieur le Comte l'expression de la plus haute considération, ave laquelle j'ai
+                    l'honneur d'être</p>
+                <p>de Votre Excellence</p>
+                <p>le très humble serviteur<lb/>Skryznecki<lb/>dit: General</p>
+            </div>
+        </body>
+    </text>
+</TEI>

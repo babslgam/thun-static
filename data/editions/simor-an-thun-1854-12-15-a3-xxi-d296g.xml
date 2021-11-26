@@ -1,0 +1,138 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="simor-an-thun-1854-12-15-a3-xxi-d296g.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/simor-an-thun-1854-12-12-a3-xxi-d296f.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/simor-an-thun-1854-12-23-a3-xxi-d296h.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#simor-johann" role="sender:kleriker">János Simor</rs> an
+                        <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo
+                        Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs>, <date when-iso="1854-12-15">15.
+                        Dezember 1854</date>
+                </title>
+            <title type="label">János Simor an Leo Thun, Rom, 15. Dezember 1854</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA77-A</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                            Tetschen-Bodenbach</institution>
+                        <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                            Thun</repository>
+                        <idno>A3 XXI D296</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>János Simor berichtet Leo Thun aus Rom von Fortschritten bei den
+                            Verhandlungen zum Konkordat: Zwischen Kardinal Santucci und dem Wiener
+                            Erzbischof habe es offenbar eine grundsätzliche Einigung in der bisher
+                            schwierigen Frage der Ehegesetze gegeben. Erzbischof Rauscher sei daher guter
+                            Hoffnung, jedoch enttäuscht über den langsamen Fortschritt der
+                            Verhandlungen. Allgemein zweifle derzeit aber niemand mehr am
+                            Zustandekommen des Konkordats. Außerdem äußerte sich der Kardinal
+                            lobend über den Charakter und die Fähigkeiten des Wiener Erzbischofs.
+                            Anschließend berichtet Simor von den Bestrebungen des Olmützer
+                            Domkapitels, seine Privilegien zu retten. Schließlich weist Simor darauf
+                            hin, dass der König von Neapel den Jesuiten ihre Schule entziehen wolle,
+                            um sie den Piaristen zu übergeben. Zuletzt erklärt er, dass das Gerücht,
+                            Kardinalstaatssekretär Antonelli werde bald abgelöst werden, jeglicher
+                            Grundlage entbehre.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Unter der Signatur A3 XXI D296 sind weitere sieben Briefe und Berichte
+                            Simors abgelegt:<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/simor-an-thun-1854-11-11-a3-xxi-d296a.xml">János Simor an Leo Thun. Rom, 11. November 1854</ref>.<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/simor-an-thun-1854-11-14-a3-xxi-d296b.xml">János Simor an Leo Thun. Rom, 14. November 1854</ref>.<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/simor-an-thun-1854-11-17-a3-xxi-d296c.xml">János Simor an Leo Thun. Rom, 17. November 1854</ref>.<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/simor-an-thun-1854-12-01-a3-xxi-d296d.xml">János Simor an Leo Thun. Rom, 1. Dezember 1854</ref>.<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/simor-an-thun-1854-12-07-a3-xxi-d296e.xml">János Simor an Leo Thun. Rom, 7. Dezember 1854</ref>.<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/simor-an-thun-1854-12-12-a3-xxi-d296f.xml">János Simor an Leo Thun. Rom, 12. Dezember 1854</ref>.<lb/>
+                            <ref target="thun/thun-korrespondenz/tetschen/simor-an-thun-1854-12-23-a3-xxi-d296h.xml">János Simor an Leo Thun. Rom, 23. Dezember 1854</ref>.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#simor-johann">János Simor</rs>
+                    <settlement ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</settlement>
+                    <date when-iso="1854-12-15">15.
+                        Dezember 1854</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Vatikan</term>
+                    <term>Konkordat</term>
+                    <term>Gesellschaft Jesu</term>
+                </index>
+                <p>Euere Excellenz!</p>
+                <p>Heute kann ich Euerer Excellenz über den Stand der Verhandlungen in Betreff des
+                    Concordats, wenn auch vor der Hand sehr wenig, aber doch Erfreuliches berichten.
+                    Wenn nicht Alles trügt, so ist zwischen dem <rs type="person" ref="#santucci-vincenzo">Kardinal Santucci</rs> und dem <rs type="person" ref="#rauscher-joseph">Herrn
+                        Erzbischof</rs> eine Verständigung in Bezug auf die schwierige
+                    Ehefrage herbeigeführt worden. Man verhandelt gegenwärtig schon über andere
+                    Punkte, namentlich über die von dem apostolischen Stuhle in Anspruch genommene
+                    Reservation mancher Pfründen an den Domkapiteln. <rs type="person" ref="#santucci-vincenzo">Santucci</rs> zweifelt nicht, daß die
+                    Verhandlungen mit dem gewünschten Erfolge gekrönt sein werden. Der Herr
+                        <rs type="person" ref="#rauscher-joseph">Erzbischof</rs> ist auch mit dem
+                    Stande der Verhandlungen zufrieden und hofft das Beste, nur über den langsamen
+                    Gang derselben klagt er. Ich sage darauf, man muß Geduld haben. Hier in
+                        <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs> zweifelt überhaupt niemand mehr, daß das
+                    Concordat zu Stande kommen wird. Die Olmützer Herren agitiren durch den
+                    Monsignor <rs type="person" ref="#hohenlohe-schillingfuerst-gustav">Hohenlohe</rs>,
+                    um ihr vermeintes Privilegium, wornach das Domcapitel nur aus lauter adeligen
+                    Herren bestehen soll, zu retten. Vielleicht kam <rs type="person" ref="#lichnowsky-robert">Lichnovsky</rs> deshalb nach Rom, welchen ich
+                    jedoch noch nicht gesehen habe. Obschon ich weiß, daß der <rs type="person" ref="#rauscher-joseph">Herr Erzbischof</rs> über den Stand und Gang der
+                    Verhandlungen berichtet, so glaube ich dennoch über diese erfreuliche Wendung
+                    unserer so wichtigen Angelegenheit schreiben zu sollen. Der <rs type="person" ref="#santucci-vincenzo">Kardinal Santucci</rs> hat sich gegen einen
+                    Bischof über den <rs type="person" ref="#rauscher-joseph">Erzbischof von Wien</rs>
+                    also geäußert: Man hat uns gesagt, der <rs type="person" ref="#rauscher-joseph">Erzbischof</rs> habe bloß belletristische und keine theologischen
+                    Kenntnisse, nun sehen wir aber, daß er auch auf dem Gebiete der Theologie sehr
+                    bewandert ist. Der <rs type="person" ref="#rauscher-joseph">Erzbischof</rs> lobt
+                    den <rs type="person" ref="#santucci-vincenzo">Kardinal</rs> gleichfalls, nur
+                    bedauert er, daß der <rs type="person" ref="#santucci-vincenzo">Kardinal</rs> nicht
+                    besser französisch spricht. Den Jesuiten droht ein harter Schlag von Seite
+                        <rs type="place" subtype="place" ref="#place_2a4e63dc83d509fece21a7872f95a242">Neapels</rs>, der König hat erklärt,
+                    denselben alle Lehranstalten nehmen und den Piaristen übergeben zu wollen, und
+                    wirklich hat er sie bereits aus zwei Seminarien vertreiben lassen. Ursache
+                    hievon soll die Haltung der „Civilta Cattolica“ sein, wo man zu sehr auf die
+                    Freiheit der Kirche drängt, und wo die Schwierigkeiten in Bezug auf die
+                    Zulassung der besagten Zeitschrift in das Königreich beider Sicilien etwas
+                    unzart besprochen wurden. Andere meinen, diese Maßregel sei der Thätigkeit der
+                    geheimen Gesellschaften zuzuschreiben. Die Verhandlungen sind im Gange, um den
+                    König auf andere Gedanken zu bringen, man hofft jedoch und verspricht sich davon
+                    wenig Erfolg. Künftigen Sonntag wird der <rs type="person" ref="#rauscher-joseph">Herr
+                        Wiener Erzbischof</rs> in der deutschen Kirche predigen und an einem
+                    der kommenden Festtage der <rs type="person" ref="#ketteler-wilhelm-emanuel">Bischof von
+                        Mainz</rs>. Die Nachricht des „Lloyd“ <rs type="person" ref="#antonelli-giacomo">Kardinal Antonelli</rs> werde abtreten und
+                    dessen Stelle der Kardinal <rs type="person" ref="#marini-pietro">Marini</rs>
+                    einnehmen, scheint aus der Luft gegriffen worden zu sein, hier in
+                        <rs type="place" subtype="place" ref="#place_5f397a1e588cfe96b4aa4bab7a5b1d44">Rom</rs> weiß davon Niemand etwas. Ich habe die
+                    Bekanntschaft des P. Steiner gemacht, über dessen erstaunliche litherarische
+                    Arbeiten ich mündlich referiren werde. Der <rs type="person" ref="#foerster-heinrich">Bischof von Breslau</rs> wird morgen abreisen und geht über
+                        <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>.<lb/>Genehmigen Euere Excellenz die Versicherung
+                    meiner tiefsten Verehrung, mit welcher ich die Ehre habe zu verharren</p>
+                <p>Rom, den 15. Dezember 1854</p>
+                <p>Euerer Exzellenz unterthänigst gehorsamster Diener<lb/>Simor</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

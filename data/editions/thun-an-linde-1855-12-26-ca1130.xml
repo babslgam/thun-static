@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="thun-an-linde-1855-12-26-ca1130.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-linde-1855-09-11-ca1128.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/thun-an-linde-1858-05-17-ca1133.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#thun-hohenstein-leo" role="sender">Leo Thun</rs> an
+                        <rs type="person" ref="#linde-justin" role="recipient:gelehrter">Justin
+                        Linde</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1855-12-26">26. Dezember 1855</date>
+                </title>
+            <title type="label">Leo Thun an Justin Linde, Wien, 26. Dezember 1855</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DA04-B</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <msDesc>
+                        <msIdentifier>
+                            <institution>Bundesarchiv Koblenz</institution>
+                            <idno>N 1759, 51</idno>
+                        </msIdentifier>
+                        <msContents>
+                            <p>Leo Thun versichert Justin Linde, dass es ihm nach seinem Unfall
+                                wieder besser gehe. Thun bittet dann um Auskunft über Georg Blakert,
+                                der zuletzt als Pastor gewirkt habe, aber gemeinsam mit seiner
+                                Familie zum katholischen Glauben konvertiert sei. Blakert habe sich
+                                nämlich um eine Stelle an einer österreichischen Universität
+                                beworben. Thun kann ihm allerdings nur eine Stelle an einem
+                                Gymnasium anbieten, vorerst möchte er sich jedoch über dessen
+                                wissenschaftliche Eignung und dessen charakterliche Eigenschaften
+                                erkundigen. Der Minister bittet Linde, ihm sichere Informationen
+                                über diesen zu verschaffen.</p>
+                        </msContents>
+                        <physDesc>
+                            <p>Diktierter Brief von Leo Thun, eh. Unterschrift.<lb/>Verweis auf A3
+                                XXI D394</p>
+                        </physDesc>
+                    </msDesc>
+                </p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when-iso="1855-12-26">26. Dezember 1855</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#linde-justin">Justin Linde</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Klassische Philologie</term>
+                    <term>Gymnasien</term>
+                </index>
+                <p>&lt;An Herrn Bischof von Fulda am 6/1 1856.&gt;<note xml:id="note_1">Notiz von
+                        Justin Linde am oberen Blattrand.</note>
+                </p>
+                <p/>
+                <p>Wien 26. Dezember 1855</p>
+                <p>Werther Herr Staatsrath!</p>
+                <p>Sie werden gehört haben, welcher Unfall mir begegnet ist. Die ernste Besorgnis
+                    ist vorüber, ich darf aber noch nicht schreiben, darum diktire ich diese Zeilen,
+                    durch welche ich Ihre mir wiederholt erwiesene Gefälligkeit abermals in Anspruch
+                    nehme. Durch Vermittlung mehrerer Personen ist mir der Wunsch eines Convertiten,
+                        <rs type="person" ref="#blakert-georg">Dr. Blakert</rs>, um eine Anstellung in
+                        <rs type="place" subtype="country" ref="#place_064b3fb95f9ed52eb2b1da3d5e807b17">Österreich</rs> vorgetragen worden. Derselbe
+                    hat eine Pfarre mit Gehalt von 1000 Thalern verlassen, um sammt seiner Familie
+                    in den Schoß der katholischen Kirche zurückkehren zu können. Er soll ein
+                    ausgezeichneter Philolog sein, in <rs type="org" ref="#org_0041">Marburg</rs> doktorirt haben und dann durch längere Zeit an den
+                    Gymnasien zu <rs type="place" subtype="place" ref="#place_fd3ebb9f41f9f036dba5791051bc5749">Marburg</rs> und <rs type="place" subtype="place" ref="#place_036c67a15b83e47679fe70703764a11f">Rinteln</rs>
+                    als Oberlehrer angestellt gewesen sein, auch soll er gegenwärtig eine
+                    griechische Grammatik herausgeben. Ich glaube voraussetzen zu dürfen, daß Sie
+                    diesen Mann bereits kennen, oder wenigstens in der Lage sein werden, sich über
+                    ihn leicht gründliche Auskunft zu verschaffen. Ich bitte Sie demnach, mir über
+                    seinen Charakter, seine wissenschaftliche Befähigung, sein Alter, so wie über
+                    den Umstand, wie viel Zeit bereits verstrichen ist, seit er das Lehramt
+                    verlassen hat, vertrauliche Nachricht zukommen zu lassen. Er scheint zu
+                    wünschen, sofort als Lehrer an einer Universität Verwendung zu finden. Eine
+                    solche Anstellung könnte ich ihm wenigstens vorerst zwar in keinem Falle in
+                    Aussicht stellen, dagegen dürfte sich mir die Gelegenheit bieten, ihn an einem
+                    Gymnasium anzustellen, wenn mir seine Eignung hierzu in jeder Beziehung verbürgt
+                    werden kann. Eine solche Anstellung würde zwar anfänglich nur einen geringen
+                    Gehalt (800 fl.) bieten, eine Verbesserung desselben bis auf 1000 fl. jedoch
+                    bald erreichbar sein. Sollten Sie mit <rs type="person" ref="#blakert-georg">Dr.
+                        Blakert</rs> in persönlicher Berührung stehen, so ermächtige ich Sie,
+                    ihm dieses mitzutheilen, ohne sich jedoch vorläufig dabei auf mich zu berufen.
+                    Nähere Andeutungen behalte ich mir für den Fall vor, daß die erbetenen Auskünfte
+                    zu meiner vollen Zufriedenheit lauten sollten. Mit ausgezeichneter Hochachtung
+                    verharr [?] werther Herr Staatsrath,</p>
+                <p>Ihr<lb/>ganz ergebener<lb/>Graf Leo Thun</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>

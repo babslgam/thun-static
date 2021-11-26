@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/thun/editions" xml:id="miklosich-an-thun-1850-04-01-a3-xxi-d40.xml" prev="https://id.acdh.oeaw.ac.at/thun/editions/metternich-an-thun-1855-01-31-a3-xxi-d326.xml" next="https://id.acdh.oeaw.ac.at/thun/editions/mikulas-an-thun-1853-07-16-a3-xxi-d215.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <rs type="person" ref="#miklosich-franz" role="sender:gelehrter">Franz
+                        Miklosich</rs> an <rs type="person" ref="#thun-hohenstein-leo" role="recipient">Leo Thun</rs>
+                    <lb/>
+                    <rs type="place" subtype="place" ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</rs>, <date when-iso="1850-04-01"> 1. April
+                    1850</date>
+                </title>
+            <title type="label">Franz Miklosich an Leo Thun, Wien, 1. April 1850</title><title type="s">Digitale Edition der Korrespondenz von Leo von Thun-Hohenstein</title></titleStmt>
+            <publicationStmt>
+                <p>
+                    <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="handle">http://hdl.handle.net/21.11115/0000-000B-DB23-7</tei:idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <msDesc>
+                        <msIdentifier>
+                            <institution>Staatliches Gebietsarchiv Leitmeritz, Zweigstelle
+                                Tetschen-Bodenbach</institution>
+                            <repository>Familienarchiv Thun-Hohenstein, Linie Tetschen, Nachlass Leo
+                                Thun</repository>
+                            <idno>A3 XXI D40</idno>
+                        </msIdentifier>
+                        <msContents>
+                            <p>Der Slawist Franz Miklosich empfiehlt Leo Thun Heinrich Suchecki für
+                                eine sprachwissenschaftliche Lehrkanzel an einer österreichischen
+                                Universität. Auch wenn Miklosich nicht in alle wissenschaftlichen
+                                Ansichten Sucheckis teilt, so anerkennt er doch dessen umfassendes
+                                Wissen und dessen Fähigkeiten.</p>
+                        </msContents>
+                    </msDesc>
+                </p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <rs type="person" ref="#miklosich-franz">Franz Miklosich</rs>
+                    <settlement ref="#place_95b8315bd8f5c49ffd94d827cc5ece93">Wien</settlement>
+                    <date when-iso="1850-04-01"> 1. April
+                    1850</date>
+                </correspAction>
+                <correspAction type="received">
+                    <rs type="person" ref="#thun-hohenstein-leo">Leo Thun</rs>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <list>
+                <item>approved by Mazohl</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="transcript">
+                <index>
+                    <term>Personalfragen</term>
+                    <term>Personalvermittlung</term>
+                    <term>Philologie</term>
+                    <term>Slawistik</term>
+                </index>
+                <p>Euer Excellenz!</p>
+                <p>Ich habe nicht nur das angeschlossene Programm, sondern auch die im vorigen Jahre
+                    in <rs type="place" subtype="place" ref="#place_3ff694e5c82611cda53341a9bae21735">Lemberg</rs> erschienene Nauka języka polskiego von
+                        <rs type="person" ref="#suchecki-heinrich">Heinrich Suchecki</rs> gelesen und
+                    kann nicht umhin meine Freude darüber auszusprechen, daß es mir gegönnt ist,
+                    einen Mann zu empfehlen, wie sie unter den Polen leider so selten sind. Es ist
+                    bei einer so umfassenden Wissenschaft, als es die Sprachforschung ist,
+                    natürlich, daß ich nicht mit jeder in den erwähnten Schriften ausgesprochenen
+                    Ansicht einverstanden bin: allein auch dort, wo ich abweiche, muß ich die
+                    Selbstständigkeit und das umfassende Wissen des Gegners anerkennen. In diesen
+                    Worten habe ich zugleich ausgesprochen, daß nach meiner Ansicht, Suchecki jede
+                    in seinem Gesuche angeführte sprachwissenschaftliche Lehrkanzel mit Ehren
+                    einnehmen wird: der Weisheit Euer Excellenz bleibt es natürlich anheimgestellt,
+                    den Mann auf jenen Posten zu weisen, dessen Ausfüllung am dringendsten
+                    nothwendig ist. Indem ich Euer Excellenz für das mich so sehr ehrende Vertrauen
+                    danke, verharre ich mit den Gefühlen der wärmsten Verehrung</p>
+                <p>Euer Excellenz<lb/>ergebenster Diener<lb/>Fr. Miklosich</p>
+                <p>Wien, am 1. April 1850</p>
+            </div>
+        </body>
+    
+    </text>
+</TEI>
