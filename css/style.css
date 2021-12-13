@@ -12,9 +12,9 @@ div.dataTables_filter {
   text-align: right;
 }
 
-.navbar {
+/*.navbar {
     border-bottom: 5px solid #88dbdf !important;
-}
+}*/
 
 .dataTables_info {
   text-align: center;
@@ -42,7 +42,6 @@ div.dataTables_filter {
 
 .card {
     margin-top: 1em;
-    box-shadow: 4px 4px 9px 0 rgba(0, 0, 0, .1);
 }
 
 .index-card {
@@ -117,4 +116,80 @@ button#ssDoSearch {
 
 #github-logo:hover {
     transform: scale(1.05);
+}
+
+.reference {
+    cursor: pointer;
+    color: #0c0c0c;
+}
+
+span.data-hr {
+    background-color: #ffff00;
+}
+
+.card {
+    overflow: visible;
+}
+
+a {
+    color: #0063a6;
+}
+
+a:not([href]):not([tabindex]) {
+    color: #0063a6;
+    text-decoration: none;
+}
+
+.markhighlight {
+    background: orange;
+    color: black;
+}
+
+.navbar {
+    border-bottom: 5px solid #0063a6;
+    margin-bottom: 20px;
+}
+
+.btn-main {
+    border: 1px solid #0063a6;
+    background-color: #fff;
+    color: #444;
+}
+
+.main-footer .footer-wrapper .footer-sep {
+	border-bottom: 1px solid #333333;
+	padding-bottom: 15px;
+	padding-top: 5px;
+	margin-bottom: 35px;
+	font-weight: 600;
+	font-size: 14px;
+}
+
+.footer-imprint-bar {
+	text-align: center;
+	background-color: #F1F1F1;
+	padding: 8px;
+	font-size: 14px;
+}
+
+.main-footer {
+    background-color: #FFFFFF;
+    display: inline-block;
+    width: 100%;
+    z-index: 3;
+    position: relative;
+}
+
+.card {
+	border-top: 5px solid #0063a6;
+	overflow: hidden;
+}
+
+.card h3::after {
+	content: '';
+	display: block;
+	width: 50px;
+	border-top: 5px solid #0063a6;
+	margin-top: 15px;
+	margin-bottom: 15px;
 }
