@@ -19,104 +19,55 @@
                 <xsl:with-param name="html_title" select="$doc_title"></xsl:with-param>
             </xsl:call-template>
             
-            <body class="page">
+            <body role="document" class="contained" id="body">
                 <div class="hfeed site" id="page">
                     <xsl:call-template name="nav_bar"/>
-                
-                    <div class="wrapper" id="wrapper-hero">
-                        <!--<div class="wrapper" id="wrapper-hero-content" >
-                            <div class="container hero-dark" id="wrapper-hero-inner" tabindex="-1">-->
-                                <div id="audenIndexCarousel" class="carousel slide" data-ride="carousel">
-                                    <ol class="carousel-indicators">
-                                        <li data-target="#audenIndexCarousel" data-slide-to="0" class="active"></li>
-                                    </ol>
-                                    <div class="carousel-inner">
-                                        <div class="carousel-item active">
-                                            <img src="https://thun-korrespondenz.acdh.oeaw.ac.at/resources/img/acdh_projects_thunkorrespondenz_01.jpg" class="d-block w-100" alt="..."/>
-                                            <div class="carousel-caption d-none d-md-block" style="background-image: linear-gradient(rgba(38.0, 35.3, 37.6, 0.5), rgba(38.0, 35.3, 37.6, 0.5));">
-                                                <h1><xsl:value-of select="$project_short_title"/></h1>
-                                                <h2><xsl:value-of select="$project_title"/></h2>
-                                                <p>Some teaser text for the <strong><xsl:value-of select="$project_short_title"/></strong></p>
-                                                <button class="btn btn-round">
-                                                    <a href="toc.html">Read More</a>
-                                                </button>
-                                            </div>
+
+                    <div class="container" style="color:black">
+                        <h1 style="text-align:center">Die Korrespondenz von Leo von Thun-Hohenstein</h1>
+                        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" style="margin:20px">
+                        <div class="carousel-inner">
+                                <div class="carousel-item active">
+                                        <img class="d-block w-100" src="img/acdh_projects_thunkorrespondenz_01.jpg" alt="First slide" title="CC-BY 4.0, Sandra Lehecka"/>
+                                        <div class="carousel-caption d-none d-md-block" style="color:#0063a6;">
+                                                <h2>Thun-Statue, Universität Wien</h2>
                                         </div>
-                                    </div>
                                 </div>
-                            <!--</div>
-                        </div>-->                        
-                    </div>
-                    <div class="container" style="margin-top:1em;">
-                        <div class="row">
-                            <div class="col-md-8" style="margin: 0 auto; ">
-                                <p style="font-size:18px;line-heigth:27px;"><xsl:value-of select="//tei:body/tei:div/tei:p"/></p>  
-                            </div>                          
+                                <div class="carousel-item">
+                                        <img class="d-block w-100" src="img/acdh_projects_thunkorrespondenz_03.jpg" alt="Second slide" title="CC-BY 4.0, Sandra Lehecka"/>
+                                        <div class="carousel-caption d-none d-md-block">
+                                                <div class="carousel-caption d-none d-md-block" style="color:#0063a6;">
+                                                        <h2>Thun-Statue, Universität Wien</h2>
+                                                </div>
+                                        </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <h1 style="text-align:center">
+                                            <a class="btn btn-main btn-outline-primary btn-lg" href="show.html?document=about.xml&amp;directory=meta&amp;stylesheet=meta" role="button">Über die Edition</a>
+                                        </h1>
+                                    </div>
+                                        <div class="col-md-6">
+                                            <h1 style="text-align:center">
+                                                <a class="btn btn-main btn-outline-primary btn-lg" href="toc.html?bestand=gesamt" role="button">Alle Dokumente</a>
+                                            </h1>
+                                        </div>
+                                </div>
                         </div>
-                    </div>
-                    <div class="container" style="margin-top:1em;">
-                        <div class="row">
-                            <div class="col-md-6">
-                                <a href="about.html" class="index-link">                                   
-                                    <div class="card index-card">
-                                        <div class="card-body">
-                                            <img src="https://thun-korrespondenz.acdh.oeaw.ac.at/resources/img/acdh_projects_thunkorrespondenz_01.jpg" class="d-block w-100" alt="..."/>
-                                        </div>
-                                        <div class="card-header">                                            
-                                            <p>
-                                                Über die Edition.
-                                            </p>                                            
-                                        </div>
-                                    </div>                                     
-                                </a>                                    
-                            </div>
-                            <div class="col-md-6">
-                                <a href="toc.html" class="index-link">                                                     
-                                    <div class="card index-card">
-                                        <div class="card-body">
-                                            <img src="https://thun-korrespondenz.acdh.oeaw.ac.at/resources/img/acdh_projects_thunkorrespondenz_03.jpg" class="d-block w-100" alt="..."/>
-                                        </div>
-                                        <div class="card-header">                                            
-                                            <p>
-                                                Zu den Korrespondenzen.
-                                            </p>                                            
-                                        </div>
-                                    </div>                                 
-                                </a>
-                            </div>
-                        </div>
-                    </div>
+                        <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                                <span class="carousel-control-prev-icon" aria-hidden="true"/>
+                                <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                                <span class="carousel-control-next-icon" aria-hidden="true"/>
+                                <span class="sr-only">Next</span>
+                        </a>
+                </div>
+                </div>
+
                     <xsl:call-template name="html_footer"/>
                 </div>
             </body>
         </html>
-    </xsl:template>
-    <xsl:template match="tei:div//tei:head">
-        <h2 id="{generate-id()}"><xsl:apply-templates/></h2>
-    </xsl:template>
-    
-    <xsl:template match="tei:p">
-        <p id="{generate-id()}"><xsl:apply-templates/></p>
-    </xsl:template>
-    
-    <xsl:template match="tei:list">
-        <ul id="{generate-id()}"><xsl:apply-templates/></ul>
-    </xsl:template>
-    
-    <xsl:template match="tei:item">
-        <li id="{generate-id()}"><xsl:apply-templates/></li>
-    </xsl:template>
-    <xsl:template match="tei:ref">
-        <xsl:choose>
-            <xsl:when test="starts-with(data(@target), 'http')">
-                <a>
-                    <xsl:attribute name="href"><xsl:value-of select="@target"/></xsl:attribute>
-                    <xsl:value-of select="."/>
-                </a>
-            </xsl:when>
-            <xsl:otherwise>
-                <xsl:apply-templates/>
-            </xsl:otherwise>
-        </xsl:choose>
     </xsl:template>
 </xsl:stylesheet>
