@@ -20,10 +20,8 @@
                                 Info
                             </a>
                             <div class="dropdown-menu">
-                                <a class="dropdown-item" href="show.html?document=about.xml&amp;directory=meta&amp;stylesheet=meta">Über die Webseite</a>
-                                <a class="dropdown-item" href="show.html?document=how-to-use.xml&amp;directory=meta&amp;stylesheet=meta">Benützungshinweise</a>
-                                <div class="dropdown-divider"/>
-                                <a class="dropdown-item" href="../api/api.html">API</a>
+                                <a class="dropdown-item" href="meta.html">Über die Webseite</a>
+                                <a class="dropdown-item" href="how-to-use.html">Benützungshinweise</a>
                             </div>
                         </li>
                         <li class="nav-item dropdown">
@@ -31,12 +29,12 @@
                                 Bestände
                             </a>
                             <div class="dropdown-menu">
-                                <a class="dropdown-item" href="toc.html?bestand=nachlass">Nachlass Leo Thun</a>
-                                <a class="dropdown-item" href="toc.html?bestand=autographen">Autographen Leo Thun / Briefe aus anderen Archiven</a>
-                                <a class="dropdown-item" href="toc.html?bestand=gesamt">Gesamter Bestand</a>
+                               <!-- <a class="dropdown-item" href="toc.html?bestand=nachlass">Nachlass Leo Thun</a>
+                                <a class="dropdown-item" href="toc.html?bestand=autographen">Autographen Leo Thun / Briefe aus anderen Archiven</a>-->
+                                <a class="dropdown-item" href="toc.html">Gesamter Bestand</a>
                                 <div class="dropdown-divider"/>
-                                <a class="dropdown-item" href="calendar.html">Kalender Ansicht</a>
-                                <a class="dropdown-item" href="timeline.html">Timeline</a>
+                               <!-- <a class="dropdown-item" href="calendar.html">Kalender Ansicht</a>
+                                <a class="dropdown-item" href="timeline.html">Timeline</a>-->
                             </div>
                         </li>
                         <li class="nav-item dropdown">
@@ -44,18 +42,18 @@
                                 Register
                             </a>
                             <div class="dropdown-menu">
-                                <a class="dropdown-item" href="persons.html">Personen</a>
-                                <a class="dropdown-item" href="places.html">Orte</a>
-                                <a class="dropdown-item" href="orgs.html">Institutionen</a>
+                                <a class="dropdown-item" href="listperson.html">Personen</a>
+                                <a class="dropdown-item" href="listplace.html">Orte</a>
+                               <!-- <a class="dropdown-item" href="orgs.html">Institutionen</a>
                                 <a class="dropdown-item" href="terms.html">Schlagworte</a>
                                 <div class="dropdown-divider"/>
                                 <a class="dropdown-item" href="../analyze/beacon.xql">GND-BEACON</a>
-                                <a class="dropdown-item" href="../data/indices/cmfi.xml">CMIF</a>
+                                <a class="dropdown-item" href="../data/indices/cmfi.xml">CMIF</a>-->
                             </div>
                         </li>
                     </ul>
-                    <form method="get" action="ft_search.html" class="form-inline my-2 my-lg-0">
-                        <input name="searchexpr" class="form-control mr-sm-2" type="text" placeholder="Suche in allen Dokumenten" aria-label="Suchen"/>
+                    <form method="get" action="search.html" class="form-inline my-2 my-lg-0">
+                        <input name="q" class="form-control mr-sm-2" type="text" placeholder="Suche in allen Dokumenten" aria-label="Suchen"/>
                         <button class="btn btn-main btn-outline-primary btn-mg" type="submit">Suchen</button>
                     </form>
                 </div>
