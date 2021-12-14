@@ -145,10 +145,6 @@ a:not([href]):not([tabindex]) {
     color: black;
 }
 
-.navbar {
-    border-bottom: 5px solid #0063a6;
-    margin-bottom: 20px;
-}
 
 .btn-main {
     border: 1px solid #0063a6;
@@ -192,4 +188,34 @@ a:not([href]):not([tabindex]) {
 	border-top: 5px solid #0063a6;
 	margin-top: 15px;
 	margin-bottom: 15px;
+}
+
+/** adjustments to match "older" fundament version **/
+
+.navbar {
+    padding: 10px 1rem;
+    border-bottom: 5px solid #0063a6;
+    margin-bottom: 20px;
+    }
+
+.navbar ul.navbar-nav:after {
+    content: '';
+    position: absolute;
+    margin-left: -20px;
+    height: 100%;
+    border-right: 1px solid #0063a6;
+}
+
+.navbar ul.navbar-nav {
+    padding: 0 20px;
+    align-items: center;
+}
+
+.navbar .navbar-brand {
+    padding-right: 1.2rem;
+    min-height: 65px;
+}
+
+.carousel .carousel-inner .carousel-item {
+    height:inherit;
 }
